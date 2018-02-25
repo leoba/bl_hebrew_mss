@@ -1,0 +1,141 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5449" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5449</idno>
+					</msIdentifier>
+					<head>Ethics</head>
+					<msContents class="lccn.loc.gov/sh85045109" rend="visible">
+						<summary>Ethical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="66v"/>
+							<title xml:lang="he-Latn-x-lc">Mishle Sendabar</title>
+							<title xml:lang="he">משלי סנדבר</title>
+							<note>
+								<p>There is a Latin note at the end, folio 65v-66r, copied from the handwriting of Gilbertus Gaulmin, and stating that the latter had translated the work into Latin and added notes.</p>
+								<p>In the Latin account of the manuscript on the front flyleaf [1* verso], it is stated that it was copied from no. 1219 "in Bibliotheca Regis Galliae".</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>66 folios<dimensions type="leaf" unit="mm">
+										<height>155</height>
+										<width>120</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>75</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>66 folios (+ 1 unfoliated paper flyleaf at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>All leaves guarded individually before rebinding.</p>
+								</collation>
+								<condition>
+									<p>Corroding ink.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="11" writtenLines="11">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Mishle Sandebhar. Hebrew. Brit. Mus. Harl. 5449.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">France</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, '20 Februarij 1719/20', folio 1r.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">878</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

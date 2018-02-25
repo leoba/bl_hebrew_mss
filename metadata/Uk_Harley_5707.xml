@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2016-05-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5707" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5707</idno>
+					</msIdentifier>
+					<head>Avicenna&apos;s Kanon (Book III)</head>
+					<msContents rend="visible">
+						<summary>Book III of Avicenna's Canon in Hebrew translation</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n83733838">
+							<locus from="1r" to="259v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/89770781">Avicenna, 980-1037</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/89770781">אבן סינא, אלחסין בן עבדאללה</persName>
+							</author>
+							<title xml:lang="he-Latn-x-lc">Ḳanon (Sefer 3)</title>
+							<title xml:lang="he"> קאנון (ספר ג’)</title>
+							<colophon xml:lang="he">
+								<locus n="243v"/> תם ונשלם שבח לבורא עולם יי ברוך נותן ליעף כח ... סליק להו הספר סזה מהרפואות והוא הספר השלישי לאבן סיני הרופא בסייעתא דשמיא התהלה לאל תומך וסומך כל נופל וזורף חלש ורפה... </colophon>
+							<note>
+								<p>The words הספר השלישי מספר הקאנון have not been filled in at the beginning.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of approximately the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment</support>
+								<extent rend="visible">[iii]+243+[iii] <dimensions unit="mm" type="leaf">
+										<height>309</height>
+										<width>221</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>207</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>259 folios (+3 unfoliated paper flyleaves at the beginning and at the end of the manuscript). Parallel Hebrew foliation begins on fol. 2 (fol. א)</p>
+								</foliation>
+								<collation>
+									<p>25 quires: i<hi rend="sup">9+1</hi> ii-xxiii<hi rend="sup">10</hi> xxiv<hi rend="sup">8</hi>, xxv<hi rend="sup">8-3</hi>.</p>
+									<p>Catchwords at the end of the quires.</p>
+									<p>Fol. 1 originally belonged to another MS.</p>
+								</collation>
+								<condition>
+									<p>Some leaves had been damaged and were later restored; some of the leaves bear stains.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1">
+									<p>Uniform layout</p>
+									<p>Numerous marginal notes.</p>
+									<p>Maniculae (e.g. on folios 8v, 43v, 69v, 125r).</p>
+									<p>Hair and flesh side are distinguishable.</p>
+									<p>Pricking and ruling is often visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Italian semi-cursive script of the 13th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Cat paw prints on fols. 60v-61r.</p>
+							<p>Paper slip with Latin note about the content of the MS.</p>
+						></additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+								<p>Spine: 'Avicenna. Canon. Bk. III. Hebrew. Brit. Mus. Harleian MS. 5707.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1400" notAfter="1499">15th century</origDate>
+							<origPlace>France?</origPlace>
+						</origin>
+						<provenance>
+							<p>Ownership inscription on fol. 1v: <foreign xml:lang="he">אני יקותייל נאתתי עבור נידוניה</foreign></p>
+							<p>Note in Italian cursive hand on fol. 2r: לזכר טוב יהיה לי אמן איך קבלתי סה שלישי מאבן סני הר' יקותיאל חמי לחשבון הנדוניא שלי דניאל סעדון</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish</name>, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="scribe">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">1030</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2016-05-11">Zsofia Buda</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

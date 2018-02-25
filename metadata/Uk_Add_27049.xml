@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27049" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27049</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Mishpeṭe Shemuʾel, containing textual notes, explanations and diagrams on some tractates of Seder Zeraʿim, by Shemuʾel ben Avraham ha-Kohen of Fez.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="75v"/>
+							<title xml:lang="he-Latn-x-lc">Mishpeṭe Shemuʾel </title>
+							<title xml:lang="he">משפטי שמואל</title>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Shemuʾel ben Avraham ha-Kohen, of Fez </persName>
+								<persName xml:lang="he">שמואל בן אברהם הכהן</persName>
+							</author>
+							<note>
+								<p>The text begins with an introduction, folio 3r. Further, there are commentaries on the tractate Peʾah (folio 5r), Kilaʾim (folio 8r), Sheviʿit (folio 52v), and the fourth chapter of Bikurim (folio 60r).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>75 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>75 folios (+ 3 modern paper flyleaves at the beginning and 1 older and 3 modern at the end).  </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Slightly stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="19 24" writtenLines="19 24">
+									<p>Uniform layout. Ruling is visible. </p>
+									<p>Chapter numbers given in large characters. </p>
+									<p>A few marginal notes. </p>
+									<p>Folios 58v-59v are blank. </p>
+									<p>Several diagrams (e.g. 5v, 7v, 9r, 9v, 10v). </p>
+									<p>Catchwords on every page. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 17th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shabtai Elḥanan Sangineti</name>: inscribed,  folio 1r.</p>
+							<p>Folio 75r: two notes, in cursive writing, recommending the work for printing, the first signed by <name type="person">Aharon Ḳazes</name>, and the second by <name type="person">Ya῾aḳov Tsarfati</name>. </p>
+						</additions>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Mishpete Shemuel. Hebrew. Brit. Mus. Additional 27,049.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">466</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

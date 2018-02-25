@@ -1,0 +1,159 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2511" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2511</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Job, chapters 23-42.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="150v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Iyov</title>
+							<title xml:lang="he">פרוש איוב</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The pointed Hebrew text, accompanied by a verse by verse Arabic translation, is embodied.</p>
+								<p>Of the Hebrew text the following parts are preserved: 23:1-24:4, 25:3-5, 27:16-28:18, 29:1-11, 29:15-32:13, 32:20-36:22, 36:26-37:11, 37:18-38:7, 38:16-34, 38:38-39:8, 39:19-41:2, 41:5-42:7, 42:9-17.</p>
+								<p>Has a scribal subscription at the beginning.</p>
+								<p>Masoretic division into sections and קרי are marked in the margins.</p>
+								<p>The numbers of the chapters of the printed text have been added by a later hand.</p>
+							</note>
+							<incipit xml:lang="he">שרח אלנצף אלתאני מן שרח איוב ללמעלם אבו עלי אלבצרי ר'י'ת'.<locus n="1r"/>
+							</incipit>
+							<incipit xml:lang="he">בשם יוי אל עולם תפסיר אלנצף אלתאני מן שרח ספר איוב.<locus n="1v"/>
+							</incipit>
+							<filiation>The handwriting is similar to that of Or 2399, Or 2461, Or 2465 part 1, Or 2466 folios 84-120.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>150 folios<dimensions type="leaf" unit="mm">
+										<height>180</height>
+										<width>136</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>150 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires (nos. 1-2, 4-19), originally of 10 leaves each (except the 18th which has 11 leaves). </p>
+									<p>Apart from the quires 6-8, 11-12, 17, all the quires are imperfect. </p>
+									<p>The quires are signed with Hebrew letters and Arabic words on the upper margin of the first page. </p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 7, 8, 16, 22, 53, 71, 91, 99, 107, 115, 119, 133, 143. </p>
+									<p>Many folios stained or water-damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14" writtenLines="14">
+									<p>Uniform layout.</p>
+									<p>The numbers of the chapters have been added by a later hand.</p>
+									<p>Separate title page (folio 1r). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental square and semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 150v contains a geneology of the previous owner and a rhyme.</p>
+							<p>
+								<name type="person" role="owner">Avraham ben Shelomoh ben Shemu᾿el ben Eliyahu ben Aharon ben Yitsḥaḳ ben Eliyahu Firuz</name>: inscribed in a note, folio 1r . </p>
+							<p>An entry recording the name and genealogy of the same owner is also found on folio 150v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Comm. on Job. Vol. II. Arabic. Brit. Mus. Oriental 2511.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on<date calendar="Gregorian"> 08 July 1882</date>, folio <locus n="fse001v">[151v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">296</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-01-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

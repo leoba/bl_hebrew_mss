@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1068" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1068</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Pesaḳim of Isaiah of Trani, the younger, on the treatises of Sanhedrin, Makot, Shevu῾ot, and ῾Avodah zarah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="130v"/>
+							<title xml:lang="en">Pesaḳim </title>
+							<title xml:lang="he">פסקים</title>
+							<author>
+								<persName xml:lang="en">Isaiah ben Elijah, di Trani, -approximately 1280</persName>
+								<persName xml:lang="he">ישעיה בן אליהו, דטראני <addName>http://viaf.org/viaf/293743688</addName>
+								</persName>
+							</author>
+							<filiation>Cf. <ref target="Neubauer_1891" type="number">643</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="54r"/>
+							<title xml:lang="he-Latn-x-lc">Sanhedrin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="54r" to="64v"/>
+							<title xml:lang="he-Latn-x-lc">Makot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="64v" to="95v"/>
+							<title xml:lang="he-Latn-x-lc">Shevu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="95v" to="130v"/>
+							<title xml:lang="he-Latn-x-lc">῾Avodah zarah</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>130 folios <dimensions unit="mm" type="leaf">
+										<height>240</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>130 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>13 complete quires of 8 and 10 leaves, and 1 incomplete quire of 8 leaves at the end. </p>
+									<p>Catchwords, marking the end of the quires, partially cut away in the trimming.</p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling.</p>
+									<p>Hair-side and flesh-side of the folios distinguishable.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Chapter initials given in larger characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 2r: a notice of the presentation of the manuscript by <name type="person" role="owner">῾Azariah Ḥayim ben Sanguinetti</name> to <name type="person" role="owner">Yosef ῾Azulai</name>, in cursive Sefardi script.</p>
+							<p>
+								<name type="person" role="owner">Yitsḥaḳ Leṿi</name>: inscribed in an Italian cursive scipt (folio 2r).</p>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1597 (folio 130v); see <ref target="Popper_1969" type="page">61</ref> , and appendix § 62-74. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Oriental 1068.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 28: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">525</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-07-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

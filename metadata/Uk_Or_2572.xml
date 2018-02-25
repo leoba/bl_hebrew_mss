@@ -1,0 +1,334 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-23</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2572" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2572</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003314026</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031723896.0x000005</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Collection of Karaite texts</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>A collection of four Karaite texts</summary>
+						<textLang mainLang="ar"/>
+
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th to 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>
+								118 folios (+ 2 unfoliated modern paper flyleaves at the beginning and at the end). 
+								</extent>
+								<collation>
+									<p>Quires of 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Large losses to damp, mould and worms repaired/infilled before rebinding.  </p>
+									<p>A few very dark stains, and many of the repairs obscure text. </p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Various Naskhi styles of the 11th to 12th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Karaite Philosophical Tracts. Arabic. Brit. Mus. Or. 2572.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1000" notAfter="1199">11th-12th century</origDate>
+						</origin>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name>: (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed, back flyleaf [i]v.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 896.</bibl>
+						</listBibl>
+					</additional>
+					<msPart rend="visible">
+						<altIdentifier type="internal">
+							<idno>I</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85100947">
+							<textLang mainLang="ara"/>
+							<msItem rend="">
+								<locus from="1r" to="12r"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/306354664">ʿAli ibn Suleymān</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/306354664">עלי בן סולימאן</persName>
+								</author>
+								<title xml:lang="he-Latn-x-lc">Ma᾿amarim pilosofiyim </title>
+								<title xml:lang="he">מאמרים פילוסופיים</title>
+								<note>
+									<p>Two philosophical tracts composed respectively in <date calendar="Hijri-qamari">465</date> (<date calendar="Gregorian">1072-1073</date>) and <date calendar="Hijri-qamari">486</date> (<date calendar="Gregorian">1093</date>), in original Arabic. Probably an autograph.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Fragment of a paper codex, probably of the 11th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper.</support>
+									<extent>12 folios<dimensions type="leaf" unit="mm">
+											<height>130</height>
+											<width>100</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>120</height>
+											<width>90</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 1-12</p>
+									</foliation>
+									<collation>
+										<p>Leaves on guards.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="12" writtenLines="12">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>A Naskhi hand of the 11th century. Probably an autograph of ʿAli ibn Suleymān.</summary>
+								<handNote script="Arabic" scope="sole"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin>
+								<origDate notBefore="1072" notAfter="1099"/>
+							</origin>
+						</history>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>II</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85100947">
+							<textLang mainLang="ara"/>
+							<msItem rend="">
+								<locus from="12r" to="12v"/>
+								<title xml:lang="he-Latn-x-lc">Ṿikuaḥ neged ha-muslemim </title>
+								<title xml:lang="he">וכוח נגד המוסלמים</title>
+								<note>
+									<p>A short piece designed to prove from Koran that the Jews have not altered the text of the Pentateuch either before the time of Muhammad or later.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Framgent of a paper codex of the latter part of the 11th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper.</support>
+									<extent>1 folio<dimensions type="leaf" unit="mm">
+											<height>130</height>
+											<width>100</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>120</height>
+											<width>90</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folio 12</p>
+									</foliation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="12" writtenLines="12">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>A Naskhi hand of the 11th century. Probably the same as in Part I of the volume.</summary>
+								<handNote script="Arabic" scope="sole"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin notBefore="1075" notAfter="1099"/>
+						</history>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>III</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85100947">
+							<textLang mainLang="ara"/>
+							<msItem rend="">
+								<locus from="13r" to="108v"/>
+								<title xml:lang="he-Latn-x-lc">Ḳeta῾im be-filosofiyah </title>
+								<title xml:lang="he">קטעים בפילוסופיה</title>
+								<note>
+									<p>Four fragments with extracts from philosophical tracts, including quotations from Qirqisānī and Sahl ibn ʻAbd Allāh Tustarī.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Fragments of a paper codex of the 11th to 12th century. </p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper.</support>
+									<extent>96 folios <dimensions type="leaf" unit="mm">
+											<height>130</height>
+											<width>100</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>110/105</height>
+											<width>75/65</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 13-108</p>
+									</foliation>
+									<condition>
+										<p>Many leaves mutilated.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="20" writtenLines="20">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="4">
+								<summary>Naskhi hands of the 11th to 12th century.</summary>
+								<handNote script="Arabic" scope="sole"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin>
+								<origDate notBefore="1000" notAfter="1199"/>
+							</origin>
+						</history>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>IV</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85100947">
+							<textLang mainLang="ara"/>
+							<msItem rend="">
+								<locus from="109r" to="118v"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/300151237">Baṣīr, Joseph ben Abraham
+active 11th century </persName>
+									<persName xml:lang="he" key="viaf.org/viaf/300151237">יוסף אלבציר</persName>
+								</author>
+								<title xml:lang="he-Latn-x-lc">Kitab al-shakhukh </title>
+								<title xml:lang="he">כתאב אלשכוך</title>
+								<note>
+									<p>The different parts of the manuscript once belonged to a Karaite synagogue, see the entries on folio 1r, amd 20r.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Framents of a paper codex of the 11th to 12th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper.</support>
+									<extent>10 folios<dimensions type="leaf" unit="mm">
+											<height>130</height>
+											<width>100</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>120</height>
+											<width>75</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 109-118</p>
+									</foliation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="18" writtenLines="18">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>A Naskhi script and a Hebrew Oriental semi-cursive script of the 11th to 12th century.</summary>
+								<handNote script="Arabic" scope="major"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin>
+								<origDate notBefore="1000" notAfter="1199"/>
+							</origin>
+						</history>
+					</msPart>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-23">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

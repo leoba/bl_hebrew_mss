@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2579" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2579</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85071588" rend="visible">
+						<summary>Portions of Kitab al-anwar wal-maraqib by <name type="person" role="author">Yaʻqūb ibn Isḥāq Qirqisānī</name>.</summary>
+						<textLang mainLang="ara">Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85071588">
+							<locus from="1r" to="84v"/>
+							<title xml:lang="ara-Latn-x-lc">Kitab al-anwar wal-maraqib</title>
+							<title xml:lang="he">כתאב אלאנואר ואלמראקב</title>
+							<author>
+								<persName xml:lang="ara-Latn-x-lc" key="http://viaf.org/viaf/87812660">Qirqisānī, Yaʻqūb ibn Isḥāq</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/87812660"> אלקרקסאני, אבו יוסף יעקוב</persName>
+								<persName xml:lang="ara" key="http://viaf.org/viaf/87812660">قرقساني، أبو يوسف يعقوب‏</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="56v"/>
+							<title xml:lang="ara-Latn-x-lc">Maḳalah 5</title>
+							<note>
+								<p>Contains the greater part of the original text, treating on circumcision and Sabbath. </p>
+							</note>
+							<filiation>Cf the contents of Or 2526, <ref target="Margoliouth_1965" type="number">598</ref>, folios 207-233.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="57r" to="84v"/>
+							<title xml:lang="ara-Latn-x-lc">Maḳalah 4</title>
+							<filiation>Cf the contents of Or 2557, <ref target="Margoliouth_1965" type="number">250</ref> and Or 2493, <ref target="Margoliouth_1965" type="number">251</ref>.</filiation>
+							<note>
+								<p>Contains only some portions of this part of the original treatise.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th to 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>84 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>84 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each. Traces of quires signatures preserved on folios 19r, 28r, 75r, 81r.</p>
+									<p>The first leaf of the second half of a quire is marked with the Arabic cipher (e.g. 11r, 20r, 39r).</p>
+								</collation>
+								<condition>
+									<p>Much damaged.</p>
+									<p>Incomplete.</p>
+									<p>Lacunae after folios 6, 14, 33, 43, 51, 54, 56, 66, 72, 74, 75, 79, 82.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="12" writtenLines="12">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Arabic script of the 11th to 12th century.</summary>
+							<handNote script="Arabic" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Abu Yusuf Al-Kirkisani. Sefer Mitsvoth. Sect. V. VI. Arabic. Brit. Mus. Or. 2579</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1199"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed (folio [85v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">585</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2372" rend="meta" xml:lang="en">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2372</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The Latter Prophets, accentuated and punctuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים </title>
+							<locus from="1r" to="117v"/>
+							<msItem rend="v">
+								<title xml:lang="en">Isaiah</title>
+								<locus from="1r" to="25v"/>
+								<note>
+									<p>Missing chapters: 1:1-8:14.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Jeremiah</title>
+								<locus from="26r" to="62r"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="62r" to="94v"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="94v" to="98v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Joel</title>
+								<locus from="98v" to="100r"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="100r" to="104r"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104r" to="104r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104r" to="105v"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="105v" to="108r"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108r" to="108v"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108v" to="110r"/>
+								<title xml:lang="en">Habakkuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="110r" to="111r"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="111r" to="112v"/>
+								<title xml:lang="en">Haggai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112v" to="117v"/>
+								<title xml:lang="en">Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="117v" to="117v"/>
+								<title xml:lang="en">Malachi</title>
+								<note>
+									<p>Missing chpaters: 1:2-3:24.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>117 folios <dimensions unit="mm" type="leaf">
+										<height>350</height>
+										<width>228</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>167</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>117 folios (+2 unfoliated paper flyleaves at the beginning and at the end of the manuscript).  </p>
+									<p>Original Hebrew foliation added by a later hand, only partly visible. </p>
+								</foliation>
+								<collation>
+									<p>17 quires extant, of 6 to 7 leaves each.</p>
+									<p>Imperfect at the beginning and at the end.  </p>
+								</collation>
+								<condition>
+									<p>A number of pages stained; some of the mutilated leaves restored on paper.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="29" writtenLines="29">
+									<p>Visible bifolio ruling with hard point. </p>
+									<p>Zechariah opens a new column, and Jeremiah, Obadiah and Nahum commence a new leaf. </p>
+									<p>The chapters have been numbered with Hebrew letters by a later hand, but not throughout the whole  manuscript.</p>
+									<p>Masorah magna occupies two lines in the upper and three in the lower margin of each page. </p>
+									<p>The titles of the books are written at the top of the recto of each folio. </p>
+									<p>A number of masoretic notes appear at the beginning of Jeremiah, 25r-25v. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Sefardi square script of  approximately 14th century. </summary>
+							<handNote script="Hebrew" scope="major">
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, <locus n="fse003v">[120v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">136</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,145 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2394" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2394</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Maimonides' Commentary on the Mishnah of Seder neziḳin, in Judeo-Arabic, containing Shevu'ot to Horayot.</summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="252v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder neziḳin</title>
+							<title xml:lang="he">פרוש סדר נזקין</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<note>
+								<p>The readings differ at times from Or 2393, <ref target="Margoliouth_1965" type="number">456</ref>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>252 folios <dimensions unit="mm" type="leaf">
+										<height>205</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>252 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>32 quires: i-xxxi8 (folios 1-248); xxxii4 (folios 249-252).</p>
+									<p>Quires signed with Arabic words at the end and Hebrew letters at the beginning.</p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+									<p>Stained.</p>
+									<p>Damaged at the beginning and at the end.</p>
+									<p>Slightly worm-eaten at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17 18" writtenLines="17 18">
+									<p>Uniform layout. </p>
+									<p>Visible ruling with mastara.</p>
+									<p>A few marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Nezikin. Arabic. Brit. Mus. Oriental 2394.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">457</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

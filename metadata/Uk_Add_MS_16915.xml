@@ -1,0 +1,947 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+
+   <teiHeader rend="visible">
+
+
+
+
+      <fileDesc>
+
+
+
+
+         <titleStmt>
+
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+
+            <funder>BL</funder>
+
+
+
+
+            <sponsor>The Polonsky Foundation</sponsor>
+
+
+
+
+         </titleStmt>
+
+
+
+
+         <publicationStmt>
+
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+
+            <pubPlace/>
+
+
+
+
+            <date calendar="Gregorian">2013-08-28</date>
+
+
+
+
+            <idno>Uk</idno>
+
+
+
+
+         </publicationStmt>
+
+
+
+
+         <sourceDesc>
+
+
+
+
+            <biblFull>
+
+
+
+
+               <titleStmt>
+
+
+
+
+                  <title/>
+
+
+
+
+               </titleStmt>
+
+
+
+
+               <publicationStmt>
+
+
+
+
+                  <p/>
+
+
+
+
+               </publicationStmt>
+
+
+
+
+            </biblFull>
+
+
+
+
+            <msDesc xml:id="Uk_Add_16915" xml:lang="en" rend="all">
+
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+
+                  <settlement>London</settlement>
+
+
+
+
+                  <institution>British Library</institution>
+
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+
+                  <idno>Add MS 16915</idno>
+
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+
+                     <idno>032-003313796</idno>
+
+
+
+
+                  </altIdentifier>
+
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+
+                     <idno>ark:/81055/vdc_100031571382.0x000001</idno>
+                 </altIdentifier>
+               </msIdentifier>
+
+               <head>Biblical fragments accompanied with Aramaic targum</head>
+
+              <msContents class="lccn.loc.gov/n85305131" rend="visible">
+
+                  <summary>Biblical fragments accompanied with Aramaic targum.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+
+                  <msItem n="0" rend="v" class="lccn.loc.gov/n85305131">
+                     <locus from="1r" to="73v"/>
+                     <title xml:lang="la">Fragmenta Codicum Hebraicorum </title>
+                     <title xml:lang="la">Fragmenta Codicum Hebraicorum collecta et cum textu in
+                        editione E. van der Hooght et paraphrasi Chaldaica in Bibliis polyglottis
+                        Londinens. collata ab M. A. Grimm.</title>
+                     <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                    <note>
+                        <p>Collection of leaves of various sizes, with five fragments of biblical
+                           text with targum.</p>
+                     </note>
+                  </msItem>
+               </msContents>
+
+               <physDesc rend="visible">
+                  <p>Vellum and paper, 12 leaves of various sizes.</p>
+                  <objectDesc form="codex">
+
+                     <supportDesc material="perg">
+                        <extent>12 folios</extent>
+                        <condition>
+                           <p>Folios more or less mutilated, cut from different codices.</p>
+                        </condition>
+                    </supportDesc>
+
+                     <layoutDesc>
+                        <layout columns="1 3">
+                           <p>Written text variously arranged, from 1 to 3 columns.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p>BM/BL in-house binding.</p>
+                     </binding>
+                 </bindingDesc>
+
+                  <accMat>
+                     <p>4 additional paper leaves (3, 5, 8, 10), the contents of Hebrew fragments
+                        are stated, and the result of the collation of the text with the printed
+                        editions is given.</p>
+                  </accMat>
+
+               </physDesc>
+
+
+
+
+               <history rend="visible">
+                <origin>
+                     <origDate notBefore="1300" notAfter="1499">14th-15th century</origDate>
+                     <origPlace>Germany?</origPlace>
+                  </origin>
+                 <provenance/>
+              </history>
+
+               <additional rend="visible">
+                 <adminInfo>
+                    <recordHist>
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+                     </recordHist>
+                     <availability status="free">
+                        <p/>
+                     </availability>
+                    <note/>
+                  </adminInfo>
+                  <listBibl>
+
+                     <bibl> George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 63. </bibl>
+
+                  </listBibl>
+
+
+
+
+               </additional>
+
+
+
+
+               <msPart rend="visible">
+                  <altIdentifier type="former">
+                     <idno>I</idno>
+                     <note/>
+                  </altIdentifier>
+
+                  <msContents rend="visible" class="lccn.loc.gov/n85305131">
+                     <msItem rend="visible">
+                        <locus from="2r" to="2v"/>
+                        <title xml:lang="en">Numbers 17:4-20</title>
+                        <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                        <note>
+                           <p>Punctuated and accentuated Hebrew text, with the punctuated and
+                              accentuated Targum to the verses 4-19. The text is accompanied with
+                              masorah parva.</p>
+                        </note>
+                     </msItem>
+                  </msContents>
+
+                  <physDesc rend="visible">
+                     <p>A single leaf, with two columns on a page.</p>
+                     <objectDesc form="leaf">
+                        <supportDesc material="perg">
+                           <extent>1 folio<dimensions type="leaf" unit="mm">
+                                 <height>266</height>
+                                 <width>190</width>
+                              </dimensions>
+                           </extent>
+
+
+
+
+                           <condition>
+                              <p>The recto of the leaf is much soiled, the writing is partly
+                                 obliterated.</p>
+                           </condition>
+
+
+
+
+                        </supportDesc>
+
+
+
+
+                        <layoutDesc>
+
+
+
+
+                           <layout columns="2" ruledLines="30" writtenLines="30">
+                              <p>A single leaf, two columns on a page, 30 lines a column.</p>
+                           </layout>
+
+
+
+
+                        </layoutDesc>
+
+
+
+
+                     </objectDesc>
+
+
+
+
+                     <handDesc hands="1">
+
+
+
+
+                        <summary>Square Italian handwriting of about 15th century.</summary>
+
+
+
+
+                        <handNote script="Hebrew" scope="major"/>
+
+
+
+
+                     </handDesc>
+
+
+
+
+                  </physDesc>
+
+
+
+
+               </msPart>
+
+
+
+
+               <msPart rend="visible">
+
+
+
+
+                  <altIdentifier type="former">
+
+
+
+
+                     <idno>II</idno>
+
+
+
+
+                     <note/>
+
+
+
+
+                  </altIdentifier>
+
+
+
+
+                  <msContents class="lccn.loc.gov/n85305131" rend="visible">
+                     <msItem rend="visible">
+                        <locus from="4r" to="4v"/>
+                       <title xml:lang="en">Numbers 10:18-11:5</title>
+                      <note>
+                           <p>Punctuated and accentuated Hebrew text with punctuated and accentuated
+                              Targum of the chapter 10:17-11:4.</p>
+                        </note>
+                        <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                     </msItem>
+                  </msContents>
+
+                  <physDesc rend="visible">
+                     <p>A single leaf, vellum, with three coulmns per page.</p>
+                     <objectDesc form="leaf">
+                       <supportDesc material="perg">
+                           <support>Parchment. </support>
+                           <extent>1 folio<dimensions type="leaf" unit="mm">
+                                 <height>381</height>
+                                 <width>280</width>
+                              </dimensions>
+                           </extent>
+
+                           <condition>
+                              <p>The upper half of the third column is mutilated.</p>
+                           </condition>
+                        </supportDesc>
+                       <layoutDesc>
+                           <layout columns="3" ruledLines="31" writtenLines="30">
+                              <p>Three columns per page, with 30 lines of text in each column.</p>
+                           </layout>
+                       </layoutDesc>
+                     </objectDesc>
+
+                     <handDesc hands="1">
+                       <summary>Ashkenazi square character, of about 14th century.</summary>
+                        <handNote script="Hebrew" scope="major"/>
+                     </handDesc>
+                  </physDesc>
+
+
+               </msPart>
+               <msPart rend="visible">
+                  <altIdentifier type="former">
+                     <idno>III</idno>
+                     <note/>
+                  </altIdentifier>
+                  <msContents class="lccn.loc.gov/n81026486" rend="visible">
+                     <msItem rend="visible">
+                        <locus from="6r" to="6v"/>
+                        <title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+                        <note>
+                           <p>The Hafṭarot of the first and second days, and the Sabbath of the
+                              semi-festival days of Passover. Punctuated and accentuated Hebrew
+                              text.</p>
+                           <p>First day: Joshua 5:8-6:1; second day: 2Kings 23:1-9, 21-25; Sabbath
+                              (imperfect at the end): Ezekiel 37:1-6.</p>
+                        </note>
+                     </msItem>
+                  </msContents>
+
+                  <physDesc rend="visible">
+                     <objectDesc form="leaf">
+                        <supportDesc material="perg">
+                           <support>Parchment. </support>
+                          <extent>1 folio<dimensions type="leaf" unit="mm">
+                                 <height>348</height>
+                                 <width>235</width>
+                              </dimensions>
+                           </extent>
+
+                       </supportDesc>
+                        <layoutDesc>
+                         <layout columns="3" ruledLines="31" writtenLines="30">
+                              <p>A single leaf, three columns a page, 30 lines in each column.</p>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc hands="1">
+                        <summary>Ashkenazi square character, of about 14th century.</summary>
+                        <handNote script="Hebrew" scope="major"/>
+                     </handDesc>
+                  </physDesc>
+
+
+
+
+               </msPart>
+
+
+
+
+               <msPart rend="visible">
+
+
+
+
+                  <altIdentifier type="former">
+
+
+
+
+                     <idno>IV</idno>
+
+
+
+
+                     <note/>
+
+
+
+
+                  </altIdentifier>
+
+
+
+
+                  <msContents class="lccn.loc.gov/n85305131" rend="visible">
+
+
+
+
+                     <msItem rend="visible">
+
+
+
+
+                        <locus from="7" to="9"/>
+
+
+
+
+                        <title xml:lang="en">Leviticus 23:3-8, 12-14, 15-18, 21-24.</title>
+
+
+
+
+                        <note>
+                           <p>Punctuated and accentuated Hebrew text, with masorah magna and
+                              parva.</p>
+                        </note>
+
+
+
+
+                        <textLang mainLang="he"/>
+
+
+
+
+                     </msItem>
+
+
+
+
+                  </msContents>
+
+
+
+
+                  <physDesc rend="visible">
+
+
+
+
+                     <p>Two long vellum strips, the first and the third columns of a leaf of three
+                        columns.</p>
+
+
+
+
+                     <objectDesc form="leaf">
+
+
+
+
+                        <supportDesc material="perg">
+
+
+
+
+                           <support>Parchment. </support>
+
+
+
+
+                           <extent>2 folios</extent>
+
+
+
+
+                           <condition>
+                              <p>Top of the folio 7 is cut off as well as the lower margin of folio
+                                 9.</p>
+                           </condition>
+
+
+
+
+                        </supportDesc>
+
+
+
+
+                        <layoutDesc>
+
+
+
+
+                           <layout columns="3" ruledLines="22" writtenLines="22">
+                              <p>Two long vellum strips, the first and the third columns of a leaf
+                                 of three columns. </p>
+                           </layout>
+
+
+
+
+                        </layoutDesc>
+
+
+
+
+                     </objectDesc>
+
+
+
+
+                     <handDesc hands="1">
+
+
+
+
+                        <summary>Ashkenazi sqaure character, of about 14th century.</summary>
+
+
+
+
+                        <handNote script="Hebrew" scope="major"/>
+
+
+
+
+                     </handDesc>
+
+
+
+
+                  </physDesc>
+
+
+
+
+               </msPart>
+
+
+
+
+               <msPart rend="visible">
+
+
+
+
+                  <altIdentifier type="former">
+
+
+
+
+                     <idno>V</idno>
+
+
+
+
+                     <note/>
+
+
+
+
+                  </altIdentifier>
+
+
+
+
+                  <msContents class="lccn.loc.gov/n79090052" rend="visible">
+
+
+
+
+                     <msItem rend="visible">
+
+
+
+
+                        <locus from="11" to="12"/>
+
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Sidur</title>
+
+
+
+
+                        <note>
+                           <p>Two detached leaves of a prayer book. </p>
+                           <p>Folio 12 contains Deuteronomy 16:6-17, Numbers 28:19-25.</p>
+                        </note>
+
+
+
+
+                        <textLang mainLang="he"/>
+
+
+
+
+                     </msItem>
+
+
+
+
+                  </msContents>
+
+
+
+
+                  <physDesc rend="visible">
+
+
+
+
+                     <p>Two vellum leaves.</p>
+
+
+
+
+                     <objectDesc form="leaf">
+
+
+
+
+                        <supportDesc material="perg">
+
+
+
+
+                           <support>Parchment. </support>
+
+
+
+
+                           <extent>2 folios<dimensions type="leaf" unit="mm">
+
+
+
+
+                                 <height>228</height>
+
+
+
+
+                                 <width>184</width>
+
+
+
+
+                              </dimensions>
+                           </extent>
+
+
+
+
+                           <condition>
+                              <p>Ink partly faded. </p>
+                           </condition>
+
+
+
+
+                        </supportDesc>
+
+
+
+
+                        <layoutDesc>
+
+
+
+
+                           <layout columns="1" ruledLines="18" writtenLines="18">
+                              <p>Two vellum leaves, with 18 written lines in a page. </p>
+                           </layout>
+
+
+
+
+                        </layoutDesc>
+
+
+
+
+                     </objectDesc>
+
+
+
+
+                     <handDesc hands="1">
+
+
+
+
+                        <summary>Ashkenazi sqaure and semi-cursive character, of probably 14th
+                           century.</summary>
+
+
+
+
+                        <handNote script="Hebrew" scope="major"/>
+
+
+
+
+                     </handDesc>
+
+
+
+
+                  </physDesc>
+
+
+
+
+               </msPart>
+
+
+
+
+            </msDesc>
+
+
+
+
+            <bibl/>
+
+
+
+
+            <listBibl>
+
+
+
+
+               <bibl/>
+
+
+
+
+            </listBibl>
+
+
+
+
+         </sourceDesc>
+
+
+
+
+      </fileDesc>
+
+
+
+
+      <encodingDesc>
+
+
+
+
+         <classDecl>
+
+
+
+
+            <taxonomy/>
+
+
+
+
+         </classDecl>
+
+
+
+
+      </encodingDesc>
+
+
+
+
+      <profileDesc/>
+
+
+
+
+      <revisionDesc status="submitted">
+
+
+
+
+         <change when="2013-08-28">Agata Paluch</change>
+
+
+
+
+      </revisionDesc>
+
+
+
+
+   </teiHeader>
+
+
+
+
+   <text>
+
+
+
+
+      <body>
+
+
+
+
+         <div/>
+
+
+
+
+      </body>
+
+
+
+
+   </text>
+
+
+
+
+</TEI>

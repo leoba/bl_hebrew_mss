@@ -1,0 +1,144 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2574" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2574</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85071588" rend="visible">
+						<summary>Two fragments of Karaite legal commentaries.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85071588">
+							<locus from="1r" to="36v"/>
+							<title xml:lang="en">A commentary on the laws of uncleanness</title>
+							<note>
+								<p>A fragment of a work treating on the differences and points of agreement between Abu ῾Ali and Abu al-Sari on the laws of uncleanness (Leviticus 12-15).</p>
+								<p>The work is written in Arabic, the Hebrew quotations also being given in the Arabic characters.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="37r" to="43v"/>
+							<title xml:lang="en">A commentary on Genesis</title>
+							<note>
+								<p>A small fragment of a commentary on Genesis in Arabic, the Hebrew verses being also given in Arabic characters.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th to 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>43 folios <dimensions unit="mm" type="leaf">
+										<height>170</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>43 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Much damaged.</p>
+									<p>Incomplete.</p>
+									<p>All extant leaves inlaid between sheets of tissue paper, fixed on guards.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="13 18" writtenLines="13 18">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Arabic script of the 11th to 12th century.</summary>
+							<handNote script="Arabic" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Comments on Mitsvoth. Etc. Arabic. Brit. Mus. Or. 2574.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1199"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed (folio [45v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">590</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

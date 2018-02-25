@@ -1,0 +1,200 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5702" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5702</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Books IV-VI of Maimonides' Mishneh Torah, with glosses in the style of the Tosafists, followed by Meir of Rothenburg's responses on the subject of the same books. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="200v"/>
+							<title xml:lang="en">Mishneh Torah </title>
+							<title xml:lang="he">משנה תורה</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<author key="http://viaf.org/viaf/89860273">
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293 </persName>
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+							</author>
+							<note>
+								<p>The enumeration of the mitsṿot is given at the beginning of each book. At the end of book VI (folio 177r) a list of all the halakhot is added. </p>
+								<p>Most of the halakhic decisions appended at the end of the volume are signed by Meir ben Barukh [of Rothenburg]. The names of Isaac ben Samuel, Isaac ben Moses, Isaac ben Avraham, Samuel ben Avraham, Samson ben Avraham stand respectively at the end of some of the responses. </p>
+								<p>This manuscript, as well as Add. 11438, was probably copied (by persons of learning) from codices prepared by pupils of Meir of Rothenburg. It is possible that this manuscript was the codex from which Add. 11438 was copied. </p>
+							</note>
+							<filiation>Cf. Add MS 11438, <ref target="Margoliouth_1965" type="number">495</ref>.</filiation>
+							<msItem rend="v">
+								<locus from="2v" to="12r"/>
+								<title xml:lang="en">Table of contents </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="12v" to="78r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer nashim </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="78r" to="142v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ḳedushah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="142v" to="177r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer hafla᾿ah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="177r" to="190v"/>
+								<title xml:lang="he-Latn-x-lc">Teshuvot le-sefer nashim</title>
+								<author key="http://viaf.org/viaf/89860273">
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293</persName>
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="190v" to="194v"/>
+								<title xml:lang="he-Latn-x-lc">Teshuvot le-sefer ḳedushah</title>
+								<author key="http://viaf.org/viaf/89860273">
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293</persName>
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="194v" to="200v"/>
+								<title xml:lang="he-Latn-x-lc">Teshuvot le-sefer hafla᾿ah</title>
+								<author key="http://viaf.org/viaf/89860273">
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293</persName>
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+								</author>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>200 folios <dimensions unit="mm" type="leaf">
+										<height>325</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>200 folios (+ 3 modern paper flyleaves at the beginning and at the end). Folio 1 is a moden paper flyleaf, folio 199 and 200 are paper slips belonging to the 17th or 18th century. </p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each (the last quires is missing one leaf). </p>
+									<p>There are catchwords at the end of the quires. </p>
+								</collation>
+								<condition>
+									<p>Stained. </p>
+									<p>Margins slightly damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="41 59" writtenLines="41 59">
+									<p>In folio 2v-12r, 179r-199v each page is divided into 2 columns, with 50-59 lines in a full column. The pages contained in folios 12v-178v, which are undivided, have 41 or 42 lines each. </p>
+									<p>Pricking and plummet ruling (each bifolio on both sides) is visible. Hair-side and flesh-side of folios indistinguishable. </p>
+									<p>Chapter numbers given in larger characters. The main text is given in larger characters and the comments are in smaller characters. </p>
+									<p>Occasional marginal notes and additions. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 14th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Short notes in a 14th or 15th century Ashkenazi hand: folio 198v (only upper part of leaf is preserved, otherwise blank). </p>
+							<p>A small octavo paper leaf with notes:  folio199. </p>
+							<p>Folio 200: a small leaf containing some Ashkenazi notes on one side, which mention a certain rabi Bendit and his father Gershon. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Harley coat of arms on the upper and lower covers. </p>
+								<p>Spine title: 'Maimonides. Mishneh Thorah. Books IV &amp; VI. Hebrew. Brit. Mus. Harl. Or. 5702.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley </name>(b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">494</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

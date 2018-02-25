@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27114" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27114</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Sefer Ginat egoz.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="189v"/>
+							<title xml:lang="he-Latn-x-lc">Ginat egoz</title>
+							<title xml:lang="he">גנת אגוז</title>
+							<listBibl>
+								<bibl>
+									<ref target="Ginat_Egoz_1989"/>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/122229986">Gikatilla, Joseph ben Abraham, 1248-</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/122229986">ג'יקטיליה, יוסף בן אברהם</persName>
+							</author>
+							<note>
+								<p>The text was copied from a very defective manuscript. A number of readings have been subsequently corrected. There are also additions in the margin. See also <ref target="Mehkere_Yerushalayim" type="number">1</ref>, p. 164.</p>
+							</note>
+							<colophon xml:lang="he">השלמתי העתקת הספר הזה בחמישי בשבת ט' ימים לחדש טבת שנת קומה ה' למנוחתיך אתה "וארון" עוזיך לפרט האלף הששי אני הצעיר הקטן הצעיר במשפחתי <name type="person" role="scribe">שלמה בכר יעקב אלמליח</name> הש' ית' בה' יקרב משיח צדקינו במהרה בימינו וישיב אותנו בקרוב לארצנו כתו' בפרשת אעלך גם עלה תם.<locus n="189v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the early 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>189 folios<dimensions type="leaf" unit="mm">
+										<height>215</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>165</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>189 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>All the leaves more or less injured.</p>
+									<p>Substantially water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="22 26" writtenLines="22 26">
+									<p>Uniform layout.</p>
+									<p>Initial words in larger characters.</p>
+									<p>Many additions and comments in the margin.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Unfinished decorative signature, folio 175r.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Oriental semi-cursive scripts (different hands) of the early 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Domenico Irosolomitano</name> (fl. 1575-1624): inscribed with his name, folio 189v, partly damaged; see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Josef Gikatilla. Ginnath Egoz. Hebrew. Brit. Mus. Additional 27,114.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5263" calendar="Hebrew" when="1503"/>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">741</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,243 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2521" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2521</idno>
+					</msIdentifier>
+					<head>Psalms</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The Psalms of the weekly portions of Numbers and Deuteronomy according to the Karaite ritual, with Japheth ben Ali's translation and commentary. </summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="166v"/>
+							<title xml:lang="en">Perush Tehilim </title>
+							<title xml:lang="he">פרוש תהלים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<filiation>The list of Psalms in this manuscript agrees with the list in Or. 2531, <ref target="Margoliouth_1965" type="number">725</ref>, folios <locus from="9v" to="13r"/>.</filiation>
+							<colophon xml:lang="he">נשלם ספר שרח מזאמיר פרשיות של ספר במדבר בעזרת מי שבישראל בחר בשבוע לפני יוי תטהרו: והוא <date when="1532" calendar="Seleucid">יום חמישי בשבוע והוא ששה ועשרים פי אלעומר שנת אלף ושמונה מאות וארבעים ושלשה שנים לשטרות</date> בעיר <name type="place">דמשק </name>ש' נ' א' ופ' מוש' ושלום: וכתב אתו הע' הצ' [...] <name type="person" role="scribe">שלמה בן [...] דוד החזן</name> [...] בן [...] הזקן הנכבד אברהם אשר היה משרת ביר' עיר הק' ונטמן בה [...] הנודע באבן אלכאזרוני נ"ע אמן אמן:<locus n="88r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="10r"/>
+								<title xml:lang="en">Psalm 80</title>
+								<note>
+									<p>Missing verse 1.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="10v" to="14v"/>
+								<title xml:lang="en">Psalm 67</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="14v" to="24v"/>
+								<title xml:lang="en">Psalm 27</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="24v" to="29v"/>
+								<title xml:lang="en">Psalm 95</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="29v" to="41v"/>
+								<title xml:lang="en">Psalm 55</title>
+								<note>
+									<p>Wanting verses 20-21.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="41v" to="51v"/>
+								<title xml:lang="en">Psalm 51</title>
+								<note>
+									<p>Wanting verses 11-12, 15-18.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="51v" to="61r"/>
+								<title xml:lang="en">Psalm 83</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61r" to="63v"/>
+								<title xml:lang="en">Psalm 119</title>
+								<note>
+									<p>Wanting verses 123-125.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63v" to="75r"/>
+								<title xml:lang="en">Psalm 75</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="75r" to="89v"/>
+								<title xml:lang="en">Psalm 77</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 19</title>
+								<locus from="89v" to="101v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 17</title>
+								<locus from="101v" to="110r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 119</title>
+								<locus from="110r" to="113v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 24</title>
+								<locus from="113v" to="121v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 58</title>
+								<locus from="121v" to="130v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="130v" to="139v"/>
+								<title xml:lang="en">Psalm 144</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="139v" to="143r"/>
+								<title xml:lang="en">Psalm 67</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 40</title>
+								<locus from="143r" to="152v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Psalm 27</title>
+								<locus from="152v" to="162v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="162v" to="166v"/>
+								<title xml:lang="en">Psalm 47</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; large semi-cursive script of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>166 folios<dimensions type="leaf" unit="mm">
+										<height>186</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>166 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires of mostly 10 leaves each, unsigned. </p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 37, 48, 49, 54, 61. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16" writtenLines="16">
+									<p>The Hebrew text is provided with no punctuation. </p>
+									<p>Catchword on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Large semi-cursive script of 16th century. <name type="person" role="scribe">Shelomoh ben ... Daṿid Ḥazan</name>: inscribed in the colophon, folio 88r. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="166r" to="166v"/>- supplied by a later hand.  </p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham Firuz</name>: inscribed in a note, folio 166v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Commentary on Psalms. Arabic. Brit. Mus. Oriental 2521.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1843" calendar="Seleucid" when="1532"/>
+						<provenance>
+							<p>
+								<name type="place">Syria </name>(<name type="place">Damascus</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[167v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">291</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

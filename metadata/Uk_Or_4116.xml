@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4116" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4116</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer Meḳor ḥayim, on the laws of sheḥitah and ṭerefah, compiled by <name type="person" role="compiler">Yaḥya ben Jacob Saliḥ</name>.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="44v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Meḳor ḥayim</title>
+							<title xml:lang="he">ספר מקור חיים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/60427117">Saliḥ, Yaḥya ben Jacob</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/60427117"> צאלח, יחיא בן יעקב</persName>
+							</author>
+							<note>
+								<p>The date is given at the end of some verses on folio 1v as <date calendar="Hebrew">[5]605</date> (<date calendar="Gregorian">1845</date>).</p>
+							</note>
+							<filiation>Cf. a copy of the same work in the Bodleian Library, <ref target="Neubauer_1994" type="number">2370</ref>.</filiation>
+							<decoNote type="border">
+								<locus n="1r"/>Full border in black and red.</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>44 folios <dimensions unit="mm" type="leaf">
+										<height>168</height>
+										<width>115</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>44 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="28" writtenLines="28">
+									<p>Uniform layout. </p>
+									<p>Initial words in each section is given in larger characters and ornamented in red ink.</p>
+									<p>Running titles, ornamented in red ink.</p>
+									<p>Horizontal catchwords on every page.</p>
+									<p>Some marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 19th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 44r: a certificate of proficiency in ritual slaughter granted to Salam ibn Yaḥya, dated 2174 (1863).</p>
+							<p>
+								<name type="person" role="owner">Ḥayim ibn Yosef Ḳoraḥ</name>: inscribed, folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Yahya Salih. Mekor Chayyim. Hebrew. Brit. Mus. Or. 4116.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]605" calendar="Hebrew" when="1845"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1890-05-10</date>
+							<p>
+								<name type="person" role="owner">B. Steinhart </name>: purchased from him by the British Museum on 10 May 1890: inscribed (folio [45v]). </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">563</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

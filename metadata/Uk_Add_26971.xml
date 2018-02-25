@@ -1,0 +1,137 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26971" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26971</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="181v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>181 folios <dimensions unit="mm" type="leaf">
+										<height>100</height>
+										<width>70</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>75</height>
+										<width>50</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>181 folios (+ 3 unfoliated modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 18 to 20 leaves each, marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>First 30 folios are much damaged, with partly illegible text.</p>
+									<p>Defective at the beginning, and some leaves are also missing after folio 48.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14" writtenLines="14">
+									<p>Uniform layout.</p>
+									<p>Visible pen ruling.</p>
+									<p>Initial words written in larger characters, often enclosed in a pen and ink designs</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (?) square script of the 15th century. Partially punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather.</p>
+								<p>Spine: 'Siddur, Roman Use. Hebrew. Brit. Mus. Additional 26,971.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<p>Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 82: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [183v].</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">620</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

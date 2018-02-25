@@ -1,0 +1,611 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-08-10</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_2595" xml:lang="en" rend="physdesc">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 2595</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314036</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031723925.0x000005</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Kitāb al-lumaʻ by Abū al-Walīd Marwān ibn Janāḥ</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh2008105558" rend="visible">
+                  
+                  
+                  
+                  <summary>A grammatical treatise. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="jrb-Hebr"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="98v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Kitāb al-lumaʻ</title>
+                     
+                     
+                     
+                     <title xml:lang="he">כתאב אללמע</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Chapters 5 to 30, in Judeo-Arabic. </p>
+                        
+                        
+                        
+                        <p>Cf. the printed edition of 'Le Livre des Parterres Fleuris', Paris 1886. </p>
+                        
+                        
+                        
+                        <p>Chapters 5, 28, and 30 are defective. </p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/305114808">Ibn Janāḥ, Abū al-Walīd Marwān</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/305114808">אבן ג'נאח, יונה</persName>
+                     
+                     
+                     
+                     </author>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 14th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper. </support>
+                        
+                        
+                        
+                        <extent>98 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>260</height>
+                              
+                              
+                              
+                              <width>170</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>225</height>
+                              
+                              
+                              
+                              <width>135</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>98 folios (+ 3 unfoliated paper flyleaves at the beginning and 2 at the end).
+</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 10 leaves each, numbered with Hebrew letters at the end.  </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Defective at the beginning and at the end. </p>
+                           
+                           
+                           
+                           <p>Minor tidemark at some edges.</p>
+                           
+                           
+                           
+                           <p>Ink degraded, causing splits/losses in paper.</p>
+                           
+                           
+                           
+                           <p>Slight worming at ends. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="28 38" writtenLines="28 38">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Sections numbered with larger Hebrew letters. </p>
+                           
+                           
+                           
+                           <p>Partly vocalised, by a later hand. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Oriental semi-cursive and square script of the 14th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Ibn Ganah. Sefer Ha-Rikmah. Arabic. Hebrew. Brit. Mus. Oriental 2595.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1300" notAfter="1399">14th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Unknown</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1882-07-08</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum on 08 July 1882: inscribed, folio [99v] (fse004v). </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 952.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-08-10">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

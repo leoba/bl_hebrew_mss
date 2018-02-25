@@ -1,0 +1,181 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2365" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2365</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with punctuation, accompanied by masorah magna and masorah parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="203v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<msItem rend="v">
+								<locus from="1r" to="51v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="51v" to="93r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="93r" to="123v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="123v" to="165v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="165v" to="203v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<note>
+								<p>See <ref target="Narkiss_1989" type="page">74-75</ref>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">203 folios<dimensions unit="mm" type="leaf">
+										<height>345</height>
+										<width>250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>190</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>203 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>21 quires: i8-1, ii-xx10, xxi-6. </p>
+									<p>Catchwords and quire numbering.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="19" writtenLines="19">
+									<p>Uniform layout. </p>
+									<p>Ruled with mastara. </p>
+									<p>All books except Leviticus begin a new column.</p>
+									<p>The beginning of a section marked in the margin by an ornamental pen and ink design, with פ in the centre.</p>
+									<p>Each pericope divided into 7 sections numbered with Hebrew letters in the margin.</p>
+									<p>The masorah magna in 1-3 lines in the upper and 2-7 lines in the lower margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script of 14th century, with punctuation.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Numerous decorated parashah signs, in ink. Masorah magna in micrographical design. Decorated panel for masoretic notes, unfinished, in ink.</summary>
+							<decoNote type="marginal">Numerous decorated parashah signs, in ink. <locus n="104r, 114v, 118v"/>
+							</decoNote>
+							<decoNote type="paratext">Masorah magna in micrographical design. <locus n="55v, 113v, 121v, 127v"/>
+							</decoNote>
+							<decoNote type="border">Decorated panel for masoretic notes, unfinished, in ink.<locus n="123r"/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shelomoh</name>: inscribed with his name in a partially illegible Hebrew inscription, undated (1r).</p>
+							<p>
+								<name type="person" role="owner">... ben Yosef</name>: inscribed with his name in a partially erased Hebrew inscription, undated (1r).</p>
+							<p>A Judeo-Arabic note (202v). </p>
+							<p>2 erased inscriptions in Hebrew characters (202v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Pentateuch. Hebrew. Brit. Mus. Oriental 2365.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">23 July 1881</date>: inscribed on folio ([204v]).</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">78</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

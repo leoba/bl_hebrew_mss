@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_15423" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15423</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech, with vowel-points and accents. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="143v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<decoNote type="initial">Decorated initial-word panels in colours and gold accompanied by partial foliate borders at the beginnings of the books.<locus n="1r, 35v, 65v, 87r, 117r"/>
+							</decoNote>
+							<decoNote type="initial">Decorated initial-word panels with pen-flourishing inhabited by animals, masks, human figures, floral motifs in violet and red ink, at the beginning of the parashiyot.<locus n="4r, 7r, 10r, 13v, 15v, 18r, 21r, 24v, 27r, 30v, 38v, 41v, 44v, 47v, 49v, 52r, 54r, 57r, 60r, 63r, 68v, 70v, 73r, 74v, 77r, 79r, 80v, 83v, 84v, 90v, 94v, 97v, 100v, 103r, 105r, 107v, 111v, 114r, 119v, 123r, 126v, 129v, 132v, 135v, 138v, 139v, 140v, 142v"/>
+							</decoNote>
+							<decoNote type="border">Coat of arms included into the border erased and overpainted decorated with foliate scroll.<locus n="1r"/>
+							</decoNote>
+							<note>
+								<p>No masoretic rubrics are found in the manuscript, except for several instances of centre-marks and קרי. </p>
+								<p>See <ref target="BL_2007" type="page">114</ref>, <ref target="Pasternak_2009" type="page">255</ref>, <ref target="Tahan_2007" type="page">34-35</ref>. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="35r"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="35r" to="65v"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Leviticus</title>
+							<locus from="65v" to="87r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Numbers</title>
+							<locus from="87r" to="117r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Deuteronomy</title>
+							<locus from="117r" to="143v"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>143 folios<dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>143 folios (+ 2 unfoliated parchment flyleaves at the beginning and 2 unfoliated parchment flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>15 quires: i10 (folios 1-10), ii10 (folios 11-20), iii10 (folios 21-30), iv10 (folios 31-40), v10 (folios 41-50), vi10 (folios 51-60), vii10 (folios 61-70), viii10 (folios 71-80), ix10 (folios 81-90), x10 (folios 91-100), xi10 (folios 101-110), xii10 (folios 111-120), xiii10 (folios 121-130), xiv10 (folios 131-140), xv4-1 (folios 141-143). </p>
+									<p>Catchwords in the middle of lower margin.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Uniform layout. </p>
+									<p>Visible complete ruling. </p>
+									<p>Last line written outside ruling. </p>
+									<p>Graphic fillers at the end of the lines. </p>
+									<p>Flesh side and hair side distinguishable. Quires start with flesh side.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script, punctuated, of the 15th century. <name type="person" role="scribe">Yitsḥaḳ ben ῾Ovadyah ben Daṿid</name>of Forli (Gaio di Servadio), active in Florence 1441- approximately 1470.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">The Reverand Theodore Williams of Hendon</name>, (1824): his motto &apos;Deus alit me&apos; above his armorial shield of a fess, 3 crescents, 3 birds, and a bird on top of the shield (upper cover), and the monogram &apos;T.W.&apos; and the motto (lower cover). </p>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick</name> (b. 1773, d. 1843), duke of Sussex: his bookplate ([i recto]); his sale, January 18, 1844, lot 365; purchased by Thorpe. </p>
+							<p>
+								<name type="person" role="bookseller">Thomas Thorpe</name>: purchased by him for £25 4s: annotated sale catalogue in the History and Classics Department. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	Post-1600. Black leather, tooled, with the arms and motto of Theodore Williams on the upper and lower covers. </p>
+								<p>Spine: &apos;Pentateuch. Hebraice. Mus. Brit. Jure Emptionis. 15,423. Plut.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1441" notAfter="1467">On the dating, see <ref target="Pasternak_2009" type="page">255</ref>
+						</origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>, Central (<name type="place">Florence</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1845-01-18</date>
+							<p>Purchased by the British Museum through <name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): inscribed 'purchased of Thos. Rodd, 18 January 1845': [i recto]; one of six Hebrew manuscripts acquired from the Duke of Sussex.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">86</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">114</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

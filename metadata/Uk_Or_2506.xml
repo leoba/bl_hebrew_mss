@@ -1,0 +1,197 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2506" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2506</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Proverbs.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="129r"/>
+							<title xml:lang="he-Latn-x-lc">Perush Mishle</title>
+							<title xml:lang="he">פרוש משלי</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he-Latn-x-lc">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The pointed Hebrew text, accompanied by an Arabic translation, is embodied.</p>
+								<p>Contains: 4:24-6:1, 6:6-9, 6:12-21, 6:23-35, 8:6-36, 9:7-10:10, 10:12-12:24, 13:8-14:11, 14:30-18:1, 18:19-19:9.</p>
+								<p>Of the Hebrew text the following parts are preserved: 5:1-6:5, 6:17-35, 8:19-29, 8:32-9:3, 9:10-10:10, 10:13-12:24, 13:9-14:11, 14:31-18:1, 18:20-19:9.</p>
+								<p>Has a scribal subscription at the end.</p>
+								<p>Masoretic division into section and קרי are marked in the margins.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Wechsler_2003" type="page">283-310</ref>
+								</bibl>
+							</listBibl>
+							<filiation>Uniform with Or 2507, <ref target="Margoliouth_1965" type="number">293</ref>.</filiation>
+							<msItem rend="v">
+								<locus from="1v" to="3v"/>
+								<title xml:lang="en">Section 1</title>
+								<note>
+									<p>Chapter 5:1</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="3v" to="8r"/>
+								<title xml:lang="en">Section 2</title>
+								<note>
+									<p>Chapter 5:7</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="8r" to="25v"/>
+								<title xml:lang="en">Section 3</title>
+								<note>
+									<p>Chapter 6:1</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="25v" to="27r"/>
+								<title xml:lang="en">Section 4</title>
+								<note>
+									<p>Chapter 9:1</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="27r" to="29v"/>
+								<title xml:lang="en">Section 5</title>
+								<note>
+									<p>Chapter 9:10</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="29v" to="33v"/>
+								<title xml:lang="en">Section 6</title>
+								<note>
+									<p>Chapter 10:1</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; square and semi-cursive script of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>129 folios<dimensions type="leaf" unit="mm">
+										<height>174</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>129 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>17 quires (nos. 5-21), originally of 10 leaves each.</p>
+									<p>Quires signed with Hebrew letters and Arabic numerals on the upper margin of the first page.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 8, 9, 12, 16, 17, 25, 33 65, 78, 119.</p>
+									<p>Many folios stained or water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14" writtenLines="14">
+									<p>The numbers of the chapters have been added by a later hand.</p>
+									<p>Catchword on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square and semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="129r" to="129v"/>supplied by a later hand. Also the numbers of the chapters have been added by a later hand.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Commentary on Proverbs. Arabic. Vol. I. Brit. Mus. Oriental 2506.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[130v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">293</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

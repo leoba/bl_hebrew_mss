@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2591" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2591</idno>
+					</msIdentifier>
+					<head>Halakhic notes</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Abraham Del Vecchio's notes (Tiḳune ha-Ri"f) on Berakhot and Halakhot ḳeṭanot, with an index to Agadot ha-Talmud.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="14v"/>
+							<title xml:lang="he-Latn-x-lc">Tiḳune ha-Ri&quot;f </title>
+							<title xml:lang="he">תקוני הרי&quot;ף</title>
+							<note>
+								<p>The notes cover on Berakhot and Halakhot ḳeṭanot.</p>
+								<p>Berakhot breaks off on folio 13v in the earlier portions of chapter 6.</p>
+								<p>Folio 1v gives the title as: 'Sefer ha-zikhronot'.</p>
+								<p>The work quotes several authorities, including Isaac Alfasi, Rashi, Asher ben Yehiel and Solomon ben Adret.</p>
+							</note>
+							<author key="http://viaf.org/viaf/36626487">
+								<persName xml:lang="en">Del Vecchio, Samuel </persName>
+								<persName xml:lang="he">דלוקיו, שמואל</persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="15r" to="271v"/>
+							<title xml:lang="en">Mafteaḥ agadot ha-Talmud  </title>
+							<title xml:lang="he">מפתח אגדות התלמוד</title>
+							<note>
+								<p>The agadot are arranged in the alphabetical order, according to the inital word. The order followed under each letter is that of the tractates of the Talmud. Agadot of the Yerushalmi are given after the Bavli.</p>
+								<p>The quotations from the opening of the various pieces sometimes extend over several sentences. </p>
+								<p>Defective at the beginning. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Italian cursive script of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>271 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>271 folios (+ 1 modern paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Collation not established due to modern restoration (leaves stuck on paper). </p>
+								</collation>
+								<condition>
+									<p>Slightly water-damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15 35" writtenLines="15 35">
+									<p>Uniform layout. </p>
+									<p>Chapter titles written in larger characters. </p>
+									<p>Catchwords on every verso. </p>
+									<p>The number of lines per page varies considerably. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Aggadhoth Hat-Talmud (index). Hebrew. Brit. Mus. Oriental 2591.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882: inscribed, folio <locus n="fse001v">[272v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">407</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

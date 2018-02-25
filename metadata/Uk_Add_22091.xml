@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_22091" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 22091</idno>
+					</msIdentifier>
+					<head>Commentary on Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420 lccn.loc.gov/n87871045" rend="visible">
+						<summary>The commentary of Yosef Ibn Kaspi on Abraham Ibn Ezra on the Pentateuch.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n79066420 	lccn.loc.gov/n82271898">
+							<locus from="1r" to="85v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/89151898">Caspi, Joseph, approximately 1280-approximately 1340</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/89151898">כספי, יוסף בן אבא מארי, 1280-1340</persName>
+							</author>
+							<colophon xml:lang="he">
+								<locus n="85v"/> תם ונשלם פירוש אבן כספי על ביאור התורה של ר׳ אברהם בן עזרא בעזרת איום ונורא.</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">85 folios <dimensions unit="mm" type="leaf">
+										<height>213</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>152</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>85 folios (+ 5 unfoliated paper flyleaf at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+									<p>Catchword on every verso.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30" writtenLines="30">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layout. </p>
+									<p>Hair side and flesh side distinguishable. </p>
+									<p>Chapter titles and initial words in larger characters. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, unpunctuated, of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>  	BM/BL in-house.</p>
+								<p>Spine: &apos;Joseph Ibn Kaspi&apos;s Supercommentary On Abr. Ibn Ezra&apos;s Comm. On Pentateuch. Hebrew. Brit. Mus. Add. Ms. 22091.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1857-08-01</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>(b. 1830, d. 1884), bought from him, <date calendar="Gregorian">01 August 1857</date> : inscribed, folio [86v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">196</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

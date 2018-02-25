@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_8881" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 8881</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Seder tiḳune Shabat, a kabbalistic book of prayers for the Sabbath, and the Pentateuch lections for Mondays and Thursdays throughout the year.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="169v"/>
+							<title xml:lang="he-Latn-x-lc">Prayers</title>
+							<title xml:lang="he">תפילות</title>
+							<decoNote type="illustration">Numerous pen and ink illustrations of the text.<locus n="2v, 3r, 9r, 11v, 13r, 14v, 16v, 18r, 19v etc."/>
+							</decoNote>
+							<decoNote type="border">An illustrated title-page, in pen and ink.<locus n="1r"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus n="6v"/>A pen and ink decorated initial word.</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Tikune-Shabat_1793"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="91v"/>
+							<title xml:lang="he-Latn-x-lc">Seder tiḳune Shabat</title>
+							<note>
+								<p>Contains a large number of poetical pieces (fuller than Add MS 11433), as well as rubrical directions and explanations.</p>
+							</note>
+							<filiation>Cf. the contents of Add MS 11433.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="92r" to="169v"/>
+							<title xml:lang="en">The Pentateuch lections</title>
+							<note>
+								<p>For Mondays and Thursdays throughout the year.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the early 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>169 folios <dimensions unit="mm" type="leaf">
+										<height>102</height>
+										<width>65</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>85</height>
+										<width>52</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>169 folios (+ 4 unfoliated paper flyleaves at the beginning and 3 unfoliated paper flyleaves an 1 vellum at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 4 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16 20" writtenLines="16 20">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Hair side and flesh side of the folios indistinguishable.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Many pages contain pen and ink illustrations.</p>
+									<p>Each page enclosed in a pen and ink frame.</p>
+									<p>Running title in the first part of the manuscript.</p>
+									<p>Catchwords given on every page.</p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square and semi cursive script (the 'Amsterdam font') of the early 18th century. Punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Attached flyleaf [ii]: a testamentary direction of Anne Kennicott: 'After my death this Book is to be given to the British Museum as a part of Mr Cracherode's Legacy.</p>
+							<p>The initials E.I.L.P: on the flyleaf next to the title-page [iii recto].</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red leather binding with gold and black tooling, in dark brown leather gold-tooled box. Boxed.</p>
+								<p>Spine: 'Liber Institutionum Sabbati. Mus. Brit. Ex Legato Anne Kennicott. 8881.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1749"/>
+						<provenance>
+							<p>
+								<name type="place">Amsterdam </name>?</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">682</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

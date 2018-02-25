@@ -1,0 +1,614 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation </sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-02-04</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_4732" xml:lang="en" rend="meta">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 4732</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314058</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724136.0x000002</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Shahzadah ve-tsufi by Elisha ben Samuel</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85070315" rend="visible">
+                  
+                  
+                  
+                  <summary>Poetical text, in Persian in Hebrew characters.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="per"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="73v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Shahzadah ve-tsufi</title>
+                     
+                     
+                     
+                     <title xml:lang="he">שאהזאדה וצופי</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en">Elisha ben Samuel</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he">אלישע בן שמואל</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>A Persian metrical version of Barlaam and Josaphat.</p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <filiation>Cf. Or 4744.</filiation>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 18th to 19th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper.</support>
+                        
+                        
+                        
+                        <extent>73 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>190</height>
+                              
+                              
+                              
+                              <width>140</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>155</height>
+                              
+                              
+                              
+                              <width>110</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>73 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of approximately 6 leaves each.</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Worming, repaired.</p>
+                           
+                           
+                           
+                           <p>Liquid stains.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2" ruledLines="19" writtenLines="19">
+                           
+                           
+                           
+                           <p>Uniform layout.</p>
+                           
+                           
+                           
+                           <p>Vertical hard-point ruling.</p>
+                           
+                           
+                           
+                           <p>Catchwords on every verso.</p>
+                           
+                           
+                           
+                           <p>Initial verses in larger square charactes.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Persian semi-cursive script of the 18th to 19th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions/>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM/BL in-house.</p>
+                        
+                        
+                        
+                        <p>Spine: 'Sahzadah Ve-Sufi. Persian In Hebrew Character. Brit. Mus. Or. 4732.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1700" notAfter="1899">18th-19th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Iran?</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Eliyahu ben Aba [...]</name>: inscribed, folio 1r.</p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1894-02-02</date>
+                     
+                     
+                     
+                     <p>Purchased by the British Museum on 02 February 1894 from <name type="person" role="owner">S. J. A. Churchill</name>, Esq. (b. 1862, d. 1921), a British diplomat, art connoisseur and author: inscribed, folio [74v] (fse001v).</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 945.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-02-04">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

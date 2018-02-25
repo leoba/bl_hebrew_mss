@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17053" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17053</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The greater part of Tosafot on Bava ḳama, a small portion of the same on Bava metsi῾a, and a whole of that on Bava batra. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="46r"/>
+							<title xml:lang="he-Latn-x-lc">Tosafot Bava ḳama</title>
+							<note>
+								<p>Of chapter 6 there is only a portion (folios 40r-42r); of chapter 7 only 1 leaf (folio 45) is extant.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="46r" to="74r"/>
+							<title xml:lang="he-Latn-x-lc">[Tosafot Bava metsi῾a]</title>
+							<note>
+								<p>Only the glosses on the first two chapters are extant.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="74r" to="201v"/>
+							<title xml:lang="he-Latn-x-lc">Tosafot Bava batra</title>
+							<note>
+								<p>There is one glossa given by the scribe of the first and greater portion of the manuscript (folio 165r); the rest of the glosses were added by the second scribe.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>201 folios <dimensions unit="mm" type="leaf">
+										<height>257</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>192/190</height>
+										<width>115/122</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>201 folios (+ 3  modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+								<condition>
+									<p>Some leaves damaged.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="40" writtenLines="40">
+									<p>Uniform layuot. </p>
+									<p>Ruling with a hard-point and pricking are visible. The last line of text is written inside the ruling.</p>
+									<p>Hair side and flesh side of the folios are distinguishable.</p>
+									<p>Between folio 1r-165v some of the pages are arranged into two columns.</p>
+									<p>Folios 166r-201v have catchowords on every verso.</p>
+									<p>Many marginal notes and additions.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Two different Ashkenazi semi-cursive scripts of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="166r" to="201v"/>- written by a different but contemporary Ashkenazi hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 200v contains a memorandum referring to an oath by which a certain person binds himself not to gamble; by the side of it on the margin is written: Li-zekhut Shimshon bar Mevorakh.</p>
+							<p>
+								<name type="person" role="owner">Matatyah ben Rafa'el</name>: inscribed, folio 30r.</p>
+							<p>
+								<name type="person" role="owner">Shelomoh</name>: mentioned in a note of sale of this manuscript to a certain Natan: inscribed, folio 165v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Tosaphoth. Hebrew. Brit. Mus. Additional 17,053.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 23 October 1847: MacDonald's sale, lot 161: inscribed, <locus n="fse001v">[202v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">416</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

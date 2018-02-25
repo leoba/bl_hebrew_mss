@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18724" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18724</idno>
+					</msIdentifier>
+					<head>Hagadah</head>
+					<msContents class="lccn.loc.gov/n79084774" rend="visible">
+						<summary>Hagadah for Passover with the commentaries of Isaac Abravanel, and an allegorical interpretation of the Passover ordinances.</summary>
+						<textLang mainLang="he" otherLangs="yi-Hebr">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="http://lccn.loc.gov/n79084774">
+							<locus from="1r" to="55v"/>
+							<title xml:lang="he-Latn-x-lc">Hagadah shel Pesaḥ</title>
+							<title xml:lang="he">הגדה של פסח</title>
+							<decoNote type="initial">1 illustrated title page in colours and gold.<locus n="1r"/>
+							</decoNote>
+							<decoNote type="miniature">18 miniatures in colours and gold. <locus n="2v, 6v, 7v, 9r, 10r, 11v, 12v, 13v, 15v, 16r, 16v, 17r, 19v, 21r, 21v, 34v, 47r, 54r"/>
+							</decoNote>
+							<decoNote type="marginal">4 historiated initials. <locus n="2r, 4r, 4v"/>
+							</decoNote>
+							<decoNote type="initial">6 decorated initial-words and initial-word panels in ink and gold.<locus n="5r, 33r, 46r, 49r, 51v"/>
+							</decoNote>
+							<note>
+								<p>Contains the liturgy according to both Ashkenazi and Sefardi rites.</p>
+								<p>The rubrical directions are given both in German and Spanish, the semi-cursive script being used in each. </p>
+								<p>See <ref target="IMJ" type="number">6 (1987), 83-94</ref>, <ref target="Artibus&amp;historiae" type="number">9 (1988), 71-81</ref>, <ref target="Quaerendo" type="number">20 (1990), 24-62</ref>, <ref target="BrLibJournal" type="number">21 (1995), 81-108</ref>, <ref target="Fishof_1999" type="page">352</ref>, <ref target="Tahan_2007" type="page">142-143</ref>. </p>
+							</note>
+							<colophon xml:lang="he">ע"י הכותב והעוסק במלאכת הקדוש נאו' הקטן <name type="person" role="scribe">יאקב במהרי"ל זצ"ל מברלין</name>: לע"ע סופר סת"ם ב'ק'ק' <name type="place">המבורג </name>ו<name type="place">באלטונא</name> יע"א בשנת<date when="1740" calendar="Hebrew"> ת"ק </date>לפק.</colophon>
+							<author key="http://viaf.org/viaf/36986982">
+								<persName key="http://viaf.org/viaf/36986982" xml:lang="en">Abravanel, Isaac</persName>
+								<persName key="http://viaf.org/viaf/36986982" xml:lang="he">אברבנאל, יצחק בן יהודה </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="26v"/>
+								<title xml:lang="he-Latn-x-lc">Perush ʿal-pi ha-sod</title>
+								<note>
+									<p>A mystical interpretation of hagadah.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="26v" to="30r"/>
+								<title xml:lang="he-Latn-x-lc">Seder birkat ha-mazon ke-minhag ashkenazim</title>
+								<note>
+									<p>Accompanied with Yiddish rendering.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="30r" to="45r"/>
+								<title xml:lang="he-Latn-x-lc">Seder birkat ha-mazon ke-minhag sefardim</title>
+								<note>
+									<p>Accompanied with Yiddish rendering.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="45r" to="55v"/>
+								<title xml:lang="he-Latn-x-lc">Remazim le-mitsvot shel Pesaḥ</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>55 folios <dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>55 folios (+ 3 modern and 1 older unfoliated paper flyleaves at the beginning and at the end); folio 55 is a foliated paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>26 quires: i4-2 (folios 1-2), ii-xii2 (folios 3-24), xiii4-1 (folios 25-27), xiv-xvii2 (folios 28-35), xviii4-1 (folios 36-38), xix-xxvi2 (folios 39-54).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines=" 10 30" writtenLines=" 10 30">
+									<p>Pricking and ruling are visible. </p>
+									<p>Watermark, iv recto, of a fleur-de-lis and the monogram 'B. W'. Watermark, [56], of the words 'Budgen &amp; Willmott'. </p>
+									<p>The square and semi-cursive scripts are imitations of the Amsterdam letters and Rashi script respectively used in printing.</p>
+									<p>Many marginal illuminations and illustrations, which consist mainly of gold and coloured designs.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi punctuated square and unpunctuated semi-cursive script. <name type="person" role="scribe">Yaʿaḳov Sofer ben Yudah Loev</name> of <name type="place">Berlin</name>, inscribed with his name on the title page and in the colophon, <name type="place">Hamburg </name>and <name type="place">Altona </name>
+								<date calendar="Hebrew">[5]500</date> (<date calendar="Gregorian">1740</date>) (folios 1r, 54v).</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Owners' notes, folios 54v-55r.</p>
+							<p>
+								<name type="person" role="owner">Zelig Shelomoh Zalman ha-Kohen</name> of Brandenburg: mentioned in the colophon (folio 54v). </p>
+							<p>A note by Frederic Madden: 'See another and finer copy of this work in MS Sloane 3173' (folio 55v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather with gold-tooled.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1740" when-custom="5500" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>, N. (<name type="place">Hamburg, Altona</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853 (see <ref target="Paisey_1997" type="page">131-153</ref>): purchased by the British Museum from him on 12 July 1851: inscribed (folio 55v).
+</p>
+							<date>1851-07-12</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">611</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

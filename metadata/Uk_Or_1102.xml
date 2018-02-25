@@ -1,0 +1,185 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1102" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1102</idno>
+					</msIdentifier>
+					<head>Shaʿar ha-shamayim</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Shaʿar ha-shamayim of Isaac ben Abraham ibn Latif, consisting of 4 parts.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="102v"/>
+							<title xml:lang="he-Latn-x-lc">Shaʿar ha-shamayim</title>
+							<title xml:lang="he">שער השמים</title>
+							<author key="http://viaf.org/viaf/19632017">
+								<persName key="http://viaf.org/viaf/19632017" xml:lang="en">Latif, Isaac ben Abraham ibn, approximately 1220-approximately 1290</persName>
+								<persName key="http://viaf.org/viaf/19632017" xml:lang="he">אבן לטיף, יצחק בן אברהם </persName>
+							</author>
+							<msItem rend="v">
+								<locus n="1r"/>
+								<title xml:lang="en">A note</title>
+								<note>
+									<p>A note in Sefardi semi-cursive writing on the meaning of rivers in the Garden of Eden.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Preface</title>
+								<locus n="2r"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="2r" to="6v"/>
+								<title xml:lang="en">Table of contents</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="7r" to="15r"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="15r" to="56v"/>
+								<title xml:lang="en">Gate one</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="56v" to="78r"/>
+								<title xml:lang="en">Gate two</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="78r" to="90r"/>
+								<title xml:lang="en">Gate three</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="90r" to="101r"/>
+								<title xml:lang="en">Gate four</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="101v" to="102v"/>
+								<title xml:lang="en">A note</title>
+								<note>
+									<p>Concerns different intepretations of certain hagadic passages.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus n="102v"/>
+								<title xml:lang="en">A note</title>
+								<note>
+									<p>Partly retouched note on the appelation of Jesus in the Gospels and the Epistles.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>102 folios<dimensions type="leaf" unit="mm">
+										<height>254</height>
+										<width>172</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>102 folios (+ 1 paper flyleaf at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>All leaves slightly damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Uniform layout. </p>
+									<p>Numbering of the chapters in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Caleb Afendopolo</name>: inscribed with his name with a date of <date calendar="Hebrew">(5)260</date> (<date calendar="Gregorian">1495</date>), folio 101r.</p>
+							<p>
+								<name type="person" role="owner">Nissim ibn Shinkeh</name> (?): inscribed in a note, folio 2r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house, dark blue.</p>
+								<p>Spine title: 'Isaac ibn Latif. Sha'ar Hash-Shamayim. Hebrew. Brit. Mus. Oriental Ms. 1102.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">915</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

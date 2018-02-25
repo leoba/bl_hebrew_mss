@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27103" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27103</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A treatise on modulation of the priestly benediction. Probably an autograph.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="36v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer makat bakurot</title>
+							<title xml:lang="he">ספר מכת בכורות</title>
+							<note>
+								<p>The work  is directed against Tosefet bikure katsir of Pinhas Hai Anav, published in Venice in 1715.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/88643022">Ricchi, Raphael Immanuel ben Abraham Ḥai, 1688-1743</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/88643022">ריקי, רפאל עמנואל חי בן אברהם</persName>
+							</author>
+							<quote xml:lang="he">נאם אשר בבלי דעת מילין יכביר פה פינאלי די <name type="place">מודינא</name>
+								<date calendar="Hebrew">יום כ"ב לחדש תמוז שנת התע"ה</date>
+								<name type="person" role="author">עמנואל ריקי</name>.<locus n="1r"/>
+							</quote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>36 folios <dimensions unit="mm" type="leaf">
+										<height>205</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>36 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="27" writtenLines="27">
+									<p>Uniform layout.</p>
+									<p>Hard-point ruling is visible.</p>
+									<p>Catchwords are given on every page.</p>
+									<p>Folio 1 is a title page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: a note of <name type="person" role="owner">Joseph Almanzi</name>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Makkath Bakkuroth. Hebrew. Brit. Mus. Additional 27,103.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5475" calendar="Hebrew" when="1715"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Modena</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 209: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio [38v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">648</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

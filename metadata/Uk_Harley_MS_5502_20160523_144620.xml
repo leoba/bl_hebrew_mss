@@ -1,0 +1,634 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-08-18</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Harley_5502" xml:lang="en" rend="all">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Harley MS 5502</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>040-003314213</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724936.0x00000c</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Baʻal ha-lashon by Yosef Zarḳa</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh2008105558" rend="visible">
+                  
+                  
+                  
+                  <summary>A grammatical treatise. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="2r" to="173v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Baʻal ha-lashon by Joseph Zarka</title>
+                     
+                     
+                     
+                     <title xml:lang="he">בעל הלשון</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>The work is divided into four sections, the words being arranged alphabetically in each. Part I (folios 4r-11r) contains words of two letter; part II (folios 11r-164v) contains roots of three letters; part III (folios 164v-170r) deals with quadriliterals etc., part IV (folios 170r-173r) treats on the Aramaic words in the Bible. </p>
+                        
+                        
+                        
+                        <p>Folio 2r contains a succinct table indicating the numbers of words belonging to each of the letters of the alphabet. Folio 3r opens with a poem by the author. Folio 174r contains a poem by the copyist. Folio 174v opens a synagogue homily, also composed by the copyist. </p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/308277947">Zarka, Joseph</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/308277947">זרקא, יוסף בן יהודה</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <colophon xml:lang="he">מהודה ומשבח קודם אלהי אנא <name type="person" role="scribe">אברהם בנו שלמה</name> שיר השירים לשלמה הוא הצור תמים ההופכי מדת רגז לרחמים בהיותו גלי ומטלטל בין העמים מכבודו השגיח עלי והעירני ללכת ולהתאחר מגוי אל גוי ומממלכה אל עם אחר ואשר לא במתכון הגעתי פה בעיר מנטואה הנה קול דודי זה בא ואמר אלי באהבה רבה בא ברוך יי'  ובביתו מצאתי מוכן לפני מטה ושלחן כסא ומנורה תהלה לאל נורא וגם הביאני המלך אל בית החכם מדקדק הגדול זקן וישיש יקר משהם ותרשיש ישיש כגבור לרוץ בנתיבת דקדוק לשון הקדש ותשב ב'אית'ן קשתו הלא הוא כבוד מרי ר' יוסף אשר מימיו הייתי כוסף זארק שמו [...] בהיותו מכיר כי מלאכת הדקדוק היא כלי אל הלשון כמלאכת ההגיון לשאר החכמות וכו'. שמתי כונתי אחרי שלמדתי כלליו לכתוב  על ידי נשלם  תהלה לאל עולם היום יום ד' בפרשת ואבדיל אתכם מן העמים להיות לי שנת <date when="1457" calendar="Hebrew">י'ר'א'ו'</date> את יי' קדושיו כי אין מחסור ליריאיו. <locus from="173r" to="173v"/>
+                     
+                     
+                     
+                     </colophon>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper and parchment codex of the 15th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="mixed">
+                        
+                        
+                        
+                        <support>Paper, with the innermost sheet of quires made of parchment. </support>
+                        
+                        
+                        
+                        <extent>174 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>290</height>
+                              
+                              
+                              
+                              <width>215</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>191</height>
+                              
+                              
+                              
+                              <width>140</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>174 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).
+</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 16 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Tidemarks and dirt at head. </p>
+                           
+                           
+                           
+                           <p>Small areas soft, weak and tearing.
+</p>
+                           
+                           
+                           
+                           <p>Folio 1 and front endpaper foxed.
+</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="25" writtenLines="25">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Ruling by hard point, leaf by leaf on verso. </p>
+                           
+                           
+                           
+                           <p>Last line written outside ruling. </p>
+                           
+                           
+                           
+                           <p>Larger square initials. </p>
+                           
+                           
+                           
+                           <p>Marginal notes and additions. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi semi-cursive script (at variance with production area) of the 15th century. <name type="person" role="scribe">Avraham ben Shelomoh</name>: inscribed, folio 173r. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions>
+                     
+                     
+                     
+                     <p>Folio 39 is a small parchment leaf inserted into the codex and it contains a get delivered by Eliezer ben Isaac Ashkenazi to his wife Fiorita bat Yehoshua, dated 5330 (1570). </p>
+                     
+                     
+                     
+                     <p>Folio 56 is a small paper leaf inserted into the codex and it contains on one side the record of some derushim, and on the other side part of a piece on Yom Kipur. </p>
+                  
+                  
+                  
+                  </additions>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Joseph Zarḳ. Ba'al hallashon. Hebrew. Brit. Mus. Harley 5502.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate when-custom="5217" calendar="Hebrew" when="1457">1457 (5217)</origDate>
+                     
+                     
+                     
+                     <origPlace>Italy (Mantua) </origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1753</date>
+                     
+                     
+                     
+                     <p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 976.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-08-18">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

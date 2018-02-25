@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26892" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26892</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Fourth Book of Arba'ah Ṭurim, Ṭur ḥoshen mishpaṭ, of Jacob ben Asher.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="331v"/>
+							<title xml:lang="en">Ṭur ḥoshen mishpaṭ</title>
+							<title n="0" xml:lang="he">טור חשן משפט</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>The number of paragraphs is 431.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>331 folios <dimensions unit="mm" type="leaf">
+										<height>292</height>
+										<width>217</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>331 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly water-damaged (upper margins). Foxed.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="33" writtenLines="32">
+									<p>Uniform layout. </p>
+									<p>Visible ink ruling, page by page.</p>
+									<p>Catchwords on every verso, sometimes modestly decorated with ink.</p>
+									<p>Initial word of each section written in larger characters. Section numbers given in margins, probably in later hand.</p>
+									<p>Last line written within ruling.</p>
+									<p>Some marginal notes in contemporary handwriting.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r contains part of a Latin document (in Italian handwriting) recording an award given by arbitrators in a dispute between Peter and John de Cumis (de Cumae in Italy?) on the one part, and Marinus Georgius Simon on the other (concerning a glass furnace): dated 11 March <date calendar="Gregorian">1456</date>.</p>
+							<p>The vellum leaf at the end contains a fragment of a Latin grammar and a fragment of a poem on moral conduct.</p>
+							<p>Folio 2r contains a record of sale of this manuscript from <name type="person" role="owner">Menahem ben Kuzi</name> and <name type="person" role="owner">Yosef Kalonymus Kohen</name>, of מונטייאנ' (<name type="place">Montagnana</name>?).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Jacob ben Asher. Tur Choshen Ham-Mishpat. Hebrew. Brit. Mus. Additional 26,892.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his manuscript no. 1: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed (folio [332v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">548</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

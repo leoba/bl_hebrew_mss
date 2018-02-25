@@ -1,0 +1,144 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2419" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2419</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Agadat ha-Talmud, a collection of hagadot occuring in the Talmud.</summary>
+						<textLang mainLang="tmr" otherLangs="he">Aramaic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="140v"/>
+							<title xml:lang="he-Latn-x-lc">Agadat ha-Talmud</title>
+							<title xml:lang="he">אגדת התלמוד</title>
+							<note>
+								<p>Folios 1r-13v contain an index of the Biblical passages referred to in the body of the work. Probably two leaves are missing at the beginning.</p>
+								<p>Folio 13v contains a list of masekhtot referred to in the text.</p>
+								<p>Folios 14r-19v come from another collection of agadot from the tractate Berakhot. </p>
+								<p>The work proper begins on folio 20r.</p>
+								<p>Berakhot here is treated as a part of Seder Mo῾ed; the tractate Shabat follows Berakhot as part of the same Seder.</p>
+								<p>Seder Nashim begins on folio 63r, Seder Yeshu῾ot (Neziḳin) on folio 86r, and Seder Ḳodashim on folio 130r.</p>
+								<p>Seder Ṭoharot is, in the present condition of the manuscript, not represented at all.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite square and semi-cursive script of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>140 folios <dimensions unit="mm" type="leaf">
+										<height>266</height>
+										<width>170</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>140 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Original quiring not established due to modern restoration (all leaves stuck on paper).</p>
+								</collation>
+								<condition>
+									<p>Several folios slightly damaged.</p>
+									<p>Defective at the beginning and at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="40 63" writtenLines="40 63">
+									<p>Uniform layout.</p>
+									<p>Chapter titles written in larger characters.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Running titles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Green cover.</p>
+								<p>Spine title: 'Aggadhath Hat-Talmud. Hebrew. Brit. Mus. Oriental Ms. 2,419.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>Yemen</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Nicolas Mavrocordato</name>: purchased by the British Museum from him on 08 October 1881: inscribed, folio <locus n="fse001v">[141v]</locus>.</p>
+							<date>1881-10-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">406</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

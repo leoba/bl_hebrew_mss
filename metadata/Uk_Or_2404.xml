@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-22</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2404" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2404</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The book of Joshua with a Judeo-Arabic commentary of Japheth ben Ali ha-Levi.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="217v"/>
+							<title xml:lang="he-Latn-x-lc">Perush </title>
+							<title xml:lang="he">פרוש </title>
+							<note>
+								<p>Contains the pointed and accentuated Hebrew text, accompanied by an Arabic translation and commentary.</p>
+								<p>The missing portion at the beginning comprises chapter 1:1-13.</p>
+								<p>Has a number of masoretic notes.</p>
+							</note>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>217 folios<dimensions type="leaf" unit="mm">
+										<height>183</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>217 folios (+ 2 paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally 23 quires of 10 leaves each, except the last which has 6 leaves only.</p>
+									<p>Quires signed with Hebrew letters on the right-hand upper corner of the first page, and marked with catchwords on the preceding page (the catchwords from page to page have been added later).</p>
+									<p>Imperfect at the beginning (the first quire has been lost).</p>
+								</collation>
+								<condition>
+									<p>The first quire has not been preserved.</p>
+									<p>A number of folios have been more or less mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="13" writtenLines="13">
+									<p>The pointed and accentuated Hebrew biblical text is embodied.</p>
+									<p>Visible ruling with a hard-point.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square and semi-cursive script of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 142 has been added later into the 15th quire.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Caraite Commentary on Joshua. Arabic. Brit. Mus. Oriental 2404.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v"> [218v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">277</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-22">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

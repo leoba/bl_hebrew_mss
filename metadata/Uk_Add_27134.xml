@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27134" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27134</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Abraham del Vecchio's Tiḳune ha-Rif on Seder Nashim and Masekhet Ḥulin.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="217v"/>
+							<title xml:lang="en">Tiḳune ha-Ri"f </title>
+							<title xml:lang="he">תיקני הרי"ף</title>
+							<author key="http://viaf.org/viaf/36626487">
+								<persName key="http://viaf.org/viaf/36626487" xml:lang="en">Del Ṿeḳiyo, Avraham ben Shabtai, -1654</persName>
+								<persName key="http://viaf.org/viaf/36626487" xml:lang="he">דיל ויקייו, אברהם בן שבתי‏ </persName>
+							</author>
+							<note>
+								<p>Folios 1, 5 and 6 contain some additional notes on Yevamot in a different hand.</p>
+							</note>
+							<filiation>Cf. Add MS 26,991.</filiation>
+							<msItem rend="v">
+								<locus from="10r" to="36r"/>
+								<title xml:lang="he-Latn-x-lc">Yevamot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="36r" to="80r"/>
+								<title xml:lang="he-Latn-x-lc">Ketubot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80r" to="152r"/>
+								<title xml:lang="he-Latn-x-lc">Giṭin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="152r" to="182r"/>
+								<title xml:lang="he-Latn-x-lc">Ḳidushin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="182r" to="217v"/>
+								<title xml:lang="he-Latn-x-lc">Ḥulin</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>217 folios <dimensions unit="mm" type="leaf">
+										<height>206</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>217 folios (+ 3 modern paper flyleaves at the beginning and 3 modern paper and 2 older paper flyleaves at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30 40" writtenLines="30 40">
+									<p>Catchwords on every page. Running titles.</p>
+									<p>Hard-point vertical ruling visible.</p>
+									<p>Extensive marginal notes. Some erasures. </p>
+									<p>Folios 6r-9v, 121r-151v, 177r-180v are blank. No lacunae in the text.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 17th century, probably of Solomon Portaleone.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r contains some doodles.</p>
+							<p>A child's hand scribbling on folio 134r.</p>
+							<p>In the left-hand lower corner of fse002v ([219v]) 'Masekhet bava ḳama' is written, showing that the contents of Add MS 26991 II followed those of Add MS 27134.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Del Vecchio. Tikkune ha-Riph. Part II. Hebrew. Brit. Mus. Additional 27,134.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 241: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio <locus n="fse003v">[220v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">483</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

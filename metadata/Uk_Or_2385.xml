@@ -1,0 +1,176 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2385" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2385</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A commentary on the Pentateuch in Arabic and Hebrew.</summary>
+						<textLang mainLang="he" otherLangs="ar">Hebrew, Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="221v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<note>
+								<p>The main commentary breaks off with folio 208.</p>
+							</note>
+							<msItem rend="" class="http://lccn.loc.gov/sh85013597">
+								<locus from="1r" to="32v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>There are rhymed paragraphs on folio 3v, 20v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="32v" to="71r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="71r" to="124r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="124r" to="154r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="154r" to="208v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="209r" to="210v"/>
+								<title xml:lang="en">Portions of additional commentaries</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="211r" to="221v"/>
+								<title xml:lang="en">Fragments of the Hafṭarot of Genesis with Targum</title>
+								<textLang mainLang="he" otherLangs="tmr-Hebr"/>
+								<note>
+									<p>Targum is given after each Hebrew verse.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of approximately 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent rend="visible">221 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>146</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>221 folios (+2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Collation not established due to modern conservation and rebinding.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="24 35" writtenLines="24 35" columns="1">
+									<p>Ruled with a mastara.</p>
+									<p>Has a number of marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script, unpunctuated, of approximately 16th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus n="47"/>, <locus from="154r" to="156v"/>and also <locus from="209r" to="210v"/>due to a modern hand (or hands).</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Commentary on the Pentateuch. Hebrew &amp; Arabic. Brit. Mus. Oriental 2385.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse001v"> [222v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">241</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

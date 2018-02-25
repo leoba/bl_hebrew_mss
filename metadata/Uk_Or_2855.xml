@@ -1,0 +1,166 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2855" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2855</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer ha-ḥinukh, a commentary on the 613 precepts arranged in the order of the weekly parashiyot.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="289v"/>
+							<title xml:lang="en">Sefer ha-ḥinukh</title>
+							<title xml:lang="he">ספר החינוך</title>
+							<note>
+								<p>The attribution to Aaron of Barcelona is not certain. </p>
+								<p>The various quotations from Maimonides' Sefer mitsṿot are taken from Avraham ben Ḥasdai's Hebrew translation of that work. </p>
+								<p>The manuscript differs slightly from the printed editions.</p>
+							</note>
+							<author key="http://viaf.org/viaf/86224841">
+								<persName key="http://viaf.org/viaf/86224841" xml:lang="en">Aaron, ha-Levi, of Barcelona, active 13th century-14th century</persName>
+								<persName key="http://viaf.org/viaf/86224841" xml:lang="he">אהרן, הלוי, מברצלונה </persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Sefer_hahinukh_1721"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">בפניי אליהו הנבי"א בכמה"ר יהודה וצבי הרופא נבתוי"א הכ"מ קבל מ"ר שמואל הרופא מאגוביאו בכ"ר יואב ז"ל זה החנוך מכמ"ר מרדכי מעירנו ושלחהו לו ע"י אנטוניאו חמר[?] ב' באלול <date when="1373" calendar="Hebrew">שקל"ג</date> והם י"ד קונטריסים כתובי' וי"ד קונטריסי' חלק'  והיה זה שלו' שהם בין הכל שמנה ועשרים".<locus n="2r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>290 folios <dimensions unit="mm" type="leaf">
+										<height>275</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>290 folios (+ 2 modern paper flyleaves at the beginning and at the end). Folios 1 and 290 are vellum flyleaves.</p>
+								</foliation>
+								<collation>
+									<p>30 quires of mostly 10 leaves each, marked with catchwords  and Hebrew letters at the end.</p>
+									<p>Quires no. 12, 21, 22, 25 have 8 leaves each, quire no. 30 has 6 leaves only.</p>
+								</collation>
+								<condition>
+									<p>Folio 290 is only partly preserved.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="34" writtenLines="34">
+									<p>Uniform layout. Visible pricking and hard-point ruling (bifolium by bifolium).</p>
+									<p>Hair-side and flesh-side of the folios distinguishable, with visible scratching.</p>
+									<p>Last line written outside the ruling.</p>
+									<p>Occasional infralinear vocalization.</p>
+									<p>Chapter numbers in the margins, within pen and ink simple design.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Italian semi-cursive script of the 14th century. Avraham (?), the scribe: his name marked off within the text.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="3r" to="96v"/>, <locus from="100v" to="109r"/>and <locus from="208r" to="229r"/> due to the 1st hand (i.e. Avraham); <locus from="109v" to="207v"/> and <locus from="230r" to="289v"/> due to the 2nd hand; <locus from="97r" to="100v"/>, <locus from="229v" to="230r"/> due to the 3rd hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Shemu᾿el ha-Rofe</name>: inscribed in the colophon, folio 2r.</p>
+							<p>
+								<name type="person" role="owner">Mordekhai</name>, <name type="person" role="owner">Rafa᾿el ben Mosheh ha-Melamed</name> and <name type="person" role="owner">Mosheh ben Benyamin of Bologne</name>: inscribed in the contract of sale, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Sefer Ha Chinnuk. Hebrew. Brit. Mus. Oriental 2855.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1350" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1885-04-18</date>
+							<p>
+								<name type="person" role="owner">N. Rabinowitz</name>: bought from him by the British Museum on 18 April 1885 (folio [290v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">517</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

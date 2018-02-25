@@ -1,0 +1,187 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1421" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1421</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Pesaḳim and Ḥidushim of Isaiah of Trani, the elder, on the treatises of Yevamot, Ketubot, Giṭin, Ḳidushin, Nedarim and Nidah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="270v"/>
+							<title xml:lang="en">Pesaḳim </title>
+							<title xml:lang="he">פסקים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/28447292">Isaiah ben Mali, di Trani, approximately 1200-</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/28447292">ישעיה בן מלי, דטראני הזקן  </persName>
+							</author>
+							<filiation>Cf. Add MS 26883,  <ref target="Margoliouth_1965" type="number">521</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="65r"/>
+							<title xml:lang="he-Latn-x-lc">Yevamot</title>
+							<note>
+								<p>Defective at the end.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="65r" to="145v"/>
+							<title xml:lang="he-Latn-x-lc">Ketubot</title>
+							<note>
+								<p>Defective at the beginning.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="145v" to="203r"/>
+							<title xml:lang="he-Latn-x-lc">Giṭin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="203r" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳidushin </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="231v" to="247r"/>
+							<title xml:lang="he-Latn-x-lc">Nedarim</title>
+							<filiation>Cf <ref target="Neubauer_1891" type="number">636</ref>, b.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="247r" to="270v"/>
+							<title xml:lang="he-Latn-x-lc">Nidah</title>
+							<filiation>Cf <ref target="Neubauer_1891" type="number">636</ref>, c.</filiation>
+							<note>
+								<p>The second column of folio 270v contains the beginning of din nidah.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>270 folios <dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>230</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>270 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>34 quires: i-xxxiii8 (folios 1-264), xxxiv8-2 (folios 265-270). Marked by catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="43" writtenLines="43">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Quire catchwords enclosed in small ornamental pen and ink designs.</p>
+									<p>Chapter headings given in red circular designs, placed within an arch (e.g. 1r, 231v).</p>
+									<p>Chapter initials given in larger characters. Chapter explicits given partly in red and partly in black ink.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 14th to 15th century. <name type="person" role="scribe">Shelomoh</name>: inscribed in a red circular design, folio 202v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ish Ger</name> (<name type="person" role="owner">Abraham Joseph S. Grazziano</name>): inscribed (folio 1r, 270v).</p>
+							<p>Censored by <name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, <date calendar="Gregorian">1613</date> (folio 270v); see <ref target="Popper_1969" type="number">50-56</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Oriental 1421.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-01-12</date>
+							<p>
+								<name type="person" role="owner">Fischl Hirsch</name>: purchased from him by the British Museum on 12 January 1887: inscribed (folio <locus n="fse001v"/> [271v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">522</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

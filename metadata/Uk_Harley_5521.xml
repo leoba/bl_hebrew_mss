@@ -1,0 +1,142 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-08</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Harley_5521" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5521</idno>
+					</msIdentifier>
+					<head>Targum on Chronicles</head>
+					<msContents class="lccn.loc.gov/n79150252" rend="visible">
+						<summary>Targum on Chronicles, provided with vowel-points.</summary>
+						<textLang mainLang="tmr">Aramaic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79150252">
+							<title xml:lang="en">Divre ha-yamim </title>
+							<title xml:lang="he">דברי הימים</title>
+							<locus from="2r" to="62r"/>
+							<note>
+								<p>Contains original pagination in Arabic numerals. </p>
+								<p>Copied in 1660 from a manuscript in the University of Cambridge which was dated 1347. </p>
+								<p>Has two colophons, of the scribe of the original manuscript and of the copyist. </p>
+							</note>
+							<colophon xml:lang="he">חזק ונתחזק חיים הסופר לא ירזק [!] סיימתי הכתובים עם התרגום <date when="1660" calendar="Hebrew">בשנת חמשת אלפים ומאה ושבע לבריאות [!] עולם בששי בשבת באחד ועשרים יום לחדש טבת</date>. <locus n="62r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="2r" to="29v"/>
+								<title xml:lang="en">1Chronicles</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="29v" to="62r"/>
+								<title xml:lang="en">2Chronicles</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>62 folio<dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>183</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>62 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+									<p>Original Latin pagination. </p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30 32" writtenLines="30 32">
+									<p>Uniform layout. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square script, punctuated, of the 17th century. <name type="person" role="scribe">Thomas Carston</name>, copyist of this manuscript, inscibed with his name in the colophon, with a date of <date calendar="Gregorian">1660</date>: folio 62r. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: owner's note: <q>Sum Jois Covel ex dono Mri. Dom. Duckfield. M. Charissimi viri. maij 9 1702.</q> </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, Harleian binding of brown leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1660"/>
+						<provenance>
+							<p>
+								<name type="place">England </name>(<name type="place">Oxford</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>
+								<name type="person" role="owner">John Covel</name> (b. 1638, d. 1722), chaplain of the Levant Company in Constantinople 1670-1676: a note in his hand (folio 1r) (<ref target="Wright_1972"/>); sold, together with Covel's other manuscripts, to Edward Harley for £300 on <date calendar="Gregorian">27 February 1715/6</date>.
+The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">161</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

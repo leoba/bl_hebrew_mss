@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2383" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2383</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Nur al-tsulm, an Arabic-Hebrew midrashic commentary on the Pentateuch by Nathanael ben Isaiah. </summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="109v"/>
+							<title xml:lang="ara-Latn-x-lc">Nur al-tzulm</title>
+							<title xml:lang="he">נור אלצלם</title>
+							<author>
+								<persName xml:lang="en">Nathanael ben Isaiah</persName>
+								<persName xml:lang="he">נתנאל בן ישעיהו</persName>
+							</author>
+							<incipit xml:lang="he">יקולו אן לא נסבה בינה ובין אלגוד לחתי תתגייר חאלאתה.<locus n="1v"/>
+							</incipit>
+							<note>
+								<p>The commentary on Exodus starts with folio 72r.</p>
+								<p>Breaks off in the middle of parashah Yitro.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Kohut_1894"/>
+								</bibl>
+							</listBibl>
+							<filiation>Contains a longer recention of the work than Or 2356, <ref target="Margoliouth_1965" type="number">360</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite square and semi-cursive script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>109 folios<dimensions type="leaf" unit="mm">
+										<height>280</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>220</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>109 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Lacunae after folio 1, 50, 62, 64, 71.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="25" writtenLines="25">
+									<p>Some catchwords preserved.</p>
+									<p>Has many marginal notes and additions between the lines.</p>
+									<p>Water-damaged.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Nur Uz-Zulm. Arabic. Brit. Mus. Oriental 2383.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, folio <locus n="fse001v">[110v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">361</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

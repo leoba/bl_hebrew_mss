@@ -1,0 +1,149 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26915" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26915</idno>
+					</msIdentifier>
+					<head>Talmudic glosses</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Contains glosses on Yevamot and Ḳidushin.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="105r"/>
+							<title xml:lang="en">Glosses on Yevamot</title>
+							<note>
+								<p>There are no glosses on the 11th, 13th and 14th chapter, and there are also wanting in the printed text in the Wilna edition of the Talmud..</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="105r" to="136v"/>
+							<title xml:lang="en">Glosses on Ḳidushin </title>
+							<note>
+								<p>These agree with the Wilna edition of the Talmud.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>136 folios <dimensions unit="mm" type="leaf">
+										<height>225</height>
+										<width>160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>136 folios (+ 1 modern paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Not established (tight binding).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="31" writtenLines="31">
+									<p>Uniform layout.</p>
+									<p>Chapter titles written in larger characters.</p>
+									<p>Hard-point ruling visible.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="119r" to="126v"/>- written in a different hand than the rest of the manuscript.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Tosaphoth al Yebhamoth ve-Kiddushin. Hebrew. Brit. Mus. Additional Ms. 26,915.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 24: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio <locus n="fse002v">[138v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">415</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

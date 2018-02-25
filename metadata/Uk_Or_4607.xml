@@ -1,0 +1,242 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4607" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4607</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>A recension of Minhagim of Jacob ben Moses ha-Levi Molin (Mahari"l).</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="193v"/>
+							<title xml:lang="he-Latn-x-lc">Minhagim</title>
+							<title n="0" xml:lang="he">מנהגים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/65536268">Molin, Yaacov</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/65536268">מולן, יעקב בן משה, הלוי</persName>
+							</author>
+							<colophon xml:lang="he">אני הסופר <name type="person" role="scribe">קלונימס ב"ר יצחק שליט</name> כתבתי זה הספר מהרי"ל בעיר <name type="place">הערבורט </name>וסימתי <date calendar="Hebrew">יום ב' ג' שבט שנת ש' לפרט קטן</date>.<locus n="193v"/>
+							</colophon>
+							<note>
+								<p>There are frequently rhymes at the beginning of sections.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="3r" to="60v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Din sefirat ha-῾omer</title>
+							<locus from="60v" to="61v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Hilkhot shevu῾ot</title>
+							<locus from="61v" to="62v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="62v" to="76r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot yom ṭov</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="76r" to="80v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot ḥol ha-mo῾ed</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="80v" to="86v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot tish῾ah be-Av</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="86v" to="98v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="98v" to="108v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyene tefilah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="108v" to="109v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyene se῾udah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="109v" to="110r"/>
+							<title xml:lang="he-Latn-x-lc">Dine tsitsit</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="110r" to="111r"/>
+							<title xml:lang="he-Latn-x-lc">Dine tefilin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="111r" to="113r"/>
+							<title xml:lang="he-Latn-x-lc">Dine mezuzah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="113r" to="119v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot semaḥot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="119v" to="125r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot nisu᾿in</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="125r" to="133v"/>
+							<title xml:lang="he-Latn-x-lc">Dine ha-geṭ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="133v" to="137v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="137v" to="160r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot ta῾anit</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="160r" to="175r"/>
+							<title xml:lang="he-Latn-x-lc">Yom kipur</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="175r" to="188r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot sukot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="188r" to="189v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot ḥanukah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="189v" to="190v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot arba῾ parashiyot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="190v" to="193v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot Purim</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>193 folios <dimensions unit="mm" type="leaf">
+										<height>204</height>
+										<width>153</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>98</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>193 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of irregular number of leaves, mostly 8 and 10.</p>
+								</collation>
+								<condition>
+									<p>Water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="19 23" writtenLines="19 23">
+									<p>Uniform layout. </p>
+									<p>Chapter numbers given in larger characters.</p>
+									<p>Horizontal catchwords on every verso. Running headings.</p>
+									<p>Visible frame ruling (leaf by leaf on recto) and pricking for frame or verticals only.</p>
+									<p>Last line written outside and occasionally within the ruling.</p>
+									<p>Initial words given in larger characters.</p>
+									<p>Scant infralinear vocalization.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 16th century. <name type="person" role="scribe">Ḳalonymus ben Yitsḥaḳ Shalit</name>: inscribed in the colophon, folio 193v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1v: notices of two deaths, dated 1653 and 1655.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Maharil. Hebrew. Brit. Mus. Or. 4607.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]300" calendar="Hebrew" when="1540"/>
+						<provenance>
+							<p>
+								<name type="place">Germany </name>(<name type="place">Erfurt</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1893-01-18</date>
+							<p>
+								<name type="person" role="owner">J. W. Van der Velde </name>: purchased from him by the British Museum on 18 January 1893: inscribed, folio [195v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">553</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

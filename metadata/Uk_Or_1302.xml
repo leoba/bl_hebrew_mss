@@ -1,0 +1,682 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2013-11-12</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_1302" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 1302</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003313970</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031723428.0x000004</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Parts of the Hagiographa with translation and commentary in Arabic</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n80008481" rend="visible">
+                  
+                  
+                  
+                  <summary>Parts of the Hagiographa, provided with simple superlinear punctuation and a translation and commentary in Arabic.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he" otherLangs="jrb-Hebr tmr-Hebr">Hebrew, Judeo-Arabic, Aramaic</textLang>
+                  
+                  
+                  
+                  <msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Ketuvim</title>
+                     
+                     
+                     
+                     <title xml:lang="he">כתובים </title>
+                     
+                     
+                     
+                     <locus from="1r" to="275v"/>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>The Arabic translation and commentary of the Psalms, as also the Arabic translation of the book of Proverbs, are of <name type="person" role="author">Saʿadiah  Gaon</name>'s authorship.</p>
+                        
+                        
+                        
+                        <p>Several masoretic notes and rubrics are scattered throughout the manuscript.</p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="9v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ruth </title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Missing chapters 1:1-2:12.</p>
+                        
+                        
+                        
+                        <p>Has also a Targum with superlinear punctuation.</p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <filiation>
+                        
+                        
+                        
+                        <ref target="Neubauer_1994" type="number">2484</ref>, <ref target="Steinschneider_1879" type="number">129</ref>.</filiation>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="9v" to="123v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Psalms</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="123v" to="154r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Proverbs</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="154r" to="186v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Song of Songs</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Has also a Targum with superlinear punctuation.</p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="186v" to="275v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ecclesiastes</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Last chapter incomplete.</p>
+                        
+                        
+                        
+                        <p>Has also a Targum with superlinear punctuation.</p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex; Yemenite square and semi-cursive script of 14-15th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper codex.</support>
+                        
+                        
+                        
+                        <extent>276 folios<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>260</height>
+                              
+                              
+                              
+                              <width>200</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>215</height>
+                              
+                              
+                              
+                              <width>145</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>276 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>29 quires originally of 10 leaves each, quire no. 1 and 29 are incomplete.</p>
+                           
+                           
+                           
+                           <p>The quires are signed with Hebrew letters on the upper margin of the first and the lower margin of the last page of a quire.</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Folios 253, 274 and 275 are imperfect.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="24" writtenLines="24">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Ruled with mastara.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Yemenite square script, punctuated, of 14th to 15th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions>
+                     
+                     
+                     
+                     <p>Anonymous subscriptions by the scribe, folios 153v, 186v. </p>
+                  
+                  
+                  
+                  </additions>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Rabbi Sadia on the Psalms, Etc. Hebrew. Brit. Mus. Oriental 1302.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1300" notAfter="1499">14th-15th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Yemen</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Yaḥya ben Yudah</name>, <name type="person" role="owner">Yaḥya ben Tsalaḥ</name>, <name type="person" role="owner">Salām ben Yosef</name>: inscribed in the notes of ownership, folio 1r.</p>
+                  
+                  
+                  
+                  </provenance>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 166.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2013-11-12">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

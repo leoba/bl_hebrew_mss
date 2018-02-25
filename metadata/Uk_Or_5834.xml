@@ -1,0 +1,147 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5834" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5834</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A daily prayer book with prayers for the sick, Ashkenazi rite.</summary>
+						<textLang mainLang="he">Hebrew, German</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="34v"/>
+							<title xml:lang="he-Latn-x-lc">Prayers</title>
+							<title xml:lang="he">תפילות</title>
+							<decoNote type="border">
+								<locus n="1r"/>1 illustrated title page with a cartouche containing the owner’s name, in blue and red.</decoNote>
+							<incipit xml:lang="he">זאת העתקתי מן הפנקס דחבורתא קדישא קברנים דק"ק מנהיי' יצ"ו ה' יסור מאתנו ומכל ב"י כל חולה ומחלה. ואם ח"ו יקרה לא עלינו חולה אח' לשים אל לבו שאין אדם יודע עתו וחייו תלוים לו מנגדו שאם ח"ו פתאום נדחף מביתו ע"כ כתבתי איך יתנהג החולה בעודו שהוא בשכלו דהיינו קודם שהגיע עתו השטן עומד על ימינו לשטנו ואומר לו כפור באלהי ישראל בחלקלקות לשונו. ע"כ יעשה מסירה מודעה זו לפני עדים כשרים וינצל. ומה טוב אם יהיו עשרה אנשים אצל דבר זה. ואפילו בריא יתנהג לעתים יודעים בפרט בין כסא לעשור. נעשה במנהיי' <date calendar="Hebrew">תצ"ב</date> לפ"ק ע"י סופר <name type="person" role="scribe">שמחה פיהם</name> סג"ל.<locus n="1r"/>
+							</incipit>
+							<note>
+								<p>Contains some German text in Hebrew characters.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>21 folios <dimensions unit="mm" type="leaf">
+										<height>120</height>
+										<width>80</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>100</height>
+										<width>60</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>21 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="20">
+									<p>Uniform layout.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Each page is enclosed within a gold rectangular frame.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated, of the 18th century. <name type="person" role="scribe">Simḥah Feiham Segal</name>: inscribed, folio 1r.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Me᾿ir ben Eliyahu Stockart</name>: inscribed in a former owner's note: folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed.</p>
+								<p>Spine: 'Devotions for the sick. Hebrew. Brit. Mus. Or. 5834.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]492" calendar="Hebrew" when="1732"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> (<name type="place">Mannheim</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1900-08-24</date>
+							<p>
+								<name type="person" role="owner">W. Sclater</name>: purchased from him by the British Museum on 24 August 1900: inscribed, folio [23v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">679</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

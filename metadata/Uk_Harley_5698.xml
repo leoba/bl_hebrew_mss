@@ -1,0 +1,202 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5698" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5698</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Lisbon Mishneh Torah, volume 1.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="301v"/>
+							<title xml:lang="en">Mishneh Torah</title>
+							<title xml:lang="he">משנה תורה</title>
+							<author>
+								<addName/>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100185495">משה בן מימון, 1138-1204</persName>
+							</author>
+							<decoNote type="border">1 title page surrounded by penwork decoration and a floriated full border in colours and gold. <locus n="2r"/>
+							</decoNote>
+							<decoNote type="initial">8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. <locus n="11v, 12r, 13v, 31v, 63v, 106v, 197v, 252v"/>
+							</decoNote>
+							<decoNote type="marginal">A drawing of a fish in the margin.<locus n="156r"/>
+							</decoNote>
+							<filiation>See also the second volume of the work, Harley 5699, <ref target="Margoliouth_1965" type="number">487</ref>.</filiation>
+							<note>
+								<p>On this manuscript see also <ref target="Narkiss_1969" type="page">78</ref>, <ref target="Sed-Rajna_1970" type="page">20-23</ref>, <ref target="Wright_1972" type="page"> 246, 459</ref>, <ref target="Narkiss_1982" type="number">I, no. 41; II, figs 394-403</ref>, <ref target="Sed-Rajna_1988" type="page">12-13</ref>, <ref target="Gold_1988" type="page">57</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="10v"/>
+							<title xml:lang="en">613 precepts</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="12r" to="31v"/>
+							<title xml:lang="en">Introduction</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="31v" to="63v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-mada῾ </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="63v" to="106v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ahavah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="106v" to="197v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer zemanim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="197v" to="252v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer nashim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="252v" to="301v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ḳedushah</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>301 folios <dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>245</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>301 folios (+ 3 modern paper flyleaves and 1 older paper flyleaf at the beginning and at the end), one unfoliated leaf [folio 251*] after folio 251.</p>
+								</foliation>
+								<collation>
+									<p>37 quires: i10 (folios 1-10), ii8 (folios 11-18), iii8 (folios 19-26), iv8 (folios 27-34), v8 (folios 35-42), vi8 (folios 43-50), vii8 (folios 51-58), viii8 (folios 59-66), ix8 (folios 67-74), x8 (folios 75-82), xi8 (folios 83-90), xii8 (folios 91-98), xiii8 (folios 99-107), xiv8 (folios 108-114), xv8 (folios 115-122), xvi8 (folios 123-130), xvii8 (folios 131-138), xviii8 (folios 139-146), xix8 (folios 147-154), xx8 (folios 155-162), xxi8 (folios 163-170), xxii8 (folios 171-178), xxiii8 (folios 179-186), xiv10 (folios 187-196), xxv8 (folios 197-204), xxvi8 (folios 205-212), xxvii8 (folios 213-220), xxviii8 (folios 221-228), xxix8 (folios 229-236), xxx8 (folios 237-244), xxxi8 (folios 245-251), xxxii8 (folios 252-259), xxxiii8 (folios 260-267), xxxiv8 (folios 268-275), xxxv8 (folios 276-283), xxxvi8 (folios 284-291), xxxvii10 (folios 292-301).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="36" writtenLines="36">
+									<p>Uniform layout. </p>
+									<p>Visible ruling with a sharp object (complete). Hair-side and flesh-side are distinguishable.
+</p>
+									<p>Scant marginal notes. </p>
+									<p>Fore edge, lower and upper edges are colored with red strips.
+</p>
+									<p>From folio 32 parallel Hebrew foliation starting with no. 22. </p>
+									<p>The older paper flyleaves of the binding have watermarks similar to <ref target="Heawood_1950" type="number">2745</ref>.
+Erasures by a censor (e.g. on folios 38r, 54v, 55r, 264v, 266r, 272v).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, unpunctuated (except a passage on folio 139r), of the 15th century. <name type="person" role="scribe">Shelomoh ibn Alzuḳ</name> : inscribed in the colophon, volume II, folio 434v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Fra Giro[lamo] de Durazzano de Predi[?]</name>: censor's signature and note <date calendar="Gregorian">1640 </date>(folio 1r). Erasures (e.g. folios 58v-59r, 96r-v, 272v). (Narkiss reads the name Durallano), on him see <ref target="Popper_1969" type="number">89</ref>.
+</p>
+							<p>Two illegible Hebrew notes (folio 1r).
+</p>
+							<p>
+								<name type="person" role="owner">Bernard Mould</name> (b. c. 1683; d. 1744), chaplain at Smyrna: inscribed with his name, <name type="place">Smyrna</name>, <date calendar="Gregorian">1724 </date>(folio 301r); sold to <name type="person" role="owner">Edward Harley</name> on <date calendar="Gregorian">28 July 1725</date> (see <ref target="Wright_1972"/>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Moses ben Maimon. Mishneh Torah. Hebrew. Vol. I. Brit. Mus. Harley 5698.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5253" calendar="Hebrew" when="1472"/>
+						<provenance>
+							<p>
+								<name type="place">Portugal</name> (<name type="place">Lisbon</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">486</ref>
+							</bibl>
+							<bibl>
+								<ref target="Harleian_1808" type="number">5698-5699</ref>
+							</bibl>
+							<bibl>
+								<ref target="Wright_1966" type="page">370</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">95</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

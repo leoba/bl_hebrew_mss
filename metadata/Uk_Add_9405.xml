@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-31</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_9405" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 9405</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class=" lccn.loc.gov/n80008481" rend="visible">
+						<summary>Two uniform volumes containing detached protions of Maḥzor, provided with vowel-points and accents.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים </title>
+							<locus from="1r" to="14v"/>
+							<decoNote type="initial">Ornamental word-initials.<locus n="1r, 3v, 6r, 8v, 12r"/>
+							</decoNote>
+							<decoNote type="initial">Pen and ink figurative drawing at the beginning of each book.<locus n="1r, 3v, 6r, 12r"/>
+							</decoNote>
+							<decoNote type="illustration">Two independent full-page pen and ink drawings representing David and Goliath. <locus n="11v"/>
+							</decoNote>
+							<note>
+								<p>See <ref target="Clarke_1835" type="page">114</ref>, <ref target="Metzger_1982" type="page">303</ref>. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="3v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="3v" to="6r"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="6r" to="12r"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="12r" to="14v"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 14th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>14 folios<dimensions unit="mm" type="leaf">
+										<height>248</height>
+										<width>191</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>158</height>
+										<width>124</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>14 folios  (+ 3 unfoliated paper flyleaves at the beginning and  4 at the end of the codex). </p>
+								</foliation>
+								<collation>
+									<p> 	Two quires of 8 and 6 leaves respectively. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="29" writtenLines="28">
+									<p>Uniform layout. </p>
+									<p>Initial word of each book written in large ornamental letters.</p>
+									<p>Some masoretic rubrics at the end of each book.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated and accentuated, of 14th century. <name type="person" role="scribe">Shelomoh  bar Yeḥiʾel</name>, inscibed with his name in volume two of this manuscript, Add MS 9406, folio 32v, with a date of Nisan 5069 (<date calendar="Gregorian">1309</date>). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, tooled brown leather with clasps. </p>
+								<p>Spine: &apos;Megilloth. Hebrew. Brit. Mus. Additional 9405.&apos; </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate when-custom="5069" calendar="Hebrew" when="1309">1309 (5069) </origDate>
+						<origPlace>Germany</origPlace></origin>
+						<provenance>
+							<p>
+								<name type="person" role="patron">... bar Avraham</name>, inscribed with his name in the colophon, volume two, folio 32v. </p>
+						</provenance>
+						<acquisition>
+							<date>1834</date>
+							<p><name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his bookplate with Greek inscription: <q>ho theos agape estin</q> (inner upper cover). This manuscript formed part of the collection of ten Hebrew manuscripts, together with Add MS 9398-9407, once property of the Hagen family and then bought for Adam Clarke at <name type="place">Utrecht </name>in <date calendar="Gregorian">1823</date>, acquired by the British Museum in <date calendar="Gregorian">1834</date>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">143</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

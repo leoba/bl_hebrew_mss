@@ -1,0 +1,175 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_11830" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 11830</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Festival prayer book (maḥzor) for Rosh ha-Shanah, Ashkenazi rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="179v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<decoNote type="initial">
+								<locus n="22r"/>1 decorated initial word in ink. </decoNote>
+							<decoNote type="marginal">1 marginal drawing in ink.<locus n="20v"/>
+							</decoNote>
+							<note>
+								<p>See further <ref target="Davidson_1924"/>
+and <ref target="Butleriana_1841"/>.</p>
+								<p>The lections of the Torah are written twice in parallel columns, once with the vowels and accents and once without. Cf Add MS 22413.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="96r"/>
+							<title xml:lang="en">Services for the first day </title>
+							<note>
+								<p>Shaḥarit (folio 1r) contains the same poetical pieces as in Or. 42.</p>
+								<p>Musaf starts on folio 55r (also the same as in Or. 42).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="96r" to="179v"/>
+							<title xml:lang="en">Services for the second day </title>
+							<note>
+								<p>Shaḥarit begins on folio 96r, musaf begins on folio 140v.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the last quarter of the 14th century, before 1384.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>179 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>179 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires: i<hi rend="sup">10-1</hi> (folios 1-9), ii-xviii<hi rend="sup">10</hi> (folios 10-179). </p>
+									<p>There are catchwords at the end of the quires.</p>
+									<p>Quires are numbered with Latin letters starting at the end of the codex with ‘a’. </p>
+								</collation>
+								<condition>
+									<p>The first leaf of the first quire is missing.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="18">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>8 unfinished initial words (folios 1v, 32v, 62v, 73v, 78r, 97r, 155v, 159v).</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square, punctuated, of the last quarter of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Binding of the Bibliotheca Butleriana: light brown leather, tooled, with the coat of arms of the Bibliotheca Butleriana.</p>
+								<p>Spine: 'Mahzor. New Year's Feast. Hebrew. Brit. Mus. Bibl. Butl. Add. Or. 11,830.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate notBefore="1375" notAfter="1384">1375-1384</origDate>
+						<origPlace>Germany</origPlace></origin>
+						<provenance>
+							<p>Purchase note, partially illegible: <name type="person" role="owner">Yisra᾿el ben Daniyel</name> (?) of Lisbon bought the book for 25 reals in <date calendar="Gregorian">1384</date> (folio 179v).
+							</p>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov Tsoref</name>: inscribed with his name on the margin: ‘I, Ya῾aḳov Tsoref, bought this mahzor for a significant amount of money, <date calendar="Hebrew">[5]454</date>’, <date calendar="Gregorian">1694</date> (folio 86v).
+							</p>
+							<p>Remains of an erased inscription in Latin characters ([i verso]).</p>
+							
+						</provenance>
+						<acquisition>
+							<date>1841</date>
+							<p>
+								<name type="person" role="owner">Samuel Butler</name> (b. 1774, d. 1839), headmaster and bishop of Coventry and Lichfield: his sale catalogue, <name type="org">Payne &amp; Foss</name>, 1841, no. 550, purchased by the British Museum: inscribed (folio [180v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">672</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-09-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

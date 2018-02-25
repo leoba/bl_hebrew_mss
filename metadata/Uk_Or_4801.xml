@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4801" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4801</idno>
+					</msIdentifier>
+					<head>Song of Songs scroll</head>
+					<msContents class="lccn.loc.gov/n80106714" rend="visible">
+						<summary>The Song of Songs. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="1v"/>
+							<title xml:lang="he-Latn-x-lc">Shir ha-shirim</title>
+							<title xml:lang="he">שיר השירים</title>
+							<note>
+								<p>Previously in the possession of Sir <name type="person" role="owner">Moses Montefiore</name>. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 19th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>2 membranes, 9 columns. <dimensions type="leaf" unit="mm">
+										<height>275</height>
+										<width>1270</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>2 membranes. </p>
+								</collation>
+								<condition>
+									<p>Slight damp marks. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="9" ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Visible pricking. </p>
+									<p>Three tagin on שעטנזגץ. The letter ח provided with one tag, and oarched throughout. </p>
+									<p>Two closed sections: 3:1 and 6:1; no open section. </p>
+									<p>One majuscular letter: ש in the first word of the scroll. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Modern square script of the 19th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house (boxed). </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1800" notAfter="1899"/>
+						<acquisition>
+							<date>1894-07-16</date>
+							<p>Acquired by the British Museum from <name type="person" role="owner">M. Swidrichin</name> on 16 July 1894. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">45</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

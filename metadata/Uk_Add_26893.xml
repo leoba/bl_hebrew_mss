@@ -1,0 +1,179 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26893" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26893</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Pesaḳim and Ḥidushim of Isaiah of Trani, the Elder, on the treatises of Yevamot, Ketubot, Nedarim, Giṭin, Ḳidushin, and Nidah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="222v"/>
+							<title xml:lang="en">Pesaḳim </title>
+							<title xml:lang="he">פסקים</title>
+							<author key="http://viaf.org/viaf/28447292">
+								<persName key="http://viaf.org/viaf/28447292" xml:lang="en">Isaiah ben Mali, di Trani, approximately 1200-</persName>
+								<persName key="http://viaf.org/viaf/28447292" xml:lang="he">ישעיה בן מלי, דטראני הזקן </persName>
+							</author>
+							<filiation>Cf. Or 1421,  <ref target="Margoliouth_1965" type="number">522</ref>.</filiation>
+							<msItem rend="v">
+								<locus from="2v" to="58v"/>
+								<title xml:lang="he-Latn-x-lc">Yevamot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58v" to="119v"/>
+								<title xml:lang="he-Latn-x-lc">Ketubot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="119v" to="133v"/>
+								<title xml:lang="he-Latn-x-lc">Nedarim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="133v" to="177v"/>
+								<title xml:lang="he-Latn-x-lc">Giṭin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="177v" to="202v"/>
+								<title xml:lang="he-Latn-x-lc">Ḳidushin </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="202v" to="221v"/>
+								<title xml:lang="he-Latn-x-lc">Nidah</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>222 folios <dimensions unit="mm" type="leaf">
+										<height>295</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>240</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>222 folios (+ 2 modern paper flyleaves at the beginning and 4 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>27 quires of mostly 8 leaves each, marked with catchwords at the end. </p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+									<p>Blank leaves left after folio 118 and 201 respectively.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="46" writtenLines="46">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Chapter and section initials given in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shelomoh bar Avraham of Carpi </name>(?) and <name type="person" role="owner">Yo᾿av Eliyah bar Yo᾿el of Korio</name> (?): inscribed in a contract of sale, dated <date calendar="Hebrew">18 Tishri [5]223</date> (<date calendar="Gregorian">1462</date>), signed by <name type="person">Binyamin bar Shelomoh</name> and <name type="person">Ele῾azar bar Avraham Fo᾿ah</name> as witnesses (folio 221v).</p>
+							<p>
+								<name type="person" role="owner">Yo᾿av Shemaryah of Korio bar Menahem Emanu᾿el</name> and the heirs of <name type="person" role="owner">Natan᾿el Norzi</name>, inscribed in a contract of sale, dated <date calendar="Hebrew">9 April [5]263</date> (<date calendar="Gregorian">1503</date>), witnessed by <name type="person">Mordekhai Shelomoh Galigo</name> (Galiko?) and <name type="person">Shemu᾿el bar Mordekhai </name>(folio 222r).</p>
+							<p>A note of sale, dated <date calendar="Hebrew">[5]427</date> (<date calendar="Gregorian">1667</date>), folio 222r.</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active in the first quarter of the 17th century): inscribed with his name, <date calendar="Gregorian">1617 </date>(folio 221r); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolimitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, <date calendar="Gregorian">1597 </date>(folio 221v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Additional 26,893.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile his manuscript no. 2; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through <name type="person" role="owner">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed (folio <locus n="fse003v">[225v]</locus>).</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">521</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

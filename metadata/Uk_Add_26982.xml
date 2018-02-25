@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26982" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26982</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer mitsṿot ḳaṭan of Isaac of Corbeil, with the additions of Moses of Zurich.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="353v"/>
+							<title xml:lang="en">Sefer mitsṿot </title>
+							<title xml:lang="he">ספר מצות</title>
+							<note>
+								<p>The manuscript begins on folio 4r with the section numbered 149. The last paragraph, which starts on folio 358r, is numbered 295. </p>
+							</note>
+							<author key="http://viaf.org/viaf/4009920">
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="en">Isaac ben Joseph, of Corbeil, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="he">יצחק בן יוסף, מקורביל </persName>
+							</author>
+							<author key="http://viaf.org/viaf/20792982">
+								<persName key="http://viaf.org/viaf/20792982" xml:lang="en">Mosheh, mi-Tsurikh, 1310-1385</persName>
+								<persName key="http://viaf.org/viaf/20792982" xml:lang="he">מצוריך, ‏משה </persName>
+							</author>
+							<filiation>Cf. Add MS 18684 part I, <ref target="Margoliouth_1965" type="number">514</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>353 folios <dimensions unit="mm" type="leaf">
+										<height>250</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>85</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>353 folios (+ 3 modern paper flyleaves at the beginning and at the end). Folios 1-3 are vellum flyleaves. </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each, marked with catchwords at the end. </p>
+								</collation>
+								<condition>
+									<p>Incomplete at the beginning. Folio 352 only partially preserved. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 3" ruledLines="35" writtenLines="35">
+									<p>Uniform layout. Visible pricking and ruling with a pencil (plummet).  </p>
+									<p>Hair-side and flesh-side of the folios indistinguishable. </p>
+									<p>Last line written inside the ruling. </p>
+									<p>Catchwords at the end of the quire in the earlier part, in the later part at the end of each leaf. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the latter part of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 64v: a form of geṭ, issued by Gershon de-Mitkere Se'adyah bar rabi Mosheh, his wife being Merona bat rabi Avraham; dated <name type="place">Zurich</name>, <date calendar="Hebrew">5150 </date>(<date calendar="Gregorian">1390</date>). </p>
+							<p>Folio 1r: the records of birth of three sons and one daughter of Gavri᾿el ben Refa᾿el, first dated <date calendar="Hebrew">[5]269</date> (<date calendar="Gregorian">1509</date>). The manuscript was then presented to Gavri᾿el's gandson, who also entered the birth of his children on the same page. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black buckram.</p>
+								<p>Spine title: 'Isaac of Corbeil. Sepher Mitsvoth Katon, With Notes. Hebrew. Brit. Mus. Additional 26,982.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1350" notAfter="1399"/>
+						<provenance>
+							<p>Germany?</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile his manuscript no. 94; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through <name type="person" role="owner">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed (folio <locus n="fse001v">[353v]</locus>). </p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">515</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

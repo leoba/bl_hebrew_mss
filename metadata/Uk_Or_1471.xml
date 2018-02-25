@@ -1,0 +1,161 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-16</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1471" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1471</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>Former Prophets: Hebrew text with ordinary punctuation and Targum with simple superlinear punctuation in alternate verses; with masorah magna and parva. Maḥberet ha-tigan is prefixed.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1r" to="254v"/>
+							<colophon xml:lang="he">נשלם זה הנביאים בחסד האל וברחמיו יום שלישי דהוא תרין יומין לירח אב ייהפך לששון שנת <date when="1589" calendar="Seleucid">אתתק</date> [?] שנין לשטרי במאתא <name type="place">אלכברה </name>תחרוב ותצדי וירשלם תתבני ותשתכלל אמן כין יאמ' רחום ונכתב על שם בית הכנסת הקדושה וטהורה על שם [?] החבר הטוב והנעים ילד שעשועים <name type="person" role="patron">סעדיה בן דוד בן זכריא בן עמרם העדוע אלאכלופי</name> קנה אותו לשם בית הכנסת כניסה לצף אלהים יזכיהם להגות בו ולדקדק בעניניו ולגלות מצפוניו ... כתבתי ונקדתי ודקדקתי כיד אלהי הטובה עלי אני קל הקלים ועפר רגלי [...]<name type="person" role="scribe"> יוסף בן זכריא בן מעודד בן סעדיא הידוע אלקיסי</name> אלהים ימחול לי על כל מה ששגיתי ...    <locus n="254r"/>
+							</colophon>
+							<textLang mainLang="he" otherLangs="tmr-Hebr"/>
+							<decoNote type="other">
+								<locus from="26v" to="27r"/>Two full pages filled with micrographic designs.</decoNote>
+							<msItem rend="v">
+								<locus from="1v" to="26r"/>
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="28v" to="59v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Judges</title>
+								<locus from="59v" to="92r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Samuel</title>
+								<locus from="92v" to="169r"/>
+								<note>
+									<p>2Samuel starts on folio 134v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="169v" to="254r"/>
+								<note>
+									<p>2Kings starts on folio 210v.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>254 folios<dimensions unit="mm" type="leaf">
+										<height>298</height>
+										<width>203</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>254 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>25 quires of mostly 10 leaves each.</p>
+									<p>The quires are signed with Hebrew letters on the first and the last page. </p>
+									<p>Leaves numbered with Hebrew letters.</p>
+								</collation>
+								<condition>
+									<p>Folios 249-254 are not fully preserved.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Masorah magna occupies generally one to four lines in the lower and one to three lines in the upper margin of the page. </p>
+									<p>A number of masoretic notes is given at the end of each book. </p>
+									<p>All the books except Judges, commence a new page. </p>
+									<p>The beginning and the end of the Hafṭarot are indicated in the margin. An annual cycle for the complete Bible is also noted in various places. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Yemenite square script, punctuated. <name type="person" role="scribe">Yosef ben Zekharyah ben Me'oded ben Se'adyah al-Kaisi</name>; inscribed with his name in the colophon, folio 254r, with an uncertain date of <date calendar="Seleucid">1900</date>. The same person also punctuated the whole manuscript. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Se'adyah ben David ben Zekharyah ben Amram al-Akhlufi</name>; inscribed with his name in the colophon, folio 254r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Joshua-Kings, with Targum. Hebrew. Brit. Mus. Oriental 1471.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1900 (?)" calendar="Seleucid" when="1589"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name> (Al-Kharba)</p>
+							<p>The manuscript was made for a synagogue called <name type="place">Kenisah Latsaf</name>  [כניסה לצף].
+</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">130</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

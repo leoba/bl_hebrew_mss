@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_22122" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 22122</idno>
+					</msIdentifier>
+					<head>Pentateuch with commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The Pentateuch with Rashi&apos;s commentary.</summary>
+						<textLang mainLang="he" otherLangs="la">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="176v"/>
+							<title xml:lang="he-Latn-x-lc">Torah ʿim perush Rash&quot;i</title>
+							<title xml:lang="he">תורה עם פרוש רש&quot;י</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש&quot;י)</persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="2r" to="51v"/>
+							<title xml:lang="en">Genesis </title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="52r" to="98v"/>
+							<title xml:lang="en">Exodus</title>
+							<decoNote type="initial">
+								<locus n="52r"/>Pen and ink initial word decoration.</decoNote>
+						</msItem>
+						<msItem rend="v">
+							<locus from="99r" to="129r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="129v" to="155r"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="155r" to="176v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">176 folios<dimensions unit="mm" type="leaf">
+										<height>276</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>142</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>176 folios (+ 5 unfoliated modern flyleaves and 1 older paper unfoliated vellum flyleaf both at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2 " ruledLines="38" writtenLines="37">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layout. </p>
+									<p>Pricking and hard-point ruling visible. </p>
+									<p>Large square initial words. </p>
+									<p>Several corrections supplied in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi semi-cursive script, not punctuated.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2r" to="131r"/>- Ashkenazi semi-cursive script of c14th century.</p>
+								<p>
+									<locus from="131v" to="176v"/>- a different Ashkenazi semi-cursive script of c14th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Two fragments of a Latin manuscript on ecclesiastical law, with decorated initials, serve as flyleaves at the beginning and at the end of the manuscript. Both contain Hebrew annotations with the names of previous owners. </p>
+							<p>
+								<name type="person" role="owner">Gershon ben Eli῾ezer</name>, <name type="person" role="owner">Ḥayim ben Eli῾ezer</name>,<name type="person" role="owner"> Avraham ben Eli῾ezer</name>, <name type="person" role="owner">Me᾿ir ben Eli῾ezer</name>: inscribed, folios 177r, 177v and 176v: probably of 15th or 16th century. </p>
+							<p>
+								<name type="person" role="owner">Jos. H. Sim. Halberstamm</name>: inscribed with his name in a dedication entry on folio 1r: Andenken der Freundschaft von Jos. H. Sim. Halebrstamm: dated on 07 February 1816 in Warschau (Warsaw).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600; black tooled leather. </p>
+								<p>Spine: &apos;Rashi&apos;s Commentary on the Pentateuch. Hebrew. Brit. Mus. Additional Ms. 22,122.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1857-11-14</date>
+							<p>
+								<name type="person" role="bookseller">Georg Michael Asher </name>(b. 1827, d. 1905): son of Adolphus Asher, bookseller and dealer to the British Museum (<ref target="Paisey_1997" type="page">151</ref>): purchased from him on <date calendar="Gregorian">14 November 1857</date>: inscribed, [177v] .</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">178</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

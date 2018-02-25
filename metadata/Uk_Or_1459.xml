@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1459" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1459</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="6r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 16th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>89 membranes, 268 columns. <dimensions type="leaf" unit="mm">
+										<height>625</height>
+										<width>52410</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>89 membranes, with header/wrapper (813mm). </p>
+								</collation>
+								<condition>
+									<p>Slight tidemark at head. Recurrent damp damage with contractions, losses and a dark brittle margin. </p>
+									<p>Occasional surface abrasion or delamination, a few deliberate erasures. </p>
+									<p>A few pleats slightly obscuring text. </p>
+									<p>Numerous edge tears and wear.</p>
+									<p>A few old repairs, with losses. </p>
+									<p>Usage stains, slight mould spots and a few areas with liquid trickles.  </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="268" ruledLines="45" writtenLines="45">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Visible pricking and stitching. </p>
+									<p>268 columns in total, two to four columns per membrane. </p>
+									<p>Three tagin on the letters שעטנזגץ, and one on the letters בדהחיק. </p>
+									<p>Numbers 13:1-20 is written in smaller letters. </p>
+									<p>Special arrangement of lines of the Song of Moses, Ex. 15. The Song Ha&apos;azinu, Deut. 32, is written in 70 lines. The Song is followed by verses 44-47 arranged in seven lines. The first דרש of Lev. 10:16 is written at the end of the line. Puncta extraordinaria placed only on some of the words fixed by the masorah. </p>
+									<p>Majuscular and minuscular letters occur. </p>
+									<p>The inverted letter nun is placed before and after Num. 10:35-36. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script of the 16th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">17</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2515" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2515</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on Lamentations.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="244v"/>
+							<title xml:lang="he-Latn-x-lc">Perush </title>
+							<title xml:lang="he">פרוש </title>
+							<note>
+								<p>Imperfect at the beginning.</p>
+								<p>The unpointed Hebrew text is embodied, wanting chapters: 1:6, 9-10; 3:17-18, 63-66; 4:2, 8-9.</p>
+								<p>Each verse is followed by an Arabic translation.</p>
+							</note>
+							<author key="http://viaf.org/viaf/21406867">
+								<persName key="http://viaf.org/viaf/21406867" xml:lang="he-Latn-x-lc">Salmon ben Yeroḥam, active 10th century </persName>
+								<persName key="http://viaf.org/viaf/21406867" xml:lang="he">סלמון בן ירחם, קראי</persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1v" to="12v"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="13r" to="244v"/>
+								<title xml:lang="en">Commentary </title>
+								<note>
+									<p>The date of the composition is found on folio 129r as <date calendar="Gregorian">933</date>, and not 956 as in <ref target="Margoliouth_1965" type="number">252</ref>.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the end of 15 or the beginning of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent rend="visible">244 folios <dimensions unit="mm" type="leaf">
+										<height>180</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>244 folios (+2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>27 quires of 10 leaves each, except the last which has 6 leaves only.</p>
+									<p>Quires signed with Hebrew letters and Arabic words on the upper margin of the first page, and with Hebrew letters on the lower margin of the last page.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 27, 36, 44, 46, 76, 85, 134, 163, 171, 180, 209.</p>
+									<p>Visible marks of water-damage.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>Visible hard-point ruling.</p>
+									<p>Biblical verses are given in square characters.</p>
+									<p>Catchword on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script, unpunctuated, of the end of 15th or beginning of 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Salmon ben Yerucham. Comm. on Lamentations. Arabic. Brit. Mus. Oriental 2515.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1490" notAfter="1509"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse002v"> [246v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">253</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

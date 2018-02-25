@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-27</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_26879" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26879</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n80008477  lccn.loc.gov/n80008481  lccn.loc.gov/n82271898" rend="visible">
+						<summary>Former and Latter Prophets punctuated and accentuated, with masorah magna and parva, Targum Jonathan and Rashi&apos;s commentary.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="">
+							<title xml:lang="he-Latn-x-lc">Nevi&apos;im </title>
+							<title xml:lang="he">נביאים </title>
+							<locus from="1r" to="268v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש&quot;י)</persName>
+							</author>
+							<decoNote type="initial"> 3 decorated initial words in ink.<locus n=" 2v, 108r, 154v"/>
+							</decoNote>
+							<decoNote type="marginal">1 marginal drawing, in brown ink.<locus n="97v"/>
+							</decoNote>
+							<decoNote type="paratext">Micrography on 2 folios.<locus n="199v, 267v"/>
+							</decoNote>
+							<decoNote type="paratext">Rashi&apos;s commentary in carmina figurata in numerous folios. </decoNote>
+							<decoNote type="marginal">Decorated signs of haftarot, in brown ink.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="2v" to="26v"/>
+							<title xml:lang="en">Joshua</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="26v" to="50r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="50r" to="108r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="108r" to="154v"/>
+							<note>
+								<p>Missing chapters: 1Kings 8:7-16:26.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="154v" to="155r"/>
+							<title xml:lang="en">Jeremiah</title>
+							<note>
+								<p>Only 1:1.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="155r" to="199v"/>
+							<title xml:lang="en">Ezekiel</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="199v" to="235r"/>
+							<title xml:lang="en">Isaiah</title>
+							<note>
+								<p>Missing chapters 53:11-66:24.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="235r" to="236r"/>
+							<title xml:lang="en">Hosea</title>
+							<note>
+								<p>Missing 1:1-9:16; 12:4-14:10.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="236r" to="237v"/>
+							<title xml:lang="en">Joel</title>
+							<note>
+								<p>Missing 1:1-2:11.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="237v" to="243r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="243r" to="243v"/>
+							<title xml:lang="en">Obadiah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="243v" to="245v"/>
+							<title xml:lang="en">Jonah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="245v" to="249r"/>
+							<title xml:lang="en">Micah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="249r" to="251r"/>
+							<title xml:lang="en">Nahum</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="251r" to="252v"/>
+							<title xml:lang="en">Habakuk</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="252v" to="254v"/>
+							<title xml:lang="en">Zephaniah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="254v" to="256v"/>
+							<title xml:lang="en">Haggai</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="256v" to="265r"/>
+							<title xml:lang="en">Zechariah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="265r" to="268v"/>
+							<title xml:lang="en">Malachi</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex; Ashkenazi square and semi-cursive script,  partially punctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>268 folios<dimensions unit="mm" type="leaf">
+										<height>365</height>
+										<width>290</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200/315</height>
+										<width>205/240</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>268 folios (+ 3 unfoliated modern paper flyleaves at the beginning and 1 unfoliated older paper flyleaf and 3 unfoliated modern paper flyleaves at the end); folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>23 quires: i12 (2-13), ii12 (14-25), iii12 (26-37), iv12 (38-49), v12 (50-61), vi12 (62-73), vii12 (74-85), viii12 (86-97), ix8 (98-105), x12 (106-117), xi12 (118-129), xii12 (130-141), xiii12 (142-153), xiv12-3 (154-162), xv12 (163-174), xvi12 (175-186), xvii12 (187-198), xviii12 (199-210), xix12 (211-122), xx12 (223-234), xxi10 (235-244), xxii12 (245-256), xxiii12 (257-268). </p>
+									<p>Catchwords present throughout.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="38" writtenLines="37">
+									<p>The older flyleaves have a watermark of a coat of arms with a man in the moon, not found in <ref target="Briquet_1968"/>and <ref target="Heawood_1950"/>. </p>
+									<p>Pricking and ruling are visible.
+</p>
+									<p>Lacunae in the text are after folios 117, 154, 234, 235.</p>
+									<p>Masorah magna occupies three lines in the upper and four in the lower margin.</p>
+									<p>The Targum forms the inner column and Rashi&apos;s commentary (often in the form of circles and other designs) is written in the outer part of the page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi (French?) square and semi-cursive script, partially punctuated. <name type="person" role="scribe">Yehudah Leṿi</name>?: the name Yehudah is marked on 176r; Leṿi is marked on 266r. Scribal formula: &apos;Grow stronger and let us grow stronger. May no harm befall on the copyist not today and not ever until the donkey ascends the ladder to the heavens about which our father Jacob had dreamed&apos; (267v).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Purchase note, with names deleted, 5119 [1359] (2r); copy of the same purchase note, 17th-18th century. </p>
+							<p>Partially deleted inscription: [.. ..] Bar Elhanan blessed be his memory [.. ..] Mosheh Leṿi (2r). </p>
+							<p>Illegible Latin inscriptions (3r). </p>
+							<p>Entries of births and deaths (268r). </p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Vistorini</name>: inscribed &apos;Gio. Dom. Vistorini 1609&apos; (2r, 267v), see <ref target="Popper_1969" type="number">85-87</ref>. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"></origin>
+						<provenance>
+							<p>
+								<name type="place">France</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1865-08-24</date>
+							<p><name type="person" role="owner">Samuel Schönblum</name>: purchased by the British Museum from him on <date calendar="Gregorian">24 August, 1865</date>: inscribed ([239v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">187</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

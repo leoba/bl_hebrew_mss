@@ -1,0 +1,205 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_4709" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 4709</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with the Five Scrolls, Psalms, Job and the Hafṭarot, with punctuation and accents.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="295v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot </title>
+							<title xml:lang="he">תורה, מגילות  והפטרות </title>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">אברהם פריצול י"ץ בכמ"ר מרדכי פריצול</name> י"ץ <name type="place">מאויניון </name>כתבתי הספר הלז אשר בו תורת משה ע"ה וה' מגלות ותלים משלי ואיוב והפטרות כל השנה כלה אל החשוב כמ"ר <name type="person" role="patron">שמואל מפולא</name> יזיי"א השם יחנהו ויזכהו הוא וזרעו וזרע זרעו לקרוא ולהגות בזה ובשאר כתבי הקדש לעד אמ'. והשלמתיו פה <name type="place">סירמיני </name>גליל מאנטובא ביום צום אסתר המלכה <date when="1486" calendar="Hebrew">שנת "אמר" גואלך ה' לאלף הששי</date>. ולאל לבדו התהלה אשר עזרני עד כה. יתברך שמו אמן.<locus n="293v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="34v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="34v" to="64r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="64r" to="85v"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="85v" to="115v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="116r" to="143v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="144r" to="146r"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="146v" to="148v"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="149r" to="152r"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="152r" to="157r"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="157v" to="164r"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="164v" to="208v"/>
+							<title xml:lang="en">Psalms</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="209r" to="222v"/>
+							<title xml:lang="en">Proverbs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="223r" to="239v"/>
+							<title xml:lang="en">Job</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="240r" to="293v"/>
+							<title xml:lang="en">Hafṭarot for the whole year</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">295 folios<dimensions unit="mm" type="leaf">
+										<height>226</height>
+										<width>156</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>154</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>295 folios (+ 6 unfoliated flyleaves at the beginning and 4 unfoliated flyleaves at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>30 quires of 10 leaves, except from the last quire which has 6 leaves extant.</p>
+									<p>Quires are signed with Hebrew letters on the first and last pages, and marked with catchwords on the last page.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26 28" writtenLines="26 28">
+									<p>Uniform layout. </p>
+									<p>Visible vertical (page by page) plummet ruling and horizontal (page by page) ink ruling. </p>
+									<p>Graphic filler at the end of line. Last written line within ruling. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+									<p>Deuteronomy, Song of Songs, Lamentations, Psalms, Proverbs and Hafṭarot commence a new leaf.</p>
+									<p>Initial word of each book written in larger letters.</p>
+									<p>Beginning of a pericope in the Pentateuch marked by פרש', accompanied with a small pen and ink design.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the 15th century, punctuated and accentuated. <name type="person" role="scribe">Abraham Farissol [of Avignon]</name>, son of Mordekhai Farissol, inscribed with his name in colophon, folio 293v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yeḥiel Foah</name>, inscribed with his name on folio 293v: זה החומש עם ההפטרות ותלים משלי איוב וה&apos; מגילות של היקר כמר&apos; יחיאל פואה יצו&apos; אחרי חלוק האחי&apos; ... ה&apos; למען חסדיו יזכהו להגות בו הוא וזרעו וזרע זרעו עד סוף כל הדורות אכיר&apos;. </p>
+							<p>Partially erased Hebrew inscription, folio 294v, with tan oath and the names of five witnesses, dated <date calendar="Hebrew">251</date> (<date calendar="Gregorian">1491</date>). </p>
+							<p>
+								<name type="person" role="patron">Shemu᾿el of Pula</name> (?), inscribed with his name on folio 1v, with a list of his sons (faded ink). </p>
+							<p>Anonymous censorial note is given on folio 294v: Io fra luigi lo uidi del 1599.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Morocco binding, gold-tooled. </p>
+								<p>Spine: &apos;Codex Biblicus Hebraice. Mus. Brit. Ex Dono Sol. da Costa. 4709.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5246" calendar="Hebrew" when="1486"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, C.</name> (<name type="place">Sermide</name>, <name type="place">Mantua</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1719</date>
+							<p><name type="person" role="owner">Salomon da Costa</name>, inscribed with his name on the upper and lower cover of the binding, in gold letters and ornamental design, dated <date calendar="Gregorian">1719</date>, <name type="place">London</name>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">95</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

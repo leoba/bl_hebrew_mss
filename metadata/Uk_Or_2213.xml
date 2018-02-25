@@ -1,0 +1,204 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2213" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2213</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-gadol on Genesis, attributed to David Adani. </summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1v" to="175v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-gadol </title>
+							<title xml:lang="he">מדרש הגדול </title>
+							<note>
+								<p>Many marginal notes. </p>
+							</note>
+							<author key="http://viaf.org/viaf/19572491">
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="en">Adani, David ben Amram, active 13th century-14th century </persName>
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="he">העדני, דוד בן עמרם </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1v" to="6r"/>
+								<title xml:lang="en">Introductory midrash</title>
+								<note>
+									<p>A rhymed, poetic prologue.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="6r" to="41r"/>
+								<title xml:lang="en">Midrash on Be-reshit</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="41r" to="53v"/>
+								<title xml:lang="en">Midrash on Noaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="53v" to="67r"/>
+								<title xml:lang="en">Midrash on Lekh lekha</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="67r" to="82v"/>
+								<title xml:lang="en">Midrash on Va-yera᾿</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82v" to="94v"/>
+								<title xml:lang="en">Midrash on Ḥaye Sarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="94v" to="106r"/>
+								<title xml:lang="en">Midrash on Toledot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="106r" to="117v"/>
+								<title xml:lang="en">Midrash on Ṿa-yetse</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="117v" to="129r"/>
+								<title xml:lang="en">Midrash on Ṿa-yishlaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="129r" to="139v"/>
+								<title xml:lang="en">Midrash on Ṿa-yeshev</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="139v" to="151v"/>
+								<title xml:lang="en">Midrash on Mi-ḳets</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="151v" to="159v"/>
+								<title xml:lang="en">Midrash on Ṿa-yigash</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="159v" to="175v"/>
+								<title xml:lang="en">Midrash on Ṿa-yeḥi</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>175 folios<dimensions type="leaf" unit="mm">
+										<height>285</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>175 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires of 10 leaves each, apart from nos. 1 (11 leaves), 17 (8 leaves) and 18 (6 leaves). </p>
+									<p>Signatures in Hebrew letters at the beginning of a quire. </p>
+								</collation>
+								<condition>
+									<p>Folios 173 and 175 are slightly mutilated. </p>
+									<p>Partly water-damaged in the top part of the folios. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="33 34" writtenLines="33 34">
+									<p>Many marginal notes and additions. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of 16th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r is a doodle-page. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Midrash Haggadol. Genesis. Hebrew. Brit. Mus. Oriental 2213.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1879-12-13</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879: inscribed, folio <locus n="fse001v">[176v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">347</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

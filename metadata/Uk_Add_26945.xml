@@ -1,0 +1,149 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26945" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26945</idno>
+					</msIdentifier>
+					<head>Poetry</head>
+					<msContents class="lccn.loc.gov/sh85070315" rend="visible">
+						<summary>Satirical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="11v"/>
+							<title xml:lang="he-Latn-x-lc">Minḥat Yehudah śone ha-nashim</title>
+							<title xml:lang="he">מנחת יהודה שונא הנשים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/22011154">Judah ben Isaac ibn Shabbetai</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/22011154">שבתי, יהודה בן יצחק אבן</persName>
+							</author>
+							<note>
+								<p>There is a lengthy introduction by Joseph Almanzi on folio 2r. </p>
+								<p>Prefixed to the satire is a poem by Yitsḥaḳ Ḥayim Cantarini of Padua, in which every word begins with the letter shin, on the occasion of the marriage between Sha᾿ul ben Shim῾on Lusṭro and Simḥah bat Shemu᾿el Barukh.</p>
+							</note>
+							<filiation>Copied by Joseph Almanzi from Add MS 27113.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>11 folios<dimensions type="leaf" unit="mm">
+										<height>285</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>255</height>
+										<width>165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>11 folios (+ 2 unfoliated paper flyleaves at the beginning and 6 at the end). </p>
+								</foliation>
+								<collation>
+									<p>1 quire of 16 leaves.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="16 30" writtenLines="16 30">
+									<p>Uniform layout.</p>
+									<p>Visible ink and pencil ruling.</p>
+									<p>Catchwords on every page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square script, partly vocalised, of the 19th century. <name type="person" role="scribe">Joseph Almanzi</name>: inscribed, folio 2r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Minchath Yehudah. Hebrew. Brit. Mus. Additional 26,945.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5578" calendar="Hebrew" when="1818"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 54: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [12v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">928</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

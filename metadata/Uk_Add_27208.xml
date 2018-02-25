@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27208" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27208</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book according to the German rite, with a commentary.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="299v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<note>
+								<p>The accompanying commentary is mostly based on the writings of <name type="person" role="commentator">Judah ben Samuel he-Ḥasid</name>. The volume includes Avot with a commentary which agrees in the main with that contained in Add MS 27201 (i.e. Maḥzor Viṭry).</p>
+							</note>
+							<decoNote type="initial">
+								<locus n="1r, 13r"/>2 decorated initial-word panels with pen flourishing, in colours.</decoNote>
+							<decoNote type="initial">
+								<locus n="96v, 97r, 149r"/>3 pen-decorated frames with initial words.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="83r"/>
+							<title xml:lang="en">Services for week-days</title>
+							<note/>
+						</msItem>
+						<msItem rend="">
+							<locus from="83r" to="123v"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="123v" to="136r"/>
+							<title xml:lang="en">Special portions for Rosh ḥodesh etc.</title>
+							<note>
+								<p>Includes portions for Rosh ḥodesh, Purim, Ḥanukah, Tish῾ah be-Av, followed by haṭavat ḥalom.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="136r" to="147v"/>
+							<title xml:lang="en">Prayers for shalosh regalim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="147v" to="177v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Pesaḥ</title>
+							<note>
+								<p>The Psalms of the Halel in the Hagadah (folio 166r sqq.) are accompanied by David Kimḥi's commentary.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="177v" to="227v"/>
+							<title xml:lang="he-Latn-x-lc">Avot</title>
+							<filiation>Cf the commentary contained in Add MS 27201 (Maḥzor Viṭry).</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="227v" to="264r"/>
+							<title xml:lang="en">Prayers for Rosh ha-Shanah and Yom Kipur</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="264r" to="286r"/>
+							<title xml:lang="he-Latn-x-lc">Hosh῾anot</title>
+							<note>
+								<p>The commentary on the Hosh῾anot agrees with that contained in Add MS 27556 (<ref target="Margoliouth_1965" type="number">653</ref>).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="286r" to="299v"/>
+							<title xml:lang="en">Prayers and readings for yamim ṭovim</title>
+							<note>
+								<p>The commentary includes a portion of dinim taken from Ṭur oraḥ ḥayim of <name type="person" role="author">Jacob ben Asher</name>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>299 folios <dimensions unit="mm" type="leaf">
+										<height>86</height>
+										<width>63</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>80</height>
+										<width>55</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>299 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each, marked with catchwords at the end (nearly entirely cut away).</p>
+								</collation>
+								<condition>
+									<p>Ink considerably worn off (roughly retouched on folios 1-14).</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="15 25" writtenLines="14 24">
+									<p>Uniform layout, with varying number of lines in the margin.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words are written in larger characters. Some initial words are highlighted in red ink (see folios 2r, 3r, 55r, 56r, 57r, 98r, etc.).</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Most of the margins are occupied with the commentary. The margin left by the scribe for commentary has on some pages been left blank.</p>
+									<p>Parts of the main text are written in red ink, see e.g. folios 168v, 172v, 177r, etc.</p>
+									<p>The commentary in the margin takes various geometrical and decorative shapes, see e.g. folios 99v, 103v, 109v, 125v, 137v, 161v, etc.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square and semi-cursive script, partially punctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Tephilloth. German Use. Hebrew. Brit. Mus. Additional 27,208.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 323: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio [301v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">654</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

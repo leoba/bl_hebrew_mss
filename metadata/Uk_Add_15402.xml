@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15402" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15402</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash Aba Orion (aka Midrash Aba Gurion) on the book of Esther.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="18v"/>
+							<title xml:lang="he-Latn-x-lc">[Midrash] Aba Orion</title>
+							<title xml:lang="he">[מדרש] אבא אריון</title>
+							<listBibl>
+								<bibl>
+									<ref target="Jellinek_1853" type="page">1-18</ref> of volume 1.</bibl>
+								<bibl>
+									<ref target="Safrai_1987" type="page">189-202</ref>
+								</bibl>
+							</listBibl>
+							<explicit xml:lang="he">תם אבא אוריון<locus n="18v"/>
+							</explicit>
+							<incipit xml:lang="he">אבא אוריון פי' אסתר פי'<locus n="1r"/>
+							</incipit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of approximately 13 or 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>18 folios<dimensions type="leaf" unit="mm">
+										<height>120</height>
+										<width>98</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>80</height>
+										<width>62</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>18 folios (+2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>2 quires of 8 leaves each and 2 additional folios at the beginning and at the end.</p>
+									<p>Catchwords at the end of a quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24 25" writtenLines="24 25">
+									<p>Writing depends from the ruled line.</p>
+									<p>Has a title page with a simple pen and ink design, folio <locus n="1r"/>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary/>
+							<handNote script="Hebrew" scope="sole">
+								<p>Sefardi semi-cursive script of approximately 13th or 14th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 2r &amp; 2v is a modern paper. Contains a description of the manuscript in Latin.</p>
+							<p>
+								<name type="person" role="owner">Avraham ben Aharon</name>: inscribed, folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Light brown leather, blind-tooled.</p>
+								<p>Spine title: 'Abba Urian. Comm. in Estheram. Mus. Brit. Jure Empt. 15,402. Plut.'</p>
+								<p>Boxed.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1845-01-18</date>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick</name> (b. 1773, d. 1843), Duke of Sussex: his armorial book-plate, stuck to the inner upper cover; his sale <date calendar="Gregorian">18 January 1845</date>: inscribed (<locus n="fse001v">[19v]</locus>), lot 1, purchased by the British Museum through <name type="person" role="bookseller">Thomas Rodd the younger </name>(b. 1796, d. 1849).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">343</ref>
+							</bibl>
+							<bibl>
+								<ref target="Pettigrew_1827"/>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,150 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18228" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18228</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A kabbalistic work of Menahem Azariah da Fano.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="12v"/>
+							<title xml:lang="he-Latn-x-lc">Tefilot ṿe-seder teḳi῾ot le-yamim nora᾿im ῾im kaṿanot</title>
+							<title xml:lang="he">תפלות וסדר תקיעות לימים נוראים עם כונות </title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/23282531">Fano, Menahem Azariah da 1548-1620</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/23282531">מנחם עזריה, מפאנו</persName>
+							</author>
+							<note>
+								<p>A treatise on the shofar blasts of Menahem Azariah da Fano, followed by kabbalistic notes on other portions of the services for the New Year's feast and the Day of Atonement.</p>
+								<p>On folio 11r begins a part dealing with the custom of 'tashlikh': "נוהגים באשכנז לילך ביום א' של ר"ה אחר תפלת המנחה אל הים".</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>12 folios<dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>12 folios (+ 5 unfoliated paper flyleaves at the beginning and 27 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 6 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Uniform layout.</p>
+									<p>Initial words in large characters, divine names in larger square characters.</p>
+									<p>Comments and notes in the margin, in small cursive and semi-cursive.</p>
+									<p>Folio 2 is a title page, with a printed (engraved) design.</p>
+									<p>Watermark of a crwoned cross within a coat of arms held by two griffins, with initials MR, folio [13] (first end flyleaf).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1v: a short description of the manuscript in English.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Card with dark brown leather corners and spine.</p>
+								<p>Spine: 'Sod Hathekioth. Hebr. Mus. Brit. Jure Empt. 18,228.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1850-07-13</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): purchased from him on 13 July 1850: inscribed, folio [13v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">844</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-01-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

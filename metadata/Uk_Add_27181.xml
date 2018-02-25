@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27181" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27181</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85113223" rend="visible">
+						<summary>A large fragment of Teshuvot ha-ge᾿onim.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85113223">
+							<locus from="1r" to="50v"/>
+							<title xml:lang="he-Latn-x-lc">Teshuvot ha-ge᾿onim</title>
+							<title xml:lang="he">תשובות הגאונים</title>
+							<note>
+								<p>No. 198 is the last extant question in this manuscript.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>50 folios <dimensions unit="mm" type="leaf">
+										<height>217</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>162</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>50 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 6 to 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Water-damaged, especially upper and lower margins.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="39" writtenLines="39">
+									<p>Uniform layout. </p>
+									<p>Pricking and pencil ruling is visible.</p>
+									<p>Initial words in each section is given in larger characters, and in red ink on folios 1r-10v.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Some marginal notes and additions are present.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>The parchment flyleaf at the beginning and at the end: parts of Spanish calendar of the 14th to 15th century: [iv recto], [iv verso], [51r], [51v].</p>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name (folio 50v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active in the first quarter of the 17th century): inscribed with his name, 1628? (folio 50r); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Teshoboth Hag-Geonim. Hebrew. Brit. Mus. Additional 27,181.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 291:his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio [52v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">565</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

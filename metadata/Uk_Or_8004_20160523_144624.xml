@@ -1,0 +1,624 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-06-19</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_8004" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 8004</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314112</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724258.0x000001</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Maṭeh Dan by David Nieto</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85100947" rend="visible">
+                  
+                  
+                  
+                  <summary>A philosophical treatise. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="ita" otherLangs="he"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="229v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Maṭeh Dan</title>
+                     
+                     
+                     
+                     <title xml:lang="he">מטה דן</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName key="viaf.org/viaf/16192163" xml:lang="en">Nieto, David</persName>
+                        
+                        
+                        
+                        <persName key="viaf.org/viaf/16192163" xml:lang="he">ניטו, דוד בן פינחס</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>In an Italian translation, the quotations from biblical and later Jewish literature being given in both Hebrew and Italian. </p>
+                        
+                        
+                        
+                        <p>Dedica del Autore, folio 2r; Prefazione del Autore, folio 4r; Dialogo Primo, folio 10r; Dialogo ii, folio 24r; Dialogo iii, folio 54r; Dialogo iv, folio 105r; Dialogo v, folio 172r. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 18th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper. </support>
+                        
+                        
+                        
+                        <extent>229 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>210</height>
+                              
+                              
+                              
+                              <width>150</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>175</height>
+                              
+                              
+                              
+                              <width>110</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>229 folios (+ 1 unfoliated paper flyleaf at the beginning and 6 at the end).
+</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 8 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Slight tidemark at head in opening leaves.  </p>
+                           
+                           
+                           
+                           <p>Paper foxing, especially near edges.</p>
+                           
+                           
+                           
+                           <p>Usage stains, grease, spills.
+</p>
+                           
+                           
+                           
+                           <p>Three final blanks torn out, with remains of fragments. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="27" writtenLines="27">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Running titles. </p>
+                           
+                           
+                           
+                           <p>Last word of each folio repeated at the beginning of the next. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Italian and Hebrew cursive script of the 18th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions/>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>Post-1600. Ivory vellum over boards (stained). Boxed. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Nieto. Matteh Dan. Italian &amp; Hebrew. Brit. Mus. Oriental 8004.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1700" notAfter="1799">18th century </origDate>
+                     
+                     
+                     
+                     <origPlace>Italy</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Sig. Raffael David Vitta Maestro</name>: inscribed, folio 1r. </p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1908-07-28</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="bookseller">J.M. Belf</name>: purchased by the British Museum on 14 April 1914: inscribed, folio 2r. </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1174.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-06-19">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

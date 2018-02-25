@@ -1,0 +1,191 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2374" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2374</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points, in parts with Aramaic and Arabic translation.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים </title>
+							<locus from="1r" to="180v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="61v"/>
+							<title xml:lang="en">Psalms</title>
+							<note>
+								<p>Missing chapters: 1:1-11:1, 25:14-28:3, 106:40-107:7, 126:1-135:17.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="61v" to="84v"/>
+							<title xml:lang="en">Job</title>
+							<note>
+								<p>Missing chapters: 1:9-5:25, 36:16-37:23.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="84v" to="104r"/>
+							<title xml:lang="en">Proverbs</title>
+							<note>
+								<p>Missing chapters: 20:21-22:8, 29:16-30:24.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="104r" to="104r"/>
+							<title xml:lang="en">Lamentations</title>
+							<note>
+								<p>Missing: 1:1-5:13</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="104r" to="114r"/>
+							<title xml:lang="en">Daniel</title>
+							<note>
+								<p>Missing: 6:25-12:13</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="114r" to="123v"/>
+							<title xml:lang="en">Esther</title>
+							<note>
+								<p>Missing 1:1-6:11</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="123v" to="147v"/>
+							<title xml:lang="en">Ezra</title>
+							<note>
+								<p>Nehemiah starts on folio 134r. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="147v" to="180v"/>
+							<title xml:lang="en">Chronicles</title>
+							<note>
+								<p>2Chronicles start on folio 164v. Missing 2Chron. 24:14-26:1, 34:28-36:23. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>180 folios<dimensions unit="mm" type="leaf">
+										<height>340</height>
+										<width>235</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>173</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>180 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p> 	22 quires, originally of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Numerous lacunae.</p>
+									<p>Folia 12, 59, 61 and 107 are mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="28" writtenLines="28">
+									<p>Four blank lines are left between the end of the book and the beginning of another.</p>
+									<p>Psalms are divided into 5 books.</p>
+									<p>The beginning to a number of lessons is indicated in the margin.</p>
+									<p>A scanty masorah parva.</p>
+									<p>The sedarim are marked with the letter samekh in the margin.</p>
+									<p>Some masoretic notes are added with a later hand.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script, punctuated, of the 15 to 16th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Hagiographa With Arabic Vers.  Hebrew. Brit. Mus. Oriental 2374.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1475" notAfter="1524"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>, folio [181v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">149</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

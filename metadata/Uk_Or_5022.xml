@@ -1,0 +1,137 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5022" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5022</idno>
+					</msIdentifier>
+					<head>Ḥidushim</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Contains Novellae of Jonah Gerondi on Bava batra.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="255v"/>
+							<title xml:lang="en">Ḥidushe Rabenu Yonah ῾al masekhet Bava batra </title>
+							<title xml:lang="he">חדושי רבינו יונה על מסכת בבא בתרא </title>
+							<note>
+								<p>There are no novellae on chapters 6 and 10 of the tractate.</p>
+							</note>
+							<author key="http://viaf.org/viaf/25683756">
+								<persName key="http://viaf.org/viaf/25683756" xml:lang="en">Jonah ben Abraham Gerondi, approximately 1200-1263</persName>
+								<persName key="http://viaf.org/viaf/25683756" xml:lang="he">יונה בן אברהם, גרונדי, 1200?-1263 </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>255 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>148</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>255 folios (+ 1 modern paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Last few pages slightly stained and worm-eaten.</p>
+									<p>Imperfect.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19 25" writtenLines="19 25">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Has some marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Marbled paper cover with brown leather spine.</p>
+								<p>Spine title: 'Novellae of Jonah Gerondi on Baba Bathra. Hebrew. Brit. Mus. Or. 5022.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">422</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

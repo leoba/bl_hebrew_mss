@@ -1,0 +1,168 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5586" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5586</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch provided with vowel-points and accents, accompanied by Masorah magna and parva. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="2r" to="170v"/>
+							<title xml:lang="he">תורה</title>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="en">Pentateuch</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>Many letters in this manuscript are provided with tagin (e.g. folios 32v, 40r, 53v), and the majuscular and minuscular letters (folio 54v), the פ' לפופות and other ornamental forms of letters are introduced.</p>
+							</note>
+							<msItem rend="visible">
+								<locus from="2r" to="43r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="43r" to="78v"/>
+								<title xml:lang="en" rend="visible">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="78v" to="103v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="103v" to="140r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="140r" to="170v"/>
+								<title xml:lang="en">Deuteronomy</title>
+								<note>
+									<p>Missing chapters: 32: 29b – 34:12.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of approximately 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>170 folios <dimensions unit="mm" type="leaf">
+										<height>254</height>
+										<width>180</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>170 folios (+ 2 unfoliated paper flyleaves at the beginning of the manuscript, 1 after folio 5, 1 after folio 208 and 3 at the end of the manuscript)</p>
+								</foliation>
+								<collation>
+									<p>17 quires of 10 leaves each.</p>
+									<p>Quires are marked with catchwords on the last page of the quire and signed with Hebrew letters on the first and the last pages..</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Two columns of 26 written lines. </p>
+									<p>The last four books begin in the middle of a column, after a blank space of four lines. </p>
+									<p>A new pericope is either headed by the word 'parashah' or indicated by the same word in the margin. </p>
+									<p>Thick parchment ruled with hard-point on the hair-side of a folio. Pricking hardly visible. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script with sublinear punctuation and with accents, probably of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Avraham ben Shelomoh of Fano</name>, inscribed with his name on folio 1v, לה' הארץ ומלואה הגיע לחלק אברהם מפאנו בכר' שלמה מפאנו ז"ל.        </p>
+							<p>
+								<name type="person" role="owner">Eliezer ben Avraham</name> and <name type="person" role="owner">Shelomoh of Fano</name>, previous owners of this manuscript, also recorded on folio 1v.</p>
+							<p>
+								<name type="person" role="owner">Edward Harley</name>: inscription by Harley's librarian, <name type="person">Humfrey Wanley</name>, <date calendar="Gregorian">18 January 1723/4</date> (folio 1r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley </name>(b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.  Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">85</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

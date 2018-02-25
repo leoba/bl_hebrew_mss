@@ -1,0 +1,141 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2533" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2533</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/sh98001892" rend="visible">
+						<summary>A collection of Karaite piyuṭim.</summary>
+						<textLang mainLang="he" otherLangs="jrb"> </textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh98001892">
+							<locus from="1r" to="351v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭim</title>
+							<title xml:lang="he">פיוטים</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>351 folios <dimensions unit="mm" type="leaf">
+										<height>155</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>120</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>351 folios (+ 2 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Folios 16, 17, 117, 335-338, 349-351 are later restorations.</p>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Lacunae after folios 145, 205, 242, 333.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="13" writtenLines="13">
+									<p>Uniform layout. </p>
+									<p>Titles of particular pieces are written in larger square characters.</p>
+									<p>Catchwords are given on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental (Karaite) semi-cursive and square script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BL/BM in-house.</p>
+								<p>Spine: 'Karaite Piyutim. Hebrew. Brit. Mus. Oriental 2533.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Syria</name> (<name type="place">Damascus</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed, folio [352v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">728</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

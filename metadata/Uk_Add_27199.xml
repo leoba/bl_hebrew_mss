@@ -1,0 +1,285 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-03-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27199" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27199</idno>
+					</msIdentifier>
+					<head>Kabbalistic collectaneum</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of mystical and kabbalistic texts.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="379v"/>
+							<textLang mainLang="he"/>
+							<title xml:lang="he-Latn-x-lc">Sode razaya</title>
+							<title xml:lang="he">סודי רזייא</title>
+							<listBibl>
+								<bibl>
+									<ref target="Sode_Razaya_1987"/>
+								</bibl>
+								<bibl>
+									<ref target="Sefer_Raziel_1701"/>
+								</bibl>
+								<bibl>
+									<ref target="Odeberg_1928" type="page">18</ref>
+								</bibl>
+								<bibl>
+									<ref target="Dan_1968" type="page">62-64</ref>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/77127716">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/77127716">אלעזר בן יהודה, מגרמיזה</persName>
+							</author>
+							<note>
+								<p>The contents of folio 1-49 are very close to those printed in Sefer Raziel, ed. Amsterdam 1701, folios 7v-24r.</p>
+								<p>The manuscript contains all the five parts of Sode razaya: Sod ma῾aseh bereshit, Sod ha-merkavah (including Hilkhot Metatron, Hilkhot mal᾿akhim, Hilkhot ha-kise, Hilkhot ha-kavod, Hilkhot ha-dibur, Hilkhot ha-nevu᾿ah, Hilkhot ha-emunah), Sefer ha-shem, Perush sefer yetsirah, Sefer ḥokhmat ha-nefesh.</p>
+								<p>The marginal notes are partially in Latin, especially between folios 55-290.</p>
+							</note>
+							<decoNote type="diagram">
+								<locus n="32r, 32v, 37v, 88v, 90r, 150r, 151r, 228v, 271v, 272r, 272v, 369v"/>Diagrams (ink).</decoNote>
+							<decoNote type="vignette">
+								<locus n="152r, 168v, 290r"/>Maniculae.</decoNote>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="379v" to="388v"> </locus>
+							<title xml:lang="he-Latn-x-lc">Sefer yetsirah</title>
+							<title xml:lang="he">ספר יצירה</title>
+							<listBibl>
+								<bibl>
+									<ref target="Yetsirah_1901"/>
+								</bibl>
+								<bibl>
+									<ref target="Hayman_2004"/>
+								</bibl>
+							</listBibl>
+							<filiation>Cf contents of Or 6577, <ref target="Margoliouth_1965" type="number">736</ref>.</filiation>
+							<note>
+								<p>This recension of Sefer yetsirah is presented in five chapters.</p>
+							</note>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="388v" to="470v"/>
+							<title xml:lang="he-Latn-x-lc">Perush sefer yetsirah</title>
+							<title xml:lang="he">פירוש ספר יצירה</title>
+							<listBibl>
+								<bibl>
+									<ref target="Sode_Razaya_1987"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>The author's colophon is copied on folio 470r: <q>הסלת ספר יצירה ופירושו שבתי בר' אברהם החכם והרופא: וכאשר קבלתי ממורי אבא ר' יהודה ב"ר קלונימוס: וגם קבלתי ממורי הרב ר' יהודה החסיד בן רבנא ר' שמואל והוספתי לפרש בו גם אני הקטן אליעזר</q>
+								</p>
+							</note>
+							<filiation>Cf <ref target="Steinschneider_1879" type="number">918</ref>.</filiation>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/77127716">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/77127716">אלעזר בן יהודה, מגרמיזה</persName>
+							</author>
+							<decoNote type="diagram">
+								<locus n="437r, 437v, 439r, 439v, 440r, 442r"/>Diagrams (ink).</decoNote>
+							<decoNote type="marginal">
+								<locus n="393r, 397v, 400r, 401r, 413v, 424r, 426v, 428r, 438r"/>Maniculae.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="470v" to="485v"/>
+							<title xml:lang="he">סגולות</title>
+							<title xml:lang="he-Latn-x-lc">Segulot</title>
+							<listBibl>
+								<bibl>
+									<ref target="Sefer_Raziel_1701"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>A number of segulot, combinations of letters of the alphabet and an astrological section.</p>
+								<p>Folios 476v-477r contain a poem, followed by a list of the divine names derived from each line of the poem, and a prayer connected with the same.</p>
+								<p>Folio 477v contains some additional names which were added by the scribe.</p>
+								<p>Folios 480v-485v - additional notes on divine and angelic names and excerpts from Peraḳim de-rabi Eli῾ezer. </p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/77127716">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/77127716">אלעזר בן יהודה, מגרמיזה</persName>
+							</author>
+							<decoNote type="illustration">
+								<locus n="484v"/>A pen and ink drawing of a snake.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="485v" to="522v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ḥokhmat ha-nefesh</title>
+							<title xml:lang="he">ספר חכמת הנפש</title>
+							<listBibl>
+								<bibl>
+									<ref target="Sode_Razaya_1987"/>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/77127716">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/77127716">אלעזר בן יהודה, מגרמיזה</persName>
+							</author>
+							<decoNote type="marginal">
+								<locus n="498r, 498v, 499r, 503r, 503v, 507r, etc."/>Maniculae.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="522v" to="526r"/>
+							<title xml:lang="he-Latn-x-lc">She᾿elat teshuvah</title>
+							<title xml:lang="he">שאלת תשובה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/77127716">Eleazar ben Judah, of Worms, approximately 1176-1238</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/77127716">אלעזר בן יהודה, מגרמיזה</persName>
+							</author>
+							<note>
+								<p>An enquiry regarding the destiny of the soul by Shemu᾿el ben Kalonymus, the younger, to Ele῾azar of Worms, preceded by a poem, apparently also by Shemu᾿el ben Kalonymus.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="526r" to="600v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ḥokhmat ha-nefesh</title>
+							<title xml:lang="he">ספר חכמת הנפש</title>
+							<note>
+								<p>A continuation of the piece under no. 5.</p>
+								<p>Finishes with a short summary and a short poetical piece by Ele῾azar of Worms.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Sode_Razaya_1987"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">אמר המתנצל הכותב הספר הזה אל יאשימני אדם כאשר ימצא בספר הזה טעותים עד אין חקר כי הנני נשבע ביוצרי כי כפל כפלי כפלים היו בהעתק אשר לפני ואני תקנתי מהם הרבה והרבה ולפעמים הנחתי מקום פנוי מתיבה אחת או שתים כאשר לא הבנתי מה עניין התיבה ההיא וכתבתי הספר הזה לאחד מחסידי אומות העולם איש תם וישר מכהני במות שנטו אגושטינו שמו אדון <name type="person" role="patron">זידייו </name>ראש וקצין על כל כהני הבמות הנזכרי' אשר בכל מדינות ארץ הנוצרים. השם יזכהו להגות בו ולהבין מה שכתוב בו ובשאר ספירי ספריו אשר קנה והכתיב והוציא ממון רב ועוד ידו נטויה להוציא ממונו עד שיהיו לו כל הספרים הנמצאי' אצלינו. והשלמתי הספר הקדוש הזה היום <date calendar="Hebrew">יום ד' שהוא יום הושענא רבא -[רע"ו]</date>- אשר ראיתי בו ראשי בעל הלבנה ברוך ה' כי מובטח אני שלא אמות השנה הזאת נאם הסופר <name type="person" role="scribe">אליהו ב"ר אשר הלוי אשכנזי המדקדק</name>.<locus n="600v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>601 folios<dimensions type="leaf" unit="mm">
+										<height>206</height>
+										<width>138</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>88</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>601 folios (+ 2 unfoliated flyleaves at the beginning and at the end of the manuscript). </p>
+									<p>The original foliation is preserved in the left-hand upper corner of each recto and the right-hand upper corner of each verso. </p>
+								</foliation>
+								<collation>
+									<p>60 quires of 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>First leaves slightly damaged by water. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="22 36" writtenLines="22 36">
+									<p>Uniform layout. </p>
+									<p>Regular layout with ruling by black plummet. Last written line outside ruling. </p>
+									<p>Titles and initial words given in large characters. </p>
+									<p>Catchwords on every verso, in smaller letters, often highlighted with pen and ink. </p>
+									<p>Occasional infralinear vocalization. </p>
+									<p>Red ink marginal notes in Latin (not by the scribe). </p>
+									<p>Last line written outside ruling. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of 16th century (at variance with production area).</summary>
+							<handNote script="Hebrew" scope="major">
+								<locus from="1r" to="2r"/> Italian/Byzantine semi-cursive of approximately 15th century<locus from="2v" to="7r"/>Spanish semi-cursive of approximately 15th century<locus from="8r" to="61v"/>Italian/Byzantine semi-cursive of approximately 15th century</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="scribe">Elijah Levita</name> (<name type="person" role="scribe">Eliyah ha-Baḥur ben Asher ha-Leṿi Ashkenazi, ha-Medaḳdeḳ</name>), (b. 1468, d. 1549): inscribed in the colophon, folios 600v-601r.</p>
+							<p>
+								<name type="person" role="patron">Egidio da Viterbo</name>, cardinal (b. 1469, d. 1532): inscribed in the colophon, folios 600v-601r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Brown.</p>
+								<p>Spine: 'Kabbalistic Works by Eleazar of Worms. Hebrew. Brit. Mus. Additional 27199.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1516" when-custom="[5]277" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, C.</name> (<name type="place">Rome</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his manuscript no. 313: inscribed (<locus n="fse001v"/>); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in<date calendar="Gregorian"> October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [602v].</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">737</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-03-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

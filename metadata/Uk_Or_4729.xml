@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-08</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_4729" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4729</idno>
+					</msIdentifier>
+					<head>Psalms</head>
+					<msContents class="lccn.loc.gov/n79056804" rend="visible">
+						<summary>The Psalms, not punctuated.</summary>
+						<textLang mainLang="jpr-Hebr">Judeo-Persian</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79056804">
+							<title xml:lang="he-Latn-x-lc">Tehilim </title>
+							<title xml:lang="he">תהילים </title>
+							<locus from="1r" to="82v"/>
+							<msItem rend="v">
+								<locus from="1r" to="7v"/>
+								<title xml:lang="en">A grammatical introduction</title>
+								<note>
+									<p>Concerns the servile letters, vowels and accents.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="7v" to="70v"/>
+								<title xml:lang="en">Psalms</title>
+								<note>
+									<p>Psalms in Persian translation by <name type="person" role="author">Bābā ibn Nuriel</name> of Isfahan.</p>
+									<p>Preserves the usual division into 5 parts.</p>
+								</note>
+								<colophon xml:lang="he">תמת אל כתאב בעון מלך אל והאב דר רוז ב' שבת כ"ז אם נמאי סיון שנת התקפ"ב ליצירה אז גהת ... מרקום גרדיר הצעיר והזעיר <name type="person" role="scribe">משה בה"ר מ' יששכר</name> נ"ע אמיד מבארך באד אוי"ר.<locus n="70v"/>
+								</colophon>
+								<author>
+									<persName xml:lang="jpr">Bābā ibn Nuriel</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="70v" to="82v"/>
+								<title xml:lang="he-Latn-x-lc">Azharot </title>
+								<note>
+									<p>Contains poetical pieces.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Persian cursive script of 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>82 folios<dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>147</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>82 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<condition>
+									<p>Several pages are water-damaged or mutilated. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22" writtenLines="22">
+									<p>Written on blue oriental paper. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Persian cursive script of 19th century. Mosheh ben Issakhar (scribe): inscribed in the colophon, folio 70v. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Eliyahu ben Mosheh (owner), inscribed with his name on folio 70v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5582" calendar="Hebrew" when="1822"/>
+						<provenance>
+							<p>
+								<name type="place">Persia</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p><name type="person" role="owner">Sidney John Alexander Churchill</name> (b. 1862, d. 1921), a British diplomat, art connoisseur, and author: purchased from him on 2 February 1894: inscribed folio [84v] . </p>
+							<date>1894-02-02</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">159</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

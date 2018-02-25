@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2554" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2554</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the Song of Songs and Ruth (fragments).</summary>
+						<textLang mainLang="he" otherLangs="ara">Hebrew, Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="95v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim </title>
+							<title xml:lang="he">פרושים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century  </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The volume contains the Hebrew text of the Book of Ruth and the Song of Songs in an Arabic phonetic transcription, with an Arabic translation and Yefet&apos;s commentary.</p>
+								<p>The scribal subscription, folio 95v, shows that the manuscript was written in Yefet's lifetime, i.e. in the early 11th century.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1v" to="25v"/>
+								<title xml:lang="en">Ruth</title>
+								<note>
+									<p>Missing chapters 3:3-4:10.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="25v" to="95v"/>
+								<note>
+									<p>Missing chapters 3:9-5:14.</p>
+								</note>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the beginning of the 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>95 folios<dimensions type="leaf" unit="mm">
+										<height>230</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>95 folios (+ 1 paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires originally of 10 leaves each, divided into 2 parts of 4 and 11 quires respectively. </p>
+									<p>Most of the quires are now imperfect. </p>
+									<p>The quires are signed with Arabic letters on the left-hand upper corner of the first page. A separate enumeration is used for each of the two parts. </p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Partially water-damaged.</p>
+									<p>Sings of worm-eating.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="11 15" writtenLines="11 15">
+									<p>Uniform layout. </p>
+									<p>The diacritic points are generally added. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>A Naskhi hand of the early 11th century. </summary>
+							<handNote script="Arabic" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Abu l-Faraj Ya'ḳub</name>: inscribed with a date of <date calendar="Gregorian">1004-1005</date>, <name type="place">Ramlah</name>, folio 95v.</p>
+							<p>
+								<name type="person" role="owner">Yesha῾yah ben Tsaliḥ ben ῾Azaryahu</name>: inscribed, folio 25r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Ruth &amp; Canticles with Yefet's Commentary. Hebrew &amp; Arabic. Brit. Mus. Oriental 2554.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1004" notAfter="1005"/>
+						<provenance>
+							<p>
+								<name type="place">Ramlah</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[96v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">301</ref>
+							</bibl>
+							<bibl>
+								<ref target="Hoerning_1889" type="page">21-27</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

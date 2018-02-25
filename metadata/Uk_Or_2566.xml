@@ -1,0 +1,231 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2566" xml:lang="ara" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2566</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003313067</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031481854.0x00000d</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Two fragments of Karaite commentaries on the Psalms</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>Two fragments of Arabic commentaries on the books of Psalms.</summary>
+						<textLang mainLang="ara" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="32v"/>
+							<title xml:lang="en">Karaite commentaries </title>
+							<title xml:lang="he">פרושים קראים </title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; two different Naskhi and Hebrew square and semi-cursive scripts, of 12th to 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>
+								32 folios (+2 modern paper flyleaves at the beginning and at the end).
+								</extent>
+								<condition>
+									<p>Modern restoration, all the folios stuck on modern paper.</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Two different Naskhi hands, with Hebrew square and semi-cursive scripts, of 12th to 14th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Comm. on Psalms. Arabic. Brit. Mus. Or. 2566.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1100" notAfter="1399"/>
+						</origin>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882, folio <locus n="fse001v">[33v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 336.</bibl>
+						</listBibl>
+					</additional>
+					<msPart rend="v">
+						<altIdentifier type="internal">
+							<idno>I</idno>
+						</altIdentifier>
+						<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+							<textLang mainLang="ara" otherLangs="he"/>
+							<msItem rend="v">
+								<locus from="1r" to="26v"/>
+								<title xml:lang="en">Comments on the Psalms </title>
+								<note>
+									<p>Fragments of a short anonymous Arabic commentary on the Psalms, comprising chapters 32-51, 55-68, 69-80. The author of the short notes is, perhaps, Levi ha-Levi ben Japhet.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; a cursive Naskhi and Hebrew semi-cursive script of approximately 12th to 13th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper codex.</support>
+									<extent>27 folios<dimensions type="leaf" unit="mm">
+											<height>150 </height>
+											<width>100 </width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height> 140</height>
+											<width>90 </width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 1-26</p>
+									</foliation>
+									<collation>
+										<p>3 quires of originally 10 leaves each.</p>
+										<p>Quire 1 and 3 are imperfect.</p>
+									</collation>
+									<condition>
+										<p>Folios missing at the beginning and at the end, and after folios 8 and 18.</p>
+										<p>Many extant leaves are more or less damaged.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="17" writtenLines="17"/>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>A cursive Naskhi and Hebrew semi-cursive script of approximately 12th to 13th century.</summary>
+								<handNote script="Arabic" scope="major"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin>
+								<origDate notBefore="1100" notAfter="1299">12th-13th century</origDate>
+							</origin>
+						</history>
+					</msPart>
+					<msPart rend="visible">
+						<altIdentifier type="internal">
+							<idno>II</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<textLang mainLang="ara" otherLangs="he"/>
+							<msItem rend="visible">
+								<locus from="27r" to="32v"/>
+								<title xml:lang="en">Comments on the Psalms </title>
+								<note>
+									<p>Contains short Arabic comments on the Psalms, comprising chapters 139-150. The author of the short notes in both parts is, perhaps, Levi ha-Levi ben Japhet.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; an Arabic Naskhi and Hebrew (Oriental) square of approximately 13th to 14th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper codex.</support>
+									<extent>6 folios<dimensions type="leaf" unit="mm">
+											<height>145 </height>
+											<width>100 </width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>112 </height>
+											<width> 95</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 27-32</p>
+									</foliation>
+									<collation>
+										<p>Fragment of a single quire.</p>
+									</collation>
+									<condition>
+										<p>Last three folios partly damaged.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="14 16" writtenLines="14 16"/>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>An Arabic Naskhi and Hebrew (Oriental) square of approximately 13th to 14th century.</summary>
+								<handNote script="Arabic" scope="major"/>
+							</handDesc>
+						</physDesc>
+						<history rend="visible">
+							<origin>
+								<origDate notBefore="1200" notAfter="1399"/>
+							</origin>
+						</history>
+					</msPart>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

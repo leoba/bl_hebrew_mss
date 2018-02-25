@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6355" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6355</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A service book, according to the Yemenite rite.</summary>
+						<textLang mainLang="he" otherLangs="jrb"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="70v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="50v"/>
+							<title xml:lang="en">Services for Sabbath</title>
+							<note>
+								<p>The ritual for lel Shabat begins on folio 1r; tefilat shaḥarit de-Shabat begins on folio 16v; tefilat musaf begins on folio 48v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="51r" to="70v"/>
+							<title xml:lang="en">Miscellaneous offices</title>
+							<note>
+								<p>Tiḳun rosh ḥodesh, folio 51r; Tefilat minḥah shel Shabat, folio 52r; Seder havdalah, fol. 52v; Birkat ha-levanah, folio 52v; Seder ha-῾asiyah bi-shemonat yeme Hanukah, folio 53v; Birkat erusin ve-nisu᾿in, folio 53v; Birkat ha-milah, folio 57r; Pidyon ha-ben, folio 58v; Birkat ha-mazon, folio 58v; Tiḳun Purim, folio 61r; Seder ha-ḳeri᾿ah le-yom rosh ḥodesh, folio 65v; Hashkavah le-ish, folio 66r; Tefilat rashe ḥodashim, folio 66v; Baḳashah le-rabi Yishma᾿el, folio 67r; Nusaḥ ḳadish, folio 70r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>70 folios <dimensions unit="mm" type="leaf">
+										<height>160</height>
+										<width>110</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>115</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>70 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="19 20" writtenLines="19 20">
+									<p>Uniform layout. </p>
+									<p>Visible mastara ruling.</p>
+									<p>Initial words and titles written in larger characters and highlighted in red ink.</p>
+									<p>Several marginal notes and additions.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script, unpunctuated, of the 17th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 60r: a short form of execration against the enemies of Israel, in pencil.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Prayer Book. Hebrew. Brit. Mus. Oriental 6355.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1902-04-15</date>
+							<p>
+								<name type="person" role="owner">Raffalovich</name> and <name type="person" role="owner">Lifkin</name>: purchased by the British Museum from them on 15 April 1902: inscribed, folio [71v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">719</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

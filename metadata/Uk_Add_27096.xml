@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27096" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27096</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of liturgical poems, punctuated, accompanied by a commentary of Mordekhai Dato.</summary>
+						<textLang mainLang="he" otherLangs=""> </textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="58v"/>
+							<title xml:lang="he-Latn-x-lc">Shirim</title>
+							<title xml:lang="he">שירים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/53080919">Dato, Mordecai ben Judah</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/53080919">דאטו, מרדכי בן יהודה</persName>
+							</author>
+							<note>
+								<p>Folio [iv recto] contains the autograph title of Mordekhai Dato.</p>
+								<p>After the first poem (Mizmor shir yom Shabat) and its commentary (folios 1r-6v), there is a combination of sentences representing rashe tevot of Gen. 1:1, 1:3, Ex. 1:1, 21:1; Lev. 1:1 (folios 6v-8r), Piyuṭ le-motse Shabat (folios 8r-14r), and additional poetical pieces (beginning on folios 14r, 18v, 22v, 32r, 34v, 35r, 35v, 36v, 37r, 45v, 50r respectively). Each of the poems is headed by an explanation of the reasons that have prompted their composition. On some occasions also the date of composition is given by the author.</p>
+								<p>There are 9 homiletical entries, starting from folio 48v, and a note in a different handwriting, relating to certain homilies contained in the volume.</p>
+								<p>The manuscript is bound together with Add MS 27097.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>58 folios <dimensions unit="mm" type="leaf">
+										<height>216</height>
+										<width>172</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>168</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>58 folios (+ 4 unfoliated paper flyleaves at the beginning and 1 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Leaves on paper guards (modern restoration).</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="18 50" writtenLines="18 50">
+									<p>Non-uniform layout. </p>
+									<p>The main text written in square script (punctuated), the commentary given in cursive script (unpunctuated).</p>
+									<p>Numerous marginal notes and additions.</p>
+									<p>Some sections crossed out by the author. </p>
+									<p>Folios 38-44 left blank.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive and square script of the 16th century. Autograph of <name type="person" role="scribe">Mordekhai Dato</name>: inscribed, folio [iv recto].</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Mordekhai Rafael of Sezze</name>: inscribed, folio 58v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Mordechai Dato. Hymns, Etc. Hebrew. Brit. Mus. Additional 27,096. 27,097.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1575" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">645</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

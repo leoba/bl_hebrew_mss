@@ -1,0 +1,166 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_11416" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 11416</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Sefer Ginat egoz, with additional comments and notes of <name type="person" role="author">Johannes Reuchlin</name>.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="206v"/>
+							<title xml:lang="he-Latn-x-lc">Ginat egoz</title>
+							<title xml:lang="he">גנת אגוז</title>
+							<listBibl>
+								<bibl>
+									<ref target="Ginat_Egoz_1989"/>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/122229986">Gikatilla, Joseph ben Abraham, 1248-</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/122229986">ג'יקטיליה, יוסף בן אברהם</persName>
+							</author>
+							<note>
+								<p>Note (mostly in Latin, but occasionally in Hebrew) are found in numerous places in the margin.</p>
+								<p>Folios 11-1 (formerly marked 196-206) contain a number of Latin pieces in the following order: 1. a Latin translation of Sefer yetsirah (folios 11v-8r); 2. a letter headed 'Joannes Tritemius Abbas Spanhamensis Arnoldo Bostio. S. et sincera in Dno caritatem' and dated 1499 (folios 7r-5v); 3. a letter headed 'Ad Episcopu Verdunen in Gallijs' (folios 4v-3v); 4. an extract headed 'Ex Epistola Italici', folio 3r; 5. two extracts from Reuchlin's 'De arte cabalistica' (folios 2r-1v) - the Hebrew words are represented by blanks in these extracts.</p>
+								<p>Folio 12r contains a note in French, signed R (i.e., according to a pencil note below, A. A. Renouard of Paris), stating that the Latin pieces nos. 1-4 and the entry on folio 206r are in the handwriting of <name type="person" role="scribe">Johannes Reuchlin</name>, and that no. 5 is rather later.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>206 folios<dimensions type="leaf" unit="mm">
+										<height>280</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>206 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end).</p>
+									<p>Foliated several times: in 1576 the leaves now numbered 13-205 were marked 1-192 (number 137 is repeated); in the middle of the lower margin is a later foliation in red ink; much later is the enumeration 1-206 counted backwards, on account of the Latin portions at the beginning and at the end.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves each, marked by catchwords at the end (only partly preserved).</p>
+								</collation>
+								<condition>
+									<p>Water-damaged (especially the upper margin).</p>
+									<p>Slightly worm-eaten towards the gutter.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="31 35" writtenLines="31 35">
+									<p>Uniform layout in the Hebrew section. In folios 13-205 the pages are divided into two columns.</p>
+									<p>Visible hard-point and ink ruling.</p>
+									<p>Initial words in larger characters.</p>
+									<p>Numerous maniculae and additional notes in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi semi-cursive and Latin cursive scripts of the 16th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="12v"/> and <locus from="206r" to="206v"/> written in Latin cursive script of the 16th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Johannes Reuchlin</name>: inscribed in an entry, showing that the manuscript was presented to him in <date calendar="Gregorian">1495</date> by <name type="person" role="owner">Johannes Dalburg</name>, bishop of Worms: folio 206r.</p>
+							<p>
+								<name type="person" role="owner">Otto Gereon von Gutmann of Sobernheim</name>, archbishop of Cyrene: inscribed, 1624: folios 205r-205v; his coat of arms, folio 205v. A seal is affixed to the left-hand lower corner on folio 205r, and also on the lower margin of folio 13r.</p>
+							<p>An entry on the earliest foliation of the manuscript, folio 12v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Boxed.</p>
+								<p>Spine: 'Joseph Gikatilla. Ginnath Eghoz. Hebrew. Brit. Mus. Additional Ms. 11416.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1838-07-26</date>
+							<p>Purchased by the British Museum at Evans' sale, lot 1134, on 26 July 1838: inscribed, folio [210v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">740</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

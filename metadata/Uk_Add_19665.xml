@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19665" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19665</idno>
+					</msIdentifier>
+					<head>Pentateuch with commentary</head>
+					<msContents class="lccn.loc.gov/n79066420  	lccn.loc.gov/n82271898" rend="visible">
+						<summary>The Pentateuch with Rashi&apos;s commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420  	lccn.loc.gov/n82271898">
+							<locus from="1r" to="232v"/>
+							<title xml:lang="he-Latn-x-lc">Torah ʿim perush Rash&quot;i </title>
+							<title xml:lang="he">תורה עם פרוש רש&quot;י</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש&quot;י) </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1r" to="46r"/>
+							<title xml:lang="en">Genesis </title>
+							<note>
+								<p>Begins with parashah Lekh lekha, Gen. 12:1–17:27.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="46r" to="113v"/>
+							<title xml:lang="en">Exodus</title>
+							<explicit xml:lang="he">ונשלם ספר ואלה שמות לאל תהלות רוממות.<locus n="113v"/>
+							</explicit>
+						</msItem>
+						<msItem rend="v">
+							<locus from="114r" to="155r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="155r" to="219r"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="219r" to="232v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">232 folios<dimensions unit="mm" type="leaf">
+										<height>233</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>232 folios (+ 3 unfoliated modern flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>8 quires of 8 leaves each.</p>
+									<p>Quires marked with catchwords at the end, some of which have been trimmed.</p>
+								</collation>
+								<condition>
+									<p>Some pages heavily stained.</p>
+									<p>Ink partly fading.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="24" writtenLines="24">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layout. </p>
+									<p>Pricking and hard-point ruling visible. </p>
+									<p>A number of smaller and greater omissions from text and commentary subsequently supplied in the margins by various hands.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sefardi and Italian semi-cursive script, not punctuated, of the 14th century. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="121v"/>Italian semi-cursive script of c14th century.</p>
+								<p>
+									<locus from="122r" to="232v"/>Sefardi semi-cursive script of c14th century.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: &apos;R.Solomon Jarchi. Commentarius in Pentateuchum. Hebraice. Mus. Brit. Add. Or. 19,665.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"></origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1853-11-12</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher </name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853 (<ref target="Paisey_1997" type="page">131-153</ref>): purchased from him on <date calendar="Gregorian">12 November 1853</date>: inscribed, [236v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">174</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

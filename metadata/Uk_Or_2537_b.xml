@@ -1,0 +1,174 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-07-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2537_b" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2537 b</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003314014</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031723795.0x000001</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Karaite poetical work by Mosheh ben Shemuel Tsarfati</head>
+					<msContents class="lccn.loc.gov/sh85071589" rend="visible">
+						<summary>Karaite poetical work </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1vr" to="15r"/>
+							<title xml:lang="he-Latn-x-lc">Poetical work.</title>
+							<title xml:lang="he"/>
+							<author>
+								<persName xml:lang="en">Mosheh ben Shemuel Tsarfati</persName>
+								<persName xml:lang="he">משה בן שמואל צפתי</persName>
+							</author>
+							<note>
+								<p>Attribution is based on the information provided by the text itself <locus n="11r"/>.</p>
+								<p>Poetical work mixing Hebrew and Judeo-Arabic.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="15v" to="42r"/>
+							<title xml:lang="he-Latn-x-lc">Kitāb al-Tajallīyyāt</title>
+							<title xml:lang="jrb">כתאב אלתגליאת</title>
+							<author>
+								<persName xml:lang="en" key="viaf.org/viaf/95223177">Ibn al-ʿArabī, 1165-1240</persName>
+								<persName xml:lang="he" key="viaf.org/viaf/95223177">אבן אל-ערבי, מחמד בן עלי, מחיי אל-דין</persName>
+							</author>
+							<note>
+								<p>Fragment.</p>
+								<p>The copy of Or 2537c. </p>
+								<p>The text of the Tajalliyyāt is followed by three short texts of which  the third is by ʿAbd al-Karīm al-Jīlī.</p>
+							</note>
+							<colophon> ואלחמד ללה וחדה: וכאן אלפראג לילה אלגמעה כאמס שהר שואל סנה כמסה עשר ואלף כדא וגד פי אלנסכה אלאצליה: אנא נקלתה מן תאני נסכה  וכאן אלפראג מן נקלה פי יום אלאתנין כאמם עשר מן שהר די אלקעדה מן סנה ארבעה ותסעין ומאיתין ואלף אלמואפק שהר כסלו שנת התרל"ח ליצירה ע"י העבד הצעיר משה  הלוי ירו' בלאאור כמה"ר אברהם הלוי  .... וכאן נקלה כה(פה?) עה''ק (= עיר הקודש ) ירושתו
+							<locus n="39v"/>.</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 19th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>42 folios<dimensions type="leaf" unit="mm">
+										<height>200</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>42 folios. Earlier foliation was continuous with Or 2537a.
+</p>
+								</foliation>
+								<collation>
+									<p>Leaves on guards. Bound together with Or 2537a and Or 2537c.</p>
+								</collation>
+								<condition>
+									<p/>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15 23" writtenLines="15 23">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling. </p>
+									<p>Catchwords on every page. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 19th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Kaleb Afendopolo. Pathshegen Kethab Had-Dat, Etc. Hebrew &amp; Arabic. Brit. Mus. Oriental 2537.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate when="1877">1877</origDate>
+							<origPlace>Egypt?</origPlace>
+						</origin>
+						<provenance>
+							<p>Dry stamp with Arabic inscription on folio 15.</p>
+							<p>Rebound in December 1883; inscribed on flyleaf first back flyleaf recto.</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed, folio [120v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Information provided by Dr Gregor Schwarb.</p>
+								</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref/>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2016-03-18">Zsofia Buda</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

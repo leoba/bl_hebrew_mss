@@ -1,0 +1,175 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27121" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27121</idno>
+					</msIdentifier>
+					<head>Poetry</head>
+					<msContents class="lccn.loc.gov/sh85070315" rend="visible">
+						<summary>Poetical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="67v"/>
+							<title xml:lang="he-Latn-x-lc">Miḳdash me῾at</title>
+							<title xml:lang="he">מקדש מעט</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/24669073">Rieti, Moses ben Isaac da, 1388-1460</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/24669073">משה בן יצחק, ראיטי‏ ‎</persName>
+							</author>
+							<colophon xml:lang="he">תם ונשלם בליל מוצאי שבת י"א לירח כסלו שנת <date calendar="Hebrew">השמ"ח</date> לפ"ק.<locus n="67v"/>
+							</colophon>
+							<note>
+								<p>The work is incomplete, but accompanied by a commentary.</p>
+							</note>
+							<decoNote type="diagram">
+								<locus n="44v"/>A diagram of sefirot.</decoNote>
+							<decoNote type="initial">
+								<locus from="71v" to="72r"/>Initial words within simple pen-flourishings.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="68v" to="69v"/>
+							<title xml:lang="he-Latn-x-lc">Divre neḥumin</title>
+							<title xml:lang="he">דברי נחומין</title>
+							<note>
+								<p>A letter of consolation, addressed by Hananiah Ben Shelomoh Finzi of Gazzola to the brothers and sons of Mosheh Norzi of Mantua, who died in 1590. The name of the author (who was also the scribe of the previous part) and date are given at the end.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="56r" to="59v"/>
+							<title xml:lang="he-Latn-x-lc">Shirim le-nisu᾿in</title>
+							<title xml:lang="he">שירים לנישואים</title>
+							<note>
+								<p>Two short poems composed on the occasion of the marriage of Yehudah Yedidyah Rafael Sforno, by Mosheh Francotta and Luliani Shalom Cases.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>72 folios<dimensions type="leaf" unit="mm">
+										<height>205</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>72 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Tidemarks and mould spots.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1  2" ruledLines="27 32" writtenLines="27 32">
+									<p>Non-uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Initial words in square characters.</p>
+									<p>In the earlier part, the text and its commentary written out on the same page side by side.</p>
+									<p>Censor's erasures.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 16th century. <name type="person" role="scribe">Ḥananiah ben Shelomoh Finzi</name>: inscribed, folio 69v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolomitano</name>, Italian censor (active 1575-1624): inscribed with his name, 1592 (folio 72v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 72v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+							<p>Illegible owner's entry, folio 1v-2r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Mikdash Me'at. Hebrew. Brit. Mus. Additional 27,121.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5348-5350" calendar="Hebrew" notBefore="1588" notAfter="1590"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (Gazzola)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 305: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [73v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">933</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-02-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

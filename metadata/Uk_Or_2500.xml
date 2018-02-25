@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2500" xml:lang="jrb" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2500</idno>
+					</msIdentifier>
+					<head>Karaite commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An Arabic commentary on the books of Kings.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="320v"/>
+							<title xml:lang="en">Commentary on the books of Kings </title>
+							<note>Contains Exodus 13:17-15:1, 15:22-17:7, 18:1-21:36, 22:4-30:21, 30:33-32:29, 33:12-34:26. Pointed and accentuated Hebrew text, with a translation and short commentary in (Judeo-)Arabic.<p>An anonymous Arabic commentary on the Kings: the pointed Hebrew text with an Arabic translation is embodied. </p>
+								<p>The 'sedarim' are marked in the margins with a latter samekh. </p>
+								<p>The readings of the קרי are given in the margin. </p>
+							</note>
+							<colophon xml:lang="he">נגמר פרוש ספר מלכים "בעזרת מלך מלכים" ב<date when="1619" calendar="Hebrew">יום רביעי בשבוע ובוא שנים עשר בחדש אדר שנת חמשת אלפים ושלש מאות ושבעים ותשעה שנים לבריאת העולם</date> ושלום. וכתב אתו הע' הצ' <name type="person" role="scribe">יוסף ברכה</name> השם ירפא חלוי ויחבוש שברו" אמן.<locus n="320v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>320 folios<dimensions type="leaf" unit="mm">
+										<height>207</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>320 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>32 quires, nos. 1-12, 14-33, of mostly 10 laeves each. Quire no. 34 has only 3 leaves. </p>
+									<p>Signatures in Hebrew letters and Arabic words on the upper margin of the first page of a quire, and in Hebrew letters at the ends of the quires. </p>
+									<p>Missing quire no. 13. </p>
+									<p>Quires 1, 17, 23, 32 are defective. </p>
+								</collation>
+								<condition>
+									<p>Gaps after folios: 6, 118, 152, 210 and 294. </p>
+									<p>Some margins slightly water-damaged. </p>
+									<p>Folios 283-294 partly damaged and/or stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Catchwords on every verso.</p>
+									<p>The Hebrew text is punctuated.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Semi-cursive script of the 19th century. <name type="person" role="scribe">Yosef Berakhah</name>: inscribed in the colophon, folio 320v. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Elḥakhim ben Avraham</name>: inscribed in a note, folio 1r.</p>
+							<p>
+								<name type="person" role="owner">Eli᾿av ben Avraham</name>, <name type="person" role="owner">Eli῾ezer Leṿi ben Barukh Leṿi Ḳayam</name>, <name type="person" role="owner">Yeshu῾ah Leṿi ben Shelomoh ha-Zaḳen</name>: inscribed in a note, folio 320v. </p>
+							<p>The record of the last name is dated <date calendar="Gregorian">1815</date>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Commentary on Kings. Arabic. Brit. Mus. Oriental 2500.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5379" calendar="Hebrew" when="1619"/>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[321v]</locus>.</p>
+							<date>1882-07-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">335</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-02-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

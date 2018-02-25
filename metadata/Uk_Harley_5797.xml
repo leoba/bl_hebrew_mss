@@ -1,0 +1,181 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5797" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5797</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>Three commentaries on the biblical books.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="131v"/>
+							<title xml:lang="he-Latn-x-lc">Commentaries</title>
+							<title xml:lang="he">פרושים</title>
+							<msItem rend="v">
+								<locus from="1r" to="72v"/>
+								<title xml:lang="en">Commentary on the book of Job </title>
+								<author key="http://viaf.org/viaf/59118174">
+									<persName key="http://viaf.org/viaf/59118174" xml:lang="en">Levi ben Gershom </persName>
+									<persName key="http://viaf.org/viaf/59118174" xml:lang="he">לוי בן גרשם  </persName>
+								</author>
+								<note>
+									<p>Includes the pointed and accentuated biblical text. </p>
+								</note>
+								<colophon xml:lang="he">השלמתי זה הפירוש מאיוב שחבר <name type="person" role="author">לוי בן גרשום</name> זלה"ה. וכתבתיו אני <name type="person" role="scribe">מנחם יא"ע בכ"ר יוסף יצחק </name>זצ"ל הנה ב<name type="place">אקוילה</name>ב<date when="1415" calendar="Hebrew">ניסן ק'ע'ה'</date> ה' למען רחמיו וחסדיו הרבים יזכינו להגות בו אני וזרעי וזרע זרעי עד סוף כל הדורות אמ' ויקיים בנו מקרא דכתי' לא ימוש ספר התורה מפינו אמ'. ואמ'
+
+חזק מנחם יא"ע ואמיץ כל הקורא בו.<locus n="72v"/>
+								</colophon>
+								<listBibl>
+									<bibl>
+										<ref target="Steinschneider_1879" type="number">1613</ref>
+									</bibl>
+								</listBibl>
+							</msItem>
+							<msItem rend="v">
+								<locus from="73r" to="126v"/>
+								<title xml:lang="en">The commentary on the Song of Songs</title>
+								<author key="http://viaf.org/viaf/42726510">
+									<persName key="http://viaf.org/viaf/42726510" xml:lang="en">Immanuel ben Salomon, 1265-1330</persName>
+									<persName key="http://viaf.org/viaf/42726510" xml:lang="he">עמנואל בן שלמה, הרומי </persName>
+								</author>
+								<note>
+									<p>Contains the unpointed Hebrew biblical text.</p>
+								</note>
+								<colophon xml:lang="he">השלמתי זה הפירוש משיר השירים שחברו <name type="person" role="author">עמנואל בכ"ר שלמ'</name> זצ"ל ע"י ידי <name type="person" role="scribe">מנחם יא"ע בכ"ר יוסף יצחק</name> זצ"ל פה בעיר <name type="place">אקווילה </name>
+									<date when="1412" calendar="Hebrew">כ"ד בתמוז קע"ב</date> ה' למען רחמיו וחסדיו הרבים יזכינו להגות בו אני וזרעי וזרע זרעי עד סוף כל הדורו' אמ' ויקיים בנו מקרא דכתי' לא ימוש ספר התורה מפינו אמ' חזק מנחם יא"ע ואמיץ כל קורא בו.<locus n="126v"/>
+								</colophon>
+							</msItem>
+							<msItem rend="v">
+								<locus from="126v" to="131v"/>
+								<title xml:lang="en">Commentary on the Song of Songs</title>
+								<author key="http://viaf.org/viaf/163275827">
+									<persName key="http://viaf.org/viaf/163275827" xml:lang="en">Ibn Tibon, Mosheh </persName>
+									<persName key="http://viaf.org/viaf/163275827" xml:lang="he">אבן תבון, משה בן שמואל </persName>
+								</author>
+								<note>
+									<p>Only part of the introduction is preserved.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent rend="visible">131 folios <dimensions unit="mm" type="leaf">
+										<height>265</height>
+										<width>187</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>171</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>131 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each, numbered with Hebrew letters on the last page and marked by a catchword.</p>
+									<p>Has Hebrew letters on the right-hand upper corner on the first page in the first part of the manuscript.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="33" writtenLines="33">
+									<p>The first part of the manuscrpit has only one column with varying number of lines to a page.</p>
+									<p>Discernible difference between flesh and hair side of the folios.</p>
+									<p>Visible pricking and ruling with a hard-point.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive script, partially punctuated. <name type="person" role="scribe">Menaḥem ben Yosef Yitsḥaḳ</name>: inscribed in the colophons with a date of <date calendar="Gregorian">1412 </date>and <date calendar="Gregorian">1415</date>, folio 72v, 126v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A contract of sale between the scribe and <name type="person" role="owner">Eliyahu ben Mosheh</name>, with a date of <date calendar="Hebrew">26 January 209</date> (<date calendar="Gregorian">1449</date>), signed by two witnesses, Shemu᾿el ben Mosheh and Shemu᾿el ben Avigdor, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> Post-1600, Harleian binding of gold-tooled red leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5172-5175" calendar="Hebrew" notBefore="1412" notAfter="1415"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, C.</name> (<name type="place">Aquila</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, <name type="person">Humfrey Wanley</name>, ‘13 die Julij, 1723’ (<date calendar="Gregorian">13 July 1723</date>), folio 1r. Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">238</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

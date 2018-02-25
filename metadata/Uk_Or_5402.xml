@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5402" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5402</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash on the book of Esther.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="59v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash Ester </title>
+							<title xml:lang="he">מדרש אסתר </title>
+							<filiation>The same content as in Or 2416, <ref target="Margoliouth_1965" type="number">224</ref>, folios 106-137 and Or 4843, <ref target="Margoliouth_1965" type="number">344</ref>.</filiation>
+							<explicit xml:lang="he">נשלמה מגילת אסתר בעזרת האל אשר נתפללו אבותינו אליו ויעתר ואת אויבינו כלה ויבתר: שלים ולא שלימו רחמי שמיא א'ג'ס'ל' נ'ז'ה' ש'כ'ט':<locus n="59r"/>
+							</explicit>
+							<note>
+								<p>Occasional marginal notes with explanations of difficult words appearing in the text.</p>
+							</note>
+							<colophon xml:lang="he">אני הקל והצעיר זכריא בירב סעדיא וכ'ט ידי שאהד עליי ושלום ישלו י'ש'ל': <locus n="59r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite semi-cursive script of late 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>59 folios<dimensions type="leaf" unit="mm">
+										<height>153</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>59 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>10 quires of mostly 8 leaves each.</p>
+									<p>Catchwords on every verso.</p>
+								</collation>
+								<condition>
+									<p>Some folios slightly damaged, restored (stuck on paper). </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21 32" writtenLines="21 32">
+									<p>Has many marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of alte 17th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash on Esther. Hebrew. Brit. Mus. Oriental 5402.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1660" notAfter="1699">Late 17th century.</origin>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1898-07-12</date>
+							<p>
+								<name type="person" role="owner">S. Raffalovich</name>: bought from him by the British Museum on 12 July 1898, inscribed folio <locus n="fse001v">[60v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">345</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

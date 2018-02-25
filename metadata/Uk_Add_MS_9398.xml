@@ -1,0 +1,715 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+
+
+
+
+   <teiHeader rend="visible">
+
+
+
+
+      <fileDesc>
+
+
+
+
+         <titleStmt>
+
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+
+            <funder>BL</funder>
+
+
+
+
+            <sponsor>The Polonsky Foundation </sponsor>
+
+
+
+
+         </titleStmt>
+
+
+
+
+         <publicationStmt>
+
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+
+            <pubPlace/>
+
+
+
+
+            <date calendar="Gregorian">2013-09-30</date>
+
+            <idno>Uk</idno>
+
+            <availability status="restricted">
+
+               <p/>
+
+            </availability>
+
+
+
+
+         </publicationStmt>
+
+
+
+
+         <sourceDesc>
+
+
+
+
+            <msDesc xml:id="Uk_Add_9398" xml:lang="en" rend="all">
+
+               <msIdentifier rend="visible">
+
+                  <country>United Kingdom</country>
+
+                  <settlement>London</settlement>
+
+                  <institution>British Library</institution>
+
+                  <repository>Oriental Manuscripts</repository>
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+                  <idno>Add MS 9398</idno>
+
+                  <altIdentifier type="IAMS-ID">
+                    <idno>032-003311604</idno>
+                  </altIdentifier>
+
+                  <altIdentifier type="MDARK">
+                     <idno>ark:/81055/vdc_100030854115.0x000001</idno>
+                  </altIdentifier>
+               </msIdentifier>
+
+               <head>Prophets and Hagiographa</head>
+
+               <msContents class=" lccn.loc.gov/n80008477   lccn.loc.gov/n80008481" rend="visible">
+
+                  <summary>Former and Latter Prophets and Hagiographa, punctuated and accentuated,
+                     with masorah magna and parva.</summary>
+
+                  <textLang mainLang="he">Hebrew</textLang>
+
+                  <msItem n="0" rend="" class="lccn.loc.gov/n80008477  lccn.loc.gov/n80008481">
+
+                     <title xml:lang="he-Latn-x-lc">Nevi'im u-Khetuvim</title>
+                     <title xml:lang="he">נביאים וכתובים </title>
+                     <locus from="2v" to="316v"/>
+
+                     <note>
+                        <p>The Hagiographa do not include the Five Scrolls.</p>
+                        
+                     </note>
+
+
+
+
+                  </msItem>
+                  <msItem rend="">
+                     <locus from="2v" to="17v"/>
+                     <title xml:lang="en">Joshua</title>
+                  </msItem>
+
+                  <msItem rend="">
+                     <title xml:lang="en">Judges</title>
+                     <locus from="17v" to="32r"/>
+                     <note><p>Marginal notes, mainly midrashic commentaries, have been added by a later
+                        hand, e.g. folios 17r-19v. </p></note>
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+                     <title xml:lang="en">Samuel</title>
+                    <locus from="32r" to="66r"/>
+                     <note>
+                        <p>2Samuel starts on folio 51r.</p>
+                     </note>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <title xml:lang="en">Kings</title>
+                     <locus from="66r" to="101v"/>
+                     <note>
+                        <p>2Kings start on folio 84v.</p>
+                     </note>
+                 </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="102r" to="132v"/>
+                     <title xml:lang="en">Jeremiah</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="133r" to="159r"/>
+                     <title xml:lang="en">Ezekiel</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="159r" to="183r"/>
+                     <title xml:lang="en">Isaiah</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="183r" to="186v"/>
+                     <title xml:lang="en">Hosea</title>
+                </msItem>
+
+                  <msItem rend="">
+                     <locus from="186v" to="188r"/>
+                     <title xml:lang="en">Joel</title>
+                  </msItem>
+
+                  <msItem rend="">
+                     <locus from="188r" to="191r"/>
+                     <title xml:lang="en">Amos</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="191r" to="191r"/>
+                     <title xml:lang="en">Obadiah</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="191r" to="192r"/>
+                     <title xml:lang="en">Jonah</title>
+                  </msItem>
+
+
+                  <msItem rend="">
+                     <locus from="192r" to="194v"/>
+                     <title xml:lang="en">Micah</title>
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+                     <locus from="194v" to="195r"/>
+                     <title xml:lang="en">Nahum</title>
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+                     <locus from="195r" to="196r"/>
+                     <title xml:lang="en">Habakuk</title>
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="196r" to="197r"/>
+
+
+
+
+                     <title xml:lang="en">Zephaniah</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="197r" to="198r"/>
+
+
+
+
+                     <title xml:lang="en">Haggai</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="198r" to="202v"/>
+
+
+
+
+                     <title xml:lang="en">Zechariah</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="202v" to="204r"/>
+
+
+
+
+                     <title xml:lang="en">Malachi</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="205v" to="235v"/>
+
+
+
+
+                     <title xml:lang="en">Psalms</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="235v" to="245v"/>
+
+
+
+
+                     <title xml:lang="en">Proverbs</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="245v" to="257v"/>
+
+
+
+
+                     <title xml:lang="en">Job</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+
+
+
+                     <locus from="257v" to="266r"/>
+
+
+
+
+                     <title xml:lang="en">Daniel</title>
+
+
+
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+                     <locus from="266r" to="280r"/>
+                     <title xml:lang="en">Ezra</title>
+                     <note>
+                        <p>Nehemiah starts folio 272r.</p>
+                     </note>
+
+                  </msItem>
+
+
+
+
+                  <msItem rend="">
+
+                     <locus from="280r" to="316v"/>
+
+                     <title xml:lang="en">Chronicles</title>
+
+                     <note>
+                        <p>2Chronicles starts f. 296v.</p>
+                     </note>
+
+                  </msItem>
+
+
+
+
+               </msContents>
+
+
+
+
+               <physDesc rend="visible">
+                  <p>Parchment codex of the 13th century.</p>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>Parchment codex.</support>
+
+                        <extent>316 folios<dimensions unit="mm" type="leaf">
+
+                              <height>483</height>
+
+                              <width>368</width>
+
+                           </dimensions>
+                        </extent>
+
+                        <foliation>
+                           <p>316 folios.</p>
+                           <p>Folios 204v and 205r are blank.</p>
+                        </foliation>
+
+                        <collation>
+                           <p>40 quires: i-xi8; xii10; xiii9; xiv-xvi8; xvii7; xviii-xxxv8; xxxvi6;
+                              xxxvii-xxxix8; xl2.</p>
+                           <p>Catchwords on the last page of the quire.</p>
+                        </collation>
+                     </supportDesc>
+
+                     <layoutDesc>
+                        <layout columns="3" ruledLines="35" writtenLines="34">
+                           <p>Judges, Kings, Isaiah and Joel commence a new column; Jeremiah,
+                              Ezekiel and Psalms open a new leaf.</p>
+                           <p>The first word of each book is written in large characters.</p>
+                           <p>Masorah magna occupies two lines in the upper and three lines in the
+                              lower margin.</p>
+                           <p>Pricking and ruling (with hard-point on the hair side of the folio)
+                              are visible.</p>
+                           <p>The chapters and verses are numbered in Roman and Arabic ciphers, but
+                              not throughout the whole manuscript.</p>
+                        </layout>
+                     </layoutDesc>
+                 </objectDesc>
+
+
+
+
+                  <handDesc hands="1">
+                     <summary>Ashkenazi square script, main text is punctuated, masorah is
+                        unpunctuated.</summary>
+                     <handNote script="Hebrew" scope="major"/>
+                  </handDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p>BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+
+               <history rend="visible">
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299">13th century. </origDate>
+                     <origPlace>Germany.</origPlace>
+                  </origin>
+
+                  <provenance>                  
+                     <p>
+                        <name type="person" role="owner">Abraham ben Judah ha-Kohen</name>; his
+                        inscription, partially illegible, folio 113v, with a date of 2 Sivan
+                        196 (1436). </p>
+                     <p>Latin inscription on a paper flyleaf at the beginning of the manuscript
+                        (2r). </p>
+                     <p>Dated inscription, 1v: Memoranda relative to the ten Hebrew manuscripts,
+                        late the property of the Reverend John van der Hagen', of which the present
+                        manuscript is the first; 16 April 1832, Haydon Hall, Pinner, Middlesex. </p>
+                     <p>
+                        <name type="person" role="owner">Issakhar bar Eliezer</name>; his
+                        inscription, partially illegible, folio 316v.</p>
+                  </provenance>
+
+
+
+
+                  <acquisition>
+                     <date>1834</date>
+                     <p>
+                        <name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832),
+                        Wesleyan Methodist minister and scholar: his bookplate with Greek
+                        inscription: <q>ho theos agape estin </q>(inner upper cover); purchased for
+                        his library in <date calendar="Gregorian">1823 </date>in <name type="place"
+                           >Utrecht</name>. This codex, together with nine other manuscripts
+                        (Additional 9398-9407, see George Margoliouth, Catalogue of the Hebrew and
+                        Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum,
+                        1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob
+                        Leveen (London: British Museum, 1977), no. 119, 120, 70, 71, 73, 81, 143,
+                        172.), was acquired by the British Museum in <date calendar="Gregorian"
+                           >1834</date>, once the property of the Hagen family and then of Adam
+                        Clarke. </p>
+                  </acquisition>
+
+
+
+
+               </history>
+
+
+
+
+               <additional rend="visible">
+
+
+
+
+                  <adminInfo>
+
+
+
+
+                     <recordHist>
+
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+
+                     </recordHist>
+
+
+
+
+                     <availability status="free">
+
+
+
+
+                        <licence>text</licence>
+
+
+
+
+                        <p/>
+
+
+
+
+                     </availability>
+
+
+
+
+                     <note/>
+
+
+
+
+                  </adminInfo>
+
+
+
+
+                  <listBibl>
+
+
+
+
+                     <bibl>A Historical and Descriptive Catalogue of the European and Asiatic
+                        Manuscripts in the Library of the late Dr. Adam Clarke ... Illustrated by
+                        facsimiles of curious illuminations, drawings, &amp;c. By J. B. B. Clarke
+                        (London: John Murray), pp. 111-115</bibl>
+
+
+
+
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 119</bibl>
+
+
+
+
+                  </listBibl>
+
+
+
+
+               </additional>
+
+
+
+
+            </msDesc>
+
+
+
+
+         </sourceDesc>
+
+
+
+
+      </fileDesc>
+
+
+
+
+      <encodingDesc>
+
+
+
+
+         <classDecl>
+
+
+
+
+            <taxonomy/>
+
+
+
+
+         </classDecl>
+
+
+
+
+      </encodingDesc>
+
+
+
+
+      <profileDesc/>
+
+
+
+
+      <revisionDesc status="submitted">
+
+
+
+
+         <change when="2013-09-30">Agata Paluch</change>
+
+
+
+
+      </revisionDesc>
+
+
+
+
+   </teiHeader>
+
+
+
+
+   <text>
+
+
+
+
+      <body>
+
+
+
+
+         <div/>
+
+
+
+
+      </body>
+
+
+
+
+   </text>
+
+
+
+
+</TEI>

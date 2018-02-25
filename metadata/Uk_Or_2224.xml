@@ -1,0 +1,203 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2224" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2224</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Portions of Maimonides' commentaries on the parts of the Mishnah, in Judeo-Arabic, a fragment of Sifra, a fragment of Maimonides' Mishneh Torah and Sefer mitsṿot, and a leaf describing works forbidden on the Sabbath day.</summary>
+						<textLang mainLang="jrb-Hebr">Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="205v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder ḳodashim </title>
+							<title xml:lang="he">פרוש סדר קדשים </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<colophon xml:lang="he">[...] בירח <date when="1490" calendar="Seleucid">אדר שנת א'ת'ת'א'</date> יהא סימן טוב על <name type="person" role="owner">מריה ג'יאת ן' סלח אלכאולי</name> יזכה למהגי ביה הוא וזרעיה ו'צ'א' [...] ונכתב במדינה <name type="place">אלטוילה </name>תתבני עד [...]<locus n="205v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="206r" to="246r"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder ṭoharot </title>
+							<title xml:lang="he">פרוש סדר טהרות</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<note>
+								<p>Fragments only.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="246r" to="252r"/>
+							<title xml:lang="he-Latn-x-lc">Sifra </title>
+							<title xml:lang="he">ספרא</title>
+							<note>
+								<p>A fragment only. Differs from the standard printed recension.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="he-Latn-x-lc">Mishneh Torah </title>
+							<title xml:lang="he">משנה תורה</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<locus from="252r" to="252v"/>
+							<note>
+								<p>A fragment only (on Shofeṭim).</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="253r" to="254v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer mitsṿot </title>
+							<title xml:lang="he">ספר מצוות</title>
+							<note>
+								<p>Two leaves only.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="255r" to="255v"/>
+							<title xml:lang="en">Exposition of forbidden works </title>
+							<note>
+								<p>A leaf containing a fragment of an Arabic exposition of works forbidden on the day of Sabbath. Finishes with the number 39.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>255 folios <dimensions unit="mm" type="leaf">
+										<height>280/255</height>
+										<width>200/165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210/195</height>
+										<width>145/120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>255 folios (+ 2 modern paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>23 quires: i-xxiii10 (folios 1-205), some of which are defective, signed with Hebrew letters at the end. </p>
+									<p>Folios 206-245, 246-251, 252, 253-254 and 255 are separate fragments of different other manuscripts. </p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folios 3, 30, 66, 92, 130, 148. </p>
+									<p>Largely defective. Several leaves mutilated. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21 22" writtenLines="21 22">
+									<p>Visible mastara ruling. </p>
+									<p>Chapter numbers given in large characters. </p>
+									<p>A few marginal notes. </p>
+									<p>Diagrams. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 15th century.  </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="206r" to="245v">   </locus>, <locus from="246r" to="251v"/>, <locus from="252r" to="252v"/>, <locus from="253r" to="254v"/>, <locus from="255r" to="255v"/>written in other hands of the same date.</p>
+							</handNote>
+						</handDesc>
+						<decoDesc>
+							<summary>Diagrams.</summary>
+							<decoNote type="diagram">
+								<locus n="182v, 183v, 185v, 187v, 188v, 189r, 192r, 192v, 196r"/>Diagrams, in pen and ink.</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Kodashim. Hebrew. Brit. Mus. Oriental 2224.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1801" calendar="Seleucid" when="1490"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 April 1880: inscribed, folio <locus n="fse001v">[256v]</locus>.</p>
+							<date>1880-04-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">461</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,146 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27558" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27558</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Joseph ibn Alfawwal's Hebrew translation of Maimonides' Arabic commentary on the Mishnah of Seder Mo῾ed.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="168v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder mo῾ed </title>
+							<title xml:lang="he">פרוש סדר מועד </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<note>
+								<p>The first leaf of the preface is missing.  </p>
+								<p>The missing leaf after folio 14 covered a portion of chapter 3 of Shabat, and the absent leaf after folio 30 contained a part of the same masekhta.  </p>
+								<p>The manuscript ends with a fragment of the first leaf of Mo῾ed ḳaṭan, and Ḥagigah is missing entirely. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.  </support>
+								<extent>168 folios <dimensions unit="mm" type="leaf">
+										<height>215</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155100</height>
+										<width>180</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>168 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end. </p>
+									<p>Folios 1-6 and 148-168 are largely mutilated. </p>
+									<p>Several other leaves slightly damaged. </p>
+									<p>One leaf missing after folio 14 and one after folio 30. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Uniform layout. </p>
+									<p>A few marginal notes. </p>
+									<p>The spaces for the diagrams have been left blank. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 14th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides. Comm. on the Seder Mo'ed. Hebrew. Brit. Mus. Additional 27,558.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Samuel Schönblum</name>: purchased by the British Museum from him on 08 Dec. 1866: inscribed, folio <locus n="fse002v">[170v]</locus>.</p>
+							<date>1880-04-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">463</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

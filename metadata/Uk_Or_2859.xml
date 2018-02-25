@@ -1,0 +1,170 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2859" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2859</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Volume 1 of the Sefer Or Zaru῾a of Isaac ben Moses of Vienna.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="291v"/>
+							<title xml:lang="en">Sefer Or zaruʻa</title>
+							<title n="0" xml:lang="he">ספר אור זרוע</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/35380120">Isaac ben Moses, of Vienna, 1200-1270</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/35380120">יצחק בן משה, מוינה</persName>
+							</author>
+							<note>
+								<p>Folio 2r contains a title and a table of contents.</p>
+							</note>
+							<filiation>Cf volume 2 of this manuscript, Or. 2860, <ref target="Margoliouth_1965" type="number">531</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="3r" to="13r"/>
+							<title xml:lang="he-Latn-x-lc">Alfa beta</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="13r" to="23r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot tsedaḳah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="23r" to="110r"/>
+							<title xml:lang="he-Latn-x-lc">Masekhet Bava ḳama</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="110r" to="220r"/>
+							<title xml:lang="he-Latn-x-lc">Masekhet Bava metsiʻa</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="220r" to="291v"/>
+							<title xml:lang="he-Latn-x-lc">Masekhet Bava batra</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>291 folios <dimensions unit="mm" type="leaf">
+										<height>495</height>
+										<width>340</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>350</height>
+										<width>220</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>291 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each, marked by catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="47" writtenLines="46">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and ruling in pencil, page by page. </p>
+									<p>Hair side and flesh side of the folios indistinguishable.</p>
+									<p>Last line written within ruling.</p>
+									<p>Initial words in larger semi-cursive script. </p>
+									<p>Hebrew foliation in a later hand in the upper left-hand corner of each recto.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, unpunctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>An Italian note, signed by <name type="person" role="censor">Bart[olomeo] Rocca di Praterino</name>, giving permission to <name type="person" role="owner">Avraham Segre</name> to use the book according to his will: folio 291v.</p>
+							<p>A legal document in Italian, on the quarto paper leaf attached on guard at the end of the voume, dated <date calendar="Hebrew">16 Marheshvan 5503</date> (<date calendar="Gregorian">13 November 1742</date>). <name type="person" role="owner">Samson Segre</name> agrees to print the manuscript together with Jacob London and Isaac Berakhyah Kanton, in Amsterdam, London, or elsewhere.</p>
+							<p>Inner side of folio 1r (front flyleaf): descriptions on modern paper of two works by <name type="person">Natanael Diodato Segre</name> (῾Atarat tiferet Savoya and Nezer ha-ḳodesh mi-Savoya). The Duke Charles Emmanuel is therein extolled. Dated <date calendar="Gregorian">1622</date>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Isaac ben Moses. Or Zaru'a Hag-Gadol. Hebrew. Vol. I. Brit. Mus. Oriental 2859.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>Germany (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1885-04-18</date>
+							<p>
+								<name type="person" role="owner">R. N. Rabinowitz</name>: purchased from him by the British Library on 18 April 1885: inscribed, folio [293v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">530</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

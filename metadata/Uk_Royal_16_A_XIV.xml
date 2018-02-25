@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Royal_16_A_XIV" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Royal MS 16 A XIV</idno>
+						<altIdentifier type="former">
+							<idno>Reg. MS 16 A XIV</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Tiḳune Zohar, followed by portions of Siṭre Torah, Midrash ne῾elam, and portions on a large number of pericopes of the Pentateuch.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="224v"/>
+							<title xml:lang="he-Latn-x-lc">Zohar (Tiḳunim)</title>
+							<title xml:lang="he">זהר (תקונים)</title>
+							<note>
+								<p>The enumeration of the tikunim is irregular, several number being passed over. An occasional omission or a fuller note marks the absence of parts in the manuscript from which the scribe copied.</p>
+								<p>The passage headed Siṭre Torah begins on folio 130v.</p>
+								<p>The contents of folios 146r-162v agree in the main with Midrash ne῾elam.</p>
+								<p>The portions that remain consist almost entirely of sections of the Zohar proper on a number of pericopes of the Pentateuch as printed in different editions. The last pericope dealt with is Ṿa-yelekh, folios 221r-224r.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Tikune-Zohar_1844"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>224 folios<dimensions type="leaf" unit="mm">
+										<height>285</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>224 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p> 	Quires of mostly 10 leaves each, signed with Hebrew letters at the beginning.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30" writtenLines="30">
+									<p>Uniform layout.</p>
+									<p>Initial words in larger characters.</p>
+									<p>Visible in ruling (complete).</p>
+									<p>Marginal notes and additions.</p>
+									<p>Folio to folio catchwords, mostly cut away in the binding.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.Boxed.</p>
+								<p>Spine: 'Tikkune Haz-Zohar &amp; Extracts From The Zohar. Hebrew &amp; Aramaic. Brit. Mus. Royal MS 16.A.XIV.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">765</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

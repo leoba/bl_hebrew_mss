@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_13027" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 13027</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="5r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>The second דרש of Lev. 10:16 is written at the beginning of the line. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 18th to 19th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>54 membranes, 264 columns. <dimensions type="leaf" unit="mm">
+									<height>317 (590mm with the rollers)</height>
+										<width>30160</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>54 membranes, wooden rollers with ivory handles. Silk mantle. </p>
+								</collation>
+								<condition>
+									<p>Occasional darker edges.
+</p>
+									<p>Silk mantle restored. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="264" ruledLines="42" writtenLines="42">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stitching. </p>
+									<p>264 columns in total, three to six columns per membrane. </p>
+									<p>Three tagin on שעטנזגץ, and one on אבדהיח. </p>
+									<p>The letter ח arched throughout. </p>
+									<p>Several instances of majuscular and minuscular letters. </p>
+									<p>Special shapes of the letter  ו, נ, פ, ע, ח, ז, י, ל, ס, ר occur. The inverted נ before and after Num. 10:35-36. </p>
+									<p>The &quot;puncta extraordinaria&quot; placed on the words fixed by masorah. </p>
+									<p>Wooden rollers with ivory handles (590mm high). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square script of the 18th to 19th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1750" notAfter="1899"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Details from Acquisition ledgers held in A&amp;AS reading room</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

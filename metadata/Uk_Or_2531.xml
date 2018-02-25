@@ -1,0 +1,209 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2531" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2531</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/sh98001892" rend="visible">
+						<summary>A Karaite service-book according to the rite of Damascus.</summary>
+						<textLang mainLang="he" otherLangs="jrb"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh98001892">
+							<locus from="1r" to="223v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<listBibl>
+								<bibl>
+									<ref target="Seder_Karaim_1854"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">נשלם בעז' אלהי בחדש אלול משנת <date calendar="Hebrew">ה'ת'ס'</date> ליצי' והסימן י'ה'י'ה' ק'ד'ש' ל'א' יגאל והי <date calendar="Seleucid">שנת אלפים ואחד עשר לשטרות</date> ה' יכפיל שכר כותבו ומקדישו א'כ'י'ר'.<locus n="208v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="3v" to="16r"/>
+							<title xml:lang="en">Introduction to the Karaite liturgy</title>
+							<note>
+								<p>No author's name is given not any authorities quoted in it; perhaps the treatise was authored by the scribe Daniel ben Mosheh Firuz. </p>
+								<p>On folio 9v begins a list of Psalms and haftarot belonging to each pericope of the Pentateuch.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="16r" to="53r"/>
+							<title xml:lang="en">Prayers for week-days</title>
+							<note>
+								<p>The evening service for the first week-day is missing entirely, as is the greater part of the morning service for the first day (about 45 leaves have been lost after folio 15).</p>
+								<p>Services for the first day begin on folio 16r, services for evening and morning of the five other week-days, folio 35v.</p>
+							</note>
+							<filiation>Cf the contents of Or 2356, VI.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="53r" to="99r"/>
+							<title xml:lang="en">Services for Sabbath-days</title>
+							<note>
+								<p>The evening prayer, folio 53r; the morning prayer, folio 60r; the afternoon prayer, folio 93v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="99r" to="113v"/>
+							<title xml:lang="en">Services for rosh ḥodesh</title>
+							<note>
+								<p>The evening prayer, folio 99r; the morning prayer, folio 104r; services for the Sabbath and rosh ḥodesh, folio 107v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="113v" to="148r"/>
+							<title xml:lang="en">Services for the season of Pesaḥ</title>
+							<note>
+								<p>The benediction of aviv, folio 113v; services corresponding to Halel ha-gadol, folio 114v; the ten plagues, folio 129v; then follow poetical pieces and Torah lections.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="148r" to="208v"/>
+							<title xml:lang="en">Services for special Sabbaths</title>
+							<note>
+								<p>For Sabbath Be-shalaḥ, folio 148r; Ṿa-yishma῾, folio 159r; Purim, folio 170r; Ki tisa, folio 177r; Ekhah, folio 186r; Balaḳ, folio 187v; Shabat naḥamu, folio 188v; Ṿa-etḥanan, folio 197v; Kipur, folio 202v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="209r" to="223v"/>
+							<title xml:lang="en">Appendix</title>
+							<note>
+								<p>Five fragments of another copy of the same rite, with some differences (folios 209-211, 212, 213, 214-216, 217--223 respectively).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the early 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>223 folios <dimensions unit="mm" type="leaf">
+										<height>215</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>165</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>223 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each, signed with Hebrew letters.</p>
+								</collation>
+								<condition>
+									<p>Defective at the end.</p>
+									<p>Leaves lost after folio 15, 106, 158, 205, 208, 211, 212, 213, 216. </p>
+									<p>Four quires missing at the end. </p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="20 23" writtenLines="20 23">
+									<p>Uniform layout. </p>
+									<p>Visible mastara ruling.</p>
+									<p>Titles of sections written in larger characters.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Oriental semi-cursive script, punctuated, of the early 18th century. <name type="person" role="scribe">Daniel ben Mosheh ha-Melamed ben Yesh῾ayah Firuz</name>: inscribed, folio 3r.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="209r" to="223v"/>: originally part of a different manuscript. Also, folio 2r, lines 3v-9v, appears to be in a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 2r is a title page, and folio 3r begins with a dedication.</p>
+							<p>Folios 219-223 are later additions.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Karaite Prayer Book. Hebrew. Brit. Mus. Oriental 2531.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]460" calendar="Hebrew" when="1700"/>
+						<provenance>
+							<p>
+								<name type="place">Syria</name> (<name type="place">Damascus</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed (folio [224v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">725</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

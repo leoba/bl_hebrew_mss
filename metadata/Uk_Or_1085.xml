@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1085" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1085</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="2r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>The scrolls consists of two fragments, written by two different hands: Exodus 11:8-Numbers 14:8; Numbers 18:28-27:2, with a gap extending from chapter 25:15-26:14. </p>
+								<p>The Song of Moses, Ex. 15, is preceded by six lines of text and one blank line. The second דרש, Lev. 10:16, is placed at the beginning of the line. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 17th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>28 membranes, 82 columns. <dimensions type="leaf" unit="mm">
+										<height>693/890</height>
+										<width>15890</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>28 membranes, with wooden roller (135mm) and leader (817mm). </p>
+								</collation>
+								<condition>
+									<p>Dirt. Oily patches. </p>
+									<p>Large infills at inner end, lost adhesion.  </p>
+									<p>Severe cockling and pleats obscuring text. </p>
+									<p>Ink flaking. Carbon ink granular, with losses from damp. </p>
+									<p>Water-damaged (ink offset to verso from damp). </p>
+									<p>Small rectangular excisions. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="82" ruledLines="48" writtenLines="48">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stiching. </p>
+									<p>82 columns in total, one to four columns per membrane. </p>
+									<p>Three tagin on the letters שעטנזגץ, and one on בדהי. The letter ח is arched throughout, and פ&apos; לפוף is very frequent.  </p>
+									<p>Several instances of majuscular and minuscular letters. </p>
+									<p>Special shapes of the letters ם, ה, ו, י. </p>
+									<p>The &quot;puncta extraordinaria&quot; occur in Num. 3:39, 9:10, and 21:30. No inverted nun placed before and after Num. 10:35-36. </p>
+									<p>Every column begins with a new verse, and the initial letter is always ו, with the exception of Gen. 1:1, 5:1, and 13 other instances. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>/<name type="place">Poland </name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1872-05-25</date>
+							<p>Bequeathed to the British Museum by Rev. <name type="person" role="owner">J. Noble Coleman</name> on 25 May 1872: inscribed on verso. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">8</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

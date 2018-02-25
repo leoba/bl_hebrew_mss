@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-25</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_26938" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26938</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech, provided with vowel-points and accents. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="401v"/>
+							<title xml:lang="he-Latn-x-lc">Torah </title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<colophon xml:lang="he">ירא[?] ה' את עמלי ואת יגיעי היום סיימתי חומש הרביעי למי שירצה לקנות ספרים יצבר לי כסף חמרים חמרים עד שאומר די והותר בזה יקנה לראשו כתר'.  <locus n="400v"/>
+							</colophon>
+							<note>
+								<p>Inscription at the end of the manuscript, folio 400v: <q>פדות ובא גואל</q>, with some emblematic characters on each side. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="103v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="103v" to="191v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="191v" to="250v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="250v" to="332v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="332v" to="400v"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>401 folios<dimensions unit="mm" type="leaf">
+										<height>127</height>
+										<width>82</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>401 folios (+3 unfoliated folios at the beginning and 4 at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each. </p>
+									<p>Catchwords at the end of the quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>No masoretic comments.</p>
+									<p>Visible difference between hair side and flesh side of the leaf.</p>
+									<p>Visible ruling with pencil.</p>
+									<p>The first word of each book written in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script, punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ya'akov Kats</name>: inscribed with his name, folio 401r, with a date of <date calendar="Hebrew">421</date> (<date calendar="Gregorian">1661</date>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 46: inscribed (folio [406v]); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">97</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

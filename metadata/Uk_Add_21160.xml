@@ -1,0 +1,232 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_21160" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 21160</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Hafṭarot, Five Scrolls and Job, accompanied by Targum Onḳelos and masorah magna and parva (aka 'Yonah Pentateuch').</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="329v"/>
+							<title xml:lang="en">Torah, hafṭarot u-megilot </title>
+							<title xml:lang="he">תורה, הפטרות ומגילות  </title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+							<decoNote type="initial">1 inhabited initial word in ink <locus n="63v"/>
+							</decoNote>
+							<decoNote type="paratext">Numerous micrographical illustrations.<locus n="180v, 182r, 184r, 187v, 188r, 192v, 194r, 201v, 285r, 292r, 292v, 300v etc. "/>
+							</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">304</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1984" type="page">49</ref>
+								</bibl>
+								<bibl>
+									<ref target="Sed-Rajna_1987" type="page">136 142</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="number">105</ref>
+								</bibl>
+								<bibl>
+									<ref target="Gutmann_1978" type="page">22</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">132</ref>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>The Targum Yerushalmi is sometimes quoted in the margins of Targum Onḳelos, e.g. folio 48r (to Genesis 42:21), 49v (to Genesis 43:9), 51r (to Genesis 43:30).</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1v" to="63v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>Missing chapters: 1:1-14:10.<p>Wanting chapter 1:1-14:10.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63v" to="137r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="137r" to="184r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="184r" to="253v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="253v" to="274r"/>
+								<title xml:lang="en">Deuteronomy</title>
+								<note>Missing chapter 12:17 (in part) to the end.<p>Wanting chapter 12:17 (in part) to the end.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="274r" to="298r"/>
+								<title>Hafṭarot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="298r" to="301r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="301r" to="301v"/>
+								<title xml:lang="en">Song of Songs</title>
+								<note>Missing chapters: 1:1-6:8.<p>Missing chapters 1:1 -6:8 (in part).</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="301v" to="308r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="308r" to="315r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="315r" to="318v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="318v" to="329v"/>
+								<title xml:lang="en">Job</title>
+								<note>Missing chapters: 8:2-10:8; 31:2-end.<p>Missing chapters 8:2-10, 31:2 (in part) to the end.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the second half of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex,</support>
+								<extent rend="visible">329 folios<dimensions unit="mm" type="leaf">
+										<height>387</height>
+										<width>286</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>175</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>329 folios (+ 1 unfoliated older paper flyleaf at the beginning and 1 unfoliated older paper flyleaf with unidentified watermark [crowned eagle with spread wings, beneath: H S(?) B] and 2 modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>35 quires: i6 (folios 1-6), ii12 (folios 7-18), iii12 (folios 19-30), iv12 (folios 31-42), v12 (folios 43-54), vi12 (folios 55-66), vii12 (folios 67-78), viii12 (folios 79-90), ix12 (folios 91-102), x12 (folios 103-114), xi12 (folios 115-126), xii10 (folios 127-136), xiii12 (folios 137-148), xiv12 (folios 149-160), xv8 (folios 161-168), xvi12 (folios 169-180), xvii12 (folios 181-192), xviii12 (folios 193-204), xix12 (folios 205-216), xx12 (folios 217-228), xxi12 (folios 229-240), xxii12+1 (folios 241-253), xxiii10 (folios 254-263), xxiv4 (folios 264-267), xxv4 (268-271), xxvi2 (folios 272-273), xxvii10 (folios 274-283), xxviii6 (folios 284-289), xxix8 (folios 290-297), xxx3 (folios 298-300), xxxi10 (folios 301-310), xxxii8 (folios 311-318), xxxiii3 (folios 319-321), xxxiv5 (folios 322-326), xxxv3 (folios 327-329).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="31" writtenLines="30">
+									<p>Uniform layout. </p>
+									<p>The manuscript is defective at the beginning and at the end, with leaves missing after folio 273, 300 and 321.</p>
+									<p>The beginning of each book is distinguished by the opening word or words being written in large characters.</p>
+									<p>Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and four in the lower margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script of 13th century; punctuation provided by a different hand. <name type="person" role="scribe">Baruch </name>; the word ברוך is marked on folio 1r.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>Punctuation provided by a different hand: <quote>מכה עד סופה לא נקדתי מלבד פסוק אחרון אך לא ראשו. </quote>
+									<locus n="293r"/>
+								</p>
+							</handNote>
+						</handDesc>
+						<decoDesc>
+							<summary> 	1 inhabited initial word in ink. Numerous micrographical illustrations.</summary>
+							<decoNote type="initial">1 inhabited initial word in ink <locus n="63v"/>
+							</decoNote>
+							<decoNote type="paratext">Numerous micrographical illustrations.<locus n="180v, 182r, 184r, 187v, 188r, 192v, 194r, 201v, 285r, 292r, 292v, 300v etc. "/>
+							</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Biblia Hebraica. Pentateuchus. Haphtaroth. Megilloth V. Iob. Brit. Mus. Add. Or. 21,160.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1250" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">M. Edwin Tross of Paris</name>: purchased by the British Museum from him on <date calendar="Gregorian">13 October 1855</date>, inscribed (<locus n="fse002v">([331v])</locus>).</p>
+							<date>1855-10-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">75</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

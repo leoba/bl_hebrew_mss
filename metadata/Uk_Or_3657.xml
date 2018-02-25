@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_3657" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 3657</idno>
+					</msIdentifier>
+					<head>Ḥidushim</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Novellae and notes on various parts of the Talmud.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="44v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥidushim </title>
+							<title xml:lang="he">חדושים</title>
+							<msItem rend="v">
+								<locus from="1r" to="10r"/>
+								<title xml:lang="en">Notes on the tractate Nedarim</title>
+								<note>
+									<p>Copied from a margin from a copy of the tractate.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="10r" to="37r"/>
+								<title xml:lang="en">Notes on the tractate Nazir</title>
+								<note>
+									<p>Marked as coming from the manuscript of Rashi, but Tosafot are also well represented.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="37r" to="41r"/>
+								<title xml:lang="he-Latn-x-lc">She῾are tsedeḳ</title>
+								<author key="http://viaf.org/viaf/59118174">
+									<persName key="http://viaf.org/viaf/59118174" xml:lang="en">Levi ben Gershom, 1288-1344</persName>
+									<persName key="http://viaf.org/viaf/59118174" xml:lang="he">לוי בן גרשם, 1288-1344 </persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="41r" to="44r"/>
+								<title xml:lang="he-Latn-x-lc">Mavo ha-talmud</title>
+								<note>
+									<p>Contains 58 sections.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>44 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>152</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>44 folios (+ 2 modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable (modern restoration of quiring).</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>References to talmudic sections given in larger square characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi cursive script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Eliyahu ben Yosef</name> and <name type="person" role="owner">Avraham Sadbon</name>: inscribed in the owners' notes, folio 44v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Commentary on Nedharim and Nazir, etc. Hebrew. Brit. Mus. Oriental Ms. 3657.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<acquisition>
+							<date>1889-03-02</date>
+							<p>
+								<name type="person" role="owner">Joseph Schlesinger</name>: purchased from him by the British Museum on 02 March 1889: inscribed, folio <locus n="fse002v">[46v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">430</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

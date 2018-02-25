@@ -1,0 +1,279 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27210" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27210</idno>
+					</msIdentifier>
+					<head>Hagadah</head>
+					<msContents class="lccn.loc.gov/n79084774" rend="visible">
+						<summary>Hagadah for Passover (the &apos;Golden Hagadah&apos;).</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79084774">
+							<locus from="1r" to="101v"/>
+							<title xml:lang="he-Latn-x-lc">Hagadah shel Pesaḥ</title>
+							<title xml:lang="he">הגדה של פסח</title>
+							<listBibl>
+								<bibl>
+									<ref target="Almanzi_1864" type="page">39</ref>
+								</bibl>
+								<bibl>
+									<ref target="Bohigas_1960" type="page">68-70, vol. 1</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1969" type="page">56</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1970"/>
+								</bibl>
+								<bibl>
+									<ref target="Gutmann_1978" type="page">60-63</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1982" type="page">I: 11, II: 123-154</ref>
+								</bibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">304</ref>
+								</bibl>
+								<bibl>
+									<ref target="Sed-Rajna_1987"/>
+								</bibl>
+								<bibl>
+									<ref target="Schubert_1993" type="page">269-299</ref>
+								</bibl>
+								<bibl>
+									<ref target="Epstein_1997" type="page">16-17</ref>
+								</bibl>
+								<bibl>
+									<ref target="Zeitschrift_60_1997" type="page">451-482</ref>
+								</bibl>
+								<bibl>
+									<ref target="Speculum_75" type="page">816-858</ref>
+								</bibl>
+								<bibl>
+									<ref target="Frojmovic_2002" type="page">33-52</ref>
+								</bibl>
+								<bibl>
+									<ref target="Medieval_Encounters_8" type="page">105-122</ref>
+								</bibl>
+								<bibl>
+									<ref target="Kogman-Appel_2004" type="page">179-185</ref>
+								</bibl>
+								<bibl>
+									<ref target="Perani_2004" type="page">173-191</ref>
+								</bibl>
+								<bibl>
+									<ref target="Yarza_2007" type="page">135-136</ref>
+								</bibl>
+								<bibl>
+									<ref target="Kogman-Appel_2006" type="page">47-88</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">94-97</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">172</ref>
+								</bibl>
+								<bibl>
+									<ref target="Mann_2010" type="page">112-115</ref>
+								</bibl>
+								<bibl>
+									<ref target="Epstein_2010" type="page">129-200</ref>
+								</bibl>
+								<bibl>
+									<ref target="Jaritz_2011" type="page">117-134</ref>
+								</bibl>
+							</listBibl>
+							<decoNote type="miniature">14 full-page miniatures in colours and gold.  <locus from="2v" to="15r"/>
+							</decoNote>
+							<decoNote type="illustration">2 textual illustrations.<locus n="44v, 45v"/>
+							</decoNote>
+							<decoNote type="marginal">26 marginal illustrations.<locus n="16v, 22v, 23r, 26v, 27r, 28r, 32v, 42r, 42v, 43r, 43v, 46r, 47r, 50r, 55r, 56v, 61r, 62r, 66r, 66v, 67r, 67v, 68r, 78v, 83r, 85r"/>
+							</decoNote>
+							<decoNote type="border">Embellished vertical band between the two text columns.<locus n="22v, 23r, 55r, 56r, 61r, 66v, 67r, 67v, 68r, 68v, 70v, 73r, 78v, 78v, 85r"/>
+							</decoNote>
+							<decoNote type="initial">36 initial-word panels in gold, many with foliate decoration in colours. <locus n="16v, 22v, 24v, 26v, 27r, 30v, 31v, 32v, 33v, 41v, 44v, 47r, 50r, 51r, 53r, 55v, 56v, 57v, 59v, 61r, 65v, 66r, 66v, 67r, 67v, 68r, 68v, 70v, 73r, 73v, 78v, 82r, 83r, 85r, 86r, 87r"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus n="31v, 34v, 36v, 38r, 40v"/>5 initial-words with zoomorphic letters.</decoNote>
+							<decoNote type="initial">Numerous initial words in gold and, silver and in colours.</decoNote>
+							<decoNote type="border">One decorated title page. (Added in the 17th century. All the seventeenth-century decorations were painted on blank pages of the fourteenth-century codex.)<locus n="2r"/>
+							</decoNote>
+							<decoNote type="other">One heraldic deivce. (Added in the 17th century. All the seventeenth-century decorations were painted on blank pages of the fourteenth-century codex.)<locus n="16r"/>
+							</decoNote>
+							<decoNote type="border">13 full borders decorated with leaves on the reverse side of the full-page miniatures framing a mnemonic poem on the laws of Passover. (Added in the 17th century. All the seventeenth-century decorations were painted on blank pages of the fourteenth-century codex.)<locus from="3v" to="15v"/>
+							</decoNote>
+							<decoNote type="border">One full border decorated with leaves. (Added in the 17th century. All the seventeenth-century decorations were painted on blank pages of the fourteenth-century codex.)<locus n="24r"/>
+							</decoNote>
+							<note>
+								<p>The illuminations of the text consist mainly in the gold, silver, and occasionally coloured letters of first and striking words, placed within coloured designs.</p>
+								<p>Bears many censors&apos; erasures. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="16r"/>
+							<title xml:lang="en">Illustriations</title>
+							<note>
+								<p>The illustrations consist of coloured miniatures on gold ground, each page being divided into four equal compartments, with a separate picture in each. </p>
+								<p>The history illustrated is that of Genesis and the earlier portion of Exodus.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="16v" to="21v"/>
+							<title xml:lang="en">Poetical pieces</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="22r" to="23v"/>
+							<title xml:lang="he-Latn-x-lc">Lel shemurim</title>
+							<note>
+								<p>Followed by a poetical piece.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="24v" to="55v"/>
+							<title xml:lang="en">Hagadah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="56v" to="101v"/>
+							<title xml:lang="en">Liturgical pieces</title>
+							<note>
+								<p>Contain pieces accompanying the order of Passover service.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum and paper codex; Sephardic square script, partially punctuated, of 14th (for the main part)  and of 17th century (for the text added on blank pages in the manuscript)</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<extent>101 folios <dimensions unit="mm" type="leaf">
+										<height>245 </height>
+										<width>190/200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155/175</height>
+										<width>130/150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>101 folios (+ 1 unfoliated paper flyleaf at the end); folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>13 quires: i10-1 (folios 2-10), ii6-1 (folios 11-15), iii-xii8 (folios 16-95), xiii6 (folios 96-101). </p>
+									<p>No catchwords.</p>
+									<p>Margins are too closely cut.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="10 26" writtenLines="10 26">
+									<p>Uniform codex. </p>
+									<p>The codex is called the Golden Haggadah because of the diapered gold-leaf background of its miniatures.
+</p>
+									<p>Ruling is visible. </p>
+									<p>Hair-side and flesh-side of the folios are distinguishable.
+</p>
+									<p>Erased text (e. g. folios 81r, 83r, 86r, 86v, 87r, 90v, 94v, 95r, 97r). </p>
+									<p>Many illustrations, which consist mainly of gold, silver, and occasionally coloured letters of first and striking words, placed within coloured designs. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sephardic square script, partially punctuated, of 14th (for the main part) and 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 3v-16r are 17th century additions.</p>
+							<p>Folio 2r is a roughly illuminated title-page from the 17th century. </p>
+							<p>
+								<name type="person" role="bookseller">Fra Luigi da Bologna</name>: censor&apos;s signature, Bologna, February 1599 (101v); <ref target="Popper_1969" type="page"> 104</ref> and appendix § 112-117. </p>
+							<p>Rabi <name type="person" role="owner">Yo᾿av Gallico</name>of Asti, duchy of Savoy: gave the manuscript as a wedding present to his &apos;learned son-in-law Eliyahu&apos;, son of Menaḥem Rava in 1602: inscribed on his added title page (folio 2r). </p>
+							<p>The armorial device of the Gallico and Rava families, added at Carpi in 1602 (folio 16r ). </p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: censor&apos;s signature, 1613 (folio 101v); see <ref target="Popper_1969" type="number">50-56</ref>. </p>
+							<p>
+								<name type="person" role="censor">Renato da Modena</name>: censor&apos;s signature, 1626 (folio 101v); see <ref target="Popper_1969" type="number">132-133</ref>. </p>
+							<p>
+								<name type="person" role="owner">῾Azaryah Tsedeḳiyah Ḥayim Ashkenazi</name>: birth entry on 22 January 1689 (folio 1r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather Morocco binding, blind tooled, remains of clasps.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>, N. E., <name type="place">Catalonia </name>(<name type="place">Barcelona</name>?) (for the main part) and <name type="place">Italy </name> (for the later additions)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p><name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his manuscript no. 328; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in<date calendar="Gregorian"> October 1865 </date>for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">607</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

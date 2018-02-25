@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_11567" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 11567</idno>
+					</msIdentifier>
+					<head>Perush Mishle</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of ʿImanuʾel ben Shelomoh of Rome on  Proverbs.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="http://lccn.loc.gov/sh85013597">
+							<locus from="1r" to="146v"/>
+							<title xml:lang="en">Perush Mishle </title>
+							<title xml:lang="he">פרוש משלי </title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/42726510">Immanuel ben Solomon </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/42726510">עמנואל בן שלמה, הרומי</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Romi_1981"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex, small Sefardi square and semi-cursive script, partly punctuated, of approximately 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">146 folios <dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>162</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>113</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>146 folios (+ 2 unfoliated flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Catchwords at the end of each quire, cut away for the most part.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="33" writtenLines="33">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Flesh side and hair side are distinguishable. </p>
+									<p>Hard-point ruling is visible.</p>
+									<p>The bibilical verses are given in square script, accentuated and punctuated.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Small Sefardi square and semi-cursive script, with visible Italian influences. Probably of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name> (fl. until 1596): inscribed with his name, 1575 (folio 146v); see <ref target="Popper_1969" type="page">78</ref>. </p>
+							<p>Probably censored by <name type="person" role="censor">Hippolite of Ferrara</name>, Franciscan: inscribed &apos;Fra Hipp. Ferr 1601(?)&apos; (active 1590-1609 in Cremona?) (folio 146v), see <ref target="Popper_1969" type="number">18-19, 93</ref>.</p>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Vistorini</name>: inscribed &apos;Gio. Dom. Vistorini 1609&apos; (folio 146v), see <ref target="Popper_1969" type="number">85-87</ref>. </p>
+							<p>
+								<name type="person" role="owner">Avram Shtern</name>, inscribed in a note, folio 1r. </p>
+							<p>A partly erased owner&apos;s note, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600 covers. Rebound by BM/BL, with a new in-house bridge.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Spain </name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>Purchased of Rodd (?), perhaps <name type="person" role="bookseller">Thomas Rodd the younger </name>(b. 1796, d. 1849): inscribed with a date of 13 April 1839, folio 1r.</p>
+							<date>1839-04-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">217</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

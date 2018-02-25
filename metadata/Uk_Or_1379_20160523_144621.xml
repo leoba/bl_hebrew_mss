@@ -1,0 +1,674 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2013-09-25</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_1379" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 1379</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003313973</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031723428.0x000007</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Pentateuch</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n79066420" rend="visible">
+                  
+                  
+                  
+                  <summary>The Pentatuech with vowel-points and accents, masorah magna and parva. Sefer ha-tigan is prefixed.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+                  
+                  
+                  
+                  <msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+                     
+                     
+                     
+                     <locus from="1r" to="374v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Torah</title>
+                     
+                     
+                     
+                     <title xml:lang="he">תורה</title>
+                     
+                     
+                     
+                     <textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+                     
+                     
+                     
+                     <colophon xml:lang="he">נכתבה זאת התורה אשר היא לעיני דורשיה מאירה וכשמש מזהירה על שם האח הטוב דומה לגן רטוב הא[ ] והנעים נטע שעשועים אברהם ס"צ ביר' סעדיה ש"צ בין עודד רי"ת הידוע אלעז[ירי?]דיה סימן טוב [ ] להגות בו הוא וזרעו וזרע זרעו מעתה ועד עולם ויקיים עליו לא ימוש ספר הת' הז' [ ] בה ...<locus n="373v"/>
+                     
+                     
+                     
+                     </colophon>
+                     
+                     
+                     
+                     <decoNote type="paratext">
+                        
+                        
+                        
+                        <locus from="1v" to="2r"/>Psalm 99 written in an ornamental design. </decoNote>
+                     
+                     
+                     
+                     <decoNote type="paratext">Parts of masorah magna written in the outer margin in a number of short lines, forming a series of ornamental angles. </decoNote>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="33v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">	Maḥberet ha-tigan</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Preceded by Psalm 99 (folios 1v-2r) written in an ornamental design.</p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="33v" to="119r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Genesis</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="119r" to="192r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Exodus</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Leviticus</title>
+                     
+                     
+                     
+                     <locus from="192r" to="243r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Numbers</title>
+                     
+                     
+                     
+                     <locus from="243r" to="313v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Deuteronomy</title>
+                     
+                     
+                     
+                     <locus from="313v" to="374v"/>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 15th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper codex.</support>
+                        
+                        
+                        
+                        <extent>374 folios<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>260</height>
+                              
+                              
+                              
+                              <width>203</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>374 folios (+ 1 modern unfoliated flyleaf at the beginning and 2 at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 10 to 12 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Old repairs.  </p>
+                           
+                           
+                           
+                           <p>Dirty of carbon from degraded ink.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="17" writtenLines="17">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Each book begins with a new page.</p>
+                           
+                           
+                           
+                           <p>The beginning of each pericope is marked with a large ornamental letter samekh in the margin. The seven sections are indicated by Hebrew letters.</p>
+                           
+                           
+                           
+                           <p>Masorah magna occupies one line in the upper, one in the lower and one in the outer margin of the page.</p>
+                           
+                           
+                           
+                           <p>Masoretic rubrics at the end of each pericope and each book.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Yemenite square and semi-cursive script, punctuated, of the 15th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major">
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <locus n="143"/>due to a later hand.</p>
+                     
+                     
+                     
+                     </handNote>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions>
+                     
+                     
+                     
+                     <p>Two anonymous notes of previous owners, folio 32v, the second dated <date calendar="Seleucid">1920</date> (<date calendar="Gregorian">1609</date>). </p>
+                  
+                  
+                  
+                  </additions>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM/BL in-house. 	</p>
+                        
+                        
+                        
+                        <p>Spine: 'Pentateuch. Hebrew. Brit. Mus. Oriental 1379.' </p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history>
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1483" notAfter="1484">Date uncertain.</origDate>
+                     
+                     
+                     
+                     <origPlace>Yemen</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Aharon ben Avi Shelomoh ben Yosef ha-Kohen al-ʿIrāqi</name>: inscribed with his name on folio 1r with the date <date calendar="Hebrew">437</date> (<date calendar="Gregorian">1676-1677</date>). </p>
+                  
+                  
+                  
+                  </provenance>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 96.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2013-09-25">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

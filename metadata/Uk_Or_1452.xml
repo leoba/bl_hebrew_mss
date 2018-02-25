@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1452" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1452</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="5r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>Exodus, Leviticus, Numbers, and Deuteronomy begin with a new column, four lines being left blank at the end of the preceding column. Every column begins with a new verse, and the initial letter is usually ו. </p>
+								<p>The Song Ha᾿azinu in Deuteronomy 32 written in 71 lines. It is preceded by seven lines, first five with the prescribed initial words, and last two diverging from the rule; followed by six lines of the Song, without blank lines before or after. </p>
+								<p>The Song of Moses, Exodus 15, written in 31 lines. No blank lines interposed before and after the Song. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 15th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>63 membranes, 226 columns. <dimensions type="leaf" unit="mm">
+										<height>610</height>
+										<width>3199</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>63 membranes, with canvas wrapper (720mm long). </p>
+								</collation>
+								<condition>
+									<p>A few usage stains, and some spills from long top edge. </p>
+									<p>Patches of surface abrasion.  </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="226" ruledLines="50" writtenLines="50">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stiching. </p>
+									<p>226 columns in total, three to five columns per membrane. </p>
+									<p>Three tagin on שעטנזגץ, and also on כךמםפף. The letter ח arched throughout. </p>
+									<p>Majuscular and minuscular letter in accordance with the rules. </p>
+									<p>Special shape of the letter פ occurs infrequently. </p>
+									<p>The &quot;puncta extraordinaria&quot; placed on the words fixed by masorah. </p>
+									<p>אתנח indicated by a dry point under the word. An upper dry point distinguishes between כל, את, הוא and כל-, את-, הוא-. Four dry points placed sometimes in the margin at the beginning of a section. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">10</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

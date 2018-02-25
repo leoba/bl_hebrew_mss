@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27031" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27031</idno>
+					</msIdentifier>
+					<head>Targum Yerushalmi</head>
+					<msContents class=" lccn.loc.gov/n81071487" rend="visible">
+						<summary>The Jerusalem Targum on the Pentateuch, unvocalised.</summary>
+						<textLang mainLang="tmr" otherLangs="he">Aramaic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n81071487">
+							<locus from="1r" to="231v"/>
+							<title xml:lang="he">תרגום ירושלמי</title>
+							<title xml:lang="en">Jerusalem Targum</title>
+							<textLang mainLang="tmr" otherLangs="he"> Aramaic, Hebrew</textLang>
+							<note>
+								<p>The Jerusalem Targum on the Pentateuch, unvocalised.</p>
+							</note>
+							<quote xml:lang="he">ארמלגוס נ"ל ארמילוס הרשע שא"ה קוראין אותו אנטקריסטו.<locus n="230v"/>
+							</quote>
+							<explicit xml:lang="he">תם ונשלם: שבח לבורא עולם חזק הכתיב: ואמיץ הקורא.<locus n="231v"/>
+							</explicit>
+							<listBibl>
+								<bibl>
+									<ref target="Ginsburger_1899"/>
+								</bibl>
+								<bibl>
+									<ref target="Reder_1974"/>
+								</bibl>
+								<bibl>
+									<ref target="Reder_1984"/>
+								</bibl>
+							</listBibl>
+							<msItem rend="visible">
+								<locus from="4r" to="59r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="59r" to="105r"/>
+								<title xml:lang="en" rend="visible">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="105r" to="139r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="139r" to="189r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="189r" to="231v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of probably 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>231 folios<dimensions unit="mm" type="leaf">
+										<height>184</height>
+										<width>127</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+1 unfoliated paper flyleaf at the beginning and 3 unfoliated paper flyleaves at the end of the codex).</p>
+								</foliation>
+								<condition>
+									<p>Several folios stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30" writtenLines="30"/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Menasheh Biriḳsisi</name> (?): inscribed with his name on folio 3r.</p>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolimitano</name> (b. 1550, d. 1620) of Hebrew books active in Italy: his inscription dated <date calendar="Gregorian">1598 </date>, folio 231v (see  <ref target="Popper_1969"/>; <ref target="Berliner_1891" type="page">9</ref>Berliner_1891p.9;  <ref target="Coudert_2004" type="page">137</ref>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 137, inscribed with his name on folio [233v]. His library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>). </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">99</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

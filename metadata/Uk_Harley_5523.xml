@@ -1,0 +1,180 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5523" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5523</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="69v"/>
+							<title xml:lang="he-Latn-x-lc">Be᾿ur emtsa῾i ῾al Sifre ha-higayon shel Aristo</title>
+							<title xml:lang="he">באור אמצעי על ספרי ההגיון של אריסטו</title>
+							<note>
+								<p>Averroës' Intermediate commentary on Porphyry's Introduction to the Organon of Aristotle, and on the first two books of the Organon itself, in the Hebrew translation of Jacob Anatolio, completed at Naples, 4992 (1232).</p>
+								<p>Folios 1r-8v contains examples of syllogisms.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19688718">Averroës, 1126-1198</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19688718">אבן רשד, מחמד, 1126-1198</persName>
+								<persName xml:lang="ara" key="http://viaf.org/viaf/19688718">ابن رشد، محمد بن احمد، ابو الوليد</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="70r" to="90v"/>
+							<title xml:lang="he-Latn-x-lc">Ha-heḳesh</title>
+							<title xml:lang="he">ההיקש</title>
+							<note>
+								<p>A compendium on the syllogism by Abu Nasr Al-Farabi (after Aristotle), in a Hebrew translation of <name type="person" role="translator">Moses ibn Tibbon</name>.</p>
+							</note>
+							<author>
+								<persName key="http://viaf.org/viaf/105133145" xml:lang="en">Fārābī, Muḥammad ibn Muḥammad Abū Naṣr al-</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/105133145">פראבי, מחמד בן מחמד אבו נצר</persName>
+								<persName xml:lang="ara" key="http://viaf.org/viaf/105133145">فارابي، محمد بن محمد، ابو نصر</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="91r" to="142v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-mofet</title>
+							<title xml:lang="he">ספר המופת</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19688718">Averroës, 1126-1198</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19688718">אבן רשד, מחמד, 1126-1198 </persName>
+								<persName xml:lang="ara" key="http://viaf.org/viaf/19688718">ابن رشد، محمد بن احمد، ابو الوليد</persName>
+							</author>
+							<note>
+								<p>Averroes' Commentary on the fourth book of the Organon of Aristotle, in the Hebrew translation of <name type="person" role="translator">Jacob Anatoli</name>.</p>
+								<p>Folio 142v contains illustrations of the syllogism, etc.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>142 folios<dimensions type="leaf" unit="mm">
+										<height>212</height>
+										<width>142</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>142 folios (+ 1 unfoliated paper flyleaf at the beginning and 3 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable.</p>
+								</collation>
+								<condition>
+									<p>Tidemarks at edges. Some slight foxing.
+</p>
+									<p>A few old repairs.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in larger characters.</p>
+									<p>Visible vertical hard-point ruling.</p>
+									<p>Catchowrds on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-curive script of the 15th to 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Latin account of the manuscript, pasted on folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Averroes Upon The Organon. Abu-Nasr Al-Farabi Upon The Syllogism. Hebrew. Brit. Mus. Harl. Or. 5523.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, '13 die Julij A.D. 1723', folio 2r.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">880</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

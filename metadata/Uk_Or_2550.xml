@@ -1,0 +1,146 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2550" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2550</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the Minor Prophets.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="120v"/>
+							<title xml:lang="he-Latn-x-lc">Perush nevi᾿im aḥaronim </title>
+							<title xml:lang="he">פרוש נביאים אחרונים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century</persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי </persName>
+							</author>
+							<note>
+								<p>Contains fragments of the Minor Prophets: the Hebrew text in Arabic transcription, with the Arabic translation and commentary of Japheth ben Ali. </p>
+								<p>The following portions of the Hebrew text are preserved: Habakuk 3:14-19, Zephaniah 1:1-2:7, 2:9-3:5, 3:8-20, Haggai 1:3-2:3, 2:10-23, Zechariah 1:1-17, 2:4-3:2, 3:5-8:10, 8:13-9:1, Malachi 3:23-24. </p>
+							</note>
+							<filiation>Apparently written by the same hand as Or 2554 (<ref target="Margoliouth_1965" type="number">301</ref>) and Or 2548 (<ref target="Margoliouth_1965" type="number">279</ref>).</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>120 folios<dimensions type="leaf" unit="mm">
+										<height>222</height>
+										<width>177</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>120 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally 24 quires of mostly 10 leaves each. At present, only quires nos. 7 and 14-17 are complete, nos. 1-6 and 19-23 are lost entirely. </p>
+								</collation>
+								<condition>
+									<p>Missing portion at the beginning and at the end; lacunae after folios: 18, 26, 35, 41, 59, 67, 107, 116. </p>
+									<p>Most of the extant leaves are more or less mutilated. </p>
+									<p>Fading ink. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="11 14" writtenLines="11 14">
+									<p>Running title in Hebrew, added by a later hand. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>An Arabic script of 11th century. </summary>
+							<handNote script="Arabic" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Minor Prophets. Yefet's Comm. Heb. &amp; Arab. Brit. Mus. Oriental 2550.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1099"/>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse001v"> [121v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">289</ref>
+							</bibl>
+							<bibl>
+								<ref target="Hoerning_1889" type="page">38-44</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1457.3" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1457.3</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="1r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>A fragment only, beginning with Numbers 8:9, and ending with Numbers 33:52. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 15th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Red leather. </support>
+								<extent>17 membranes, 37 columns. <dimensions type="leaf" unit="mm">
+										<height>580</height>
+										<width>4510</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>17 membranes, with header/wrapper (572mm long). </p>
+								</collation>
+								<condition>
+									<p>Staining and water damage throughout, in patches. </p>
+									<p>Dirt, mud, accretions, deliberate erasures. </p>
+									<p>Some dark, contracted edges. </p>
+									<p>Worming. </p>
+									<p>Folds. </p>
+									<p>Some abraded surfaces and delamination. </p>
+									<p>Ink falking in parts, with losses of text. </p>
+									<p>Ink offset on verso.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="37" ruledLines="50 51" writtenLines="50 51">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stiching of membranes. </p>
+									<p>37 columns in total, one to six columns per membrane. </p>
+									<p>No tagin on letters. In some fragments ח is arched.</p>
+									<p>Special shapes of letters occur: the inverted נ placed before and after Num. 10:35-36, פ&apos; לפוף is frequent. </p>
+									<p>Columns generally begin with a new verse. </p>
+									<p>Several instances of majuscular and minuscular letters. </p>
+									<p>The &quot;puncta extraordinaria&quot; placed on the words fixed by masorah. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">15</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

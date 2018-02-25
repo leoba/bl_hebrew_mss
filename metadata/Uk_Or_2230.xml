@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2230" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2230</idno>
+					</msIdentifier>
+					<head>Biblical commentary</head>
+					<msContents class="lccn.loc.gov/n79066420  	lccn.loc.gov/n82271898" rend="visible">
+						<summary>Pentateuch with punctuation and accents, Rashi&apos;s commentary,Targum with simple superlinear punctuation and Sa῾adia Gaon&apos;s Arabic translation.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420 	lccn.loc.gov/n82271898">
+							<locus from="1v" to="110v"/>
+							<title xml:lang="he-Latn-x-lc">Torah ʿim targum u-ferush Rash&quot;i</title>
+							<title xml:lang="he">תורה עם תרגום ופרוש רש&quot;י</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש&quot;י)</persName>
+							</author>
+							<note>
+								<p>Third of the three uniform volumes of the Pentateuch, containing the book of Deuteronomy.</p>
+								<p>The Pentateuch is accompanied by the pointed Targum, Rashi&apos;s commentary and Sa῾adia Gaon&apos;s Arabic translation. </p>
+							</note>
+							<explicit xml:lang="he">על תיקון הספר שהיה במצרים שהגיהו בן אשר ודקדקו בו שנים רבות כמו שהעתיקו.<locus n="110v"/>
+							</explicit>
+							<filiation>Cf. Or 2228 and 2229, <ref target="Margoliouth_1965" type="number">183</ref>, for volume one and two of this commentary.</filiation>
+							<colophon xml:lang="he">והכותב<name type="person" role="scribe"> יוסף בן סעדיא בן יוסף</name> הידוע אלאבהר השסב&quot;ה מחולל על כל מה ששגיתי וטעיתי [...] והנני מפיל תחנתי לכל מי שיקרא בזה שיתקנה וידון אותי לכף זכות לפי שלא כתבתיה אלא ואני דחוק בתלאות הזמן ובגלות מעיר לעיר.   <locus n="110v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1r" to="110v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, Yemenite square and semi-cursive script of 17th century, partially punctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">110 folios<dimensions unit="mm" type="leaf">
+										<height>302</height>
+										<width>198</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>110 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="25 40" writtenLines="25 40">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layout. </p>
+									<p>The beginnings of the weekly sections marked by small pen and ink designs in the margins, other liturgical indications marked with Hebrew letters.</p>
+									<p>At the end of the weekly sections are the masoretic statements relating to the number of verses and simanim.</p>
+									<p>At the end of Deuteronomy there are an additional masoretic rubrics.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script of 17th century, partially punctuated and accentuated. <name type="person" role="scribe">Yosef ben Se῾adya ben Yosef ben Daṿid</name>: inscribed in the colophon, folio 110v and in volume 1, Or 2228, folio 300v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Se῾adya ben Daṿid</name>: inscribed, folio 110v. </p>
+							<p>
+								<name type="person" role="owner">Ḥayim ibn Yaḥya al-Ṭiri</name>: inscribed with his name in volume 1, Or 2228,  folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="26 Marḥeshṿan 1966" calendar="Seleucid" when="1655"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1880-04-10</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">10 April 1880</date>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">183</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

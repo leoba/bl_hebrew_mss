@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Royal_16_A_I" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Royal MS 16 A I</idno>
+						<altIdentifier type="former">
+							<idno>Reg. MS 16 A I</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A collection of prayers belonging to the Ashkenazi rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="289v"/>
+							<title xml:lang="he-Latn-x-lc">Tefilot</title>
+							<title xml:lang="he">תפילות</title>
+							<note>
+								<p>The collection contains Shir ha-yiḥud and Seder ha-ma῾arakhah by Eliyah ben Menaḥem ha-Zaḳen, folio 1r-19v. The poem for each day of the week immediately precedes the Seder ma῾arakhah for the same day.</p>
+								<p>72 pesuḳim, folios 92r-102r, followed by Yehi ratson bearing on the recital of these verses, and Ani ma᾿amin.</p>
+								<p>Pereḳ shirah, folios 102r-113r.</p>
+								<p>Sefer ha-gan, folios 113r-172v, an ethical work in seven sections for the seven days of the week, by Yitsḥaḳ ben Eli῾ezer.</p>
+								<p>A series of penitential prayers, folios 172v-220r.</p>
+								<p>Keter malkhut of Solomon ibn Gabirol, folios 220r-260r, divided into seven portions for the days of the week.</p>
+								<p>A prayer, followed by Gen. 32:4-33:20 and the prayers to be recited before retiring to rest, folios 260r-276v. The name Mosheh ben Menaḥem is inserted in the first prayer.</p>
+								<p>Calendric computations, folios 276v-282r.</p>
+								<p>Ha-aderet veha-emunah, followed by some additional pieces, folios 282r-289v.</p>
+							</note>
+							<quote xml:lang="he">אמי מרת שעריל ת'נ'צ'ב'ה' נעדרת ליל ו' כ' כסליו רנ"ז לפרט קטן.<locus n="279v"/>
+							</quote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the second half of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>289 folios <dimensions unit="mm" type="leaf">
+										<height>75</height>
+										<width>50</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>55</height>
+										<width>30</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>289 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end; 1 unfoliated vellum flyleaf at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="14" writtenLines="13">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Hair side and flesh side of the folios indistinguishable.</p>
+									<p>Parts of the text written in red ink.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script, punctuated, of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="276v" to="289v"/> - written in a different, later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Records of birth, folios 218r-219r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post 1600. Black leather. Boxed.</p>
+								<p>Spine: 'Prayers, Hymns, Etc. Hebrew. Brit. Mus. Brit. Mus. Reg. 16 A. I.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1450" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1757</date>
+							<p>Presented to the British Museum by George II in 1757 as part of the Old Royal Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">678</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

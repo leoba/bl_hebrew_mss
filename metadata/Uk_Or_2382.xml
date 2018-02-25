@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2382" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2382</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon ha-Rofe, aka Yaḥya ben Saliman.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="304v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-ḥefets</title>
+							<title xml:lang="he">מדרש החפץ</title>
+							<author key="http://viaf.org/viaf/19836689">
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="en">Zechariah ben Solomon ha-Rofe, active 15th century</persName>
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="he">זכריה בן שלמה, הרופא</persName>
+							</author>
+							<filiation>Cf. Or 2351, <ref target="Margoliouth_1965" type="number">363</ref> and Or 2380, <ref target="Margoliouth_1965" type="number">364</ref>.</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Midrash-Hefets_1990"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">נשלם <date calendar="Seleucid">יום רביעי דהוא עשרה יומין בירח אדר ראשון שנת אלפא ותמני מאה ועסרין שנין לשטרי</date> במאתא אלגרן מן ער בני אלאעצב יחרוב ויצדי וירושלם תתבני ותשתכלל מהרה בימינו א'כ'י'ר'. ונכתב בשם התלמיד אלעזיז <name type="person" role="patron">סעיד אבן מחפוץ</name> אלמכנא אלדקל אלהים יאריך  בימיו [!] ויזכיהו להגות בו הוא וזרעו [...] והכותב <name type="person" role="scribe">משה ביר' יוסף ביר' משה ביר' סעדיה</name> הידוע אלבלידה: <locus n="157r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>304 folios<dimensions type="leaf" unit="mm">
+										<height>255</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>304 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Several leaves more or less damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26 34" writtenLines="26 34">
+									<p>Some catchwords preserved.</p>
+									<p>Beginnings of chapters and sections highlighted.</p>
+									<p>Frequently elongated last letter in a line to fill the space.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of 16th century. <name type="person" role="scribe">Mosheh ben Yosef ben Mosheh ben Se'adyah</name>: inscribed, folio 157r, writing for <name type="person" role="patron">Se'id ben Maḥapots</name>, inscribed on the same folio.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A record of birth of <name type="person">Se'adyah ben Mosheh</name>: inscribed, folio 157r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash ha-Chafets. Hebrew and Arabic. Brit. Mus. Oriental 2382.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1820" calendar="Seleucid" when="1509"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, folio <locus n="fse001v">[305v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">365</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

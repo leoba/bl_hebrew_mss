@@ -1,0 +1,173 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15437" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15437</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Shibole ha-leḳeṭ and Hilkhot isur ve-heter by Zidkiyahu figlio di Abraham ha-Rofe Anav.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="236v"/>
+							<title xml:lang="en">Shibole ha-leḳeṭ</title>
+							<title xml:lang="he">שבלי הלקט</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/17078692">Zidkiyahu figlio di Abraham, ha-Rofe, active 13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/17078692">צדקיה בן אברהם, הרופא, מרומה</persName>
+							</author>
+							<note>
+								<p>The manuscripts is incomplete, lacking several portions appearing in the standard edition of the work.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Shibole_haleket_1987"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="">
+							<locus from="237r" to="363v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot isur ve-heter</title>
+							<title xml:lang="he">הלכות איסור והיתר</title>
+							<author>
+								<persName xml:lang="en">Zidkiyahu figlio di Abraham, ha-Rofe, active 13th century</persName>
+								<persName xml:lang="he">צדקיה בן אברהם, הרופא, מרומה<addName>http://viaf.org/viaf/17078692</addName>
+								</persName>
+							</author>
+							<filiation>Cf the contents of Add MS 26918, <ref target="Margoliouth_1965" type="number">529</ref>.</filiation>
+							<note>
+								<p>Breaks off in the middle of the 113th paragraph.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>363 folios <dimensions unit="mm" type="leaf">
+										<height>270</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>363 folios (+ 4 modern paper flyleaves at the beginning and at the end). Folios 1 and 2 are modern paper flyleaves.</p>
+									<p>The manuscript has two different foliations, one in the Hebrew order of folios, the other in the Latin order of folios.</p>
+								</foliation>
+								<collation>
+									<p>41 quires of mostly 10 leaves each, numbered on the first leaf, in the left-hand upper corner. </p>
+									<p>Wanting quires no. 1-4, the first leaf of the 5th quire and the last leaf of the 41st quire.</p>
+								</collation>
+								<condition>
+									<p>Incomplete at the beginning and at the end.</p>
+									<p>Three leaves cancelled after folio 148, and two after folio 234.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="33" writtenLines="33">
+									<p>Uniform layout. Visible hard-point ruling. </p>
+									<p>Hair-side and flesh-side of the folios distinguishable.</p>
+									<p>Last line written outside the ruling.</p>
+									<p>Catchwords at the end of the quires, partially preserved.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Latin notes on the lower half of folio 236v: 'ex Bibliotheca, non J.B. Colbert, sed <name type="person" role="owner">Caroli Joachimi Colbert</name> Episcopi Montispessulani, quae A.D. <date calendar="Gregorian">1740 </date>publica subhastationis lege fuit dividenda.'</p>
+							<p>An English description of the manuscript, pasted on the paper flyleaves at the beginning of the volume, folios 1v, 2r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind tooled, with Colbert's coat of arms on the upper and lower cover.</p>
+								<p>Spine title: 'R. Zidkiah ben Abraham. Shebile Halleket. Hebraice. Mus. Brit. Iure Emptionis. 15,437.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1845-01-18</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 18 January 1845 (folio <locus n="fse001">[364v])</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">527</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

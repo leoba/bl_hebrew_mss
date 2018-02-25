@@ -1,0 +1,164 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_62" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 62</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The fourth and the first book of Arba'ah Ṭurim of Jacob ben Asher.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="2r" to="102v"/>
+							<title xml:lang="en">Ṭur ḥoshen mishpaṭ</title>
+							<title n="0" xml:lang="he">טור חשן משפט</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>The recension is shorter than the known text, starting with section no. 14 and breaking off with section no. 256.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="103r" to="272v"/>
+							<title xml:lang="he-Latn-x-lc">Ṭur oraḥ ḥayim</title>
+							<title xml:lang="he">טור אורח חיים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>The index at the beginning contains 687 sections, but the text breaks off near the section no. 681.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>272 folios <dimensions unit="mm" type="leaf">
+										<height>307</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>272 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable. Leaves on guards.</p>
+								</collation>
+								<condition>
+									<p>Partly water-damaged. </p>
+									<p>Stained, with occasional loss of text.</p>
+									<p>Defective at the beginning and at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="35" writtenLines="35">
+									<p>Uniform layout. </p>
+									<p>Catchwords on every verso.</p>
+									<p>Chapter and section numbers given in larger characters.</p>
+									<p>Some additional notes in the margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1 is a flyleaf, with scribblings in Hebrew and Latin scripts.</p>
+							<p>A fragment from a mezuzah parchment (140mm x 15 mm, ruled with hard-point, square script of the 16th century) pasted on folio 271v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Harleian coat of arms.</p>
+								<p>Spine title: 'Joseph Karo. Orah Hayyim. Hebrew. Brit. Mus. Harley Or. 62.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley ‘18 die Januarij, A.D. 1723/4’ (f. 1).
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">550</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

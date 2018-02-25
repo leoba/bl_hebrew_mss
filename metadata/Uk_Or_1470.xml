@@ -1,0 +1,144 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1470" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1470</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>The Hafṭarot for the whole year.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="80v"/>
+							<title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+							<title xml:lang="he">הפטרות</title>
+							<note>
+								<p>The Hebrew text is provided with the sublinear vowel-points and accents, and acompanied with the masorah magna and parva. The Targum is provided with the superlinear punctuation in alternate verses. Judges 5 (folios 15v, 16r) and 2Sam. 22 (folio 63), which are disposed in verse form, precede the Targum as a body.</p>
+								<p>The Hafṭarot differ in many points from both the Sefardi and Ashkenazi use. Also the superlinear punctuation of the Targum differs from the standard rules.</p>
+								<p>The masorah is very short. Masorah magna occupies regularly only one line of the lower and one line of the upper margin.</p>
+							</note>
+							<colophon xml:lang="he">נכתבה זאת האפטרה לבחור והנעים נטע שעשועים אורי ומחמד עיני חלפון יש"ל בן סעדיה רי"ת בן דויד נג"ע אלטוילי בשנת את שצה שנין לשטרי בחודש אלול אלהי' ישימיה עליו ועל זרעו סימן טוב וברכה ויזכה לכל מדה טובה ולזקנה ושיבה ולשמחת בית השאובה אמן כן יאמר אל נערץ בסוד קדושים רבה אנ"ס. ספרא דוד בן בניה יש"ל בן סעדיה רי"ת בן זכריה נע"ג אלה יזכיני ללמוד וללמד ולהשיג אמיתת דרכיו אמן וכן יהי רצון.<locus n="78v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>80 folios <dimensions unit="mm" type="leaf">
+										<height>350</height>
+										<width>230</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>290</height>
+										<width>175</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>80 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>10 quires of 8 leaves each, marked with Hebrew letters at the right hand upper corner of the first leaf.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2 " ruledLines="25" writtenLines="25">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side of folios distinguishable.</p>
+									<p>Catchwords on every page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script of the 15th century. <name type="person" role="scribe">Daṿid ben Benayah ben Se῾adyah ben Zekhariah</name>: inscribed in the colophon, folio 78v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Ḥalfon ben Se῾adyah ben Daṿid Al-Tawili</name>: inscribed in the colophon, folio 78v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Haphtaroth with Targum. Hebrew &amp; Aramaic. Brit. Mus. Oriental Ms. 1470.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1795" calendar="Seleucid" when="1484"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">722</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,166 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1023" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1023</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Shmuel ibn Tibbon on Ecclesiastes and Sefer yetsirah with Shabbetai Donnolo's commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1v" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פרושים</title>
+							<msItem rend="v">
+								<locus from="1v" to="104r"/>
+								<title xml:lang="en">Commentary on Ecclesiastes</title>
+								<title xml:lang="he">פרוש קהלת</title>
+								<author key="http://viaf.org/viaf/97166726">
+									<persName key="http://viaf.org/viaf/97166726" xml:lang="en">Ibn Tibbon, Shmuel </persName>
+									<persName key="http://viaf.org/viaf/97166726" xml:lang="he">אבן תבון, שמואל בן יהודה</persName>
+								</author>
+								<filiation>Cf. <ref target="Steinschneider_1879" type="number">2488</ref>
+								</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="204v" to="231v"/>
+								<title xml:lang="en">Sefer yetsirah with Sefer ḥakhmoni</title>
+								<title xml:lang="he">ספר יצירה וספר חכמני</title>
+								<author key="http://viaf.org/viaf/44287685">
+									<persName key="http://viaf.org/viaf/44287685" xml:lang="en">Donnolo, Shabbetai</persName>
+									<persName key="http://viaf.org/viaf/44287685" xml:lang="he">דונולו, שבתי בן אברהם</persName>
+								</author>
+								<filiation>Cf. <ref target="Steinschneider_1879" type="number">2235</ref>
+								</filiation>
+								<listBibl>
+									<bibl>
+										<ref target="Seferḥakhmoni_1990"/>
+										<ref target="Mancuso_2010"/>
+									</bibl>
+								</listBibl>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and parchment codex of the 13th or 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<extent rend="visible">231 folios <dimensions unit="mm" type="leaf">
+										<height>216</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>97</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves. </p>
+									<p>Catchwords and signatures in Hebrew letters at the end of each quire.</p>
+								</collation>
+								<condition>
+									<p>Margins largely worm-eaten.</p>
+									<p>Writing is occasionally damaged.</p>
+									<p>Folio 1 is a later restoration.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="18 20" writtenLines="18 20">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi cursive script, unpunctuated.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Samuel Schönblum</name>: purchased from him by the British Museum on <date calendar="Gregorian">08 January 1870</date>, folio [233v].</p>
+							<date>1870-01-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">206</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

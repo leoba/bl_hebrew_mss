@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1424" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1424</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Biblical readings and liturgical poems for Passover.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="30v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<decoNote type="initial">10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. <locus n="1v, 2r, 3v, 4v, 6v, 7v, 8r, 9v, 11r, 12v"/>
+							</decoNote>
+							<decoNote type="initial">3 decorated initial-word panels with gold letters and pen-flourishing. <locus n="16v, 19v, 22v"/>
+							</decoNote>
+							<decoNote type="border">One partial foliate border inhabited by animals and a human figure.<locus n="1v"/>
+							</decoNote>
+							<note>
+								<p>
+									<ref target="Narkiss_1982" type="number">246-249</ref>, 
+<ref target="Tahan_2007" type="page">48</ref>
+and Alexander Scheiber, The Kaufmann Haggadah: Facsimile Edition of MS 422 of the Kaufmann Collection in the Oriental Library of the Hungarian Academy of Sciences (Budapest: Hungarian Academy of Sciences, 1957). </p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="16v"/>
+							<title xml:lang="en">Fragments of parashayot and hafṭarot for Pesaḥ</title>
+							<note>
+								<p>The order of reading follows the Sefardi rite.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="16v" to="30v"/>
+							<title xml:lang="en">Piyuṭim for Pesaḥ</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 3rd quarter of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>30 folios <dimensions unit="mm" type="leaf">
+										<height>250/255</height>
+										<width>185/190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>110/115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>30 folios (+ 2 paper flyleaves at the beginning, and 1 unfoliated parchment and 10 paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>7 quires: i4 (folios 1-4), ii8 (folios 5-12), iii3 (folios 13-15), iv8 (folios 16-23), v4 (folios 24-27), vi2 (folios 28-29), vii2 (30-[31]). </p>
+									<p>No catchwords.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="17" writtenLines="17">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>The decoration is closely related to the Kaufmann Haggadah, according to <ref target="Narkiss_1982"/>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square and semi cursive script, partially punctuated.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Inscription in pencil: '129 Mahzorfragment' (folio 1v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Oriental style, tooled.</p>
+								<p>Spine: 'Haggadah. Pesach. Hebrew. Brit. Mus. Oriental 1424.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin n="1349" notBefore="1350" notAfter="1374"/>
+						<provenance>
+							<p>
+								<name type="place">Spain, N. E.</name> (<name type="place">Catalonia</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1877-01-12</date>
+							<p>
+								<name type="person" role="owner">Fischl Hirsch</name>: purchased by the British Museum from him on 12 January 1877.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">696</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

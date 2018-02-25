@@ -1,0 +1,190 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-19</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Harley_5710" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5710</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="lccn.loc.gov/n79054379" rend="visible">
+						<summary>The first volume of the Bible with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+							<locus from="1r" to="258v"/>
+							<title xml:lang="he-Latn-x-lc">Tana&quot;kh</title>
+							<title xml:lang="he">תנ"ך</title>
+							<decoNote type="initial">Initial-word panels with penwork decoration, inhabited.<locus n="1r, 34v, 63r, 83r, 110v, 137r, 155r, 172v, 215v"/>
+							</decoNote>
+							<decoNote type="miniature">Menorah, in colours.<locus n="136r"/>
+							</decoNote>
+							<decoNote type="border">Full border.<locus n="1r"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus n="86r, 90r"/>2 unfinished foliate scrolls around initial-word panels.</decoNote>
+							<note>
+								<p>First of the two uniform volumes of the Hebrew Bible, the other being Harley 5711, see <ref target="Margoliouth_1965" type="number">54</ref>; consists of Pentateuch and Former Prophets. </p>
+								<p>See <ref target="Tahan_2007" type="page">30</ref>, <ref target="Wright_1972" type="page">254&amp;461</ref>, <ref target="Wright_1966" type="page">227</ref>, <ref target="Narkiss_1984" type="page">57</ref>, <ref target="Metzger_1982" type="page">304</ref>, <ref target="Ebenbauer_1991" type="page">131-150</ref>. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="34v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="34v" to="63r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Leviticus</title>
+							<locus from="63r" to="83r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Numbers</title>
+							<locus from="83r" to="110v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Deuteronomy</title>
+							<locus from="110v" to="135v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Rules for the scribe</title>
+							<locus from="135v" to="137r"/>
+							<incipit xml:lang="he">הכותב ספר תורה צריך ליזהר לכתוב בראש שיטה ובראש הדף אילו שש תיבות וסימנם ביה שמו.<locus n="135v"/>
+							</incipit>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joshua</title>
+							<locus from="137r" to="155r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="155r" to="172v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="172v" to="215v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="215v" to="258v"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the late 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>258 folios<dimensions unit="mm" type="leaf">
+										<height>390</height>
+										<width>265</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>220</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>258 folios (+ 2 unfoliated paper flyleaves and 2 unfoliated parchment flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 or 12 leaves. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="30" writtenLines="29">
+									<p>Uniform layout. </p>
+									<p>Complete hard-point ruling. </p>
+									<p>Masorah magna in usually three lines of the upper and five lines of the lower margin. </p>
+									<p>The masoretic rubric registering the number of verses placed at the end of each book, but omitted at the end of Joshua, Judges and Samuel.  </p>
+									<p>In the prophetical books the beginning and the end of the haftarot frequently indicated in the margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Main text in the Ashkenazi square script, punctuated. Masoretic text in Ashkenazi semi-cursive, unpunctuated. Masoretic notes in this volume provided by two hands, the second being <name type="person" role="punctator">Ḥizkiyahu ha-Naḳdan </name>.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Clemento Renatto</name>: inscribed with his name, undated (folio 258v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house, &apos;Harleian&apos; binding.</p>
+								<p>Spine: &apos;Biblia Hebraica. Cum Not. Masoret. Vol. I. Brit. Mus. Harley 5710.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1275" notAfter="1299"></origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> (<name type="place">Rome </name>or <name type="place">Bologna</name>?)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p><name type="person" role="owner">Edward Harley</name>: bought by him through <name type="person" role="bookseller">Nathaniel Noel </name>(b. 1681, d. 1753), bookseller for £31 10s (price of the two volumes); inscription by Harley's librarian, Humfrey Wanley, <date calendar="Gregorian">18 January 1723/4</date> (folio 1r). The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. 
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta, née Cavendish Holles </name>(b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.
+</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">54</ref>
+							</bibl>
+							<bibl>
+								<ref target="Harleian_1808" type="number">5710</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5013" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5013</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A festival prayer book with services for Rosh ha-Shanah and Yom Kipur, according to the Corfu rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="56v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor </title>
+							<title xml:lang="he">מחזור </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="22r"/>
+							<title xml:lang="en">Services for Rosh ha-Shanah</title>
+							<note>
+								<p>Ma῾ariv, folio 2r; shaḥarit, folio 5r; special pieces for the second day, folio 20v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="22r" to="56v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>῾Arvit, folio 22r; shaḥarit, folio 33r; musaf, folio 42v, minḥah, folio 50v; ne῾ilah, folio 52r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>56 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>56 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Irregular quiring, foldings from 4 to 11 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 4" ruledLines="28" writtenLines="28">
+									<p>Non-uniform layout. Varying number of columns a page.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Catchwords on every page.</p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (Greek?) square script, punctuated, of the 18th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shem Ṭov ben Shelomoh Zaḳun</name>: inscribed, folio 1r.</p>
+							<p>Records of circumcision of <name type="person">Avraham ben Mosheh Bolleli</name> (?), dated <date calendar="Hebrew">5556</date> (<date calendar="Gregorian">1796</date>), and <name type="person">Shabtai ben Yehoshu῾a Musṭaḳi</name> (?), dated <date calendar="Hebrew">5557</date> (<date calendar="Gregorian">1797</date>): inscribed, folio 56v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Services for New Year and Day of Atonement. Corfu Rite. Hebrew. Brit. Mus. Or. 5013.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Ottoman Empire</name> (Corfu)</p>
+						</provenance>
+						<acquisition>
+							<date>1896-05-13</date>
+							<p>
+								<name type="person" role="owner">Joseph Schlesinger</name>: purchased from him on 13 May 1896: inscribed, folio [58v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">687</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

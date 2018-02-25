@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15421" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15421</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The revised recension of Maimonides' Sefer mitsṿot in the Hebrew translation of <name type="person" role="translator">Mosheh ibn Tibon</name>. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="140v"/>
+							<title xml:lang="en">Sefer ha-mitsṿot </title>
+							<title xml:lang="he">ספר המצות </title>
+							<note>
+								<p>Folios 3-11 contain an index of the mitsṿot in their numerical order. A note on the margin of folio 11r states that the last 80 entries have been omitted by the scribe, because they were missing in the codex from which he copied. </p>
+								<p>Folio 128-129 contain an index of the mitsṿot in the order in which they occure in the parashayot of the Pentateuch. </p>
+							</note>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<colophon xml:lang="he">תם ונשלם. התהלה ושבח לבורא עולם. על ידי<name type="person" role="scribe"> יחיאל ח"י הסופר בכ"ר יואב כת"ב ע"ה מביתאל</name> פה ב<name type="place">ריאיטי</name> שנת <date when="1421" calendar="Hebrew">קפ"א</date> לפרט ג' בסיון במצות הנכבד כמה"ר משה הרופא יר"א בכמ"ר יצחק זצ"ל. ברוך נותן ליעף כח.<locus n="139v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>140 folios  <dimensions unit="mm" type="leaf">
+										<height>232</height>
+										<width>166</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>141</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>140 folios (+ 3 modern paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>14 quires of 10 leaves each. </p>
+									<p>Catchwords at the end of the quires, partly cut away. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="25" writtenLines="25">
+									<p>Uniform layout. Visible pricking and ruling with a hard-point object.  </p>
+									<p>Last line written outside the ruling.  </p>
+									<p>Marginal notes, occasionally mutilated in the trimming.  </p>
+									<p>Sections enumerated with Hebrew letters in larger characters.  </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century.  </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Eli'ezer bar Yehudah ha-Rofe of L'Aquila</name>: inscribed (folio 1r). </p>
+							<p>A contract of sale, folio 140r, of the present manuscript by Refa'el ben Yitsḥaḳ ha-Rofe of <name type="place">Rieto </name>to the heirs of Mosheh ha-Rofe of <name type="place">L'Aquila</name>. </p>
+							<p>Several censor's erasures, by <name type="person" role="censor">Andrea del Monte</name> (active in the second half of the 16th century), inscribed (folio 139v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather. </p>
+								<p>Spine title: 'Maimonides. Liber Preceptorum. Ex Versione Mosis ben Tibbon. Hebraice. Mus. Brit. Jure Emptionis 15,421. Plut.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]181" calendar="Hebrew" when="1421"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 18 January 1845, sale lot 295: inscribed (folio <locus n="140v"/>).</p>
+							<date>1845-01-18</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">505</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

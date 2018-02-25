@@ -1,0 +1,252 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-20</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_15451" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15451</idno>
+					</msIdentifier>
+					<head>Tanakh</head>
+					<msContents class="lccn.loc.gov/n79054379" rend="visible">
+						<summary>The Bible with masorah magna and parva.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+							<locus from="1r" to="508v"/>
+							<title xml:lang="he-Latn-x-lc">Tana"kh</title>
+							<title xml:lang="he">תנ"ך</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>Folio 1v contains a list of Haftarot of the weekly Pentateuch sections and of the feasts and fasts; a table of certain divisions (styled אלמזאפאת) of the Prophets, Proverbs, Job, Psalms, Daniel and Ezra - the same divisions are indicated by the rubric מזאפא in the margin of the biblical text. This list, written with a later Greek hand, was printed in vol. 2 of <ref target="Ginsburg_1880" type="page">474-475.</ref>
+								</p>
+								<p>Pentateuch: <locus from="2v" to="144v"/>
+								</p>
+								<p>Prophets: <locus from="145v" to="397r"/>
+								</p>
+								<p>Hagiographa: <locus from="397v" to="508v"/>
+								</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="2v" to="37v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="37v" to="69r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Leviticus</title>
+							<locus from="69r" to="89v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Numbers</title>
+							<locus from="89v" to="119r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Deuteronomy</title>
+							<locus from="119r" to="145v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joshua</title>
+							<locus from="145v" to="162v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="162v" to="179v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="179v" to="223r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="223r" to="267r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jeremiah</title>
+							<locus from="267r" to="306r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Ezekiel</title>
+							<locus from="306r" to="341r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Isaiah</title>
+							<locus from="341r" to="371r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Hosea</title>
+							<locus from="371r" to="375v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joel</title>
+							<locus from="375v" to="377r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="377r" to="381r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Obadiah</title>
+							<locus from="381r" to="381v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jonah</title>
+							<locus from="381v" to="382v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Micah</title>
+							<locus from="382v" to="385r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Nahum</title>
+							<locus from="385r" to="386r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Habakuk</title>
+							<locus from="386r" to="387r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zephaniah</title>
+							<locus from="387r" to="389r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Haggai</title>
+							<locus from="389r" to="390r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zechariah</title>
+							<locus from="390r" to="395v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Malachi</title>
+							<locus from="395v" to="397v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Psalms</title>
+							<locus from="397v" to="436v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Job (only until 1:10)</title>
+							<locus from="436v" to="437r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="437r" to="447v"/>
+							<title xml:lang="en">Daniel</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="447v" to="465r"/>
+							<title xml:lang="en">Ezra</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Chronicles</title>
+							<locus from="465r" to="508v"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex written in square Ashkenazi script, punctuated and accentuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>508 folios<dimensions unit="mm" type="leaf">
+										<height>476</height>
+										<width>368</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>508 folios (+ 2 unfoliated paper flyleaves at the beginning and 2 unfoliated paper flyleaves and a parchment flyleaf at the end). </p>
+									<p>Original Hebrew foliation not visible. Quires are marked by catchwords at the end, the mark בי being written in the upper right-hand corner at the beginning of the quires. </p>
+								</foliation>
+								<collation>
+									<p>65 quires, mostly of 8 leaves each, marked by catchwords at the end. Several quires are missing after folio 436 (parts of Job, Proverbs and all the Five Scrolls). </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="31" writtenLines="30">
+									<p>Uniform layout. </p>
+									<p>Pricking and ruling visible. Ruled with a pencil (both main text and masoretic notes). </p>
+									<p>Leviticus, Joshua, Kings and Isaiah begin a new leaf, and Psalms open a new page. </p>
+									<p>Beginning of a weekly section marked by the word סדר in the margin. The sign פפ stands between the sections. </p>
+									<p>Beginning and end of the Torah lessons for feasts and fasts marked in red (folio 14r,  45v, 46v). </p>
+									<p>Masorah magna is written in two lines in the upper margin and in three lines in the lower margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Ashkenazi square script for the main text and semi-cursive for masorah. One folio with masoretic lists written with a Greek hand (Syracuse).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>.</p>
+							<p>Used in the community of <name type="place">Syracuse</name>, see folio 1v : <q>האדי הו תרתיב אלחבורה קהל סרקוסה</q>.</p>
+						</provenance>
+						<acquisition>
+							<date>1844-12-12</date>
+							<p>Acquired by the British Museum on 12 December 1844. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">55</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

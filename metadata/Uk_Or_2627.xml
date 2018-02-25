@@ -1,0 +1,227 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-17</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2627" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2627</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class=" lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The second volume of the Bible, with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im</title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1v" to="273v"/>
+							<colophon xml:lang="he">
+								<locus n="vol. 3, 185v"/>אני <name type="person" role="scribe">שמואל הסופר בר' שמואל ן' מוסא</name> נ"ע כתבתי אלו ארבעה ועשרים בעזרת יושב הכרובים במאמר הגביר הנחמד השם הטוב כגן רטוב זית רענן יפה פרי תאר <name type="person" role="patron">ר' יוסף בן כבוד ר' יהודה המכונה אלחכים</name> בצרור החיים תהא נשמתו המתים בגן עדן ינחם והחיים למען חסדיו ירחם וצוה לחקור דקדוקים ולבקר וכל אשר אזן וחקר על כן יענו לו אשריו ואשרי בניו אחריו, ינצרהו האל ויראהו ביאת הגואל ובימיו יושע יהודה וישראל בוראהו חסד ימציאהו אל יאבד לנצח גבירנו וסימתיו בחדש <date when="1483" calendar="Hebrew">כסלו יום ששי ערב שבת בין השמשות שנת חמשת אלפים ומאתים וארבעים ושלשה לבריאת עולם</date> במדינת <name type="place">לישבואה </name>ישע יקרב. אמן.</colophon>
+							<filiation>Second of the three uniform volumes of the Hebrew Bible, the others being Or 2627 and Or 2628, see <ref type="number" target="Margoliouth_1965">62</ref>. </filiation>
+							<decoNote type="border">20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. <locus n="1v, 134r, 134v, 135r, 135v, 136v, 168r, 210r, 246r, 250v, 252r, 256r, 256v, 258r, 260v, 261v, 263r, 264v, 265v, 271v"/>
+							</decoNote>
+							<decoNote type="initial">4 decorated initial-word panels.<locus n="1v, 21r, 40r, 85v"/>
+							</decoNote>
+							<msItem rend="v">
+								<locus from="1v" to="21r"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Judges</title>
+								<locus from="21r" to="40r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Samuel</title>
+								<locus from="40r" to="85v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="85v" to="136v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="136v" to="168r"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="168r" to="210r"/>
+								<title xml:lang="en">Jeremiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="210r" to="246r"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="246r" to="250v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="250v" to="252r"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="252r" to="256r"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="256r" to="256v"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="256v" to="258r"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="258r" to="260v"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="260v" to="261v"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="261v" to="263r"/>
+								<title xml:lang="en">Habakuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="263r" to="264v"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="264v" to="265v"/>
+								<title xml:lang="en">Haggai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="265v" to="271v"/>
+								<title xml:lang="en">Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="271v" to="273v"/>
+								<title xml:lang="en">Malachi</title>
+							</msItem>
+							<note>
+								<p>See <ref target="Sed-Rajna_1970" type="page">24-29</ref>, <ref target="Sed-Rajna_1988"/>, <ref target="Metzger_1977" type="page">33-48</ref>, <ref target="Kogman-Appel_2004" type="page">206</ref>, <ref target="Tahan_2007" type="page">60-61</ref>, <ref target="BL_2007" type="page">156</ref>, <ref target="Leveen_1944"/>, <ref target="Narkiss_1982" type="number">42</ref>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>273 folios<dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>245</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>273 folios (+ 4 unfoliated modern flyleaves at the beginning and 2 older and 4 modern unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>34 quires: i-xvi8 (folios 1-128), xvii8-1 (folios 129-135), xviii-xxv8 (folios 136-199), xxvi10 (folios 200-209), xxvii-xxxiv8 (folios 210-273). </p>
+									<p>Catchwords. </p>
+									<p>On guards.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Masorah magna in usually two lines of the upper and three lines of the lower margin. </p>
+									<p>Hair side and flesh side distinguishable. Ruling with hard-point visible.</p>
+									<p>The Former and the Latter Prophets separated by two leaves containing a masoretic list.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, partially punctuated, of the 15th century. <name type="person" role="scribe">Shemu᾿el ben Shemu᾿el ibn Musa</name>: inscribed with his name in the colophon, Lisbon, <date calendar="Hebrew">5243</date> [<date calendar="Gregorian">1483</date>] (see volume 3, Or 2628, folio 185v). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 4 decorated initial-word panels.</summary>
+							<decoNote type="border">20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. <locus n="1v, 134r, 134v, 135r, 135v, 136v, 168r, 210r, 246r, 250v, 252r, 256r, 256v, 258r, 260v, 261v, 263r, 264v, 265v, 271v"/>
+							</decoNote>
+							<decoNote type="initial">4 decorated initial-word panels.<locus n="1v, 21r, 40r, 85v"/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Yosef ben Yudah called Elhakhim</name>: inscribed with his name in the colophon (see volume 3, Or 2628, folio 185v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Green leather, gold-tooled Star of David on the inner and outer cover.</p>
+								<p>Spine title: 'Hebrew Bible. Lisbon 1484-53. Former and Latter Prophets. Brit. Mus. Oriental 2627.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1483" when-custom="5243" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Portugal</name>, Central (<name type="place">Lisbon</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Benjamin Cohen</name> of <name type="place">Bukhara</name>: purchased by the British Museum from him on <date calendar="Gregorian">17 November 1882</date> .</p>
+							<date>1882-11-17</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">62</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

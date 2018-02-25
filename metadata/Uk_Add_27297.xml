@@ -1,0 +1,185 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27297" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27297</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>A collection of halakhic works by various authors.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1v" to="129r"/>
+							<title xml:lang="en">Sefer Or zaruʻa be-kitsur</title>
+							<title xml:lang="he">ספר אור זרוע בקיצור</title>
+							<author>
+								<persName xml:lang="en">Ḥayim ben Isaac ben Moses, of Vienna</persName>
+								<persName xml:lang="he">חיים יצחק בן משה, מוינה</persName>
+							</author>
+							<note>
+								<p>An abridgment of Sefer Or zaruʻa of Isaac ben Moses of Vienna, by his son Ḥayim.</p>
+								<p>This recension differs in many instances from the printed editions.</p>
+							</note>
+							<decoNote type="illustration">
+								<locus n="128r"/>A drawing of a hybrid creature, in pen and ink.</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="129r" to="138v"/>
+							<title xml:lang="he-Latn-x-lc">Tashbets</title>
+							<title xml:lang="he">תשב"ץ</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/8698827">Samson ben Zadok</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/8698827">שמשון בן צדוק</persName>
+							</author>
+							<filiation>Cf. also Add 18424 <ref target="Margoliouth_1965" type="number">538</ref> and 18685 <ref target="Margoliouth_1965" type="number">513</ref>.</filiation>
+							<note>
+								<p>The index, between folios 129r-130r, contains 497 positions. The paragraphs within the text are in almost entire disagreement with this enumeration.</p>
+								<p>Liḳute ha-Ram begin on folio 137v.</p>
+								<p>The elements which are absent from this recension of the text in comparison to the printed editions are provided in the marginal notes.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="138v" to="152v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פירושים</title>
+							<note>
+								<p>Comments on the passages of Bava metsi῾a, Bava ḳama, Giṭin and Sanhedrin. </p>
+								<p>Contains a number of responses of <name type="person" role="author">Meir of Rothenburg</name> and others, on the same subjects. </p>
+								<p>Imperfect at the end.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>152 folios <dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>240/260</height>
+										<width>170/200</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>152 folios (+ 3 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>19 quires of 8 leaves each, marked by catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>First and last leaves slightly damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="36 63" writtenLines="35 62">
+									<p>Visible pricking and plummet ruling.</p>
+									<p>Hair-side and flesh-side of the folios indistinguishable.</p>
+									<p>Last line written within ruling.</p>
+									<p>Chapter initials given in larger characters. </p>
+									<p>Catchwords in pen and ink designs (e.g. 112v, 120v).</p>
+									<p>Ornamented tails of letters in the last line of text.</p>
+									<p>Preserves original Hebrew foliation in the upper left-hand corner of each recto, beginning with 352 and finishing with 502 (which must have been extended over a large number of volumes). The first 128 folios bear also numbers 1-128 in the middle of the upper margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi semi-cursive script of the 14th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="128v"/> and <locus from="129r" to="152v"/> due to two different but contemporary hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>A strip of vellum of Tefilin shel rosh with the inscribed text of Ex. 13:1-10, pasted on folio [153]. </p>
+							<p>
+								<name type="person" role="owner">Zeraḥ ben Shemu'el Kats</name> of <name type="place">Padua</name>: inscribed with a date <date calendar="Hebrew">5404 </date>(<date calendar="Gregorian">1644</date>), folio <locus n="124v"/>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Abridgement of the Or Zarua. Hebrew. Brit. Mus. Additional 27,297.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1866-04-14</date>
+							<p>
+								<name type="person" role="owner">Samuel Schönblum</name>: purchased from him by the British Museum on 14 April 1866: inscribed, folio <locus n="fse002v"/>[154v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">532</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

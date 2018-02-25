@@ -1,0 +1,195 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_7198" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 7198</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Arba'ah Ṭurim of Jacob ben Asher and Hilkhot de'ot of Maimonides' Mishneh Torah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="377v"/>
+							<title xml:lang="en">Arba'ah Ṭurim</title>
+							<title n="0" xml:lang="he">ארבעה טורים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>The numbering of sections in the four parts differs considerably from the printed editions.</p>
+							</note>
+							<colophon xml:lang="he">נכתב ספר אשכל כפר לא יספר הוד חן דודי:
+
+בשנת דברת מצות אמרת "<date calendar="Hebrew">זכרו</date>" תורת משה עבדי:
+
+נשלם ספר ארח חיים שבח לאל רם על איים:
+
+בשמו אכתוב יורה דעה יתן אלי עז כל שעה:<locus n="109v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="1v" to="110r"/>
+							<title xml:lang="he-Latn-x-lc">Ṭur oraḥ ḥayim</title>
+							<note>
+								<p>715 sections.</p>
+								<p>There is a superscription of Hilkhot de῾ot, beginning with folio 37v, column 2.</p>
+								<p>The word זכרו is marked off on folio 109v, suggesting that this was the date of the manuscript's production.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="110r" to="195r"/>
+							<title xml:lang="he-Latn-x-lc">Ṭur yoreh de῾ah</title>
+							<note>
+								<p>In 407 sections.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="195r" to="250r"/>
+							<title xml:lang="he-Latn-x-lc">Ṭur even ha-῾ezer </title>
+							<note>
+								<p>407 sections. A small portion is missing at the end. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="250r" to="377v"/>
+							<title xml:lang="he-Latn-x-lc">Ṭur ḥoshen mishpaṭ</title>
+							<note>
+								<p>432 sections. Breaks off in the middle of section 426.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>377 folios <dimensions unit="mm" type="leaf">
+										<height>406</height>
+										<width>298</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>255</height>
+										<width>182</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>377 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6, 8 or 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Lacuna after folio 249.</p>
+									<p>Leaves missing at the end.</p>
+									<p>Margins much damaged and/or cut away.</p>
+									<p>Fading ink.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="46" writtenLines="46">
+									<p>Uniform layout. </p>
+									<p>Visible ruling with hard-point, leaf by leaf.</p>
+									<p>Hair side and flesh side of the folios distinguishable.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Initial words in larger semi-cursive script. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script, unpunctuated, of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>An English description of the manuscript, pasted on folio 1r, alongside three contemporary Hebrew inscriptions, partly illegible.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Harleian coat of arms on the upper and lower covers.</p>
+								<p>Spine title: 'Jacob ben Asher. Arba' Turim. Hebrew. Brit. Mus. Harley 7198.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]233" calendar="Hebrew" when="1473"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>
+								<name type="person" role="owner">Edward Harley</name>: inscription by Harley's librarian, <name type="person">Humfrey Wanley</name>, <date calendar="Gregorian">28 July 1725</date> (folio 1r). The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">543</ref>
+							</bibl>
+							<bibl>
+								<ref target="Harleian_1808" type="number">7198</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

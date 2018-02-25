@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_25879" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 25879</idno>
+					</msIdentifier>
+					<head>The commentary on Aristotle's Physics</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="121r"/>
+							<title xml:lang="en">Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo</title>
+							<title xml:lang="he">באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+							<author key="http://viaf.org/viaf/19688718">
+								<persName key="http://viaf.org/viaf/19688718" xml:lang="en">Averroës </persName>
+								<persName key="http://viaf.org/viaf/19688718" xml:lang="he">אבן רושד, מוחמד   </persName>
+							</author>
+							<note>
+								<p>The Hebrew translation is provided by Qalonymos ben Qalonymos ben Meʼir (approximately 1286 - approximately 1328), the date of composition being <date calendar="Gregorian">1300 </date>(<date calendar="Hijri-qamari">565</date>).</p>
+							</note>
+							<colophon xml:lang="he">ונשלם ספר השמע הטבעי על ידי יוסף נייטו פה אלמקסם. שנת א'ר'ם' ביום שני לחדש אדר. ת'ל'.<locus n="121r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="121v" to="123v"/>
+							<title xml:lang="he-Latn-x-lc">Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo</title>
+							<title xml:lang="he">באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+							<author key="http://viaf.org/viaf/19688718">
+								<persName key="http://viaf.org/viaf/19688718" xml:lang="en">Averroës</persName>
+								<persName key="http://viaf.org/viaf/19688718" xml:lang="he">אבן רושד, מוחמד   </persName>
+							</author>
+							<note>
+								<p>Two chapters (VIII. 2, ch. i and ii) of another long recension of Averroës' Commentary on Aristotle's Physics, which is found in other manuscripts as well (i.e. <ref target="Neubauer_1891" type="number">1381</ref>).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Sefardi semi-cursive script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>125 folios<dimensions type="leaf" unit="mm">
+										<height>203</height>
+										<width>146</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>125 folios (+ 5 paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Most of the margins are water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. Visible horizontal ruling with pencil.</p>
+									<p>Initial words of each section written in larger characters.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Omissions and additions given in the outer margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sefardi semi-cursive script of the 15th century. <name type="person" role="scribe">Yosef Nietto</name>: inscribed with his name in the colophon, with a date of <date calendar="Hebrew">5241 </date>(<date calendar="Gregorian">1481</date>), folio 121r.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="121v" to="123v"/>- written by a different but contemporary Sefardi hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shemu᾿el</name>: inscribed with his name, folio 5r, left-hand upper margin.</p>
+							<p>
+								<name type="person" role="owner">Yom Ṭov ha-Kohen</name>: inscribed in a note, folio 124v.</p>
+							<p>
+								<name type="person" role="owner">William Cureton</name>: inscribed; folio 125v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Averrois. Comment. in Aristotelis. Libros de Phys. Auscule. Hebraice. Brit. Mus. Iure Emptiones 25,879.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5241" calendar="Hebrew" when="1481"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1864-08</date>
+							<p>Purchased from the executors of <name type="person" role="owner">Rev. Dr William Cureton</name>, (b. 1808, d. 1864), an English orientalist: inscribed, folio [126v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">886</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

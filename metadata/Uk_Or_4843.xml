@@ -1,0 +1,161 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4843" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4843</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash on the book of Esther.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="91v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash Ester </title>
+							<title xml:lang="he">מדרש אסתר </title>
+							<filiation>The same content as in Or 2416, <ref target="Margoliouth_1965" type="number">224</ref>, folios 106-137.</filiation>
+							<explicit xml:lang="he">ר' שמואל אומ' גדול הוא השלום שהוא יותר מכל המתנות הטובות שהבטיח הקב"ה לישראל באחרית הימים דכת' וישב עמי בנוה שלום ... אמן כן יאמר בעל הרחמים ... ירחם עלינו: ברוך הוא וברוך שמו.<locus n="91r"/>
+							</explicit>
+							<colophon xml:lang="he">נשלם מדרש מגלה בעזרת האל שבחר בישראל וקראם סגלה: בחמשה בשבא דהוא <date when="1596" calendar="Seleucid">תרין יומין לירח אדר ראשון שנת אתתקז שנין לשטרות</date>.<locus n="91r"/>
+							</colophon>
+							<note>
+								<p>Occasional marginal notes with explanations of difficult words in the text.</p>
+							</note>
+							<decoNote type="other">
+								<locus n="91v"/>Diagrams &amp; calculation schemes.</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite semi-cursive script of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>91 folios<dimensions type="leaf" unit="mm">
+										<height>150</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>117</height>
+										<width>67</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>91 folios (+2 modern paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 to 8 leaves each.</p>
+									<p>Catchwords on most of the versos, irregular.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning.</p>
+									<p>Folios missing after folios 6 and 52.</p>
+									<p>Some folios damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>Has many marginal notes.</p>
+									<p>Erasures in the owner's note.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of 16th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Crossed out English description in English, folio [ii recto]. </p>
+							<p>Calculation schemes on folio 91v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red leather, blind-tooled.</p>
+								<p>Spine title: 'Midrash on Esther. Hebrew. Brit. Mus. Or. 4843.'</p>
+								<p>Boxed.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1907" calendar="Seleucid" when="1596"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1894-11-14</date>
+							<p>
+								<name type="person" role="owner">Morris Heller &amp; Weiss</name>: bought by the British Museum on 14 November 1894, inscribed folio <locus n="fse002v">[93v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<custodialHist>
+								<custEvent type="description">Erased previous owner's name, folio <locus n="91v"/>.</custEvent>
+							</custodialHist>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">344</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,1435 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+   <teiHeader rend="visible">
+
+
+
+      <fileDesc>
+
+
+
+         <titleStmt>
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+            <funder>BL</funder>
+
+
+
+            <sponsor>The Polonsky Foundation </sponsor>
+
+
+
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+            <pubPlace/>
+
+
+
+            <date calendar="Gregorian">2014-09-12</date>
+
+
+
+            <idno>Uk</idno>
+
+
+
+         </publicationStmt>
+
+
+
+         <sourceDesc>
+
+
+
+            <biblFull>
+
+
+
+               <titleStmt>
+
+
+
+                  <title/>
+
+
+
+               </titleStmt>
+
+
+
+               <publicationStmt>
+
+
+
+                  <p/>
+
+
+
+               </publicationStmt>
+
+
+
+            </biblFull>
+
+
+
+            <msDesc xml:id="Uk_Harley_5686" xml:lang="en" rend="mscontents">
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+                  <settlement>London</settlement>
+
+
+
+                  <institution>British Library</institution>
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+                  <idno>Harley MS 5686</idno>
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+                     <idno>040-003313081</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+                     <idno>ark:/81055/vdc_100031481968.0x000002</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+               </msIdentifier>
+
+
+
+               <head>Maḥzor</head>
+
+
+
+               <msContents class="lccn.loc.gov/n80040114" rend="visible">
+
+
+
+                  <summary>A festival prayer book, with miscellaneous works in the margins. </summary>
+
+
+
+                  <textLang mainLang="he"/>
+
+
+
+                  <msItem rend="visible" class="lccn.loc.gov/n80040114">
+
+
+
+                     <locus from="1r" to="449v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Maḥzor</title>
+
+
+
+                     <title xml:lang="he">מחזור</title>
+
+
+
+                  </msItem>
+
+
+
+               </msContents>
+
+
+
+               <physDesc rend="visible">
+
+
+
+                  <p>Parchment codex of the 15th century. </p>
+
+
+
+                  <objectDesc form="codex">
+
+
+
+                     <supportDesc material="perg">
+
+
+
+                        <support>Parchment. </support>
+
+
+
+                        <extent>449 folios<dimensions type="leaf" unit="mm">
+
+
+
+                              <height>265</height>
+
+
+
+                              <width>195</width>
+
+
+
+                           </dimensions>
+                        </extent>
+
+
+
+                        <foliation>
+                           <p>449 folios (+2 unfoliated paper flyleaves at the beginning and 3
+                              unfoliated paper flyleaves at the end), 2 unoliated leaves after f.
+                              384. </p>
+                        </foliation>
+
+
+
+                        <collation>
+                           <p>48 quires: i2 (folios 1a-2a), ii8-1 (folios 1-7), iii-x10 (folios
+                              8-187), xi8 (folios 88-95), xii-xxx10 (folios 96-285), xxxi8 (folios
+                              286-293), xxxii-xxxvi10 (folios 294-343), xxxvii6 (folios 344-351),
+                              xxxviii-xxxix10 (folios 352-369), xl8 (folios 370-377), xlieight
+                              (folios 378-384b), xlii-xliv10 (folios 385-414), xlv8 (folios
+                              415-422), xlvinine (folios 423-431), xlvii10 (folios 432-441), xlviii8
+                              (folios 442-449). </p>
+                           <p>Catchwords at the end of the quires. </p>
+                        </collation>
+
+
+
+                     </supportDesc>
+
+
+
+                     <layoutDesc>
+
+
+
+                        <layout columns="1" ruledLines="26 59" writtenLines="26 59">
+                           <p>Uniform layout. </p>
+                           <p>Visible hard-point ruling. </p>
+                           <p>Pricking is visible in quire xlv. </p>
+                           <p>Initial words written in larger characters. </p>
+                           <p>Hebrew foliation from folio 8. </p>
+                           <p>Erasures (e.g., folios 78r, 179v, 187v, 331v, 380r, 436r). </p>
+                        </layout>
+
+
+
+                     </layoutDesc>
+
+
+
+                  </objectDesc>
+
+
+
+                  <handDesc>
+
+
+
+                     <handNote script="Hebrew" scope="sole"/>
+
+
+
+                  </handDesc>
+
+
+
+                  <bindingDesc>
+
+
+
+                     <binding>
+
+
+
+                        <p>Post-1600. 'Harleian' binding of gold-tooled red leather.</p>
+
+
+
+                        <p>Spine: 'Liturgia Hebraica. Cum Commentariis. Libri Ruth. Cantis. Eccles.
+                           Thren. Et Esther. Maimonides De Anima. Etc. Preces. Psalmi et Hymni.
+                           Hebraice. Mus. Brit. Bibl. Harl. 5686 Plut. XXVIII B.'</p>
+
+
+
+                     </binding>
+
+
+
+                  </bindingDesc>
+
+
+
+               </physDesc>
+
+
+
+               <history rend="visible">
+
+
+
+                  <origin>
+                     <origDate notBefore="1427" notAfter="1499">1427-1499</origDate>
+                     <origPlace>Italy, N. (Reggio di Emilia).</origPlace>
+                  </origin>
+
+
+
+                  <provenance>
+                     <p>
+                        <name type="person" role="scribe">Yitsḥaḳ ben Obadiah ben Daṿid of
+                           Forli</name>: inscribed with his name in a colophon, <name type="place"
+                           >Bologna</name>, <date calendar="Hebrew">23 Elul, [5]187</date> [<date
+                           calendar="Gregorian">1427</date>] (folio 418v). </p>
+                     <p>
+                        <name type="person" role="patron">Yosef Kohen ben Shelomoh Kohen</name> of
+                        part 2: inscribed with his name in a colophon, <name type="place"
+                           >Bologna</name>, <date calendar="Hebrew">23 Elul, [5]187</date> [<date
+                           calendar="Gregorian">1427</date>] (folio 418v). </p>
+                     <p>
+                        <name type="person" role="scribe">Leon ben Yoshu῾ah de Rossi of
+                           Cesena</name>: inscribed with his name in a colophon, <name type="place"
+                           >Reggio di Emilia</name>, <date calendar="Hebrew">[5]226</date> (or
+                        [5]224?) [<date calendar="Gregorian">1466 </date>or 1464] (folio 377v). </p>
+                     <p>
+                        <name type="person" role="patron">Yo᾿av Emanu᾿el Finzi</name> of part 1
+                        according to Narkiss (see <ref target="Narkiss_1984" type="page">306</ref>). </p>
+                     <p>
+                        <name type="person" role="censor">Hippolite of Ferrara</name>, Franciscan
+                        censor (active 1590-1619, in <name type="place">Cremona</name>?): inscribed
+                        with his name, <date calendar="Gregorian">1601 </date>(folio 449r), see <ref
+                           target="Popper_1969" type="number">18, 19, 93</ref>.</p>
+                  </provenance>
+
+
+
+                  <acquisition>
+                     <p>The Harley Collection, formed by <name type="person" role="owner">Robert
+                           Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer,
+                        politician, and <name type="person" role="owner">Edward Harley</name> (b.
+                        1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron
+                        of the arts: inscribed as usual by their librarian, <name type="person"
+                           >Humfrey Wanley</name>, ‘18 die mensis Januarii, A.D. 1723/4’ (folio 1r).
+                        Edward Harley bequeathed the library to his widow, <name type="person"
+                           role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755)
+                        during her lifetime and thereafter to their daughter, <name type="person"
+                           role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785),
+                        duchess of Portland; the manuscripts were sold by the Countess and the
+                        Duchess in <date calendar="Gregorian">1753</date> to the nation for £10,000
+                        (a fraction of their contemporary value) under the Act of Parliament that
+                        also established the British Museum; the Harley manuscripts form one of the
+                        foundation collections of the British Library.</p>
+                     <date>1753</date>
+                  </acquisition>
+
+
+
+               </history>
+
+
+
+               <additional rend="visible">
+
+
+
+                  <adminInfo>
+
+
+
+                     <recordHist>
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+                     </recordHist>
+
+
+
+                     <availability status="free">
+
+
+
+                        <p/>
+
+
+
+                     </availability>
+
+
+
+                     <note/>
+
+
+
+                  </adminInfo>
+
+
+
+                  <listBibl>
+
+                     <bibl>The Diary of Humfrey Wanley 1715-1726, ed. by Cyril Ernest Wright and
+                        Ruth C. Wright, 2 vols (London: Bibliographical Society, 1966), II:
+                        1723-1726, p. 370 n. 1.</bibl>
+                     <bibl>British Museum. A Catalogue of the Harleian Manuscripts in 1-4 the
+                        British Museum Vols 1 &amp; 3. (Sl: sn, 1808) no. 5686.</bibl>
+                     <bibl> Cyril Ernest Wright, Fontes Harleiani: A Study of the Sources of the
+                        Harleian Collection of Manuscripts in the British Museum (London: British
+                        Museum, 1972), pp. 246, 459. </bibl>
+                     <bibl>The´re`se and Mendel Metzger, Jewish Life in the Middle Ages: Illuminated
+                        Hebrew Manuscripts of the Thirteenth to the Sixteenth Centuries (New York:
+                        Alpine Fine Arts Collection, 1982), p. 304.</bibl>
+                     <bibl>Bezalel Narkiss, 'Three Jewish Art Patrons in Mediaeval Italy', in
+                        Festschrift Reuben R. Hecht (Koren Publishers Jerusalem Ltd., 1984), pp.
+                        296-307 (pp. 306-07).</bibl>
+                     <bibl>Mortara Luisa Ottolenghi, “Manoscritti Emiliagno-Romagnoli del XIV-XV
+                        secolo. Un punto d’Incontro tra miniatori cristiani ed ebrei?” in Atti del
+                        terzo convegno tenuto a Idice, Bologna, nei giorni 9-11 novembre 1982
+                        Associazione italiana per lo studio del giudaismo. Convegno (3rd: 1982:
+                        Idice, Italy), (Roma: Carucci, 1985), pp. 103-13 (pp. 111-12).</bibl>
+                     <bibl> Ilana Tahan, Hebrew Manuscripts: The Power of Script and Image (London,
+                        British Library, 2007), pp. 76-78.</bibl>
+                     <bibl>Bezalel Narkiss. Kitve-Yad ʿIvriyim Metsuyarim / Me-et Betsalʾel Narḳis;
+                        Mavo Me-et Sesil Rot; [ʿIvrit, Daliyah Shaḥaḳ; ʿarikhah, Daliyah Ṭesler].
+                        Mahad. ʿIvrit ḥadashah u-Metuḳenet (Yerushalayim: Keter, 1984), p.
+                        306.</bibl>
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 629.</bibl>
+                  </listBibl>
+
+
+
+               </additional>
+
+
+
+               <msPart rend="visible">
+
+
+
+                  <altIdentifier type="internal">
+
+
+
+                     <idno>I</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <msContents class="lccn.loc.gov/n80040114" rend="visible">
+
+
+
+                     <textLang mainLang="he"/>
+
+
+
+                     <msItem n="0" rend="">
+
+
+
+                        <locus from="1r" to="384v"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Maḥzor</title>
+
+
+
+                        <title xml:lang="he">מחזור</title>
+
+
+
+                        <decoNote type="miniature">6 miniatures in colours and gold. <locus
+                              n="27v, 28r, 60r, 60v, 61r, 61v"/>
+                        </decoNote>
+
+
+
+                        <decoNote type="border">Decorated initial-word panels with floral border
+                           inhabited by birds, in colours and gold. <locus n="8r, 156r"/>
+                        </decoNote>
+
+
+
+                        <decoNote type="initial">2 initial-word panels with penwork decoration, in
+                           blue and red ink. <locus n="12v, 14v"/>
+                        </decoNote>
+
+
+
+                        <decoNote type="initial">Numerous initial-word panels decorated with
+                           pen-flourishing, in red ink. </decoNote>
+
+
+
+                        <decoNote type="other">Maniculae.<locus n="45r, 111r"/>
+                        </decoNote>
+
+
+
+                        <colophon xml:lang="he">תם ונשלם. שבח לאלהי עולם. כי הוא הנסתר ונעלם. מידי
+                           ליאון בר' יהושע ישר"ו מן האדמים איש ציסינה פה בארייו יום ד' ט'ו' נובימ'
+                           רכו [רכד?] לכמר' יואב עמ' מארייו ישרו' לברכה יהיהץ אמן. <locus n="377v"/>
+                        </colophon>
+
+
+
+                        <colophon xml:lang="he">אני לאון בר' יהושע י'ש'ר'ו' מציסנה כתבתי זה הספר
+                           הנקרא ספר התדיר עם המחזור שלם מכל השנה ומנוקד כולו ל'כ'מ'ר' יואב עמנואל
+                           י'ש'ר'ו' מארייו וסיימתי פה בארייו היום יום ב' בטבט שנת חמשת אלפים
+                           ו'ר'כ'ו' לבריאת עולם ה' יזכהו להגות בו הוא וזרעו וזרע זרעו עד סוף כל
+                           הדורות וחלקי המחוקק יהיה ספון מצדיקי הרבים ככוכבים לעולם ועד אמן ואמן
+                              כ'י'ר'.<locus n="175v"/>
+                        </colophon>
+
+
+
+                        <note>
+                           <p>There are several works written throughout the whole volume in the
+                              margins. The most extensive is Sefer ha-Tadir, (see <ref
+                                 target="Tadir_1992"/>), folios 8r to 176v, compiled by <name
+                                 type="person" role="compiler">Moses ben Yekutiel of Rome</name>.
+                              The work is divided into 92 sections: Preface (folio 8r), Seder ḳimah
+                              (folio 8v), Seder ha-zemirot (folio 9r), Seder ḳeriyat [shema῾] (folio
+                              9v), Seder ha-tefilot (folio 10v), Seder ḳeriyat ha-miṭah (folio 12r),
+                              Seder hilkhot Shabat (folio 12v), Seder haṭmanah (folio 13r), ῾Inyan
+                              ῾eruve ḥatsarot (folio 13r), ῾Arve Shabatot (folio 14r), ῾Inyan
+                              hadlakat ha-ner (folio 14r), Seder ha-havdalah (folio 14v), Seder
+                              ḳeri᾿at Rosh ḥodesh (folio 16v), Seder Ḥanukah (folio 17r), Seder
+                              arba῾ah parashiyot (folio 19v), Hilkhot ḳeri᾿at megilah (folio 20v),
+                              ῾Inyan Pesaḥ (folio 21r), Seder birkat ha-῾omer (folio 26v), Seder
+                              ῾eruve tavshilin (folio 27v), Hilkhot mo῾ed (folio 28r), Yom ṭov
+                              (taken from Rashi's Sefer pardes, folio 10r), Seder Ḥag shavu῾ot
+                              (folio 29r), ῾Inyan shiv῾ah ῾asar be-tamuz (folio 30r), Seder tish῾ah
+                              be-av (folio 30r), Ma῾aseh ῾asarah haruge melukhah (folio 31r),
+                              ῾Asarah galuyot bene Tsiyon (folio 32r), [Tsarot le-Yisra᾿el] (folio
+                              33r, the piece mentions burning the Talmud in Rome), ῾Inyan avelot
+                              (folio 34r), [Yesh meḳomot she-nohagin] (folio 36v), Seder
+                              ha-ma῾amadot (folio 37v), Seder Rosh ha-shanah (folio 38r), ῾Inyan
+                              teshuvah (folio 40r), Hilkhot teshuvah le-kol ῾averah (folio 43r),
+                              Seder Yom ha-kipurim (folio 48r), ῾Inyan sukah (folio 50r), Hilkhot
+                              lulav (folio 51r), Seder ha-tefilot ḥag Sukot (folio 52r), Hilkhot
+                              tsitsit (folio 53v), Seder hanaḥat tefilin (folio 54v), Ḳevi῾ot
+                              mezuzah (folio 55v), Hilkhot nidah (folio 56r), [Hilkhot ṭevilah]
+                              (folio 57r), Din shi῾ur ha-miḳṿah (folio 57v), Mitsṿot ha-milah (folio
+                              58v), Seder pidyon ha-ben (folio 59v), Seder ha-berakhot (folio 60r),
+                              Berakhot mi-masekhet berakhot (folio 63v), Dine ha-sheḥiṭah (folio
+                              64r), Hilkhot ṭerefah (folio 65v), Niḳur basar (folio 68v), Din dam
+                              shel betsim (folio 69v), Pisḳe isur ṿe-heter (i.e. Sha῾are Dura, folio
+                              70v), Seder ḥatanim (folio 83v), Nusaḥ ha-ketubot (folio 84v),
+                              Ḥalitsah (folio 85v), Seder gerushin (folio 86v), Sheṭarot (folio
+                              89v), ῾Inyan haḳazah (folio 92r), Seder re῾amim u-re῾ashim (folio
+                              92v), Siman maṭra (folio 93r), [Seder mahalakh ha-shemesh] (folio
+                              94v), Simane refafot (folio 99r), Pitaron ḥalomot (folio 100r),
+                              Ma῾aseh ha-Torah (folio 106r), Perush ha-mishḳalot (folio 109v),
+                              Miscellaneous contents (folio 110r), [Ha-shemot she-enan nimḥaḳin]
+                              (folio 114v), Seder ῾olam (folio 115v), [Sekhum ha-otiyot peshuṭot
+                              u-kefulot] (folio 116v), Seder 24 matanot min ha-kohanim (folio 117r),
+                              Ha-ḳelafim ha-re᾿uyin [likhtov Sefer Torah] (folio 117v), Remazim
+                              mi-Talmud (folio 117v), Yetsirat ha-adam (folio 123v), [῾Al mah ḥarav
+                              ha-bayit] (folio 124v), [Din arba῾ mitot bet din] (folio 125r), [Me᾿ah
+                              ṿe-῾esrim zekanim she-tiḳnu ha-tefilot] (folio 126v), Ha-ṿikuaḥ
+                              (against the Christian religion, folio 127r, cf <ref
+                                 target="Neubauer_1994" type="number">2408</ref> and Codex de Rossi
+                              402/10), Masekhet temurah (folio 134v, cf <ref target="Jellinek_1853"
+                                 type="page">106-114</ref>), Sha῾are ha-musar (folio 137v), Sha῾are
+                              ῾ets ha-ḥayim (folio 139v), Kelalim be-ḳitsur (folio 141r), Yesod
+                              ha-yir᾿ah (folio 141v), Maḥberet ha-ṭana (folio 148r), Teshuvah ῾al
+                              she᾿elat teḥiyat ha-metim Mosheh ben Yeḳutiel min ha-Adumim (folio
+                              150v), Taḳanat ge᾿one Tsarfat (folio 153v), [Kelale mitsṿot ha-Torah]
+                              (folio 154r), Din melamde tinokot (folio 161v), Sefer ḥaye ῾olam
+                              ṿe-sefer ha-yir᾿ah (of Jonah Gerondi, folio 162v), Sod ha-teshuvah
+                              (folio 168v), Sha῾ar R. Shelomoh (folio 170r), Igeret musar ha-Ramban
+                              (folio 172v), Sha῾are ha-musar le-Hai Ga᾿on (folio 173r), Hilkhot (of
+                              Isaiah di Trani, folio 174v, cf Or 5024, folio 146).</p>
+                           <p>Folios 176v-200v - the book of Psalms (folios 175v and 176r are
+                              blank). </p>
+                           <p>Folios 200v-201r - a poetical piece (showing the acrostic Binyamin). </p>
+                           <p>Folios 201r-204v - Keter malkhut of <name type="person" role="author"
+                                 >Ibn Gabirol, Solomon </name>. </p>
+                           <p>Folios 204v-224r- an abridgement of Sefer ḥovot ha-levavot of <name
+                                 type="person" role="author">Baḥya ben Joseph ibn Paḳuda</name>,
+                              in the Hebrew translation of <name type="person" role="translator"
+                                 >Yehudah ibn Tibon</name>. Cf. Add MS 26899, II. </p>
+                           <p>Folios 224r-227v - Tokhaḥah le-Rabenu Baḥya, of <name type="person"
+                                 role="author">Baḥya ben Joseph ibn Paḳuda</name>. </p>
+                           <p>Folios 227v-228v - Mishle ḥamishim talmidim of <name type="person"
+                                 role="author">Judah ben Solomon Harizi</name>. </p>
+                        </note>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="1v" to="28v"/>
+
+
+
+                        <title xml:lang="en">Services for week-days</title>
+
+
+
+                        <note>
+                           <p>Preceded by a number of preliminary pieces. The daily services begin
+                              on folio 8r.</p>
+                        </note>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="28v" to="47r"/>
+
+
+
+                        <title xml:lang="en">Services for Shabat</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="47r" to="61v"/>
+
+
+
+                        <title xml:lang="en">Services for Rosh ḥodesh</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="61v" to="90r"/>
+
+
+
+                        <title xml:lang="en">Services for Pesaḥ</title>
+
+
+
+                        <note>
+                           <p>The biblical lections are, for the most part, given in full.</p>
+                        </note>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="90r" to="96r"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Shevaḥot</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="96r" to="112r"/>
+
+
+
+                        <title xml:lang="en">Services for Shavu῾ot</title>
+
+
+
+                        <filiation>Cf the contents of Add MS 19944.</filiation>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="112r" to="156r"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Seder Ta῾anit</title>
+
+
+
+                        <filiation>Cf. the contents of Add MS 19944, folio 168r sqq.</filiation>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="156r" to="177v"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Seder ha-ma῾amadot</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="177v" to="195v"/>
+
+
+
+                        <title xml:lang="en">Services for Rosh ha-shanah</title>
+
+
+
+                        <filiation>Cf. the poetical pieces contained in Add MS 16577, part
+                           XII.</filiation>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="195v" to="285v"/>
+
+
+
+                        <title xml:lang="en">Services for Yom Kipur</title>
+
+
+
+                        <filiation>Cf. the contents of Add MS 16577 and Add MS 19945.</filiation>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="285v" to="293v"/>
+
+
+
+                        <title xml:lang="en">Piyuṭim for Ta῾anit</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="293v" to="325v"/>
+
+
+
+                        <title xml:lang="en">Services for Sukot</title>
+
+
+
+                        <filiation>Cf. the contents of Add MS 19945.</filiation>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="325v" to="332r"/>
+
+
+
+                        <title xml:lang="en">Poetical pieces</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="332r" to="375r"/>
+
+
+
+                        <title xml:lang="en">The Five Scrolls</title>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="375r" to="377v"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Pirḳe avot</title>
+
+
+
+                        <note>
+                           <p>With the introduction of Samuel ibn Tibbon. Cf. Add MS 16577 and
+                              19944.</p>
+                        </note>
+
+
+
+                     </msItem>
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="377v" to="385r"/>
+
+
+
+                        <title xml:lang="en">The benedictions for hafṭarot</title>
+
+
+
+                     </msItem>
+
+
+
+                  </msContents>
+
+
+
+                  <physDesc rend="visible">
+
+
+
+                     <p>Part of a parchment codex of the 15th century.</p>
+
+
+
+                     <objectDesc form="codex">
+
+
+
+                        <supportDesc material="perg">
+
+
+
+                           <support>Parchment.</support>
+
+
+
+                           <extent>384 folios<dimensions type="leaf" unit="mm">
+
+
+
+                                 <height>265</height>
+
+
+
+                                 <width>195</width>
+
+
+
+                              </dimensions>
+                           </extent>
+
+
+
+                           <foliation>
+                              <p>Folios 1-384.</p>
+                           </foliation>
+
+
+
+                        </supportDesc>
+
+
+
+                     </objectDesc>
+
+
+
+                     <handDesc hands="1">
+
+
+
+                        <summary>Italian semi-cursive and Ashkenazi square script, partially
+                           punctuated. <name type="person" role="scribe">Leon ben Yoshu῾ah de Rossi
+                              of Cesena</name> inscribed with his name in a colophon, Reggio di
+                           Emilia, [5]226 (or [5]224?) [1466 or 1464] (folio 377v). The workshop of
+                           one of the artists of Duke Borso d'Este, probably <name type="person"
+                              role="artist">Giorgio d'Alemagna</name>.</summary>
+
+
+
+                        <handNote script="Hebrew" scope="sole"/>
+
+
+
+                     </handDesc>
+
+
+
+                  </physDesc>
+
+
+
+                  <history rend="visible">
+
+
+
+                     <origin>
+                        <origDate when="1466" when-custom="5224" calendar="Hebrew">1466 (5224)</origDate>
+                        <origPlace>Italy, N. (Reggio di Emilia)</origPlace>
+                     </origin>
+
+
+
+                     <provenance>
+                        <p/>
+                     </provenance>
+
+
+
+                  </history>
+
+
+
+               </msPart>
+
+
+
+               <msPart rend="visible">
+
+
+
+                  <altIdentifier type="internal">
+
+
+
+                     <idno>II</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <msContents rend="visible" class="lccn.loc.gov/n79090052">
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="385r" to="418v"/>
+
+
+
+                        <title xml:lang="he-Latn-x-lc">Sefer Tahanunim</title>
+
+
+
+                        <title xml:lang="he">ספר תחנונים</title>
+
+
+
+                        <filiation>Compare the contents of Add MS 19945 and Add MS
+                           16577.</filiation>
+
+
+
+                        <colophon xml:lang="he">נשלם התחנונים על ידי יצחק יזייא בכמ"ר עובדיה ישר"ו
+                           בכמ"ר דוד מפורלי זלה"ה פה בבולונייא שנת קפ"ז לירח אלול יום ה' י'ג' באלול
+                           לר' יוסף כהן בכ"ר שלמה כהן מנ"ע ה' יזכהו לו ולזרעו עד סוף כל הדורות אמן
+                           סלה ועד: ת"ל. <locus n="418v"/>
+                        </colophon>
+
+
+
+                        <decoNote type="initial">1 decorated initial-word panel, in colours and
+                              gold.<locus n="385r"/>
+                        </decoNote>
+
+
+
+                     </msItem>
+
+
+
+                  </msContents>
+
+
+
+                  <physDesc rend="visible">
+
+
+
+                     <p>Part of a parchment codex of the 15th century.</p>
+
+
+
+                     <objectDesc form="codex">
+
+
+
+                        <supportDesc material="perg">
+
+
+
+                           <support>Parchment.</support>
+
+
+
+                           <extent>33 folios<dimensions type="leaf" unit="mm">
+
+
+
+                                 <height>265</height>
+
+
+
+                                 <width>195</width>
+
+
+
+                              </dimensions>
+                           </extent>
+
+
+
+                           <foliation>
+                              <p>Folios 385-418.</p>
+                           </foliation>
+
+
+
+                        </supportDesc>
+
+
+
+                     </objectDesc>
+
+
+
+                     <handDesc hands="1">
+
+
+
+                        <summary>Ashkenazi square and Italian semi-cursive script, partially
+                           punctuated. <name type="person" role="scribe">Yitsḥaḳ ben Obadiah ben
+                              Daṿid of Forli</name>: inscribed in the colophon, <name type="place"
+                              >Bologna</name>, <date calendar="Hebrew">23 Elul, [5]187</date> [<date
+                              calendar="Gregorian">1427</date>], folio 418v.</summary>
+
+
+
+                        <handNote script="Hebrew" scope="sole"/>
+
+
+
+                     </handDesc>
+
+
+
+                  </physDesc>
+
+
+
+                  <history rend="visible">
+
+
+
+                     <origin>
+                        <origDate when-custom="5187" calendar="Hebrew" when="1427">1427 (5187)</origDate>
+                        <origPlace>Italy, N. (Bologna)</origPlace>
+                     </origin>
+
+
+
+                     <provenance>
+                        <p/>
+                     </provenance>
+
+
+
+                  </history>
+
+
+
+               </msPart>
+
+
+
+               <msPart rend="visible">
+
+
+
+                  <altIdentifier type="internal">
+
+
+
+                     <idno>III</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <msContents rend="visible" class="lccn.loc.gov/n79090052">
+
+
+
+                     <msItem rend="">
+
+
+
+                        <locus from="419v" to="449v"/>
+
+
+
+                        <title xml:lang="en">Psalms and various litugical texts</title>
+
+
+
+                        <note>
+                           <p>Psalms begin on folio 419v; a collection of poetical pieces begins on
+                              folio 442r.</p>
+                        </note>
+
+
+
+                        <decoNote type="other">1 carmina figurata, in colours.<locus n="440r"/>
+                        </decoNote>
+
+
+
+                     </msItem>
+
+
+
+                  </msContents>
+
+
+
+                  <physDesc rend="visible">
+
+
+
+                     <p>Part of a parchment codex of the 15th century.</p>
+
+
+
+                     <objectDesc form="codex">
+
+
+
+                        <supportDesc material="perg">
+
+
+
+                           <support>Parchment.</support>
+
+
+
+                           <extent>30 folios<dimensions type="leaf" unit="mm">
+
+
+
+                                 <height>265</height>
+
+
+
+                                 <width>195</width>
+
+
+
+                              </dimensions>
+                           </extent>
+
+
+
+                           <foliation>
+                              <p>Folios 419-449.</p>
+                           </foliation>
+
+
+
+                        </supportDesc>
+
+
+
+                     </objectDesc>
+
+
+
+                     <handDesc hands="1">
+
+
+
+                        <summary>Italian semi-cursive, partially punctuated.</summary>
+
+
+
+                        <handNote script="Hebrew" scope="sole"/>
+
+
+
+                     </handDesc>
+
+
+
+                  </physDesc>
+
+
+
+                  <history rend="visible">
+
+
+
+                     <origin>
+                        <origDate notBefore="1450" notAfter="1499"/>
+                        <origPlace>Italy.</origPlace>
+                     </origin>
+
+
+
+                     <provenance>
+                        <p/>
+                     </provenance>
+
+
+
+                  </history>
+
+
+
+               </msPart>
+
+
+
+            </msDesc>
+
+
+
+            <bibl/>
+
+
+
+            <listBibl>
+
+
+
+               <bibl/>
+
+
+
+            </listBibl>
+
+
+
+         </sourceDesc>
+
+
+
+      </fileDesc>
+
+
+
+      <encodingDesc>
+
+
+
+         <classDecl>
+
+
+
+            <taxonomy/>
+
+
+
+         </classDecl>
+
+
+
+      </encodingDesc>
+
+
+
+      <profileDesc/>
+
+
+
+      <revisionDesc status="submitted">
+
+
+
+         <change when="2014-09-12">Agata Paluch</change>
+
+
+
+      </revisionDesc>
+
+
+
+   </teiHeader>
+
+
+
+   <text>
+
+
+
+      <body>
+
+
+
+         <div/>
+
+
+
+      </body>
+
+
+
+   </text>
+
+
+
+</TEI>

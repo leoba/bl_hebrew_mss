@@ -1,0 +1,147 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-08</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2452" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2452</idno>
+					</msIdentifier>
+					<head>Psalms</head>
+					<msContents class="lccn.loc.gov/n79056804" rend="visible">
+						<summary>The Psalms, not punctuated.</summary>
+						<textLang mainLang="jpr-Hebr">Judeo-Persian</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79056804">
+							<title xml:lang="he-Latn-x-lc">Tehilim </title>
+							<title xml:lang="he">תהילים </title>
+							<locus from="1r" to="54v"/>
+							<msItem rend="v">
+								<locus from="1r" to="7v"/>
+								<title xml:lang="en">A grammatical introduction</title>
+								<note>
+									<p>Concerns the servile letters, vowels and accents.</p>
+									<p>Missing about half of the text.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="7v" to="54v"/>
+								<title xml:lang="en">Psalms</title>
+								<note>
+									<p>Psalms in Persian translation by <name type="person" role="author">Bābā ibn Nuriel</name> of Isfahan.</p>
+									<p>Preserves the usual division into 5 parts.</p>
+									<p>Breaks off near the end of Ps. 132.</p>
+								</note>
+								<author>
+									<persName xml:lang="he-Latn-x-lc">Bābā ibn Nuriel</persName>
+								</author>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Persian cursive script of 18-19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>54 folios<dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>147</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>54 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<condition>
+									<p>Several pages water-damaged or mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="25 26" writtenLines="25 26">
+									<p>Uniform layout. </p>
+									<p>Written on oriental paper.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Persian cursive script of 18th to 19th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1849"/>
+						<provenance>
+							<p>
+								<name type="place">Iran</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1882-06-24</date>
+							<p>
+								<name type="person" role="owner">Adolf Neubauer</name> (b. 1832, d. 1907), Hebrew scholar born in Hungary: purchased by the British Museum from him on <date calendar="Gregorian">24 June 1882</date>: inscribed, [55v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">160</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

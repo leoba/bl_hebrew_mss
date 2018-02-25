@@ -1,0 +1,158 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2513" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2513</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the Song of Songs and Ruth (fragments).</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="161v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פרושים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century</persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי </persName>
+							</author>
+							<note>
+								<p>The volume contains Yefet's Arabic commentary on Ruth and the Song of Soings. The pointed and accentuated Hebrew text with an Arabic translation is embodied.</p>
+							</note>
+							<colophon xml:lang="he">תם  תפסיר שיר השירים ב[...] אללה ועונה ממא עלקה העבד הנצרך לרחמי צורו <name type="person" role="scribe">שמואל בן יוסף</name> כוגך נ"ע וכאן אלפראג מנה <date when="1331" calendar="Hijri-qamari">יום אלכמיס ראבע ועשרין אייר אלמואפק לשעבאן סנה אתנין ותלתין ושבע מאות לישמעאל</date> תפסיר אלמעלם אבו עלי.<locus from="161r" to="161v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="45r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="45v" to="161v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>161 folios<dimensions type="leaf" unit="mm">
+										<height>170</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>122</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>161 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>17 quires of 10 leaves each (except the 13th and 17th which have 8 and 3 leaves respectively). </p>
+									<p>The quires are signed with Arabic words on theupper margin of the first page.  </p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Partially water-damaged. </p>
+									<p>Several pages with damaged margins. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Separate title-page, supplied by a much later hand. </p>
+									<p>The colophon is supplied twice, the second one being added in a more recent hand. </p>
+									<p>The pointed and accentuated Hebrew text with an Arabic translation is embodied. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Square and semi-cursive script of the 14th century. <name type="person" role="scribe">Shemu᾿el ben Yosef</name>: inscribed, folio 161v.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="1v"/>, <locus from="81r" to="81v"/>, <locus from="100r" to="100v"/>and <locus from="149r" to="149v"/>- recent restorations.</p>
+								<p>
+									<locus n="45v"/> - rhymed lines added by another contemporary hand.</p>
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Comm. on Ruth &amp; Canticles. Arabic. Brit. Mus. Oriental 2513.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="732" calendar="Hijri-qamari" when="1331"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[162v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">302</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6277A" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6277 A</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>The order of service for musaf on the Day of Atonement.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="35v"/>
+							<title xml:lang="he-Latn-x-lc">Musaf</title>
+							<title xml:lang="he">מוסף</title>
+							<filiation>Cf Or 5013, <ref target="Margoliouth_1965" type="number">687</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>35 folios <dimensions unit="mm" type="leaf">
+										<height>255</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>35 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 4 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>Slightly worm-eaten.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Hard-point ruling is visible.</p>
+									<p>Initial words are written in larger characters. </p>
+									<p>The punctuation is very faulty.</p>
+									<p>Catchwords are given on every page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, punctuated, of the 18th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Musaf for the Day of Atonement. Hebrew. Brit. Mus. Or. 6277A.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>Corfu (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1901-10-26</date>
+							<p>Dr <name type="person" role="owner">L. Bolleli</name>: purchased from him by the British Museum on 26 October 1901: inscribed, folio [36v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">688</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

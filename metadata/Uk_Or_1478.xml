@@ -1,0 +1,190 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-01</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1478" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1478</idno>
+					</msIdentifier>
+					<head>Prophets and Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008477    lccn.loc.gov/n80008481" rend="visible">
+						<summary>Parts of the Prophets and the Hagiographa, punctuated and accentuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477    lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im u-Khetuvim </title>
+							<title xml:lang="he">נביאים וכתובים  </title>
+							<locus from="1r" to="126v"/>
+							<msItem rend="v">
+								<locus to="2r" from="1r"/>
+								<title xml:lang="en">Judges</title>
+								<note>
+									<p>Missing chapters 1:1-20:7.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="2r" to="31r"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio 18r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="31r" to="61r"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>2Kings starts on folios 46v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="82r"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82r" to="109r"/>
+								<title xml:lang="en">Jeremiah</title>
+								<note>
+									<p>Missing chapters: 44:25-48:4.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="109r" to="111r"/>
+								<title xml:lang="en">Ezekiel</title>
+								<note>
+									<p>Missing chapters: 5:8-48:35.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="111r" to="115r"/>
+								<title xml:lang="en">Daniel</title>
+								<note>
+									<p>Missing chapters: 3:20-5:29; 8:25-11:40.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="115r" to="121r"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Missing chapters: 4:3-10:44.</p>
+									<p>Nehemiah starts on folio 119r (missing chapters: 1:1-4:17a).</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="121r" to="126v"/>
+								<title xml:lang="en">2 Chronicles</title>
+								<note>
+									<p>Missing chapters: 4:15-18:1.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex; Sefardi square script of c14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>126 folios<dimensions unit="mm" type="leaf">
+										<height>315</height>
+										<width>250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>245</height>
+										<width>165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>126 folios (+ 2 unfoliated folios at the beginning and at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+									<p>No catchwords. </p>
+									<p>The mansucripts is imperfect at the beginning and at the end, with leaves missing after folio 104, 110, 112, 114, 120. </p>
+								</collation>
+								<condition>
+									<p>Some folios are stained and/or damaged (see folio 1, 120).</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="28" writtenLines="28">
+									<p>Masorah magna occupies three lines in the upper and four lines in the lower margin, where it sometimes forms micrographic patterns (e.g. 25v, 26r). </p>
+									<p>Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, main text is punctuated and accentuated, the masorah is unpunctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>Unknown </p>
+						</provenance>
+						<acquisition>
+							<date>1899-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">24 November 1899</date>: inscribed (<locus n="fse003v"/> [129v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">122</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

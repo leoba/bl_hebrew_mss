@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-01</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_14760" xml:lang="he" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 14760</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>Former and Latter Prophets, accentuated and punctuated.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="http://lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im</title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1r" to="315v"/>
+							<colophon xml:lang="he">נשלם ביום ג&apos; פרשת ויחי בשלשה עשר יום לירח טבת שנת ג&quot;ן לפרט. ב&quot;ן לכו&quot;א ע&quot;י.<locus n="315r"/>
+							</colophon>
+							<colophon xml:lang="he">כבודך ה&apos;. בנימן המנקד חזק ב&quot;ר יואב נבתוי&quot;א ממשפחת הענוים. בנלכואע&quot;י.<locus n="282r"/>
+							</colophon>
+							<colophon xml:lang="he">בנימן המנקד חזק ב&quot;ר יואב נ&quot;ע ממשפחת הענווים. כבודך ה&apos;.<locus n="315r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="22v"/>
+							<title xml:lang="en">Joshua</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="22v" to="42v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="42v" to="93v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="93v" to="149v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="150r" to="189r"/>
+							<title xml:lang="en">Isaiah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="189r" to="238v"/>
+							<title xml:lang="en">Jeremiah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="239r" to="282r"/>
+							<title xml:lang="en">Ezekiel</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="283r" to="288r"/>
+							<title xml:lang="en">Hosea</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joel</title>
+							<locus from="288r" to="290r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="290r" to="294r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="294v" to="295r"/>
+							<title xml:lang="en">Obadiah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="295r" to="296v"/>
+							<title xml:lang="en">Jonah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="296v" to="299v"/>
+							<title xml:lang="en">Micah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="300r" to="301r"/>
+							<title xml:lang="en">Nahum</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="301r" to="302v"/>
+							<title xml:lang="en">Habakuk</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="302v" to="304v"/>
+							<title xml:lang="en">Zephaniah</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Haggai</title>
+							<locus from="304v" to="306r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="306r" to="313r"/>
+							<title xml:lang="en">Zechariah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="313r" to="315r"/>
+							<title xml:lang="en">Malachi</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 13th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>317 folios<dimensions unit="mm" type="leaf">
+										<height>327</height>
+										<width>227</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>317 folios (+2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Too tightly bound.</p>
+								</collation>
+								<condition>
+									<p>Folios 314-317 partly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="26 27" writtenLines="25 26">
+									<p>Uniform layout. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+									<p>Visible complete ruling by hard-point, bifolium by bifolium (on hair side). </p>
+									<p>Graphic fillers at the end of line, last written line within ruling. Truncated mem. </p>
+									<p>The first word of each book is written in large ornamental letter, with addition of a pen and ink design in Kings.</p>
+									<p>Omitted words are supplied and faulty readings are corrected in the margin.</p>
+									<p>The beginning and the end of Haftarot are marked in the margin by a later hand.</p>
+									<p>Fine Italian parchment, ruled on the hair-side with a hard point. No pricking is visible due to trimmed margins.</p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script of  the 13th century (at variance with production area). Finished and punctuated by a different hand than the first books in the manuscript. <name type="person" role="scribe">Binyamin ben Yoʾav min ha-῾Anaṿim</name>: inscribed with his name in the colophon, folio 315r.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2r" to="80v"/>
+								</p>
+								<p>
+									<locus from="81r" to="317v"/>
+								</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 1r-1v and 315v-317v: doodle pages. </p>
+							<p>
+								<name type="person" role="owner">Yitsḥaḳ Ḥazan of Furmicino</name> and <name type="person" role="owner">Shelomoh Yoshuʿa of Modena</name>: inscribed in a contract of sale on folio 317v, with a date of  23 Tamuz 5355 (30 June 1595), at <name type="place">Ferrara</name>. </p>
+							<p>
+								<name type="person" role="owner">Yeḥi᾿el Petaḥyah</name> and <name type="person" role="owner">Barukh ben Petaḥyah</name>: inscribed several times on the flyleaves. </p>
+							<p>
+								<name type="person" role="owner">Luge Navaro</name>, son of <name type="person" role="owner">Eliezer Navaro de Ferrara</name>: inscribed on folio 316v. </p>
+							<p>
+								<name type="person" role="censor">Luigi da Bologna</name>, a converted Jew working for the Inquisition (active 1590-1609): inscribed with his name as censor, with a date of <date calendar="Gregorian">1599</date>, folio 315r, see <ref target="Popper_1969" type="page">104</ref>. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.  Boxed. </p>
+								<p>Spine: &apos;Biblia Hebraica. MS. In Membranis. Anno MCCXCIII. Mus Brit. Jure Emptionis. 14,760. Plut.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5053" calendar="Hebrew" when="1293"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1844</date>
+							<p>Purchased by the British Museum from <name type="org">Payne and Foss</name> in <date calendar="Gregorian">1844 </date>, folio [318v] .</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">124</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

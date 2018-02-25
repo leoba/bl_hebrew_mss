@@ -1,0 +1,158 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18831" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18831</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="101v"/>
+							<title xml:lang="he-Latn-x-lc">Kavanot ha-filosofim</title>
+							<title xml:lang="he">כונות הפילוסופים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/31996761">Ghazzālī, 1058-1111</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/31996761">אלע'זאלי, מחמד בן מחמד</persName>
+							</author>
+							<note>
+								<p>In an anonymous Hebrew translation, with the commentary of Moses of Narbonne.  </p>
+								<p>There are many notes in the margins, including variant readings from other recensions, and explanations of terms.</p>
+								<p>Three additional pieces are appended on folios 98v-101r, and one on the fron fly-leaf (folio 1).</p>
+							</note>
+							<colophon xml:lang="he">והיתה השלמתו פה העירה <name type="place">קוסינצא</name> יום ב' כ"ג לאדר הראשון שנת "<date calendar="Hebrew">וזכור</date>" לנו הברית והחסד על ידי (מיסיר) <name type="person" role="scribe">שמואל תלמיד הרופאים בכ"ר מתתיא דמילי רוסו אביחייל</name> יהי רצון מלפני אבינו שבשמים שיאיר עינינו ושכלנו לידע ולהודיע
+
+אמן אמן אמן אמתתו וגבורתו.<locus n="70v"/>
+							</colophon>
+							<colophon xml:lang="he">ותם ונשלם מה שכוננו להשלים מפירוש כונתו [...] [...] אמן. פה העירה <name type="place">קוסינצא</name> ביום ו' כ"ו לאדר השני שנת "<date calendar="Hebrew">וזכור</date>" לנו את הברית והחסד על ידי (מיסיר) <name type="person" role="scribe">שמואל תלמיד הרופאים בכ"ר מתתיא דמילי רוסו אביחייל</name> והשם ברחמיו ישכינני במשכן האור והאמת ויאיר עיני בהשגה ובהצלחה הנצחית לאור כאור פני מלך חיים אמן.<locus n="97v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>101 folios<dimensions type="leaf" unit="mm">
+										<height>300</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>134</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>101 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Indeterminable.</p>
+								</collation>
+								<condition>
+									<p>Stains and tidemarks.</p>
+									<p>Leaves repaired and guarded before rebinding.</p>
+									<p>Signs of worming.</p>
+									<p>Paling ink. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="35" writtenLines="35">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in larger characters. </p>
+									<p>Catchwords on every verso.</p>
+									<p>Marginal notes and additions.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century. <name type="person" role="scribe">Shemu᾿el ben Matatya de-Mili Roso (?) Aviḥayal</name>: inscribed with his name in the colophon, folios 70v &amp; 97v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Alchazali. Liber De Opinionibus Philosophorum. Hebrew. Brit. Mus. Add. Or. 18,831.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5239" calendar="Hebrew" when="1479"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, S.</name> (Cosenza)</p>
+						</provenance>
+						<acquisition>
+							<date>1852-06-10</date>
+							<p>
+								<name type="person" role="owner">A. Löwy</name>: purchased from him by the British Museum on 10 June 1852: inscribed, folio [102v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">891</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

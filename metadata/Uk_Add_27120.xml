@@ -1,0 +1,177 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27120" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27120</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of kabbalistic treatises.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="2r" to="20v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-ḥesheḳ</title>
+							<title xml:lang="he">ספר החשק</title>
+							<filiation>Cf. the contents of Sassoon MS 290, currently Genève, Bibliothèque de Genève, Comites Latentes 145, folio 450. </filiation>
+							<note>
+								<p>On this text see <ref target="Idel_1981" type="page">63</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="21r" to="116r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer berit ha-menuḥah</title>
+							<title xml:lang="he">ספר ברית המנוחה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/7274935">Abraham ben Isaac, of Granada</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/7274935">אברהם בן יצחק, מרמון ספרד</persName>
+							</author>
+							<note>
+								<p>The first, third and fourth section is indicated by larger writing at the beginning on folio 26r, 80v, and 85v respectively. The other sections, which are not specially distinguished, begin respectively on folio 32r, 95v, 99r, 102v, 106v. There appear to be no sections marked after the 8th, possibly as a result of lacunae in the text.</p>
+								<p>Folios 112r-114r are blank, and folios 114v, 115r duplicate the contents of folio 74 (the right order being folios 115r, 114v).</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Berit_menuhah_1648"/>
+								</bibl>
+							</listBibl>
+							<filiation>Cf. the contents of Add MS 27155 and 26930/II.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="116r" to="138v"/>
+							<title xml:lang="he-Latn-x-lc">Yesod ῾olam</title>
+							<title xml:lang="he">יסוד עולם</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100212052">Zacuto, Moses ben Mordecai, approximately 1620-1697</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100212052">זכות, משה בן מרדכי</persName>
+							</author>
+							<note>
+								<p>A drama on the triumph of Abraham over the idolatry of Nimrod. On the drama and its manuscripts see <ref target="Zacuto_1966"/>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>138 folios<dimensions type="leaf" unit="mm">
+										<height>270</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>138 folios (+ 2 unfoliated paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="23" writtenLines="23">
+									<p>Uniform layout.</p>
+									<p>Initial words as well as divine and angelic names given in larger square characters.</p>
+									<p>Catchwords on every page.</p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Folios 116-138 divided into two columns.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian semi-cursive (folios 1-115) and cursive (folios 116-138) scripts of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: an owner's entry realting to the transfer of the manuscript from <name type="person" role="owner">Yesh῾ayah Rafael Azulai</name> to the Almanzi family (written probably by Barukh ben Abraham Almanzi), dated <date calendar="Gregorian">1821</date>, <name type="place">Ancona</name>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Abr. ben Isaac. Beruth Ham-Menuhah, Etc. Hebrew. Brit. Mus. Additional MS. 27,120.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile his manuscript no. 227; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>); inscribed, folio [140v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">748</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-11-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

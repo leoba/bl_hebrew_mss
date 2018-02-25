@@ -1,0 +1,221 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26924" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26924</idno>
+					</msIdentifier>
+					<head>Biblical commentary</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/n82271898  lccn.loc.gov/nr92019128" rend="visible">
+						<summary>Pentateuch with Rashi's commentary, various commentaries on the Five Scrolls and Sefer mivḥar ha-peninim by Ibn Gabirol.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible">
+							<locus from="1r" to="280v"/>
+							<title xml:lang="en">Torah ῾im perush Rash&quot;i</title>
+							<title xml:lang="he">תורה עם פרוש רש"י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש&quot;י)</persName>
+							</author>
+							<note>
+								<p>The portions of the Hebrew text which are commented upon, or its headings and introductory formulas, are overlined with red ink.</p>
+								<p>Scribe's name Mosheh has been marked at the beginning of some lines, e.g. 170v, 260v, 261v.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="60r"/>
+								<title xml:lang="en">Genesis </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="60r" to="117v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="117v" to="153r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="153r" to="191v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="191v" to="228r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="228r" to="230v"/>
+								<title xml:lang="en">Commentary on Ruth (similar to Rashi)</title>
+								<filiation>Compare to Harley 7621, folio 400r, (<ref target="Margoliouth_1965" type="number">234</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="230v" to="242r"/>
+								<title xml:lang="en">Rashi's commentary on the Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="242r" to="255r"/>
+								<title xml:lang="en">Rashi's commentary on Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="255r" to="260r"/>
+								<title xml:lang="en">Commentary on Lamentations</title>
+								<author key="http://viaf.org/viaf/59876084">
+									<persName key="http://viaf.org/viaf/59876084" xml:lang="he-Latn-x-lc">Kara, Joseph</persName>
+									<persName key="http://viaf.org/viaf/59876084" xml:lang="he">קרא, יוסף בן שמעון</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="260r" to="264v"/>
+								<title xml:lang="en">Commentary on Esther</title>
+								<note>
+									<p>Without author's name.</p>
+								</note>
+								<incipit xml:lang="he">ויהי ... כשבת ... כשנתיישב במלכותו: שראה שנתקיימה מלכותו בידו: דהיינו בשנת שלש שכבר הוחזק ובטוח במלכות: <locus n="260r"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="264v" to="280v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer mivḥar ha-peninim</title>
+								<author key="http://viaf.org/viaf/225817313">
+									<persName key="http://viaf.org/viaf/100186412" xml:lang="en">Ibn Gabirol</persName>
+									<persName key="http://viaf.org/viaf/100186412" xml:lang="he">אבן גבירול, שלמה בן יהודה</persName>
+								</author>
+								<author key="http://viaf.org/viaf/49379706">
+									<persName key="http://viaf.org/viaf/49379706" xml:lang="en">Tibon, Yehudah ibn</persName>
+									<persName key="http://viaf.org/viaf/49379706" xml:lang="he">אבן תבון, יהודה בן שאול</persName>
+								</author>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">280 folios<dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>280 folios (+ 4 unfoliated modern flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Catchwords at the end of the quire. </p>
+									<p>Hebrew numbering on the first and the last page of the quire.</p>
+								</collation>
+								<condition>
+									<p>Some pages are badly mutilated, e.g. 263r, 263v.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="29" writtenLines="29">
+									<p>Uniform layout.</p>
+									<p>Pricking and hard-point ruling are visible. </p>
+									<p>Several corrections supplied in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian square (for the main text) and semi-cursive (for the commentary) script, not punctuated. <name type="person" role="scribe">Mosheh</name>: his name inscribed in several acrostics, e.g. folio 170v, 160v, 261v.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2r" to="4v"/>due to a later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Doodle page separating the commentary on the Five Scrolls and Sefer mivḥar ha-peninim, folio 263v.</p>
+							<p>A certificate of a shoḥet named <name type="person" role="owner">Matatyah ben Daṿid</name>, of Sforno, signed by his teacher, <name type="person" role="owner">Daṿid ʿAzriʾel</name>, is supplied at the beginning of Sefer mivḥar ha-peninim, folio 264r, dated <date calendar="Hebrew">9 Sivan (5)300</date>.</p>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Carretto</name>: Italian censor (fl. 1600-1624): inscribed with his name, <date calendar="Gregorian">1618 </date> (folio 280r); see <ref target="Popper_1969" type="number">84</ref>. </p>
+							<p>
+								<name type="person" role="censor">Domenico Irosolimitano</name> (fl. 1575 - 1624): inscribed with his name, <date calendar="Gregorian">1592</date> (folio 280v); see <ref target="Popper_1969" type="number">62-74</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile: his manuscript no. 32; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through <name type="org">Asher &amp; Co.</name> in <date calendar="Gregorian">October 1865</date> for £1,000 (see <ref target="Paisey_1997" type="page">131-153</ref>), folio [282v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">175</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

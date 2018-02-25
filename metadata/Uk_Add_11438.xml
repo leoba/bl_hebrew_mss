@@ -1,0 +1,183 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_11438" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 11438</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Books IV-VI of Maimonides' Mishneh Torah, with glosses in the style of the Tosafists, followed by Meir of Rothenburg's responses on Sefer nashim. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="204v"/>
+							<title xml:lang="en">Mishneh Torah </title>
+							<title xml:lang="he">משנה תורה </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<author key="http://viaf.org/viaf/89860273">
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293 </persName>
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+							</author>
+							<note>
+								<p>This manuscript agrees, as far as its content go, with Harley 5702. </p>
+								<p>There is no detailed table of contents, but each books has an enumeration of the mitsṿot at the beginning. </p>
+								<p>This manuscript, as well as Harley 5702, was probably copied (by persons of learning) from codices prepared by pupils of Meir of Rothenburg. It is possible that this manuscript was copied from Harley 5702. </p>
+							</note>
+							<filiation>Cf. Harley MS 5702, <ref target="Margoliouth_1965" type="number">494</ref>.</filiation>
+							<quote xml:lang="he">נכתב יו' ד' פ' ואלה שמו' <date when="1402" calendar="Hebrew">שנת ק'ס'ג'</date> וקוד' שגמרתי [...]<locus n="199v"/>
+							</quote>
+							<msItem rend="v">
+								<locus from="1v" to="79v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer nashim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="79v" to="158v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ḳedushah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="158v" to="196v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer hafla᾿ah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="196v" to="204v"/>
+								<title xml:lang="he-Latn-x-lc">Teshuvot le-sefer nashim</title>
+								<author key="http://viaf.org/viaf/89860273">
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293</persName>
+									<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג, -1293 </persName>
+								</author>
+								<note>
+									<p>Only the first twenty responses are preserved.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the beginning of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>204 folios <dimensions unit="mm" type="leaf">
+										<height>325</height>
+										<width>195/250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>135/140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>204 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end).  </p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each, marked with catchwords at the end. </p>
+								</collation>
+								<condition>
+									<p>Margins slightly damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="31 51" writtenLines="30 50">
+									<p>In folio 197-204 each page is divided into 2 columns, with 43 to 50 lines in a full column. The pages contained in folios 1-196, which are undivided, have 30 lines each. </p>
+									<p>Pricking and plummet ruling (each bifolio on both sides) is visible. Hair-side and flesh-side of folios indistinguishable. </p>
+									<p>Chapter numbers given in larger characters.  </p>
+									<p>Occasional marginal notes and additions. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the beginning of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Naftali bar Avraham</name>: inscribed, folio 1r. </p>
+							<p>
+								<name type="person" role="owner">Shemu᾿el bar Naftali</name>: inscribed, folio 1v. </p>
+							<p>A description of the manuscript's content in Latin and partly in Hebrew, folio [206v]. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Dark brown leather binding, blind tooled. Boxed. </p>
+								<p>Spine title: 'Mishneh Torah. Hebrew. Brit. Mus. Additional Ms. 11438.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]163" calendar="Hebrew" when="1402"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1838-07-27</date>
+							<p>Purchased at <name type="org">Evans's</name>: sale lot 1267: inscribed, folio <locus n="fse002v">[206v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 873.
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

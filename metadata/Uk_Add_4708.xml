@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-17</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_4708" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 4708</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379 lccn.loc.gov/n80008477" rend="visible">
+						<summary>The Latter Prophets, accentuated and punctuated.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="http://lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im</title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1v" to="213v"/>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Isaiah</title>
+							<locus from="1v" to="48v"/>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Jeremiah</title>
+							<locus from="48v" to="112v"/>
+							<note>Wanting chapters 32:7-33:4.<p>Missing chapters: 32:7-33:4.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="112v" to="168v"/>
+							<title xml:lang="en">Ezekiel</title>
+							<note>Wanting chapters 40:27-43:13.<p>Missing chapters: 40:27-43:13.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="168v" to="176r"/>
+							<title xml:lang="en">Hosea</title>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Joel</title>
+							<locus from="176r" to="178v"/>
+						</msItem>
+						<msItem rend="v">
+							<locus from="179r" to="185r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="185r" to="186r"/>
+							<title xml:lang="en">Obadiah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="186r" to="188r"/>
+							<title xml:lang="en">Jonah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="188r" to="192v"/>
+							<title xml:lang="en">Micah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="192v" to="194v"/>
+							<title xml:lang="en">Nahum</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="194v" to="196v"/>
+							<title xml:lang="en">Habakuk</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="196v" to="199r"/>
+							<title xml:lang="en">Zephaniah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="199r" to="200v"/>
+							<title xml:lang="en">Haggai</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="200v" to="210v"/>
+							<title xml:lang="en">Zechariah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="210v" to="213v"/>
+							<title xml:lang="en">Malachi</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 12th to 13th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>213 folios<dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>286</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>213 folios  (+ 4 unfoliated modern paper flyleaves at the beginning and 5 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each, originally signed with Hebrew letters at the end and at the beginning, currently trimmed.</p>
+								</collation>
+								<condition>
+									<p>Missing leaves after folio 83 and 160. </p>
+									<p>Stained. </p>
+									<p>Flaking ink. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+									<p>Jonah begins a new column and Amos opens a new leaf. </p>
+									<p>The words and passages omitted by the original scribe supplied in the margin. </p>
+									<p>Indications of the beginning and end of the Haftarot.</p>
+									<p>Some masoretic notes. </p>
+									<p>A vellum piece pasted at the back of the manuscript with a following note: נביאים אחרונים כתיבת יד רבינו תם. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Sefardi square script of the 12th or 13th century. </summary>
+							<handNote script="Hebrew" scope="major">
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Originally folio 213v contained a note of sale but is currently obliterated. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: &apos;Latter Prophets. Hebrew. Brit. Mus. Additional Ms. 4708.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1100" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1759</date>
+							<p>
+								<name type="person" role="owner">Salomon da Costa</name>, presented by him to the British Museum, <date calendar="Gregorian">1759</date>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Kennicott_1776" type="number">126</ref>
+								<ref target="Margoliouth_1965" type="number">135</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

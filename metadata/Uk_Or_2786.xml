@@ -1,0 +1,210 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2786" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2786</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with Hafṭarot and the Five Scrolls, with punctuation and accents. Rashi's commentary on the first three chapters of Genesis.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="256v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, hafṭarot u-megilot  </title>
+							<title xml:lang="he">תורה, הפטרות  ומגילות   </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>The Pentateuch is provided with the Hafṭarah, each parashah or hebdominal section is followed by the corresponding Hafṭarah. </p>
+							</note>
+							<colophon xml:lang="he">חזק ונתחזק הסופר לעול' לא יזק עד שיעל' חמור בסולם וסיימתי ב"[?ה?] <date when="1427" calendar="Hebrew">אדר ר' בשנת קפ"ז</date> באשי'.<locus n="256r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="63v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>Missing chapters: 1:1-21:21</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63v" to="111r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="111r" to="143v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="143v" to="184r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="184r" to="220r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="r">
+								<locus from="220r" to="223r"/>
+								<title xml:lang="en">Hafṭarot for the four Sabbaths</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="223r" to="226v"/>
+								<title xml:lang="en">Hafṭarot for Passover</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="226v" to="227v"/>
+								<title xml:lang="en">Hafṭarot for Pentecost</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="227v" to="228v"/>
+								<title xml:lang="en">Hafṭarot for the 9th of Av</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="228v" to="230r"/>
+								<title xml:lang="en">Hafṭarot for the New Year</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="230r" to="232r"/>
+								<title xml:lang="en">Hafṭarot for Yom Kipur</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="232r" to="235r"/>
+								<title xml:lang="en">Hafṭarot for Sukot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="235r" to="241v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="241v" to="244r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="244r" to="247r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="247r" to="249v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="249v" to="256v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">256 folios<dimensions unit="mm" type="leaf">
+										<height>153</height>
+										<width>124</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>105</height>
+										<width>67</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>256 folios (+1 unfoliated flyleaf at the beginning and 2 unfoliated flyleaves at the end of the manuscript). </p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21 22" writtenLines="20 21">
+									<p>The beginning of each book, and in the Pentateuch and Hafṭarot  of each parashah and hafṭarah, is marked by the opening word being written in large ornamental characters. </p>
+									<p>Four blank lines left blank after the end of each book. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script of 15th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Large ornamental initial words at the beginning of each book.  </summary>
+							<decoNote type="initial">Large ornamental initial words at the beginning of each book.  </decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin when="1427" when-custom="[5]187" calendar="Hebrew"/>
+						<provenance>
+							<p>Germany </p>
+						</provenance>
+						<acquisition>
+							<date>1884-06-24</date>
+							<p>
+								<name type="person" role="owner">Dr Israel Bak</name>, publisher of Hebrew books in Jerusalem; bought from him by the British Museum on 24 June 1884: inscribed: folio <locus n="fse002v">[258v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">94</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

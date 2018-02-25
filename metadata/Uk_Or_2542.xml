@@ -1,0 +1,151 @@
+<?altova_sps N:\Hebrew MSS Digitisation\Hebrew MSS Digitisation\TEI_Catalogue\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<funder>BL</funder>
+				<principal>Ilana Tahan</principal>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2542" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2542</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents rend="visible" class="lccn.loc.gov/n79066420">
+						<summary>Several portions of Hebrew Pentateuch written in Arabic characters, provided with Hebrew vowel-points and accents.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" class="lccn.loc.gov/n79066420" rend="visible">
+							<locus from="1r" to="251v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<note>
+								<p>Pentateuch in the Arabic characters. </p>
+								<p>Appended are two small fragments of Exodus (40:9-16, 33-38), folios 250r-251v. The Hebrew text in an Arabic transcription with Hebrew vowel-points and Arabic translation of each verse. </p>
+							</note>
+							<textLang mainLang="jrb-Hebr">Judeo-Arabic</textLang>
+							<msItem rend="visible">
+								<locus from="1r" to="43r"/>
+								<title xml:lang="en">Genesis (24:28-28:14)</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="43r" to="103r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="103r" to="144r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="144r" to="203v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="203v" to="250r"/>
+								<title xml:lang="en">Deuteronomy (1:1-31:9)</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="250r" to="251v"/>
+								<title xml:lang="en">Exodus (40:9-16, 33-38)</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, probably 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>251 folios<dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>171</width>
+									</dimensions>
+									<dimensions type="written" unit="lines">
+										<height>15</height>
+										<width>1</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>251 folios (imperfect at the beginning and the end; a leaf is missing after folio 8). </p>
+								</foliation>
+								<condition>
+									<p>The extant leaves are nearly all more or less damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>1 column with 15 lines a page.  </p>
+									<p>Vowel-points and accents are given in red ink. </p>
+									<p>The beginning of the weekly portions were marked by ؤاراش (i.e. 'פרש) in the margin - this mark is preserved only in a few instances, folio 49r, 171r.</p>
+									<p>Numbers of verses at the end of sections indicated by Arabic letters. Number of verses in each of the books of the Torah given in Arabic transcription of the Hebrew rubrics. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>A Naskhi hand of probably 11th century.</summary>
+							<handNote script="Arabic" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<p/>
+						</bindingDesc>
+						<accMat>
+							<p>Appended are two small fragments of Exodus (40:9-16, 33-38). The Hebrew text in an Arabic transcription with Hebrew vowel-points and Arabic translation of each verse.</p>
+						</accMat>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1099">11th century</origin>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">8 July 1882</date>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p>
+									<expan/>
+								</p>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">67</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

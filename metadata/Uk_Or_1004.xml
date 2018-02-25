@@ -1,0 +1,164 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1004" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1004</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>Two commentaries on the biblical books.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="66v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פרושים</title>
+							<decoNote type="border">
+								<locus n="1r"/>A title page with ornamental full border.</decoNote>
+							<decoNote type="border">
+								<locus n="57r"/>An ornamental partial border with the colophone of the scribe.</decoNote>
+							<msItem rend="" class="http://lccn.loc.gov/sh85013597">
+								<locus from="1r" to="57v"/>
+								<author key="http://viaf.org/viaf/78823237">
+									<persName key="http://viaf.org/viaf/78823237" xml:lang="en">Ḥayyun, Joseph ben Abraham</persName>
+									<persName key="http://viaf.org/viaf/78823237" xml:lang="he">חיון, יוסף בן אברהם </persName>
+								</author>
+								<title xml:lang="he-Latn-x-lc">Perush ῾al Shir ha-shirim</title>
+								<title xml:lang="he">פירוש על שיר השירים</title>
+								<note>
+									<p>Contains several lines in vernacular Arabic, folio 56r.</p>
+								</note>
+								<colophon xml:lang="he">
+									<name type="person" role="scribe">ישראל דוד ב"ר יוסף נחמיאש</name>.<locus n="57r"/>
+								</colophon>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58r" to="66v"/>
+								<title xml:lang="he-Latn-x-lc">Perush ῾al Rut</title>
+								<title xml:lang="he">פירוש על רות</title>
+								<author>
+									<persName xml:lang="en" key="http://viaf.org/viaf/8474325">Ibn Yaḥya, Joseph ben David</persName>
+									<persName xml:lang="he" key="http://viaf.org/viaf/8474325">יחיא, יוסף בן דוד אבן</persName>
+								</author>
+								<note>
+									<p>Probably written by a different scribe than the previous part.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">66 folios <dimensions unit="mm" type="leaf">
+										<height>242</height>
+										<width>168</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>178</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>66 folios (+1 modern paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords on every page.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="29 30" writtenLines="29 30" columns="1">
+									<p>Uniform layout. </p>
+									<p>An onramented title page, folio 1r.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive script, unpunctuated, of 16th century. <name type="person" role="scribe">Yisra᾿el Daṿid ben Yosef Naḥmias</name>: inscribed, folio 57r.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="2r" to="56v"/> and <locus from="58r" to="66v"/>are due to two different hands.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Parts of original post-1600, tooled brown leather binding, glued to the inside back cover.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<acquisition>
+							<date>1869-05-31</date>
+							<p>
+								<name type="person" role="owner">J. Benzian</name>: purchased from him on 31 May 1869, folio [67v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">240</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

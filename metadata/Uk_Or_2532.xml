@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2532" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2532</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A second volume belonging to a series of Karaite service-books, which have been originally deposited in the Karaite Synagogue in Jerusalem.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="212v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur </title>
+							<title xml:lang="he">סידור </title>
+							<filiation>Cf. Or 2530, <ref target="Margoliouth_1965" type="number">726</ref>, for the first volume of the serie of five. </filiation>
+							<msItem rend="v">
+								<locus from="1r" to="9r"/>
+								<title xml:lang="en">[Tsiduḳ ha-din]</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="9r" to="212v"/>
+								<title xml:lang="en">Service for Yom kipur</title>
+								<note>
+									<p>The morning service starts on folio 9r; the afternoon service starts on folio 164r; the Ten Commandments begin on folio 173v; Ṿiduyim start on folio 174r. </p>
+									<p>The hafṭarah consists of the book of Jonah and starts on folio 187v. </p>
+									<p>The alphabethical pieces start on folio 193r, then follows a kind of a ne῾ilah prayer (folio 196v), and then other poetical and alphabethical pieces (folios 200v-212v).</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th to 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>212 folios<dimensions type="leaf" unit="mm">
+										<height>195</height>
+										<width>146</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>212 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning. </p>
+									<p>Lacuna after folio 8. </p>
+									<p>Many of the extant leaves are more or less damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17 22" writtenLines="17 22">
+									<p>Section titles written in larger square characters. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Oriental square and semi-cursive script of the 16th to 17th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Previous user's entries, partially illegible: inscribed with a date of <date calendar="Hebrew">5476</date> (<date calendar="Gregorian">1716</date>); folio 212v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Karaite Prayer Book. Hebrew. Brit. Mus. Oriental 2532.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1690" notAfter="1709"/>
+						<provenance>
+							<p>
+								<name type="place">Jerusalem</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882; inscribed, folio <locus n="fse004v "/>[214v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">727</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2578" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2578</idno>
+					</msIdentifier>
+					<head>Karaite halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Three pieces of Yaʻqūb ibn Isḥāq Qirqisānī Kitāb al-Anwār wal-marāqib.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="168v"/>
+							<title xml:lang="ara-Latn-x-lc">Kitāb al-Anwār wal-marāqib </title>
+							<title xml:lang="ara">كتاب الأنوار والمراقب</title>
+							<author>
+								<persName xml:lang="ara-Latn-x-lc" key="http://viaf.org/viaf/87812660">Qirqisānī, Yaʻqūb ibn Isḥāq, active 10th century</persName>
+								<persName xml:lang="ara" key="http://viaf.org/viaf/87812660">قرقساني، يعقوب بن اسحق</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/87812660">אלקרקסאני, אבו יוסף יעקוב‏</persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="105v"/>
+								<title xml:lang="ara-Latn-x-lc">Kitāb al-Anwār wal-marāqib</title>
+								<note>
+									<p>Portions of the 11th and 12th Maḳalat on the subject of forbidden marriages and the law of levirate, and forbidden meats, dress, seeds and on fringes.</p>
+									<p>Quotes several Karaite authorities.</p>
+									<p>Includes a complete index of the 42 chapters contained in this Maḳalah, folios <locus from="41r" to="44r"/>.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="106r" to="160v"/>
+								<title xml:lang="ara-Latn-x-lc">Kitāb al-Anwār wal-marāqib</title>
+								<note>
+									<p>A fragment of Maḳalah 12, written in a different Arabic hand. </p>
+									<p>The biblical quotations are given in the Hebrew characters.</p>
+									<p>Has a substantial gap after folio 131 and a small gap after folio 111.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="161r" to="168v"/>
+								<title xml:lang="ara-Latn-x-lc">Kitāb al-Anwār wal-marāqib</title>
+								<note>
+									<p>A small fragment of Maḳalah 12, in another hand.</p>
+									<p>Contains the whole chapter 33, together with some portions of chapter 32 and 34. </p>
+									<p>The biblical quotations are given in the Arabic characters.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; three different Arabic hands of the 12 to 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>168 folios<dimensions type="leaf" unit="mm">
+										<height>205/190</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>168 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of  mostly 10 leaves each. </p>
+									<p>Quires numbered in part 1, i.e. nos. 13, 14, 15, 16.</p>
+								</collation>
+								<condition>
+									<p>Fragmentary all throughout. Defective at the beginning and at the end.</p>
+									<p>Many leaves more or less mutilated.</p>
+									<p>Gaps after folios: 1, 2, 8, 9, 17, 25, 27, 45, 55, 111, 131.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="11 16" writtenLines="11 16">
+									<p>Uniform layout. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Three different Arabic hands of the 12 to 13th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p>
+									<locus from="1r" to="105v"/>, <locus from="106r" to="160v"/> and <locus from="161r" to="168v"/>- due to different but contemporary Arabic hands.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Abu Yusuf Al-Kirkisani. Sefer Mitsvoth. Sect. XI, XII. Arabic. Brit. Mus. Or. 2578.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1100" notAfter="1299"/>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, inscribed folio <locus n="fse003v">[21v]</locus>.</p>
+							<date>1882-07-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">586</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

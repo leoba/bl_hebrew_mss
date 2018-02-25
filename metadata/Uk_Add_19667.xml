@@ -1,0 +1,210 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19667" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19667</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book, according to the Provencal (Avignon) rite.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="285v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<note>
+								<p>The upper and lower margin of the manuscript is occupied with Psalms (starting with Ps. 19, folio 1r-227v) and Masekhet avot (from folio 228r on), with some additional pieces at the end.</p>
+								<p>A large part of folio 195 was cut out to remove expressions disapproved by the censor, and several erasures were also made in other parts of the manuscript, for the same reason.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="74r"/>
+							<title xml:lang="en">Morning prayer for week-days</title>
+							<note>
+								<p>Includes additional portions for the second and the fifth day of the week.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="74r" to="74v"/>
+							<title xml:lang="en">Indication for minḥah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="74v" to="83v"/>
+							<title xml:lang="he-Latn-x-lc">῾Arvit</title>
+							<note>
+								<p>This part is followed by Ḳeri'at shema῾ ῾al ha-miṭah.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="83v" to="127v"/>
+							<title xml:lang="en">Services for Sabbath</title>
+							<note>
+								<p>Ḳedushah rabah begins on folio 109v; Adon ῾olam begins on folio 109v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="127v" to="141r"/>
+							<title xml:lang="en">Additional portions for Rosh ḥodesh.</title>
+							<note>
+								<p>Followed by Birkat levanah and the special portions for Ḥanukah, Purim and fast days.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="141r" to="147v"/>
+							<title xml:lang="he-Latn-x-lc">Tefilat ha-mo῾ed</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="147v" to="181v"/>
+							<title xml:lang="he-Latn-x-lc">Seder ha-Pesaḥ</title>
+							<note>
+								<p>Hagadah, according to the Sefardi order, begins on folio 148r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="181v" to="244r"/>
+							<title xml:lang="en">Prayers for Rosh ha-Shanah and Yom Kipur</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="244r" to="268r"/>
+							<title xml:lang="en">Services for the night of Simḥat Torah</title>
+							<note>
+								<p>Includes the pericope Zot ha-berakhah in Hebrew and in the Targum, in alternate verses, followed by reading from the beginning of each of the books of the Pentateuch, the pericope Mafṭir, and the Hafṭarah for Simḥat Torah (as in the usual order).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="268r" to="285v"/>
+							<title xml:lang="he-Latn-x-lc">Seder parashiyot</title>
+							<note>
+								<p>The order of pericopes for rashe hodashim and other festivals.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>285 folios <dimensions unit="mm" type="leaf">
+										<height>95</height>
+										<width>50</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>90/85</height>
+										<width>35/30</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>285 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each, marked by catchwords at the end (mostly cut away in the trimming).</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning.</p>
+									<p>Lacunae after folios 8 and 73.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="14" writtenLines="13">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side distinguishable.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Leaf catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi (French) semi-cursive script, punctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="285r"/>Marginal text written by a different but contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black buckram. Gold tooled.</p>
+								<p>Spine: 'Prayer Book. Rite of Carpentras. Hebrew. Brit. Mus. Additional 19,667.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France, S.</name> (<name type="place">Avignon</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1853-11-12</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853: purchased from him by the British Museum on 12 November 1853: inscribed, folio [286v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">698</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

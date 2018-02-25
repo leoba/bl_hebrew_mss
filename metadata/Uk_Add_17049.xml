@@ -1,0 +1,258 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17049" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17049</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Isaac Alfasi's commentary on some tractates of the Talmud. Contains the commentary of Rashi and additional glosses from Tosafot, Mordekhai and others on the margins. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="234v"/>
+							<title xml:lang="en">Perush ha-Ri"f </title>
+							<title xml:lang="he">פירוש הרי"ף </title>
+							<author key="http://viaf.org/viaf/34806748">
+								<persName key="http://viaf.org/viaf/34806748" xml:lang="en">Alfasi, Isaac ben Jacob, 1013-1103 </persName>
+								<persName key="http://viaf.org/viaf/34806748" xml:lang="he">צחק בן יעקב, אלפסי, 1013-1103 </persName>
+							</author>
+							<note>
+								<p>At the end there is a series of teshuvot on Seder nashim and some disquisitions on the tractate Ḥulin. </p>
+							</note>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">שמעיה </name>כתבתי זה הסדר מועד להח"ר <name type="person" role="patron">משה בן הח"ר יוסף</name> בשנת <date when="1394" calendar="Hebrew">קנ"ד לפרט לאלף הששי בכ"ח יום לר"ח תמוז</date> השם יזכיהו להגות בו הוא וזרעו וזרע זרעו אא"א סלה. חזק.<locus n="210v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="2r" to="33r"/>
+								<title xml:lang="he-Latn-x-lc">Berakhot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="33r" to="39v"/>
+								<title xml:lang="he-Latn-x-lc">Ta῾anit</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="39v" to="50v"/>
+								<title xml:lang="he-Latn-x-lc">Megilah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="50v" to="63r"/>
+								<title xml:lang="he-Latn-x-lc">Yom ṭov</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63r" to="69r"/>
+								<title xml:lang="he-Latn-x-lc">Rosh ha-Shanah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="69r" to="73v"/>
+								<title xml:lang="he-Latn-x-lc">Yoma</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="73v" to="83r"/>
+								<title xml:lang="he-Latn-x-lc">Sukah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="83r" to="99v"/>
+								<title xml:lang="he-Latn-x-lc">Pesaḥ rishon</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="99v" to="114v"/>
+								<title xml:lang="he-Latn-x-lc">Mo῾ed ḳaṭan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="114v" to="164r"/>
+								<title xml:lang="he-Latn-x-lc">Shabat</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="164r" to="188r"/>
+								<title xml:lang="he-Latn-x-lc">Ḥulin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="188r" to="211r"/>
+								<title xml:lang="he-Latn-x-lc">῾Eruvin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="211r" to="212v"/>
+								<title xml:lang="he-Latn-x-lc">Hilkhot ṭum᾿ah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="212v" to="214r"/>
+								<title xml:lang="he-Latn-x-lc">Hilkhot Sefer Torah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="214r" to="216r"/>
+								<title xml:lang="he-Latn-x-lc">Hilkhot mezuzah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="216r" to="219r"/>
+								<title xml:lang="he-Latn-x-lc">Hilkhot tefilin</title>
+								<note>
+									<p>Written in a different hand than the rest of the manuscript.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="219r" to="222r"/>
+								<title xml:lang="he-Latn-x-lc">Hilkhot tsitsit</title>
+								<note>
+									<p>Written in the same hand as the preceding part.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="222r" to="231v"/>
+								<title xml:lang="he-Latn-x-lc">Teshuvot</title>
+								<note>
+									<p>Written in the same semi-cusive script as the marginal writing of the main portion of the manuscript.</p>
+									<p>Concern the tractates Yevamot, Ketuvot, Ḳidushin, and Giṭin. Subscriptions refer to various authors, but mainly to <name type="person" role="author">Meir ben Baruch of Rothenburg</name> (b. 1215, d. 1293).</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="232r" to="233v"/>
+								<title xml:lang="en">Discussions and decisions on the tractate Ḥulin</title>
+								<note>
+									<p>These two leaves were previously bound with Add. 17050, <ref target="Margoliouth_1965" type="number">474</ref>.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>234 folios <dimensions unit="mm" type="leaf">
+										<height>382</height>
+										<width>265</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>300</height>
+										<width>215</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>234 folios (+ 2 modern paper flyleaves at the beginning and 1 older and 2 modern paper flyleaves at the end). Folio 1 is a paper flyleaf. </p>
+								</foliation>
+								<collation>
+									<p>28 complete quires: i-xvi8 (folios 2-209), separate folio 210, xxvii-xviii6 (folios 219-230), folios 231-234 (additions). </p>
+									<p>Quires enumerated with Hebrew letters, cut away in the trimming. </p>
+								</collation>
+								<condition>
+									<p>Folios 1 and 9 largely illegible through damp.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="35" writtenLines="34">
+									<p>Uniform layout. Visible quire by quire pricking and page by page (brown) plummet ruling, also for the margins. </p>
+									<p>Commentary in a small semi-cursive script provided around the main text. </p>
+									<p>Last line of writing written within the ruling. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+									<p>Occasionally additional notes. </p>
+									<p>Repeated words at the beginning of columns. </p>
+									<p>Decorated horizontal catchwords. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square and semi-cursive script of the 14th century. <name type="person" role="scribe">Shemayah</name>: inscribed with his name in the colophon, folio 210v. Written for <name type="person" role="patron">Mosheh ben Yosef</name>: inscribed, folio 210. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="216r" to="221v"/>written in a different hand than the rest of the manuscript.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 232-233 were previously bound with another volume (Add. 17050). </p>
+							<p>
+								<name type="person">Shemu᾿el de Modena</name>, dated <date calendar="Gregorian">1653</date>, <name type="place">Verona</name>: inscribed in a record of death: folio 234v. </p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, 1613 (folio 231v); see <ref target="Popper_1969" type="number">50-56</ref>. </p>
+							<p>
+								<name type="person" role="censor">Fra Giro[lamo] de Durazzano de Predi</name>[?]: censor's signature and note 1640 (folio 231v). (Narkiss reads the name Durallano), on him see <ref target="Popper_1969" type="number">89</ref>. </p>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name> (fl. until 1596): inscribed with his name, 1575 (folios 231v, 233v); see <ref target="Popper_1969" type="page">78</ref>, appendix § 105-110. </p>
+							<p>
+								<name type="person" role="censor">Renatus a Mutina</name>: insribed with his name, 1621 (folio 231v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Alfasi Halakhot with Commentaries. Hebrew. Vol. I. Brit. Mus. Additional 17,049.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]154" calendar="Hebrew" when="1394"/>
+						<provenance>
+							<p>
+								<name type="place">Germany </name>or <name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 23 October 1847 (Macdonald's sale, lot 157): inscribed, <locus n="fse001v">[235v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">473</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

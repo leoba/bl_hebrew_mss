@@ -1,0 +1,189 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18424" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18424</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="30v"/>
+							<title xml:lang="en">Tashbets </title>
+							<title n="0" xml:lang="he">תשב"ץ</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/8698827">Samson ben Zadok, -1312</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/8698827">שמשון בן צדוק</persName>
+							</author>
+							<decoNote>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  <locus n="1r, 24r, 24v"/>
+							</decoNote>
+							<decoNote type="marginal">Decorated paragraph numbers in red.<locus from="1r" to="27v"/>
+							</decoNote>
+							<decoNote type="marginal">Foliate motifs running vertically at the right sides of the text columns.<locus from="1r" to="27v"/>
+							</decoNote>
+							<note>
+								<p>Folios 28r-30v contain the index.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="31r" to="43v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-terumah</title>
+							<title xml:lang="he">ספר התרומה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/78698989">Baruch ben Isaac, of Worms, active 12th century-13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/78698989">ברוך בן יצחק, מגרמיזה</persName>
+							</author>
+							<decoNote type="initial">2 initial words decorated with frames inhabited by hybrids in dark brown and red ink.<locus n="31r, 32v"/>
+							</decoNote>
+							<decoNote type="marginal">
+								<locus from="31r" to="43v"/>Foliate motifs running vertically at the right sides of the text columns.</decoNote>
+							<decoNote type="initial">7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.<locus n="36r, 36v, 37v, 38v, 39v, 41r, 42v"/>
+							</decoNote>
+							<note>
+								<p>The arrangement differs a little from both Harley 5648 and the printed editions, and dine ḥalitsah are omitted altogether.</p>
+								<p>On folio 43v there is a mezuzah form with biblical rules of writing it, and on folio 44r, the biblical passages used for tefilin are written out in their requisite form.</p>
+							</note>
+							<filiation>Cf Harley 5648, <ref target="Margoliouth_1965" type="number">518</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>44 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>145/150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>44 folios (+ 1 unfoliated paper flyleaf and 2 new parchment flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>6 quires: i8 (folio 1-8), ii8 (folio 9-16), iii8 (folio 17-24), iv6 (folio 25-30), v2 (folio 31-32), vi8 (folio 33-40), vi4 (folio 41-44). </p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="46" writtenLines="45">
+									<p>Uniform layout. </p>
+									<p>Visible plummet ruling and pricking.</p>
+									<p>Initials written in larger square characters.</p>
+									<p>Last line written within the ruling.</p>
+									<p>Many marginal notes in semi-cursive and cursive script.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 14th century, unpunctuated. <name type="person" role="scribe">Yehudah ha-Kohen</name>: the words Yehudah and kohen are marked numerous times in the text (e.g. folio 7r, 7v, 8r, 12r, 16v, 26v, 31r, 43r).</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A formulae of a marriage contract, of a release of claim on a property and of mezuzah (folio 43v), of tefilin (folio 44r), and of a power of attorney (folio 44v). <name type="place">Tinmont </name>
+								<date calendar="Hebrew">5067 </date>[<date calendar="Gregorian">1307</date>]: date and origin in the formulae of a marriage contract and of a power of attorney.</p>
+							<p>
+								<name type="person" role="censor">Luigi da Bologna</name>: inscribed with his name: 'Revisto per mi fra Luigi da Bolgona del ordine de Sa' Domenico, Marzo <date calendar="Gregorian">1599</date>' (folio 30v); a converted Jew working for the Inquisition as censor (active at the end of the 16th-beginning of 17th century), see <ref target="Popper_1969" type="page">104</ref>, and appendix § 112-117.
+</p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, <date calendar="Gregorian">1613 </date>(folio 30v); see <ref target="Popper_1969"/>, appendix § 50-56.
+</p>
+							<p>
+								<name type="person" role="censor">Renato da Modena</name>: inscribed with his name, <date calendar="Gregorian">1626 </date>(folio 30v); see <ref target="Popper_1969"/>, appendix § 132-133.
+</p>
+							<p>
+								<name type="person" role="censor">Fra Gir. Durazzano</name>, active in 1640-41 in Modena-Reggio: inscribed with his name, <date calendar="Gregorian">1640 </date>(folio 30v); see <ref target="Popper_1969"/>, appendix § 89.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: ''Works on Halakhah. Hebrew. Brit. Mus. Additional 18,424.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5067" calendar="Hebrew" when="1307"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1850-12-10</date>
+							<p>
+								<name type="person" role="owner">D. Ludwig Kalisch</name>: purchased by the British Museum from him on 10 December 1850: inscribed ([45v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">538</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

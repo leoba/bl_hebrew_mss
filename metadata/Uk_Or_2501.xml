@@ -1,0 +1,147 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-23</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2501" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2501</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The second part of the commentary of Japheth ben Ali on the book of Isaiah.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="251v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Yesha῾yahu</title>
+							<title xml:lang="he">פרוש ישעיהו </title>
+							<note>
+								<p>Contains the pointed Hebrew biblical text of Isaiah 27:13-44:5, accompanied by an Arabic translation and a commentary.</p>
+								<p>A number of masoretic notes, some of them added by a later hand.</p>
+								<p>The diacritic points are generally added.</p>
+								<p>The beginning and end of the hafṭarot are marked in the margins.</p>
+							</note>
+							<author>
+								<persName xml:lang="he-Latn-x-lc" key="http://viaf.org/viaf/54984961">Japheth ben Ali</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, semi-cursive script of approximately 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>251 folios<dimensions type="leaf" unit="mm">
+										<height>200</height>
+										<width>143</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>148</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>251 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>26 quires of 10 leaves each, with exception of the 1st and 10th which have 8 leaves each, and the 2nd and 26th which have 9 and 6 leaves respectively.</p>
+									<p>Quires signed with Hebrew letters and Arabic words on the upper margin of the first page.</p>
+								</collation>
+								<condition>
+									<p>Several of the extant folios have been more or less damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Masoretic notes in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Semi-cursive script of approximately 16th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p> <name type="person" role="owner">Yosef Kohen ben Avraham [...] ben Yosef Kohen</name> and <name type="person" role="owner">Shemu᾿el ben Yehudah</name>: inscribed, folio 1r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Yefet. Commentary on Isaiah. Arabic. Vol. II. Brit. Mus. Oriental 2501.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[252v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">280</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-23">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

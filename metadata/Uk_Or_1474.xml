@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-24</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1474" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1474</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The Latter Prophets with Targum Onḳelos and the Arabic translation of Isaiah by Sa'adyah Ga'on, provided with masorah magna and parva.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים </title>
+							<locus from="1r" to="274v"/>
+							<filiation>The mansucript seems to have been written by the scribe of Or 1471 (<ref target="Margoliouth_1965" type="number">130</ref>).</filiation>
+							<msItem rend="v">
+								<title xml:lang="en">Jeremiah</title>
+								<locus from="2r" to="70r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Ezekiel </title>
+								<locus from="70v" to="131v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="132r" to="222r"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="222r" to="231r"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Joel</title>
+								<locus from="231r" to="234v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="234v" to="241v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="241v" to="242v"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="242v" to="244v"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="245r" to="250r"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="250r" to="252r"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="252v" to="255r"/>
+								<title xml:lang="en">Habakuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="255r" to="257v"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="258r" to="259v"/>
+								<title xml:lang="en">Haggai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="260r" to="270v"/>
+								<title xml:lang="en">Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="270v" to="274r"/>
+								<title xml:lang="en">Malachi</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 16 or 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>274 folios <dimensions unit="mm" type="leaf">
+										<height>310</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>260</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>274 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally 27 quires of 10 leaves each, signed with Hebrew letters on the first and last pages.  </p>
+								</collation>
+								<condition>
+									<p>Several pages stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>All the books except Joel, Amos, Obadiah, Jonah, Nahum, Zephaniah and Malachi begin a new page. </p>
+									<p>The beginnings of the chapters according to the Christian division are marked in the margin with the letter 'samekh' and the respective number. </p>
+									<p>The beginning and the end of the Hafṭarot are indicated in the margin. </p>
+									<p>Masorah magna occupies one line in the upper and from one to two lines in the lower margin of each page. </p>
+									<p>The number of verses is stated at the end of each book, except Zechariah and Malachi. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script; Biblical text with Tiberian punctuation, Targum with simple Babylonian (superlinear) punctuation, in alternate verses. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2" to="4"/>, <locus from="270" to="274"/>supplied in the 18th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Previous owners' notes, in Judeo-Arabic: inscribed, folio 1r and 1v. </p>
+							<p>
+								<name type="person" role="owner">Yeḥi᾿el Yosef Benyamin</name>: inscribed, folio 1r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 24 November 1877 (folio <locus n="fse003v"/>[277v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">139</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

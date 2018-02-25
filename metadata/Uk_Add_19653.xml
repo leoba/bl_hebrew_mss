@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19653" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19653</idno>
+					</msIdentifier>
+					<head>Pentateuch with commentary</head>
+					<msContents class="lccn.loc.gov/n79066420  lccn.loc.gov/n82271898" rend="visible">
+						<summary>The Pentateuch with Rashi&apos;s commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420 	lccn.loc.gov/n82271898">
+							<locus from="1r" to="231r"/>
+							<title xml:lang="he-Latn-x-lc">Torah ʿim perush Rash&quot;i</title>
+							<title xml:lang="he">תורה עם פרוש רש&quot;י</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש&quot;י) </persName>
+							</author>
+							<colophon xml:lang="he">נכתב על ידי <name type="person" role="scribe">שלמה הצעיר ונח&quot;ל בכאמ&quot;ר משה ישר&quot;ו בכמ&quot;ר שלמה הרופא</name> זצ&quot;ל והשלמתיו ר&quot;ח כסליו שקפ&quot;ח ה&apos; שזיכני לכותבו ולהשלימו יזכני לה בו ובשאר ספרי הקודש אני וזרעי וזרע זרעי עד סוף כל הדורות אמן ואמן כן יהי רצון.<locus n="231r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="2r" to="57v"/>
+							<title xml:lang="en">Genesis </title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="57v" to="117v"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="117v" to="154r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="154r" to="195v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="195v" to="231r"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">231 folios<dimensions unit="mm" type="leaf">
+										<height>215</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>173</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+ 3 unfoliated modern flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 or 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>First and last pages are partly stained.</p>
+									<p>Vanilla-dotted hair side of the folios.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="32" writtenLines="32">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layuot. </p>
+									<p>Visible hard-point ruling. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+									<p>Marginal notes and smaller omissions from text added by later hand. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script, not punctuated, of the 15th century. <name type="person" role="scribe">Shelomoh ben Mosheh ben Shelomoh ha-Rofeʾ</name> : inscribed in the colophon, folio 231r.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Doodling and previous owners&apos; notes on folio 231v. </p>
+							<p>
+								<name type="person" role="owner">Natan Margalit</name>, inscribed in a note, with a date of 18 Tevet 602 (31 December 1841), folio 231v. </p>
+							<p>
+								<name type="person" role="censor">Antonio Francesco Enriquez</name>, active in 1683-1688 in Urbino, inscribed with a date of 1680 (1687?), folio 231v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> BM/BL in-house. </p>
+								<p>Spine: &apos;Rashi. Commentary on the Pentateuch. Hebrew. Brit. Mus. Additional 19,653.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="Kislev 5188" calendar="Hebrew" when="1427"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1852-11-13</date>
+							<p>
+								<name type="person" role="owner">John (sic!) Finn</name>, most probably James Finn (b. 1806, d. 1872), British Consul in Jerusalem 1846-1863: purchased by the British Museum on <date calendar="Gregorian">13 November 1852</date>; received 01 November 1853: inscribed, [234v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">181</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

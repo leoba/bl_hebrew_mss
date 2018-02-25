@@ -1,0 +1,149 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2218" xml:lang="en" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2218</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Maimonides' Commentary on Seder Mo῾ed, in Judeo-Arabic.</summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="97v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder mo῾ed </title>
+							<title xml:lang="he">פרוש סדר מועד </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<colophon xml:lang="he">שלים הדין סדרא דהוא סדר עתיך הנקרא סדר מועד בסייעתא דשמייא <date when="1652" calendar="Seleucid">יום רביעי דהוא שיתת עסר יומין לירח אייר שנת א'ת'ת'ק'ס'ג' לשטרות</date> במגדלא הקל יחרוב ויצדי והכותב קטן הסופרים ועפר רגלי החכמים הצעיר <name type="person" role="scribe">חיים ב'א'ם' שלום בן דוד בן יצחק בן שלמה בן יעקב הידוע אלחגאגי</name> אלהים יזכיני להרבות ספרים עד אין קץ ולהיות ממצדיקי הרבים. א'כ'י'ר'.<locus n="96v"/>
+							</colophon>
+							<decoNote type="diagram">
+								<locus n="7r, 13r, 14v, 25r, 26r, 30v, 31v, 36v, 37r, 37v, 38r"/>Diagrams in pen and ink.</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>97 folios <dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>97 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+									<p>There is an original foliation in Hebrew letters.</p>
+								</foliation>
+								<collation>
+									<p>Quires: i6 (folios 1-6); ii-xii8 (folios 7-94); xiii2 (folios 95-97), numbered both with Hebrew letters and Arabic numerals. </p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>Uniform layout. Discernible hard-point ruling. </p>
+									<p>Chapter numbers given in large characters. </p>
+									<p>Catchwords on every verso. Running title on every page. </p>
+									<p>A few marginal notes. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 17th century. <name type="person" role="scribe">Ḥayim ben Shalom ben Daṿid ben Yitsḥaḳ ben Shelomoh ben Ya῾aḳov Al-Ḥagagi</name>: inscribed, folio 96v, with a date of <date calendar="Seleucid">1963</date>[<date calendar="Gregorian">1652</date>]. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house.  </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Moed. Hebrew. Brit. Mus. Oriental 2218.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1963" calendar="Seleucid" when="1652"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">	Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 Dec. 1879: inscribed, <locus n="fse002v">[99v]</locus>.</p>
+							<date>1879-12-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">453</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

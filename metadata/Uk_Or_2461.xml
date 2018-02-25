@@ -1,0 +1,144 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2461" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2461</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on Genesis 1:1-6:8.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="187v"/>
+							<title xml:lang="he-Latn-x-lc">Perush </title>
+							<title xml:lang="he">פרוש </title>
+							<note>
+								<p>The unpointed Hebrew text, accompanied by Yefet's Arabic translation, is embodied.</p>
+							</note>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi, approximately 10th century</persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי </persName>
+							</author>
+							<filiation>Written by the same hand as <ref target="Margoliouth_1965" type="number">267</ref>, <ref target="Margoliouth_1965" type="number">259</ref>and <ref target="Margoliouth_1965" type="number">263</ref>.</filiation>
+							<colophon xml:lang="he">הדא אול מא אסתנסכה לנפסה מן שרח אלתורה יג' ויא' בכ'ט ידה אלפאניה במעונה אללה אלבאקיה אלעבד... עבד אלואחד אבן אלמרחום אלסדיד נצר אללה אבן אלמר' אלפכר מוסי אלמרוף באבן כאתב אלערב תנמדהם תע' באלרחמה ואלרצואן ויסכנהם אלגנאן אמן ושלום. <locus n="187r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the end of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">187 folios <dimensions unit="mm" type="leaf">
+										<height>180</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>187 folios (+2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally 26 quires  of 10 leaves each, except the last, which has only 8 leaves. Quires 1 and 3-7 are not preserved and 2, 12, 15 are imperfect.</p>
+									<p>Quires signed with Hebrew letters and Arabic words on the upper margin of the first page.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 4, 44, 52, 72, 80.</p>
+									<p>Heavily water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Biblical verses are given in square characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script, unpunctuated, of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Yefet. Com. on Genesis. Arabic. Brit. Mus. Oriental 2461.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v"> [188v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">256</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-01-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

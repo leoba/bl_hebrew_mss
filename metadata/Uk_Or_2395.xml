@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2395" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2395</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The revised recension of Maimonides' Sefer mitsṿot in the original Arabic, in Hebrew characters. </summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="">Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="168v"/>
+							<title xml:lang="en">Sefer mitsṿot </title>
+							<title xml:lang="he">ספר מצות</title>
+							<note>
+								<p>Folios 1-10r contain a fragmentary enumeration of the 613 precepts in the actual wording of the Pentateuch (cf Or. 1046, <ref target="Margoliouth_1965" type="number">504</ref>), thus differing from the enumeration in Moses ibn Tibbon's Hebrew translation, where a free wording is adopted. </p>
+								<p>Introduction begins on folio 10r, Mitsvot ʿaseh on folio 36r, and Mitsṿot lo taʿaseh on folio 89r. </p>
+								<p>Folio 164r is a duplicate of folio 162r due to a mistake of the scribe. </p>
+								<p>References from most mitsṿot to Maimonides' Mishneh Torah have been added on the margin. </p>
+							</note>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>168 folios <dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>168 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each.</p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+								<condition>
+									<p>Missing the first five leaves in the first quire.</p>
+									<p>Folios 167 and 168 are of recent date.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="25" writtenLines="25">
+									<p>Uniform layout. Visible mastara ruling. </p>
+									<p>Last line written outside the ruling.</p>
+									<p>Some marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 15th to 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 167r-168v are recent additions.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides. Sefer Ham-Mitsvoth. Arabic. Brit. Mus. Oriental 2395.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881: inscribed (folio <locus n="fse001v">[169v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">503</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

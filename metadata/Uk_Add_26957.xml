@@ -1,0 +1,217 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26957" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26957</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A portion of a daily prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="113v"/>
+							<title xml:lang="en">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<decoNote type="border">1 full foliate border in colours. <locus n="113r"/>
+							</decoNote>
+							<decoNote type="marginal">8 textual drawings in the margins in brown ink. <locus n="39r, 39v, 42r, 43v, 45r, 45v, 55v, 74v"/>
+							</decoNote>
+							<decoNote type="initial">5 drawings of animals or dragons accompanying initial words, in ink. <locus n="3r, 37r, 45r, 53v, 63v"/>
+							</decoNote>
+							<decoNote type="initial">Numerous decorated initial words and initial-word panels, in sepia, violet and red ink. </decoNote>
+							<decoNote type="marginal">8 marginal drawings in ink. <locus n="17r, 20v, 25r, 25v, 51v, 71r, 81r, 105r"/>
+							</decoNote>
+							<decoNote type="marginal">Manicula.<locus n="89v"/>
+							</decoNote>
+							<colophon xml:lang="he">ותשלם המלאכה [...] היום יום כ'ו' ימים לירח כסליו שנת <date calendar="Hebrew">חמשת אלפים ושלשים</date> לבריאת עולם אשר כתבתי על זאת התפלה. אני הלבלר <name type="person" role="scribe">יואל ב"ר שמעון</name> ז"ל כתבתי זאת התפלה לר' <name type="person" role="patron">מנחם בכמ"ר שמואל</name> ז"ל לו ולבתו הנכבדת והמשכל' הבתולה הנעימה מרת <name type="person" role="patron">מרוילייא</name> שתחיי' להתפלל בה היא וזרעה וזרע זרעה עד סוף. א'כ'י'ר'.   <locus n="112r"/>
+							</colophon>
+							<note>
+								<p>The scribe gave the date erroneously as 26 Kislev 5030 [which would be 1269] instead of 5230 [1469].</p>
+								<p>See further: <ref target="Davidson_1924"/> [on the text]; <ref target="JQR" type="number">27 (1937)</ref>, pp.
+217-32; <ref target="St_in_Bibliography" type="number">9 (1970)</ref>, pp. 76-95; <ref target="JJA" type="number">3-4 (1977)</ref>, pp. 28-29;
+
+<ref target="JJA" type="number">7 (1980)</ref>, pp. 25-26; <ref target="Metzger_1982" type="page">304</ref>; <ref target="Goldstein_1985" type="page">9</ref>; <ref target="Weinstein_1990" type="page">27-101</ref>; <ref target="Viator" type="number">26 (1995)</ref>, pp. 265-82; <ref target="Revue" type="number">155 (1997)</ref>, pp. 33-52; <ref target="Zucker_2005" type="page">XIII</ref>
+; <ref target="Auskunft" type="number">26 (2006)</ref>, pp. 287-309.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="1v"/>
+							<title xml:lang="en">Services for week-days</title>
+							<note>
+								<p>Only the end of ῾arvit is left.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1v" to="32r"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="32r" to="37r"/>
+							<title xml:lang="en">Special portions for Purim, Ḥanukah, Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="37r" to="55v"/>
+							<title xml:lang="en">Hagadah and prayers for Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="55v" to="59r"/>
+							<title xml:lang="en">Prayers for Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="59r" to="60r"/>
+							<title xml:lang="en">Special portions for Tish῾ah be-Av</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="60r" to="74v"/>
+							<title xml:lang="en">Services for Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="74v" to="102r"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>Contains Ṿiduy shel ga᾿on, folio 81r; Ṿiduy ha-rav Se῾adyah, folio 88r. Folios 99v-102r contain additional pieces to be said before and after seliḥot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="102r" to="112r"/>
+							<title xml:lang="en">Services for Sukot</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Parchment.</support>
+								<extent>113 folios <dimensions unit="mm" type="leaf">
+										<height>140</height>
+										<width>95</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>90/85</height>
+										<width>55</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>113 folios (+ 3 unfoliated modern paper flyleaves at the beginning and 1 older paper flyleaf and 3 modern paper flyleaves – all unfoliated – at the end).</p>
+								</foliation>
+								<collation>
+									<p>11 quires: i-viii10 (folios 1-80), ix12 (folios 81-92), x10 (folios 93-102), xi10+1 (folios 103-113). </p>
+									<p>Catchwords.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning: a large portion is lacking.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="20">
+									<p>Uniform layout.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Catchwords at the end of the quires.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square (punctuated) and Italian semi-cursive (unpunctuated) script; Sefardi punctuated square script (on folios 113r -113v). 	<name type="person" role="scribe">Yo᾿el ben Shim῾on Feibush</name>: inscribed with his name in the colophon, 26 Kislev 5[2]30 [1469] (folio 112r).</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="113r" to="113v"/> due to a different, Sefardi type of handwriting.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Menaḥem ben Shemu᾿el</name> and his daughter <name type="person" role="patron">Maraviglia bat Menaḥem ben Shemu᾿el</name>: inscribed with their names in the colophon, 26 Kislev 5[2]30 [1469] (folio 112r).</p>
+							<p>Folio 113: originally belonged to a different manuscript, written in a different but contemporary script, with coloured marginal illuminations on both sides of the leaf.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 26,957.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5230" calendar="Hebrew" when="1469"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 67: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [115v].</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">615</ref>
+							</bibl>
+							<bibl>
+								<ref target="Almanzi_1864" type="number">15</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,123 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader rend="visible">
+        <fileDesc>
+            <titleStmt>
+                <title>Hebrew Manuscripts Catalogue</title>
+                <principal>Ilana Tahan</principal>
+                <funder>BL</funder>
+                <sponsor>The Polonsky Foundation </sponsor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>British Library</publisher>
+                <pubPlace/>
+                <date calendar="Gregorian">2015-06-23</date>
+                <idno>Uk</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title/>
+                    </titleStmt>
+                    <publicationStmt>
+                        <p/>
+                    </publicationStmt>
+                </biblFull>
+                <msDesc xml:id="Uk_Add_22911_ff_373-380v" xml:lang="he" rend="all">
+                    <msIdentifier rend="visible">
+                        <country>United Kingdom</country>
+                        <settlement>London</settlement>
+                        <institution>British Library</institution>
+                        <repository>Oriental Manuscripts</repository>
+                        <collection>Hebrew Manuscripts Digitisation Project</collection>
+                        <idno>Add MS 22911 ff 373-380v</idno>
+                        <altIdentifier type="IAMS-ID">
+                            <idno>041-003314701</idno>
+                        </altIdentifier>
+                        <altIdentifier type="MDARK">
+                            <idno>ark:/81055/vdc_100032236326.0x000002</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>Letters</head>
+                    <msContents rend="visible" class="lccn.loc.gov/sh2008105558">
+                        <summary>An account of the Jews, Karaites and Rabbanites</summary>
+                        <textLang mainLang="en"/>
+                        <msItem rend="visible" class="lccn.loc.gov/sh85071589">
+                            <locus from="373r" to="380v"/>
+                            <title xml:lang="en">Some account of the Jews, Karaims and
+                                Rabanaim</title>
+                            <note><p>Jewish-related part of volume ii of the "Correspondence of Dr.
+                                    John Covell", Master of Christ's College and Vice-Chancellor of
+                                    the University of Cambridge. </p><p>Folio 380r-380v aims at
+                                    giving some information on the Samaritans.</p></note>
+                        </msItem>
+                    </msContents>
+                    <physDesc rend="visible">
+                        <p>A section of a composite codex of the 17th century.</p>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>Paper. </support>
+                                <extent>8 folios <dimensions type="leaf" unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions></extent>
+                                <foliation><p>8 folios (folios 373-380). Folios 373v and 374r are
+                                        blank. </p></foliation>
+                                <collation><p>Indeterminable. </p></collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>Various number of lines to a page.
+                                    </p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <summary>Latin script of the 17th century. </summary>
+                            <handNote script="other" scope="major"/>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin><origDate notBefore="1600" notAfter="1699">17th
+                                century</origDate><origPlace>England</origPlace></origin>
+                    </history>
+                    <additional rend="visible">
+                        <adminInfo>
+                            <recordHist>
+                                <source>Manuscript description based on Margoliouth, G.: Catalogue
+                                    of the Hebrew and Samaritan Manuscripts in the British Museum,
+                                    London 1965.</source>
+                            </recordHist>
+                            <availability status="free">
+                                <p/>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan
+                                Manuscripts in the British Museum, 4 vols (London: British Museum,
+                                1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by
+                                Jacob Leveen (London: British Museum, 1977), no. 1062.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <bibl/>
+                <listBibl>
+                    <bibl/>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy/>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc/>
+        <revisionDesc status="submitted">
+            <change when="2016-06-08">Zsofia Buda</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div/>
+        </body>
+    </text>
+</TEI>

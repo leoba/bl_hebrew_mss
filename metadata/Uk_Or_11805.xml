@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_11805" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 11805</idno>
+					</msIdentifier>
+					<head>Esther scroll</head>
+					<msContents class="lccn.loc.gov/n79053644" rend="visible">
+						<summary>The Book of Esther. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="1r"/>
+							<title xml:lang="he-Latn-x-lc">Megilat Ester</title>
+							<title xml:lang="he">מגלת אסתר</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 17th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>4 membranes, 12 columns. <dimensions type="leaf" unit="mm">
+										<height>357</height>
+										<width>1600</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>4 membranes. </p>
+								</collation>
+								<condition>
+									<p>Mottled with damp and mould spots, frass and usage stains.  </p>
+									<p>Ends very dark and inflexible. </p>
+									<p>A few pleats and creases.
+</p>
+									<p>Ink with slight burn-through of large letters.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="12" ruledLines="40" writtenLines="40">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane. </p>
+									<p>Visible pricking for ruling. </p>
+									<p>Three to four columns per membrane.   </p>
+									<p>Three tagin on most of שעטנזגץ, and one on בדהיחק; the letter ח arched throughout. </p>
+									<p>Several majuscular and minuscular letters. </p>
+									<p>The names of the sons of Haman arranged in 11 lines, in accordance with the rule. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the 17th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house (boxed).  </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Lists of Oriental manuscripts,  Asian and African Studies reading room.  Recorded in the list in 1947 </source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

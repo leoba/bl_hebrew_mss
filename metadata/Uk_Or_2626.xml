@@ -1,0 +1,191 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-17</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2626" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2626</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="  lccn.loc.gov/n79054379  lccn.loc.gov/n79066420" rend="visible">
+						<summary>The first volume of the three-volume Bible (aka 'the Lisbon Bible'), containing the Pentatuech with masorah magna, masorah parva and some masoretic notes; punctuated. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="184v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<note>
+								<p>Cf. Add MS 15251 (<ref type="number" target="Margoliouth_1965">61</ref> and Or 2201 (<ref target="Margoliouth_1965" type="number">52</ref>) regarding a treatise of Ben-Asher, Sefer ha-ṭeʻamim, written in the margins of folios 1r-22v. </p>
+								<p>See <ref target="Sed-Rajna_1970" type="page">24-29</ref>, <ref target="Sed-Rajna_1988"/>, <ref target="Metzger_1977" type="page">33-48</ref>, <ref target="Kogman-Appel_2004" type="page">206</ref>, <ref target="Tahan_2007" type="page">60-61</ref>, <ref target="Narkiss_1982" type="number">42</ref>, <ref target="Leveen_1944"/>, <ref target="BL_2007" type="page">156</ref>. </p>
+							</note>
+							<filiation>First of the three uniform volumes of the Hebrew Bible, the others being Or 2627 and Or 2628, see <ref target="Margoliouth_1965" type="number">62</ref>.</filiation>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">שמואל הסופר בר' שמואל ן' מוסא</name> נ"ע כתבתי אלו ארבעה ועשרים בעזרת יושב הכרובים במאמר הגביר הנחמד השם הטוב כגן רטוב זית רענן יפה פרי תאר <name type="person" role="patron">ר' יוסף בן כבוד ר' יהודה המכונה אלחכים</name> בצרור החיים תהא נשמתו המתים בגן עדן ינחם והחיים למען חסדיו ירחם וצוה לחקור דקדוקים ולבקר וכל אשר אזן וחקר על כן יענו לו אשריו ואשרי בניו אחריו, ינצרהו האל ויראהו ביאת הגואל ובימיו יושע יהודה וישראל בוראהו חסד ימציאהו אל יאבד לנצח גבירנו וסימתיו בחדש <date when="1483" calendar="Hebrew">כסלו יום ששי ערב שבת בין השמשות שנת חמשת אלפים ומאתים וארבעים ושלשה לבריאת עולם</date> במדינת <name type="place">לישבואה </name>ישע יקרב. אמן.<locus n="vol. 3, 185v"/>
+							</colophon>
+							<decoNote type="border">53 full borders, in colours and gold. <locus from="1v" to="22v"/>
+								<locus from="180r" to="184v"/>
+							</decoNote>
+							<decoNote type="initial">Numerous decorated initial-word panels, in colours and gold. </decoNote>
+							<decoNote type="marginal">Numerous decorated parashah signs, in colours and gold. </decoNote>
+							<decoNote type="paratext">Masorah magna in micrographical design in the margins. </decoNote>
+							<decoNote type="other">Full-page micrographic design.<locus n="179v"/>
+							</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="23v"/>
+								<title xml:lang="en">List of 613 commandments.</title>
+								<note>
+									<p>A recension of the treatise of Ben-Asher, Sefer ha-ṭeʻamim, is written in the margins.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="23v" to="61v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="94r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="94r" to="117r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="117r" to="150r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="150r" to="180r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">A masoretic list.</title>
+								<locus from="180r" to="184v"/>
+								<note>
+									<p>In the margins there is a continuation of Sefer ha-ṭeʻamim of Ben-Asher from the first folios of the manuscript.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex; first of the three uniform volumes; Sefardi square script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>184 folios<dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>184 folios (+ 2 modern unfoliated paper flyleaves at the beginning and 2 modern and 2 older unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>24 quires: i-ii8 (folios 1-8, 9-16), iii6(folios 17-22), iv-x8 (folios 23-78), xi6(folios 79-84), xii-xix8 (folios 85-148), xx6 (folios 149-154), xxi-xxiii8 (folios 155-178), xxiv6 (folios 179-184). </p>
+									<p>Catchwords at the end of a quire. </p>
+									<p>On guards.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="26" writtenLines="26">
+									<p>Hair side and flesh side distinguishable. Ruling with hard-point visible.</p>
+									<p>Masorah magna in two lines in the upper margin and three lines in the lower margin.</p>
+									<p>The beginning of the weekly section marked by פרש'.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, punctuated. <name type="person" role="scribe">Shemu᾿el ben Shemu᾿el ibn Musa</name>: inscribed with his name in the colophon, Lisbon, <date calendar="Hebrew">5243 </date> [<date calendar="Gregorian">1483</date>] (see volume 3, Or 2628, folio 185v). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>53 full borders, in colours and gold. Numerous decorated initial-word panels, in colours and gold. Numerous decorated parashah signs, in colours and gold. Masorah magna in micrographical design in the margins. Full-page micrographic design.</summary>
+							<decoNote type="border">Full borders, in colours and gold.<locus from="1v-22v" to="180-184v"/>
+							</decoNote>
+							<decoNote type="initial">Numerous decorated initial-word panels, in colours and gold.</decoNote>
+							<decoNote type="marginal">Numerous decorated parashah signs, in colours and gold.</decoNote>
+							<decoNote type="paratext">Masorah magna in micrographical design in the margins. </decoNote>
+							<decoNote type="paratext">Full-page micrographic design.<locus n="179v"/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Yosef ben Yudah Elhakhim</name>: inscribed with his name in the colophon (see volume 3, Or 2628, folio 185v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Green leather, gold-tooled Star of David on the inner and outer cover.</p>
+								<p>Spine title: 'Hebrew Bible. Lisbon 1484-53. Pentateuch. Brit. Mus. Oriental 2626.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1483" when-custom="5243" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Portugal</name>, Central (<name type="place">Lisbon</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Benjamin Cohen </name>of <name type="place">Bukhara</name>: purchased by the British Museum from him on <date calendar="Gregorian">17 November 1882</date> (folio [188v]).</p>
+							<date>1882-11-17</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">62</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2013-09-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

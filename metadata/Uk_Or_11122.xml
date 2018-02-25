@@ -1,0 +1,582 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-07-03</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_11122" xml:lang="en" rend="additional">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 11122</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314146</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724359.0x000003</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Yemenite Sidur</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n79090052" rend="visible">
+                  
+                  
+                  
+                  <summary>A prayer book with commentaries. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="he" otherLangs="jrb-Hebr"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="362v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Tikhlal</title>
+                     
+                     
+                     
+                     <title xml:lang="he">תכלאל</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>A book of prayers according to the use of the Jews of Yemen, with commentary of Isaac ben Abraham Wanneh and Meir ibn Gabbai, Agadat Ester, Midrash Ekhah and piyuṭim in the margin. Contains calendrical tables for years 5413-5491. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 17th to 18th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Paper. </support>
+                        
+                        
+                        
+                        <extent>362 folios <dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>270</height>
+                              
+                              
+                              
+                              <width>180</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>235</height>
+                              
+                              
+                              
+                              <width>150</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>362 folios (+ 2 unfoliated modern flyleaves at the beginning and at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Leaves stuck on modern paper. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Inlaid leaves. </p>
+                           
+                           
+                           
+                           <p>A few tidemarks and some mould-mottling. </p>
+                           
+                           
+                           
+                           <p>Occasional usage stains. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1 2" ruledLines="28 " writtenLines="28 ">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Commentary written around the main text in smaller characters. </p>
+                           
+                           
+                           
+                           <p>Initial words in large square characters. </p>
+                           
+                           
+                           
+                           <p>Catchwords on every verso. </p>
+                           
+                           
+                           
+                           <p>Some marginal additions. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Yemenite semi-cursive script of the 17th to 18th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions>
+                     
+                     
+                     
+                     <p>Folio 302 belonged to a different manuscript. </p>
+                  
+                  
+                  
+                  </additions>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Prayer-Book. Hebrew &amp; Arabic. Brit. Mus. Oriental 11,122.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1600" notAfter="1799">17th-18th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Yemen</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 161., vol. IV (supplement)</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-07-03">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

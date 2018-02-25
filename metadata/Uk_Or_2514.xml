@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2514" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2514</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the Song of Songs (fragments).</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="119v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Shir ha-shirim</title>
+							<title xml:lang="he">פרוש שיר השירים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century</persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי </persName>
+							</author>
+							<note>
+								<p>The volume contains Yefet's Arabic commentary on the Songs of Songs.</p>
+								<p>The manuscript is defective at the beginning, lacking chapters 1:1-2:4 and 2:6-13.</p>
+								<p>The pointed Hebrew text, accompanied by an Arabic translation, is embodied.</p>
+								<p>In chapters 3:9-4:4 the punctuation is added in red ink.</p>
+								<p>Chapters 5:2-7:2 and 7:4 are written in red ink, with the punctuation added in black ink.</p>
+							</note>
+							<colophon xml:lang="he">תם תפסיר ספר שיר השירים בעזרת משפיל ומרים מפתרון הרב הגדול מר' ור' החכם המופלא משכילנו ומזהירנו ר' <name type="person" role="author">יפת אבי עלי</name> אלבצרי האל יכפיל שכרו ויקיצו לקחת שכרו יקיים על הדרת מעלתו והמשכילים יזהירו כזוהר הרקיע וג' השלום.<locus n="119v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>119 folios<dimensions type="leaf" unit="mm">
+										<height>175</height>
+										<width>133</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>119 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>16 quires, originally of 10 leaves each (except the last which has 8 leaves).</p>
+									<p>First 2 quires are lost, 3-5 are imperfect.</p>
+									<p>The quires are signed with Hebrew letters and Arabic words on the upper margin of the first page.</p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Partially damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14" writtenLines="14">
+									<p>Visible ruling with a mastara.</p>
+									<p>The Hebrew biblical text written in red ink.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Square and semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="12r, 12v, 21r, 21v, 31r, 31v, 45r, 45v, 48r, 48v, 61r, 61v, 115r, 115v"/>are recent restorations.</p>
+								<p>
+									<locus from="118r" to="119v"/>are due to a different contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>On folio 119v there is a beginning of a question and answer on a grammatical matter in the Song of Songs.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Comm. on Canticles. Arabic. Brit. Mus. Oriental 2514.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v"> [120v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">300</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

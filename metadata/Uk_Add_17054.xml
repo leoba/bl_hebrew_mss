@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17054" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17054</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The second part of Sefer mitsṿot gadol of Moses ben Jacob of Coucy.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="397v"/>
+							<title xml:lang="en">Sefer mitsṿot gadol </title>
+							<title xml:lang="he">ספר מצוות גדול </title>
+							<author key="http://viaf.org/viaf/88359425">
+								<persName key="http://viaf.org/viaf/88359425" xml:lang="en">Moses ben Jacob, of Coucy, active 13th century </persName>
+								<persName key="http://viaf.org/viaf/88359425" xml:lang="he">משה בן יעקב, מקוצי  </persName>
+							</author>
+							<note>
+								<p>The manuscript begins with the introduction  to the first part (mitsṿot lo ta῾aseh). </p>
+								<p>On folio 7r begins the index of the mitsṿot ῾aseh, and on folio 14r the second part opens with the introduction belonging to it. </p>
+								<p>Folios 375-396 contain ḥamesh mitsṿot (she-hem) de-rabanan. </p>
+								<p>There are many variations from the printed editions, especially in the paragraph no. 163. There were also many marginal notes in the earlier part of the manuscript, but most of these have been damaged in the cutting. </p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Sefer_mitsvot_gadol_1488"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>397 folios <dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>172</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>397 folios (+ 3 unfoliated modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="27" writtenLines="27">
+									<p>Uniform layout. Last line written outside ruling. </p>
+									<p>Hard-point ruling visible (frame only), leaf by leaf on recto. </p>
+									<p>Hair-side and fleash-side of the folios distinguishable. </p>
+									<p>Occasional marginal notes. </p>
+									<p>Chapter initials and titles given in larger characters. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Aharon bar Shemu᾿el Pinḥas</name>: inscribed (folio 2r, 3r). </p>
+							<p>
+								<name type="person" role="owner">Yosef</name>: inscribed (folio 4r). </p>
+							<p>Many notes, scribblings and doodles on folios 2r, 2v, 3r, 397v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red leather.</p>
+								<p>Spine title: 'Moses b. Jacob of Coucy. Sepher Misvoth Gadhol. Hebrew. Brit. Mus. Additional Ms. 17054.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Spain</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 23 October 1847, Macdonald's sale, lot 1621: inscribed, <locus n="fse001v">[398v]</locus>.</p>
+							<date>1847-10-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">510</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

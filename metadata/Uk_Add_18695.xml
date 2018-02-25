@@ -1,0 +1,230 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18695" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18695</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Festival services according to the Ashkenazi rite, translated in Yiddish.</summary>
+						<textLang mainLang="yi-Hebr" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="173v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>The rendering into Yiddish is free and paraphrastic, sometimes accompanied by interpretation (e.g. folio 82r) explaining the poetical pieces to women.</p>
+							</note>
+							<colophon xml:lang="he">ב"הל"ך <date calendar="Hebrew">ר"ח סיון רס"ד</date> בעזרת הש"י כתבתי פה <name type="place">מיישטריא</name> להיקרה מר' <name type="person" role="patron">חנליין</name> שת' הסליחות הללו <name type="person" role="scribe">מנחם אלנדורף</name>.<locus n="173v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="8v"/>
+							<title xml:lang="en">[Yotser le-parashat ha-ḥodesh]</title>
+							<note>
+								<p>Only the end od the first piyut is preserved.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="8v" to="17r"/>
+							<title xml:lang="en">Yotser Shabat ha-gadol</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="17r" to="32r"/>
+							<title xml:lang="en">Services for the first day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="32r" to="49r"/>
+							<title xml:lang="en">Services for the second day of Pesaḥ</title>
+							<note>
+								<p>Contain shaḥarit and ma῾ariv.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="49r" to="54r"/>
+							<title xml:lang="he-Latn-x-lc">Yotser Shabat ḥulo shel mo῾ed Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="54r" to="60r"/>
+							<title xml:lang="en">Services for the seventh day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="60r" to="64r"/>
+							<title xml:lang="en">Services for the last day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="64r" to="80v"/>
+							<title xml:lang="en">Services for the first day of Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="80v" to="98r"/>
+							<title xml:lang="en">Services for the second day of Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="98r" to="110r"/>
+							<title xml:lang="en">Services for the ninth of Av</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="110r" to="115v"/>
+							<title xml:lang="en">Services for the first day of Sukot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="115v" to="124v"/>
+							<title xml:lang="en">Services for the second day of Sukot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="124v" to="134v"/>
+							<title xml:lang="en">Services for Shemini ῾atseret</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="134v" to="143v"/>
+							<title xml:lang="en">Services for Simḥat Torah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="143v" to="149v"/>
+							<title xml:lang="he-Latn-x-lc">Yotser le-ḥol ha-mo῾ed shel Sukot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="149v" to="160r"/>
+							<title xml:lang="he-Latn-x-lc">Hosh῾anot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="160r" to="173v"/>
+							<title xml:lang="he-Latn-x-lc">Seliḥot</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>173 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>245</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>173 folios (+ 4 unfoliated paper flyleaves at the beginning and 4 unfoliated paper flyleaves at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folio 59, 79, 169.</p>
+									<p>Defective at the beginning.</p>
+									<p>Folio 103 partly mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30 45" writtenLines="30 45">
+									<p>Non-uniform layout.</p>
+									<p>Visible vertical pencil ruling.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Several leaves left blank without a break in the text (e.g. after folio 54v, 63v).</p>
+									<p>Catchwords on every verso, only partly preserved.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="7">
+							<summary>Ashkenazi cursive scripts, partially punctuated, of the 15th to 16th century. <name type="person" role="scribe">Menaḥem Alendorf</name> of the latter portion: inscribed with his name, <date calendar="Hebrew">[5]264</date> (<date calendar="Gregorian">1504</date>): folio 173v.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2r" to="16v"/>, <locus from="17r" to="54r"/>, <locus from="55v" to="79v"/>, <locus from="80r" to="102v"/>, <locus from="103v" to="108r"/>, <locus from="109r" to="159v"/>, <locus from="160r" to="173v"/> - due to different Ashkenazi cursive scripts.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Ḥanlein</name>: inscribed in the colophon, <date calendar="Gregorian">1504</date>: folio 173v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Dark brown leather.</p>
+								<p>Spine: 'Services for Festivals. German. Brit. Mus. Additional 18,695.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1851-05-24</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: purchased from him on 24 May 1851: inscribed, folio [174v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">683</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-09-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

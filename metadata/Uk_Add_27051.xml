@@ -1,0 +1,168 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27051" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27051</idno>
+					</msIdentifier>
+					<head>Shaʿar ha-shamayim</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Shaʿar ha-shamayim (fragments) and Ginze ha-melekh of Isaac ben Abraham ibn Latif.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="76v"/>
+							<title xml:lang="he-Latn-x-lc">Shaʿar ha-shamayim. Ginze ha-melekh</title>
+							<title xml:lang="he">שער השמים. גנזי המלך</title>
+							<author key="http://viaf.org/viaf/19632017">
+								<persName key="http://viaf.org/viaf/19632017" xml:lang="en">Latif, Isaac ben Abraham ibn </persName>
+								<persName key="http://viaf.org/viaf/19632017" xml:lang="he">אבן לטיף, יצחק בן אברהם </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="43v"/>
+								<title xml:lang="en">Shaʿar ha-shamayim</title>
+								<note>
+									<p>Contains the first 'gate' and the first seven chapters of the second 'gate'. </p>
+									<p>Folio 2 contains an imperfect table of contents of the first 'gate'.</p>
+									<p>The heading is on folio 4r.</p>
+									<p>The short preface is followed by the statement indicating the contents of all the four 'gates', then follows the first 'gate'.</p>
+									<p>The fragment on the second 'gate' starts on folio 38r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="49r" to="76v"/>
+								<title xml:lang="en">Ginze ha-melekh</title>
+								<filiation>Cf. contents of Or 1084, <ref target="Margoliouth_1965" type="number">920</ref>, part III.</filiation>
+								<colophon xml:lang="he">כתבתיו אני הצעיר <name type="person" role="scribe">מרדכי קנ"ה רוטה בכמ' משה קנ"ה רוטה</name> יצ"ו והשלמתיו ביום כ&quot;ט לולייו השלט&apos; לי&quot;א וזה היה פה ע' פילישו <name type="place">במודינה</name>: וכתבתיו עבור טובינא דחכימי החכם השלם הכולל כמהר"ר <name type="person" role="patron">מרדכי דאטו</name> יצ"ו מורי ואלופי: ה' יזכהו להגות בו הוא וזרעו וזרע זרעו עד סוף הדורות: אמן אמן כן יעשה האל: <locus n="76v"/>
+								</colophon>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>76 folios<dimensions type="leaf" unit="mm">
+										<height>221</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>76 folios (+ 3 paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>A few leaves slightly damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30 42" writtenLines="30 42">
+									<p>Visible ruling with pencil.</p>
+									<p>Two different handwritings, divided by a few blank leaves (folios 44-48).</p>
+									<p>In the first part, the initial word of the chapter is written in larger characters.</p>
+									<p>The second part, from folio 49r onwards, has catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian semi-cursive script of the 16th century. <name type="person" role="scribe">Mordekhai Canaruto</name>: inscribed with his name in the colophon, with a date of <date calendar="Hebrew">5339</date> (<date calendar="Gregorian">1579</date>), folio 76v.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="43v"/> and <locus from="49r" to="76v"/>- written in two different Italian semi-cursive scripts of the 16th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Mordekhai Dato</name>: inscribed with his name in the colophon, folio 76v.</p>
+							<p>
+								<name type="person" role="owner">Avraham Graziano</name>: inscribed in a note, folio 2r, 4r.</p>
+							<p>
+								<name type="person" role="censor">Renato da Modena</name>: inscribed in the censor's entry: 'Visto per mi fr. Renato da Mod.', see <ref target="Popper_1969" type="number">132-133</ref>; folio 76v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house, dark blue.</p>
+								<p>Spine title: 'Isaac ibn Latif. Sha'ar Hash-Shamayim. Hebrew. Brit. Mus. Additional 27,051.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1579">The second part dated for <date calendar="Gregorian">1579 </date>(<date calendar="Hebrew">5339</date>).</origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> (<name type="place">Modena</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile his manuscript no. 156, II; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through <name type="org">Asher &amp; Co.</name> in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>). </p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">916</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

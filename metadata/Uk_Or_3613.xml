@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_3613" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 3613</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Pisḳe halakhot, of Isaiah of Trani, the younger, on several tractates of Talmud..</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="317v"/>
+							<title xml:lang="en">Pisḳe halakhot</title>
+							<title xml:lang="he">פסקי הלכות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/28447292">Isaiah ben Mali, di Trani, approximately 1200-</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/28447292">ישעיה בן מלי, דטראני הזקן  </persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="42v"/>
+							<title xml:lang="he-Latn-x-lc">Yevamot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="42v" to="105v"/>
+							<title xml:lang="he-Latn-x-lc">Ketubot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="105v" to="146r"/>
+							<title xml:lang="he-Latn-x-lc">Giṭin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="146r" to="174v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳidushin </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="174v" to="183v"/>
+							<title xml:lang="he-Latn-x-lc">Soṭah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="183v" to="211r"/>
+							<title xml:lang="he-Latn-x-lc">Nedarim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="211r" to="253r"/>
+							<title xml:lang="he-Latn-x-lc">Berakhot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="253r" to="287r"/>
+							<title xml:lang="he-Latn-x-lc">Hulin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="287r" to="303r"/>
+							<title xml:lang="he-Latn-x-lc">Nidah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="303r" to="317v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot tsitsit, tefilin, mezuzah, sefer Torah</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>317 folios <dimensions unit="mm" type="leaf">
+										<height>225</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>142</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>317 folios (+ 2 modern paper flyleaves at the beginning and 3 vellum and 2 paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>32 quires: i-xxiv11 (folios 1-240); xxv12 (folios 241-152); xxvi-xxxi10 (folios 253-312); xxxii6-1 (folios 313-317). Marked by catchwords at the end of the quires and Hebrew letters at the beginning of the quires (mostly cut away).</p>
+								</collation>
+								<condition>
+									<p>Incomplete at the end.</p>
+									<p>Folio 2 damaged.</p>
+									<p>Stained. Slightly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Last line written outside ruling.</p>
+									<p>Chapter initials given in larger characters. </p>
+									<p>Quire catchwords enclosed in simple pen and ink designs.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 14th to 15th century. <name type="person" role="scribe">Eliyah ben Shemu'el</name>: inscribed in a rhyme, folio 105r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 316v and 317r contain a short treatise written in an Italian cursive script.</p>
+							<p>Two Latin inscriptions, folios 1v and [320r].</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Oriental 3613.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<acquisition>
+							<date>1888-10-29</date>
+							<p>
+								<name type="person" role="owner">David Schifmann</name> of Tiberias: bought from him by the British Museum on 20 October 1888: inscribed (folio <locus n="fse004v">[321v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">524</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

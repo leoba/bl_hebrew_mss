@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5708" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5708</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/n82271898" rend="visible">
+						<summary>The Pentateuch with Rashi's commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420  lccn.loc.gov/n82271898">
+							<locus from="1r" to="124v"/>
+							<title xml:lang="he-Latn-x-lc">Torah ῾im perush Rashi</title>
+							<title xml:lang="he">תורה עם פרוש רש&quot;י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י) </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="30r"/>
+								<title xml:lang="en">Genesis </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="30r" to="63r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63r" to="83v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="83v" to="105r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="105r" to="124v"/>
+								<title xml:lang="en">Deuteronomy</title>
+								<note>
+									<p>Breaks off with the commentary on Deut. 23:21.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent rend="visible">124 folios<dimensions unit="mm" type="leaf">
+										<height>307</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>240</height>
+										<width>153</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>124 folios (+ 2 unfoliated modern flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>17 quires of 8 leaves each, with the first and last quire currently incomplete.</p>
+									<p>Quires marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Several pages are stained or foxed.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="42" writtenLines="41">
+									<p>Uniform layout. </p>
+									<p>Pricking and hard-point ruling are visible. </p>
+									<p>A large number of smaller and greater omissions from text and commentary have been subsequently supplied in the margins by various hands.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, not punctuated. <name type="person" role="scribe">Yitsḥaḳ Merly</name>: inscribed with his name as an author of corrections in the text, folio 1r, in a following subscription: מתוקן על ידי יצחק מארלי. See similar subscription in Harley 5655, <ref target="Margoliouth_1965" type="number">180</ref>.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Carretto</name>: Italian censor (active in the first quarter of the 17th century): inscribed with his name, <date calendar="Gregorian">1612</date>? (folio 123v); see <ref target="Popper_1969" type="page">100-101</ref>. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	Post-1600. Black leather with the Harley coat of arms in the centre.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">171</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

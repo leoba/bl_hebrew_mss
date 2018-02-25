@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4112" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4112</idno>
+					</msIdentifier>
+					<head>Prayer scroll</head>
+					<msContents class="lccn.loc.gov/sh85070857  lccn.loc.gov/sh85118979" rend="visible">
+						<summary>Liturgical pieces. </summary>
+						<textLang mainLang="he" otherLangs="jrb"/>
+						<msItem rend="">
+							<locus from="1r" to="1r"/>
+							<title xml:lang="he-Latn-x-lc">Tefilot </title>
+							<title xml:lang="he">תפלות </title>
+							<note>
+								<p>Two pieces for the liturgy of the 9th of Av: 1. the Hafṭarah of the 9th of Av (Jer. 8:13-9:23), accompanied by an Arabic homiletical commentary taken from the midrashim; 2. the story of Ḥanah and her seven children, in Arabic verse (occupying the last eight columns of the scroll). </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 15th to 16th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>8 membranes, 34 columns.  <dimensions type="leaf" unit="mm">
+										<height>280</height>
+										<width>4850</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>8 membranes. </p>
+								</collation>
+								<condition>
+									<p>Slight delamination of surface at inner end. </p>
+									<p>Dark mottling (from damp).  </p>
+									<p>Usage stains. </p>
+									<p>Small patches of salt accretion.  </p>
+									<p>Ink offset on recto.
+</p>
+									<p>Paper fragments adhered to verso.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="34" ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stiching. </p>
+									<p>The letter ח is often arched. </p>
+									<p>Larger headings and two initial words. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script of the 15th to 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">723</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-09-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

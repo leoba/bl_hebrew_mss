@@ -1,0 +1,143 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2575" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2575</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>A treatise on the laws of inheritance.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="42v"/>
+							<title xml:lang="he-Latn-x-lc">Mishpaṭ ha-yerushah</title>
+							<title xml:lang="he">משפט הירושה</title>
+							<note>
+								<p>A fragment of a treatise on the laws of inheritance, in the form of a refutation against an opponent.</p>
+								<p>The text is written in Arabic, with Hebrew quotations given in Arabic characters.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; an Arabic hand of the 12th to 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>42 folios <dimensions unit="mm" type="leaf">
+										<height>205</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p> 42 folios (+ 4 unfoliated paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each, now incomplete, marked with Arabic words on the left-hand upper corners of the first page (signatures mostly not preserved).</p>
+									<p>The first two quires, together with the first leaf of the third quire, are missing. </p>
+									<p>Folios 1-9 are the remaining 9 leaves of the third quire; folios 10-29 form two complete quires of 10 leaves each, marked on the left-hand upper corners of folios 10 and 20 respectively.</p>
+									<p>Of the 6th quire only the first leaf and the last are preserved (folios 30-31); the same with the 7th quire.</p>
+									<p>Folios 34-42 are the remaining leaves of the 8th quire.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end. </p>
+									<p>Lacunae after folio 30, 32.</p>
+									<p>Stained.</p>
+									<p>Several leaves more or less damaged.</p>
+									<p>Fading ink. Folio 4 and 5 partly illegible.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17 20" writtenLines="17 20">
+									<p>Uniform layout. </p>
+									<p>Diacritic points only partially given.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>An Arabic hand of approximately 12th to 13th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Karaite Polemic Treatise. Arabic. Brit. Mus. Oriental 2575.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1100" notAfter="1199"/>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name>, (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882: inscribed, folio <locus n="fse004v"> [46v]</locus>.</p>
+							<date>1882-07-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">595</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

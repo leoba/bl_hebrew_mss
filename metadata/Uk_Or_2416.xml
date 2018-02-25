@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2416" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2416</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A collection of commentaries on the biblical passages by various authors.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="v">
+							<locus from="1r" to="105r"/>
+							<title xml:lang="en">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author key="http://viaf.org/viaf/73882588">
+								<persName key="http://viaf.org/viaf/73882588" xml:lang="en">Jacob ben Asher </persName>
+								<persName key="http://viaf.org/viaf/73882588" xml:lang="he">יעקב בן אשר </persName>
+							</author>
+							<incipit xml:lang="he">העולם בידך העולם והשבת:<locus n="1r"/>
+							</incipit>
+							<colophon xml:lang="he">נשלם זה המדרש [...] בתלתא בשבא י&quot;ב לירח כסליו שנת א&apos;ת&apos;ת&apos;ק&apos;ס&apos;ב&apos; ליצירה [...]  והכותב הקל והצעיר<name type="person" role="scribe"> דוד בן יוסף בן שמעון אלכלפי</name> [...]<locus n="105r"/>
+							</colophon>
+							<note>
+								<p>Genesis: folios 1r-20v.</p>
+								<p>Exodus: folios 20v-50v.</p>
+								<p>Leviticus: folios 50v-65r.</p>
+								<p>Numbers: folios 65r-84v.</p>
+								<p>Deuteronomy: folios 84v-105r.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Ben_Asher_1514"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="v">
+							<locus from="106r" to="137v"/>
+							<title xml:lang="en">Midrash on Esther</title>
+							<title xml:lang="he">אגדת אסתר</title>
+							<filiation>
+								<ref target="Steinschneider_1879" type="number">149</ref> in volume 2.</filiation>
+							<note>
+								<p>A small portion is missing at the end.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Buber_1925"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of approximately 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">137 folios <dimensions unit="mm" type="leaf">
+										<height>212</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>137 folios (+ 2 unfoliated flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Catchwords on every verso.</p>
+								</collation>
+								<condition>
+									<p>Partially damaged.</p>
+									<p>Defective at the beginning and at the end. Two leaves are missing after folio 2 and one after folio 18.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23 25" writtenLines="23 25">
+									<p>Uniform layout. </p>
+									<p>Ruled with mastara.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script, unpunctuated. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A notice of birth, dated <date calendar="Gregorian">1741</date>, folio 106r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM  in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history facs="0" rend="visible">
+						<origin when-custom="1962" calendar="Seleucid" notBefore="1650" notAfter="1651"/>
+						<acquisition>
+							<date>1881-10-08</date>
+							<p>Mr <name type="person" role="owner">Nic. Mavrocordato</name>: purchased by the British Museum from him on 8 October 1881, folio [138v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">224</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

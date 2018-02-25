@@ -1,0 +1,255 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_66" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 66</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrashic expositions on the pericopes and haftarot of the book of Genesis.</summary>
+						<textLang mainLang="ara" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="334v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash Daṿid (Be-reshit) </title>
+							<title xml:lang="he">מדרש דוד (בראשית) </title>
+							<author key="http://viaf.org/viaf/72927588">
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="en">David ben Abraham Maimuni, 1222 or 1223-1300 </persName>
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="he">דוד בן אברהם בן הרמב"ם</persName>
+							</author>
+							<note>
+								<p>Contains midrashic expositions on the pericopes and haftarot of Genesis as used in Egypt, and largely agreeing with the Italian order. Includes portions assigned to feasts and fasts.</p>
+								<p>Together with Or Ms. 67-70 embodies a large number of legendary stories, reminding of Koranic literature.</p>
+							</note>
+							<incipit xml:lang="he">בשם יי' אל נאזר בגבורה אתחיל לכתוב פירוש התורה לכל נפש מאירה יזכנו בתחייה: לרבינו דוד הנגיד זכר צדק לברכה והיא שנת <date when="1763" calendar="Hebrew">ושמחתים בבית תפילתי בחדש תשרי א'נ'ס'ו'</date>. <locus n="1r"/>
+							</incipit>
+							<msItem rend="v">
+								<locus from="2r" to="7r"/>
+								<title xml:lang="he-Latn-x-lc">Introduction to Be-reshit</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="7r" to="31r"/>
+								<title xml:lang="he-Latn-x-lc">Be-reshit</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="31r" to="36r"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="36r" to="61r"/>
+								<title xml:lang="he-Latn-x-lc">Noaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61r" to="65r"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus to="90v" from="65r"/>
+								<title xml:lang="he-Latn-x-lc">Lekh lekha</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="90v" to="103r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yera</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="103r" to="109v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="109v" to="125v"/>
+								<title xml:lang="he-Latn-x-lc">Ḥaye Sarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="125v" to="130v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="130v" to="152v"/>
+								<title xml:lang="he-Latn-x-lc">Toledot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="152v" to="155v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155v" to="178r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yetse</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="178r" to="183v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="183v" to="195r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yishlaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="195r" to="200r"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="200r" to="225v"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yeshev</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="225v" to="244v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+								<note>
+									<p>Includes reading on Ḥanukah, a version of the martyrdom of the seven children, and a history of the Hasmoneans.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="244v" to="253v"/>
+								<title xml:lang="he-Latn-x-lc">Mi-ḳets</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="253v" to="277v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="277v" to="300r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yigash</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="300r" to="304r"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="304r" to="311r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yeḥi</title>
+								<note>
+									<p>The beginning of the exposition is missing, as there is a gap after folio 305. The contents of folios 306-310 are repeated in the earlier pages of the added portion (belonging to a different recension) which begins with folio 311.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="311r" to="329v"/>
+								<title xml:lang="he-Latn-x-lc">Naso</title>
+								<note>
+									<p>Appended. In a different handwriting.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17 to 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>334 folios<dimensions type="leaf" unit="mm">
+										<height>202</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>334 folios (+ 2 modern paper flyleaves at the beginning and 1 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Lacuna after folio 305. </p>
+									<p>Stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Catchwords on every verso. </p>
+									<p>Titles written in larger characters. </p>
+									<p>Running titles on every page. </p>
+									<p>Visible hard-point ruling. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Two Oriental semi-cursive scripts of 17 to 18th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yom Ṭov Berakhah</name>: inscribed, folio 2r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram, blind-tooled.</p>
+								<p>Spine title: 'David ben Abraham. Comm. on Genesis. Arabic. Brit. Mus. Oriental 66.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1653" notAfter="1763">Section appended at the end is dated <date calendar="Hebrew">5523 </date>(<date calendar="Hebrew">1763</date>).</origin>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">A. C. Reichardt</name>: purchased by the British Library from him on <date calendar="Gregorian">08 June 1867</date>: inscribed, folio <locus n="fse001v">[335v]</locus>. </p>
+							<date>1867-06-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">371</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

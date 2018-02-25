@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17051" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17051</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="178v"/>
+							<title xml:lang="he-Latn-x-lc">Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo</title>
+							<title xml:lang="he">באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+							<note>
+								<p>In the Hebrew translation of Kalonymos ben Kalonymos, prepared in 1316.</p>
+								<p>There is a number of marginal notes and explanations, including the Commentary of Levi ben Gershom (folio 76r).</p>
+								<p>Folio 1r contains two geometrical demonstrations.</p>
+								<p>The translator's colophon is given on folio 178r, immediately followed by the scribe's colophon.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19688718">Averroës, 1126-1198</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19688718">אבן רשד, מחמד</persName>
+							</author>
+							<colophon xml:lang="he">ונשלמה כתיבת זה הספר יום א' י"ט לחדש אלול שנת "זכור" אני הוא הסופר <name type="person" role="scribe">ישועה כהן בר דוד כהן</name> נ"ע.<locus n="178r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Paper and parchment.</support>
+								<extent>178 folios<dimensions type="leaf" unit="mm">
+										<height>205</height>
+										<width>134</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>82</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>178 folios (+ 4 unfoliated paper flyleaves at the beginning and 9 at the end). </p>
+								</foliation>
+								<collation>
+									<p>12 quires of mostly 16 leaves each. Of the last quire only three leaves have been used. Small vertical catchwords at the end of quires.</p>
+								</collation>
+								<condition>
+									<p>Corrosive ink.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="22" writtenLines="22">
+									<p>Uniform layout.</p>
+									<p>Visible leaf by leaf hard-point ruling.</p>
+									<p>Hair side and flesh side of parchment folios distinguishable.</p>
+									<p>The two outer leaves and mostly also the two inner leaves of each quire are parchment.</p>
+									<p>Titles and inital words in larger characters. </p>
+									<p>Marginal notes.</p>
+									<p>Horizontal leaf catchwords.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century. <name type="person" role="scribe">Yeshu῾ah ben David ha-Kohen</name>: inscribed with his name in the colophon, folio 178r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, brown tooled.</p>
+								<p>Spine: 'Ibn Rashid. Comment. In Aristoteles Libros De Auditu. Hebr. Mus. Brit. Jure Emptionis. 17,051 Plut.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5226" calendar="Hebrew" when="1466">Alternative date: <date calendar="Hebrew">5223</date> (<date calendar="Gregorian">1473</date>).</origin>
+						<provenance>
+							<p>
+								<name type="place">Italy, S.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>Purchased by the British Museum from <name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849), London bookseller, at Macdonald's sale, lot 158, 23 October 1847: inscribed, folio [182v] (fse004v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">885</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-01-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

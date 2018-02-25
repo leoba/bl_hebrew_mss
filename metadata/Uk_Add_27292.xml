@@ -1,0 +1,163 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27292" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27292</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="2r" to="157r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer midrashim</title>
+							<title xml:lang="he">ספר מדרשים</title>
+							<colophon xml:lang="he">נשלם ספר מדרשים הללו שבח לבורא עולם בעזרת רוכב שמים ומעמידם על תילם בששה ימים לחדש אייר של <date calendar="Hebrew">שנת ה'ק'מ'ד' ליצירה</date> לנכבד החכ' כבו' <name type="person" role="owner">ר' אליעזר אשכנזי</name> י"ל הרחמן יזכהו ללמוד בו וכו':  <locus n="156r"/>
+							</colophon>
+							<note>
+								<p>Not all the pericopes are commented on, especially Leviticus has been left out. There are many comments on the occassion of feasts and festivals (see folio 100v, 104v, 146v). </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="157r" to="325v"/>
+							<title xml:lang="he">ערוגת הבושם</title>
+							<title xml:lang="en">῾Arugat ha-bosem</title>
+							<note>
+								<p>An ethical midrash, attributed in a later printed edition to <name type="person" role="author">Yonah Gerondi</name>.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Gerondi_1980"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>325 folios<dimensions type="leaf" unit="mm">
+										<height>270</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>192</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>325 folios (+3 modern paper flyleaves at the beginning and at the end, folio 1 is paper)</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords on nearly every verso. Irregular.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="25 33" writtenLines="25 33">
+									<p>Uniform layout. </p>
+									<p>The first part of the manuscript (folios 1-156) written in one column, with mostly 31 line a page. The second part has 2 columns a page, with 25 to 33 lines a column.</p>
+									<p>Hair-side and flesh-side of the folios distinguishable.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Many passages marked off. Many marginal notes, some in Italian (see folio 48v, 49r). </p>
+									<p>Part of folio 273r, and folios 273r-277v left blank. Parts of folio 157r, 258v omitted by the scribe. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi (or Greek) square script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="2r" to="156v"/>and <locus from="157r" to="325v"/> - written by two different but contemporary hands.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Sepher Midrashim. A.D. 1384. Sepher Arigat Hab-Bosem. Hebrew. Brit. Mus. Additional 27 292.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5144" calendar="Hebrew" when="1384"/>
+						<acquisition>
+							<date/>
+							<p>
+								<name type="person" role="owner">Efrayim Refa'el ben Mordekhai Gerondi</name>: inscribed, folio <locus n="1r"/>.</p>
+							<p>
+								<name type="person" role="owner">Menahem ben Refa'el</name>: inscribed, folio <locus n="2r"/>.</p>
+							<p>
+								<name type="person" role="owner">Yosef ben Mordekhai</name>: inscribed, folio <locus n="2r"/>.</p>
+							<p>
+								<name type="person" role="owner">Ben Tsiyon Gerondi</name>: inscribed with a date of 1782, folios <locus n="2r, 325r"/>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">346</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

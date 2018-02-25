@@ -1,0 +1,225 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27046" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27046</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597; lccn.loc.gov/n83120193" rend="visible">
+						<summary>The Former and Latter Prophets with David Kimḥi's commentary in the margins.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597;  lccn.loc.gov/n83120193">
+							<locus from="1r" to="178r"/>
+							<title xml:lang="en">Perush ha-Nevi᾿im</title>
+							<title xml:lang="he">פרוש הנביאים</title>
+							<author key="http://viaf.org/viaf/100213323">
+								<persName key="http://viaf.org/viaf/100213323" xml:lang="en">Kimhi, David </persName>
+								<persName key="http://viaf.org/viaf/100213323" xml:lang="he">קמחי, דוד בן יוסף</persName>
+							</author>
+							<colophon xml:lang="he">תם ונשלם פי' ספר מלאכי על יד <name type="person" role="scribe">מנחם בכ"ר שמשון ז"ל צרפתי</name> בכ"ז בנסן <date when="1447" calendar="Hebrew">שנת חמשת אלפים ומאתים ושבעה לבריאת עולם</date> למניין שאנו מונין כאן ב<name type="place">רואיגו</name> מתא דיתבא על נהר איישא וכתבתיהו ל<name type="person" role="patron">ר' יהוד' פינצי הש'</name> יזכהו להגות בו הוא וזרעו וזרע זרעו עד סוף כל הדורות אמן אמן סלה.
+
+ברוך ה' אשר לא הסיר חסדו מאתי. אמן<locus n="178r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="44v"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="44v" to="97v"/>
+								<title xml:lang="en">Jeremiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="97v" to="143v"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="143v" to="149v"/>
+								<title xml:lang="en">Hosea</title>
+								<incipit xml:lang="he">דברי נביאים במשל נשואים כאשר קרואים אינם מצואים:<locus n="143v"/>
+								</incipit>
+								<note>
+									<p>A part of the commentary, which had been omitted, was written on folio <locus n="143r"/>.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="149v" to="151v"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="151v" to="156v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="156v" to="157r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="157r" to="159r"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="159r" to="162r"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="162r" to="163r"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="163v" to="165r"/>
+								<title xml:lang="en">Habakkuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="165r" to="167r"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="167r" to="168r"/>
+								<title xml:lang="en">Haggai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="168r" to="175v"/>
+								<title xml:lang="en">Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="175v" to="178v"/>
+								<title xml:lang="en">Malachi</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">178 folios <dimensions unit="mm" type="leaf">
+										<height>404</height>
+										<width>269</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>157</height>
+										<width>143</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>178 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Blank margins have been cut away.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30" writtenLines="30">
+									<p>Uniform layout.</p>
+									<p>Pricking and hard-point ruling are visible. </p>
+									<p>Hair side and flesh side are distinguishable. </p>
+									<p>The square writing of the biblical text is arranged in the cetre in two columns; the semi-cursive writing of the commentary occupies upper, lower and outer side margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<summary>Sefardi square script, partially punctuated, of the 15th century. <name type="person" role="scribe">Menaḥem Shimshon Tsarfati</name>: inscribed with his name in the colophon at the end of Malachi, together with <name type="person" role="patron">Yehudah Finacchi</name> (?): dated <date calendar="Hebrew">27 Nisan 5207</date>, folio 178r.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2r" to="23r"/>of the main text  and <locus from="2r" to="4v"/>of the outer text due to the 1st hand.</p>
+								<p>
+									<locus from="23r" to="33v"/>of the main text and <locus from="5r" to="33v"/>of the outer text due to the 2nd hand.</p>
+								<p>
+									<locus from="34r" to="106v"/>of the main text and <locus from="34r" to="44v"/>of the outer text due to the 4th hand.</p>
+								<p>
+									<locus from="44v" to="178r"/>of the outer text due to the 4th hand.</p>
+								<p>
+									<locus from="107r" to="178r"/>of the main text due to the 5th hand (i.e. Menaḥem Shimshon Tsarfati).</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shelomoh ben Yekuti’el</name>, inscribed (folio 2r) with an otherwise illegible list of the former owners.</p>
+							<p>
+								<name type="person" role="owner">Hose῾a Ḥayim of Rovigo</name>, inscribed with his name on folio 171v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'The Latter Prophets, with Comm. of David Kimchi. Brit. Mus. Additional 27,046.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="27 Nisan 5207" calendar="Hebrew" when="1447-04-22"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Rovigo</name>)</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">203</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

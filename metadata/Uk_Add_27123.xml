@@ -1,0 +1,147 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27123" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27123</idno>
+					</msIdentifier>
+					<head>Derashot</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>The commentaries of Shemu᾿el ben Elisha῾ Portaleone on the weekly sections of the Pentateuch, preceded by two, and followed by a larger number of midrashic homilies on various subjects (autograph).</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="376v"/>
+							<title xml:lang="he-Latn-x-lc">Derashot</title>
+							<title xml:lang="he">דרשות</title>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Shemu᾿el ben Elisha῾ Portaleone</persName>
+								<persName xml:lang="he">פורטלאונה, שמואל בן אלישע</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>376 folios<dimensions type="leaf" unit="mm">
+										<height>195</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>376 folios (+ 3 paper flyleaves at the beginning and 1 older and 3 modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each.</p>
+								</collation>
+								<condition>Several folios slightly mutilated.<p>Slightly stained.</p>
+									<p>The ink has occasionally eaten through the pages.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="35" writtenLines="35">
+									<p>Catchowords on every verso.</p>
+									<p>Uniform layout.</p>
+									<p>Blank pages left between folios 357-368.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 6v - an index of the derashot that follow those on the sections of the Pentateuch.</p>
+							<p>Folio 376v - a note stating that nothing offensive against the Bible is contained in the present book.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram. </p>
+								<p>Spine title: 'Samuel Portaleone. Derashoth. Hebrew. Brit. Mus. Additional 27, 123.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1640"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 230: inscribed (<locus n="fse002v"/>[72v]); 322 Hebrew manuscripts were acquired from his library in <date calendar="Gregorian">October 1865</date> through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum 1841-1853.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">382</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

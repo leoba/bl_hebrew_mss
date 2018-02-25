@@ -1,0 +1,164 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2381" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2381</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon ha-Rofe, aka Yaḥya ben Saliman.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="238v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-ḥefets</title>
+							<title xml:lang="he">מדרש החפץ</title>
+							<author key="http://viaf.org/viaf/19836689">
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="en">Zechariah ben Solomon ha-Rofe, active 15th century</persName>
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="he">זכריה בן שלמה, הרופא</persName>
+							</author>
+							<filiation>Cf. Or 2351, <ref target="Margoliouth_1965" type="number">363</ref>, Or 2380, <ref target="Margoliouth_1965" type="number">364</ref> nad Or 2382, <ref target="Margoliouth_1965" type="number">365</ref>.</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Midrash-Hefets_1990"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">נגמר זה החומש <date when="1532" calendar="Seleucid">חמישי בשבא דהוא תלת סר יומין בירח תשרי שנת אלפא ותמני מאה וארבעין וארבע שנין לשטרי</date> במאתא עמראן תחרוב ותצדי וירושלם תתבני ותחדי בחיינו ובימינו כן יאמר רחום: יהא סימן טב על <name type="person" role="patron">מריה סלימאן אבן יחיא אלחריזי</name> יזכה למהגי ביה הוא וזרעיה וזרע זרעיה כדכתיב לא ימוש ספר התורה הזה מפיך והגית בו יומם ולילה כי אז תצליח את דרכיך ואז תשכיל. ויזכה הכותב לחזות בנועם יוי ולבקר בהיכלו ר'ז'ל' ש'ג'ש' מ'ה'ס'ד' צ'כ'פ'ס'  אכי"ר:   <locus n="141v"/>
+							</colophon>
+							<note>
+								<p>Short poems are prefixed to some of the pericopes.</p>
+								<p>The manuscript starts with an introduction and finishes in the parashah Ṿa-yaḳhel.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>238 folios<dimensions type="leaf" unit="mm">
+										<height>240</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>220</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>238 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Leaves missing after folios: 178, 189, 190, 208, 216, 227, 236.</p>
+									<p>Several leaves more or less damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26 34" writtenLines="26 34">
+									<p>Some catchwords preserved.</p>
+									<p>Beginnings of chapters nad sections written in larger characters.</p>
+									<p>Frequently elongated last letter in a line to fill the space.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Two Yemenite semi-cursive scriptd of 16th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="187r" to="238v"/> due to a different Yemenite hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Saliman ibn Yaḥya Alḥarizi</name>: inscribed, folio 141v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash ha-Chafets. Hebrew &amp; Arabic. Brit. Mus. Oriental 2381.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1844" calendar="Seleucid" when="1532"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, folio <locus n="fse001v">[239v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">366</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,174 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1088" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1088</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n79066420  lccn.loc.gov/n87871045" rend="visible">
+						<summary>The commentary of Abraham Ibn Ezra on the Pentateuch, with notes from other commentators.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420   lccn.loc.gov/n82271898">
+							<locus from="1r" to="162v"/>
+							<title xml:lang="en">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author key="http://viaf.org/viaf/90633023">
+								<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meir </persName>
+								<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בן מאיר</persName>
+							</author>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">שבתי ע"י תלמיד הסופרים בכא"מ יהושע סופר מטיבולי</name> י"ץ כתבתי זה הפירוש מאבן עזרא על חמשה חומשי תורה עם הגהות וביאורים ופירושי' אחרים כתובים בו מכתיבה קטנה וכתבתי אותו לאדוני המפואר והמתואר כמה"ר <name type="person" role="patron">שמואל בכ"ר מנחם</name> נ"ע פה ב<name type="place">פיורינטינו</name> נכתב באחד עשר שבועות נשלם ביציאת שבט <date when="1488" calendar="Hebrew">שנת "רחם" תזכור לאלף הששי</date> ה' ית' יזכהו להגות בו הוא וזרעו וזרע זרעו עד אלף דור ולא ימושו ממנו לא היום ולא לעולם עד שיעלה חמור בסולם אפירולא (אכירונ"א?).<locus n="162r"/>
+							</colophon>
+							<incipit xml:lang="he">בשם האל הגדול והנורא אחל פירוש אבן עזרא על חמשה חומשי תורה לשמואל הארי שבחבורה ע"י <name type="person" role="scribe">שבתי עבד ה' בכא"מ יהושע יצ"ו סופר</name>
+								<date when="1488" calendar="Hebrew">שנת "רחם"</date> פה <name type="place">פיורינטינו</name>.<locus n="3r"/>
+							</incipit>
+							<note>
+								<p>This manuscript contains a standard introduction but the commentary on Exodus is a shorter recension.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="43r"/>
+								<title xml:lang="en">Genesis </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="43r" to="87v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="87v" to="113r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="113r" to="135v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="135v" to="162v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">162 folios <dimensions unit="mm" type="leaf">
+										<height>261</height>
+										<width>199</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>162 folios (+ 2 foliated paper flyleaves at the beginning and 2 unfoliated paper fleleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>16 quires of 10 leaves each.</p>
+									<p>Quires marked with catchwords on the last page and signed with Hebrew letters on the first and last pages.</p>
+								</collation>
+								<condition>
+									<p>Folios 157-161 have the lower margin cut off.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30" writtenLines="30">
+									<p>Ink-ruling is visible. </p>
+									<p>Hair side and flesh side are distinguishable. </p>
+									<p>The notes from other sources in smaller characters are usually introduced byt the phrase <q>yesh mefareshim</q> or <q>yesh omrim</q>.</p>
+									<p>Initial letters of the chapters are written in large square characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script, unpunctuated, of the 15th century. <name type="person" role="scribe">Shabtai ben Yehoshu῾a</name> of <placeName>Tivoli</placeName> and <name type="person" role="patron">Shemu᾿el ben Menaḥem</name>: their names inscribed in the colophon (162r) and the opening note (3r), <name type="place">Fiorentino</name>?, <date calendar="Gregorian">1488</date>. Scribe's name is often marked by the initial letters in the lines of a page.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 28r - has censor's erasure.</p>
+							<p>Folios 1v-2v - an English translation by John Noble Coleman of one of the anti-Christian passages from the commentary.</p>
+							<p>Three partially illegible owners' notes in Hebrew, folio 162v, one of them dated <date calendar="Hebrew">371</date> (<date calendar="Gregorian">1611</date>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>  	Post-1600. Gold-tooled brown leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]248" calendar="Hebrew" when="1488"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>, C. (<name type="place">Castiglion Fiorentino?</name>, <name type="place">Castelfiorentino</name>? <name type="place">Fiorentina</name>?)</p>
+						</provenance>
+						<acquisition>
+							<p>Rev. <name type="person" role="owner">John Noble Coleman</name> (b. 1793, d. 1872): scholar of the Bible at Queen's College, Oxford: his bookplate affixed to folio 1v and another to the [inner side of the outer cover]. On folio 2r there is a memorandum stating that <name type="person" role="owner">Granville Sharp</name> (b. 1734, d. 1813), theologian and lawyer, was a previous owner of this manuscript, from whom Coleman bought it for 3 guineas.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">194</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

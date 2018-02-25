@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Royal_16_A_XI" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Royal MS 16 A XI</idno>
+						<altIdentifier type="former">
+							<idno>Reg. MS 16 A XI</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="243v"/>
+							<title xml:lang="he-Latn-x-lc">Moreh  nevukhim</title>
+							<title xml:lang="he">מורה נבוכים</title>
+							<note>
+								<p>In the Hebrew translation of <name type="person" role="translator">Shemuel ibn Tibbon</name>.</p>
+								<p>There are a number of variant readings in the margin, besides other notes of various kinds in different hands. At the end of the work (folio 241r) there is a part of Maimonides' letter to Shemuel ibn Tibbon, relating to his translation of Moreh nevukhim.</p>
+								<p>There are additional pieces at the beginning and at the end of the manuscript, including poems (folio 2r, 242r), and rhymed entries (folio 242v).</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100185495">משה בן מימון</persName>
+							</author>
+							<colophon xml:lang="he">שבח ותהלה למורה הצדק השלמתי לעצמי [השם מחוק] העתקת [...] העתקת הספר הזה הנכבד מורה הנבוכים בשנת <date calendar="Hebrew">חמשת אלפים וששים ושבעה</date> לפרט בחדש מרחשון בחמשי יום בו ומאת הצור אשאל יתן לי לב לדעת להבין ולהשכיל ככל הכתוב בו אהגה בו אני וזרעי וכו'.<locus n="241v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>243 folios<dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>75</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>243 folios (+ 3 modern unfoliated paper flyleaves and 2 parchment flyleaves at the beginning and 3 modern unfoliated paper flyleaves at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slight traces of worming.</p>
+									<p>Ink occasionally flaked or faint.</p>
+									<p>Slightly stained.</p>
+									<p>Losses to rust from clasps of earlier binding.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side distinguishable.</p>
+									<p>Titles and inital words in larger characters. </p>
+									<p>The last word of a folio is repeated at the beginning of the next.</p>
+									<p>Marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script, unpunctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Mosheh Alfandari</name> (?): inscribed, folio 3v.</p>
+							<p>A record of sale (names erased): folio 243r.</p>
+							<p>An acrostic of 'Yisḥaḳ', folio 243v.</p>
+							<p>There are some other notes and scribblings on the flyleaves at the beginning and at the end.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Light brown leather, gold tooled (initials M.B. on the upper front cover), with marks left by earlier binding. Boxed.</p>
+								<p>Spine: 'Moses Maimonides. Moreh Nehukhim. The Guide For The Perplexed. In The Hebrew Version Of Samuel Ibn Tibbun. Reg. XVI. A. XI.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5067" calendar="Hebrew" when="1307"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name> ?</p>
+						</provenance>
+						<acquisition>
+							<p>Presented to the British Museum by <name type="person" role="owner">George II</name> in 1757 as part of the Old Royal Library.</p>
+							<date>1757</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">908</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

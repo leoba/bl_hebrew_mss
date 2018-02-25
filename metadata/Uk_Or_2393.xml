@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2393" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2393</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Maimonides' Commentary on the Mishnah of Seder neziḳin, in Judeo-Arabic, preceded by a fragment of the same commentary on Seder nashim. </summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="329v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder neziḳin </title>
+							<title xml:lang="he">פרוש סדר נזקין</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<note>
+								<p>Folios 1-11 are written in a bold large script of probably the 14th century, containing a fragment of Maimonides' Commentary on Soṭah, covering parts of its chapter 4 and 5.</p>
+							</note>
+							<decoNote type="diagram">
+								<locus n="92v"/>A coloured diagram.</decoNote>
+							<decoNote type="other">Ornamental decorations.<locus n="6r, 10r, 40r, 70v, 75v, 105r, 115v"/>
+							</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>329 folios <dimensions unit="mm" type="leaf">
+										<height>260</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>329 folios (+ 2 modern paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>21 quires: i4 (folios 13-16); ii10-1 (folio 17-25); iii-xxxi10 (folios 26-315); xxxii10-1 (folios 316-324); xxxiii5 (folios 325-329). Folios 1-11 are a separate fragment, and folio 12 is a recent addition.  </p>
+									<p>Quires signed with Hebrew letters at the end. </p>
+								</collation>
+								<condition>
+									<p>Incomplete at the beginning. </p>
+									<p>Damaged by dampness. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21 22" writtenLines="21 22">
+									<p>Uniform layout.  </p>
+									<p>Chapter numbers given in large characters. </p>
+									<p>A large coloured writing, accompanied with ornamentations, at the end of the text. The headings of masekhtot and chapters, as well as the short colophons and the enumeration of the quires are given in colours. Slight decorations are added (e.g. 6r, 10r, 40r, 70v, 75v, 105r, 115v). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="11v"/>due to a different but contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Nezikin. Arabic. Brit. Mus. Oriental 2393.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">	Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed, <locus n="fse001v">[330v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">456</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

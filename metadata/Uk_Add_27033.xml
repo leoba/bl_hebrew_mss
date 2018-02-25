@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27033" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27033</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A collection of small treatises and notes commenting on the biblical passages by Yehudah ben Mosheh ben Dani'el of Rome.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="77v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פרושים </title>
+							<author key="http://viaf.org/viaf/17337719">
+								<persName key="http://viaf.org/viaf/17337719" xml:lang="en">Romano, Judah ben Moses ben Daniel </persName>
+								<persName key="http://viaf.org/viaf/17337719" xml:lang="he">רומנו, יהודה בן משה בן דניאל </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="25r"/>
+								<title xml:lang="en">Commentary on Genesis 1-2</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="25v" to="36r"/>
+								<title xml:lang="en">Short comments on various biblical verses</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="36v" to="54r"/>
+								<title xml:lang="en">Treatise on prophecy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="54r" to="76v"/>
+								<title xml:lang="en">Notes on various biblical passages</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="77r" to="77v"/>
+								<title xml:lang="en">A separate leaf from Maimonides' Pirke Mosheh</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and vellum codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<extent rend="visible">77 folios <dimensions unit="mm" type="leaf">
+										<height>204</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>143</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>77 folios (+ 3 unfoliated flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32 37" writtenLines="32 37">
+									<p>Hard-point ruling is sometimes visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script, unpunctuated. Probably of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his manuscript no. 139: inscribed (folio 78v); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">218</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

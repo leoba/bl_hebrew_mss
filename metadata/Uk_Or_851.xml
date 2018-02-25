@@ -1,0 +1,141 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_851" xml:lang="en" rend="mspart">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 851</idno>
+					</msIdentifier>
+					<head>Ḥidushim</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>An abridgement of  the novellae of <name type="person" role="commentator">Solomon ben Abraham Adret</name> (שלמה בן אברהם אבן אדרת) on the tractate Giṭin.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="38v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥidushim </title>
+							<title xml:lang="he">חדושים </title>
+							<explicit xml:lang="he">סליק פרק המגרש: וסליקא מסכתא [...] והם חדוש' גיטין אשר כתבתים בקוצר [...] נכתב ונשלם: תחלה לאל עולם: ב<date when="1368" calendar="Hebrew">ד' ימים לירח מרחשון שנת ק'כ'ט' לפרט</date> בעיר <name type="place">ברצלוני</name>:  <locus n="38r"/>
+							</explicit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>38 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>165</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>38 folios (+ 1 modern paper flyleaf at the beginning and  at the end).</p>
+								</foliation>
+								<collation>
+									<p>Inderterminable.</p>
+								</collation>
+								<condition>
+									<p>Water-damaged.</p>
+									<p>Margins slightly injured.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="34 39" writtenLines="34 39">
+									<p>Uniform layout. </p>
+									<p>Catchwords on every verso. </p>
+									<p>Intial word in each section written in larger characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Solomon ibn Adereth. Chiddushim 'al Gittin. Hebrew. A.D. 1368. Brit. Mus. Oriental 851.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]129" calendar="Hebrew" when="1368"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name> (<name type="place">Barcelona</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1869-03-13</date>
+							<p>
+								<name type="person" role="owner">A. Lipschütz</name>: purchased from him by the British Museum on 13 March 1869: inscribed, folio <locus n="fse001v">[40v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">433</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

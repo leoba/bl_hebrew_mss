@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_852" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 852</idno>
+					</msIdentifier>
+					<head>Perush Bava ḳama</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The commentary of Abraham ben David of Posquières on Bava ḳama.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="150v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Bava ḳama </title>
+							<title xml:lang="he">פירוש קמא </title>
+							<author key="http://viaf.org/viaf/8687273">
+								<persName key="http://viaf.org/viaf/8687273" xml:lang="en">Abraham ben David, of Posquières, approximately 1125-1198 </persName>
+								<persName key="http://viaf.org/viaf/8687273" xml:lang="he">אברהם בן דוד, מפוסקיר, ראב"ד ה3, 1120-1198 </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Oriental (Syrian) semi-cursive script of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>150 folios <dimensions unit="mm" type="leaf">
+										<height>258</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>150 folios (+ 1 modern paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>i9: folios 1-9 (incomplete, the first leaf cancelled); ii10: folios 10-19, iii9: folios 20-28 (one leaf lost); iv-xiv10: folios 29-138; xv14-2: folios 139-150 (last two leaves lost).</p>
+									<p>Catchwords at the end of the quires as well as the enumeration in Hebrew letters at the beginning nearly entirely preserved.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at end. </p>
+									<p>Some leaves damaged.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Chapter titles and initial words of sections written in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental (Syrian) semi-cursive script of the 13th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1rhas a title written twice in two later hands. </p>
+							<p>Folio 1rcontains some Talmudical rules written in a small Italian cursive script. </p>
+							<p>
+								<name type="person" role="owner">Ḥanana᾿el bar Shemu᾿el</name>: inscribed, folio 1r. </p>
+							<p>
+								<name type="person" role="owner">Yeshayah Yosef</name>: inscribed in a note, which states that the manuscript was left as a deposit in the house of Mosheh Daṿid: folio 1r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black buckram, blind tooled.</p>
+								<p>Spine title: 'Abr. Ben David. Comm. on Baba Kamma. Hebrew. Brit. Mus. Oriental 852.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Syria</name>(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1869-03-13</date>
+							<p>
+								<name type="person" role="owner">A. Lipschütz</name>: purchased from him by the British Museum on 13 March 1869: inscribed, folio <locus n="fse002v">[152v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">414</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Sloane_2641" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Sloane MS 2641</idno>
+					</msIdentifier>
+					<head>Esther scroll</head>
+					<msContents class="lccn.loc.gov/n79053644" rend="visible">
+						<summary>The Book of Esther. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="1v"/>
+							<title xml:lang="he-Latn-x-lc">Megilat Ester </title>
+							<title xml:lang="he">מגלת אסתר</title>
+							<note>
+								<p>Some reading differ from the masoretic כתיב. </p>
+								<p>The Megillah is preceded by two benedictions. </p>
+							</note>
+							<decoNote type="border">Full borders around columns, inhabited with floral decorations, in watercolours.  <locus from="1r" to="1v"/>
+							</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 17th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>3 membranes, 17 columns. <dimensions type="leaf" unit="mm">
+										<height>114/140/240</height>
+										<width>1850</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>3 membranes, with wooden roller and wooden case (+ short paper strip for attachment to roller). </p>
+								</collation>
+								<condition>
+									<p>The wooden case has minor losses to handle and ends.
+</p>
+									<p>The outermost membrane has non-sewn joint at centre, silked on recto to contain pigments.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="17" ruledLines="15 21" writtenLines="15 21">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Visible pricking. </p>
+									<p>No tagin on שעטנזגץ, and one on the letter ח of חור, 1:6. </p>
+									<p>The names of the sons of Haman arranged in 11 lines, in accordance with the rule. </p>
+									<p>Sections 3:8 and 4:1 are open. </p>
+									<p>Wooden roller and case (on new core: 140mm long, old case: 240mm long). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script of the 17th century. First seven columns due to a later hand. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house (boxed). </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>Germany ?</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>
+								<name type="person" role="owner">Sir Hans Sloane</name>: baronet, physician and collector (b. 1660, d. 1753): in his collection; acquired by the British Museum in 1753. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">27</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

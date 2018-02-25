@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27196" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27196</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The commentary of Rashi on Bava batra and Bava metsi῾a, and the commentary of Gershom ben Judah on Bava batra.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="v">
+							<locus from="2r" to="91v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Bava Batra </title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105 </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="91v" to="195v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Bava Metsi῾a</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105 </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="195v" to="355v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Bava Batra</title>
+							<author key="http://viaf.org/viaf/34317013">
+								<persName key="http://viaf.org/viaf/34317013" xml:lang="en">Gershom ben Judah, Meʼor ha-Golah, active 10th century-11th century</persName>
+								<persName key="http://viaf.org/viaf/34317013" xml:lang="he">גרשם בן יהודה, מאור הגולה </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>355 folios <dimensions unit="mm" type="leaf">
+										<height>260</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>127</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>355 folios (+3 modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>1st quire of 8 leaves: folios 2-10; 34 quires of 10 leaves each: folios 11-350; 35th quire of 3 leaves: folios 351-353.</p>
+									<p>Folio 1 is a paper flyleaf, and folios 354-355 are also an extraneous addition of paper leaves.</p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="34" writtenLines="34">
+									<p>Uniform layout.</p>
+									<p>Many marginal notes, partly cut away by the binders.</p>
+									<p>Pricking and hard-point ruling visible.</p>
+									<p>Hair side and flesh side of folios distinguishable.</p>
+									<p>Chapter titles written in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A note in an Italian semi-cursive hand of the 17th-18th century, folio 354r. On the other side of the sheet is the address: J. Moreno, [...] Ferrara, the name Abram Bolafia being written on the side.</p>
+							<p>
+								<name type="person" role="censor">Domenico Carretto</name>:  Italian censor (active in the first quarter of the 17th century): inscribed with his name, 1617; see <ref target="Popper_1969" type="page">100-101</ref>; folio 352v. </p>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolimitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name (folio 353r); see <ref target="Popper_1969" type="page">61</ref>. </p>
+							<p>
+								<name type="person" role="censor">Alessandro Scipione</name>: Italian censor (a convert Jew, active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1592 (folio 353v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Solomon Yitschaki. Comm. on Baba Kamma. Etc. Hebrew. Brit. Mus. Additional 27,196.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 310: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio <locus n="fse002v">[357v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">413</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

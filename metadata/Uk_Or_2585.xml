@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2585" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2585</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class=" &#x9;lccn.loc.gov/n79139733" rend="visible">
+						<summary>A small part of the books of Leviticus, Numbers and Deuteronomy in Saʻadia Gaon's translation.</summary>
+						<textLang mainLang="jrb-Hebr">Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79139733">
+							<locus from="1r" to="100v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="jrb-Hebr">Judeo-Arabic </textLang>
+							<note>
+								<p>A small part of the books of Leviticus, Numbers and Deuteronomy in Saʻadyah Gaon's translation.</p>
+							</note>
+							<msItem rend="visible">
+								<locus from="1r" to="10v"/>
+								<title xml:lang="en">Leviticus</title>
+								<note>
+									<p>Containing chapters 17:3-18:27, 23:40 to the end.</p>
+								</note>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="10v" to="62v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="62v" to="100v"/>
+								<title xml:lang="en">Deuteronomy</title>
+								<note>
+									<p>Containing chapters 1:1-29:5.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of probably 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent> 100 folios <dimensions unit="mm" type="leaf">
+										<height>190</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>100 (+ 2 unfoliated flyleaves at the beginning and at the end of the manuscript).</p>
+								</foliation>
+								<condition>
+									<p>The manuscript is imperfect at the beginning and at the end. There is also a lenghty lacuna after folio 2. </p>
+									<p>Many leaves are more or less damaged. 
+									</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>Uniform layout. </p>
+									<p>Visible ruling, executed with mastara.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script, probably of 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"></origin>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Musuem from him on <date calendar="Gregorian">08 July 1882</date>.</p>
+							<date>1882-07-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">114</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

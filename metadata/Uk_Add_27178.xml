@@ -1,0 +1,162 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27178" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27178</idno>
+					</msIdentifier>
+					<head>Poetry</head>
+					<msContents class="lccn.loc.gov/sh85070315" rend="visible">
+						<summary>Poetical texts.</summary>
+						<textLang mainLang="he" otherLangs="ita"/>
+						<msItem rend="">
+							<locus from="1r" to="148v"/>
+							<title xml:lang="he-Latn-x-lc">Osef ha-kesil</title>
+							<title xml:lang="he">אוסף הכסיל</title>
+							<author>
+								<persName xml:lang="en">Sanguinetti, Raphael Jehiel</persName>
+								<persName xml:lang="he">סנגויניטי, רפאל יחיאל</persName>
+							</author>
+							<note>
+								<p>A collection of metrical and prose pieces, written mostly on the ocasion of weddings.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="149r" to="154v"/>
+							<title xml:lang="he-Latn-x-lc">Derashot ῾al misḥaḳ ḳelafim</title>
+							<title xml:lang="he">דרשות על משחק קלפים</title>
+							<author>
+								<persName xml:lang="en">Sanguinetti, Raphael Jehiel</persName>
+								<persName xml:lang="he">סנגויניטי, רפאל יחיאל</persName>
+							</author>
+							<note>
+								<p>An exposition of the game of cards called 'tre sette'. At the end there is an index, in Hebrew and Italian, of the 26 sections of the exposition.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th to 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>154 folios<dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>154 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Leaves on individual guards.</p>
+								</collation>
+								<condition>
+									<p>Usage stains.</p>
+									<p>Occasional worming.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="28 30" writtenLines="28 30">
+									<p>Non-uniform layout.</p>
+									<p>Vertical hard-point ruling.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian cursive scripts of the 18th and 19th century. <name type="person" role="scribe">Raphael Jehiel Sanguinetti</name>: inscribed, folio 1r.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="149r" to="154v"/>: written by <name type="person" role="owner">Joseph Almanzi</name>.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Raphael Sanguinetti. Poems. Hebrew. Brit. Mus. Additional 27,178.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin calendar="Hebrew" when="1784" when-custom="5544"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 288: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [155v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">939</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

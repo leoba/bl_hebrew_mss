@@ -1,0 +1,197 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_853" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 853</idno>
+					</msIdentifier>
+					<head>Philology</head>
+					<msContents class="lccn.loc.gov/sh85059886" rend="visible">
+						<summary>Grammatical writings. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85059886">
+							<locus from="2r" to="29r"/>
+							<title xml:lang="he-Latn-x-lc">῾En ha-ḳore </title>
+							<title xml:lang="he">עין הקורא</title>
+							<note>
+								<p>The text starts with a preface, followed by an acrostic poem, the initial letters of which form the name 'Zalman ha-Kohen'. Some additional lines are written after the end of ῾En ha-ḳore (probably as an additional note belonging to the following work).</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/24491060">Yekutiel, ha-Kohen, active 13th century </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/24491060">יקותיאל בן יצחק הנקדן</persName>
+							</author>
+							<colophon xml:lang="he">תמו ונשלמו הקדמות עין הקורא שבח ותהלה לאל שמים וארץ ואזכה להגות בו אני וגם אחרי בני ובא לציון גואל וירושלם תבנה לעיני ד'ודי ו'רעי ד'גול ב'רכב ר'בותים מ'עמך ש'מע ל'פלל מ'שפתים.<locus n="28r"/>
+							</colophon>
+							<filiation>Cf. the contents of Add MS 19776.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="29v" to="75v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/33301786">Moses ben Yom-Tov, -1268 (ascribed to him) </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/33301786">משה בן יום טוב הנקדן (מיוחס לו)</persName>
+							</author>
+							<title xml:lang="he-Latn-x-lc">Darke ha-niḳud ṿeha-neginot </title>
+							<title xml:lang="he">דרכי הנקוד והנגינות</title>
+							<note>
+								<p>Folios 71v-73v contains a list of biblical passages regarding a specific use of kamats, and a number of biblical verses exemplifying the use of the accents.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="76r" to="89v"/>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Yosef ben Mosheh ben Ya᾿aḳov </persName>
+								<persName xml:lang="he">יוסף בן משה בן יעקב</persName>
+							</author>
+							<title xml:lang="he-Latn-x-lc">Reshimat ḥaluḳat ha-ḳeriah be-parashyot ha-Torah </title>
+							<title xml:lang="he">רשימת חלוקת הקריאה בפרשיות התורה</title>
+							<note>
+								<p>Contains the tables of lessons for the whole year (folios 76r-89r), preceded by a piece on folios 74v-75v, referring to the personal history of Yosef ben Mosheh ben Ya᾿aḳov, the compiler of these tables, who wrote them in memory of his son Shemu᾿el.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="90r" to="174v"/>
+							<title xml:lang="he-Latn-x-lc">῾En ha-ḳore </title>
+							<title xml:lang="he">עין הקורא </title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/24491060">Yekutiel, ha-Kohen, active 13th century </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/24491060">יקותיאל בן יצחק הנקדן </persName>
+							</author>
+							<note>
+								<p>The second part of ῾En ha-ḳore, with full masoretic annotations on the Pentateuch, Esther, and Lamentations: Genesis, folio 90r; Exodus, folio 108v; Leviticus, folio 124v; Numbers, folio 140r; Deuteronomy, folio 155r; Esther, folio 168v; Lamentations, folio 172v. </p>
+								<p>At the end, folio 174r, there are rhymed lines with an acrostic, initial letters of which form the name of the scribe (David).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>174 folios<dimensions type="leaf" unit="mm">
+										<height>235</height>
+										<width>167</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>174 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Hair side and flesh side of folios distinguishable.</p>
+									<p>Titles and inital words in larger square characters. </p>
+									<p>Running titles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script, partly vocalised, of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yosef Shemu᾿el</name>: inscribed, folio 2r.</p>
+							<p>
+								<name type="person" role="owner">Avraham Sarago</name> and <name type="person" role="owner">Rafa᾿el Delarte</name> (?): inscribed, folio 1v (in a note partly in Spanish).</p>
+							<p>
+								<name type="person" role="owner">Avraham ibn Ḥasun</name> and <name type="person" role="owner">Shabtai Ḥasan</name>: inscribed, folio 172r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Jekuthiel Hak-Kohen 'En Hak-Kore. Hebrew. Brit. Mus. Oriental 853.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-03-13</date>
+							<p>
+								<name type="person" role="bookseller">A. Lipschutz</name>: purchased by the British Museum from him on 13 March 1865: inscribed, folio [176v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">968</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

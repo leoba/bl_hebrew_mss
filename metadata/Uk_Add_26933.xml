@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26933" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26933</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Naḥmanides (Moshe ben Nahman aka ha-Ramban) on the Pentateuch in the abridged form.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="181v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author key="http://viaf.org/viaf/219072992">
+								<persName key="http://viaf.org/viaf/219072992" xml:lang="en">Nahmanides</persName>
+								<persName key="http://viaf.org/viaf/219072992" xml:lang="he">משה בן נחמן</persName>
+							</author>
+							<decoNote type="initial">Numerous initial-word panels with penwork decoration and pen-flourishing, sometimes inhabited or accompanied with animals and hybrids in the margins, in red and mauve ink.</decoNote>
+							<filiation>Cf. <ref target="Margoliouth_1965" type="number">756</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of approximately 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">181 folios <dimensions unit="mm" type="leaf">
+										<height>145</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>90</height>
+										<width>65</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>181 folios (+ 3 unfoliated flyleaves at the beginning and 3 at the end; 1 unfoliated vellum flyleaf at the end).</p>
+								</foliation>
+								<collation>
+									<p>19 quires: i-xviii10 (folios 1-180), xix2 (folios 181-[182]). </p>
+									<p>Catchwords at the end of each quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Numerous initial-word panels with penwork decoration and pen-flourishing, sometimes inhabited or accompanied with animals and hybrids in the margins, in red and mauve ink.</p>
+									<p>Flesh side and hair side are distinguishable. </p>
+									<p>Pencil ruling is visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script, unpunctuated. Probably of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Alessandro de Caii</name>: inscribed with his name, <date calendar="Gregorian">1589</date> (?) (folio 181v). </p>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name> (fl. until 1596): inscribed with his name, <date calendar="Gregorian">1575</date> (folio 181v); see <ref target="Popper_1969" type="page">78</ref>. </p>
+							<p>Illegible inscription, probably censor's signature (folio 181v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Moses ben Nachman. Comm. on the Pentateuch. Hebrew. Brit. Mus. Additional 26,933.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Spain </name>or <name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), Italian bibliophile: his manuscript no. 41; 322 Hebrew manuscripts were acquired from his library in <date calendar="Gregorian">October 1865</date> through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>).</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">213</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

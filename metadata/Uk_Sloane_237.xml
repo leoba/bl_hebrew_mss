@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-11</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Sloane_237" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Sloane MS 237</idno>
+					</msIdentifier>
+					<head>New Testament</head>
+					<msContents class="lccn.loc.gov/n79023150  lccn.loc.gov/n78095796" rend="visible">
+						<summary>The Revelation of St John in Hebrew translation.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="">
+							<locus from="1r" to="4v"/>
+							<title xml:lang="en">Revelation of St John 1-2:12.</title>
+							<note>
+								<p>Margoliouth&apos;s catalogue notes that rest of the volume used to contain a Latin manuscript &quot;Tractatus de sphaera Armillari&quot;, which is now separated from the Hebrew part.</p>
+								<p>The Hebrew is imperfect.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper; square Hebrew script.</p>
+						<objectDesc form="leaf">
+							<supportDesc material="chart">
+								<support>Paper leaves. </support>
+								<extent>4 folios<dimensions unit="mm" type="leaf">
+										<height>127</height>
+										<width>91</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>Folios 1 to 4 (+ 2 unfoliated paper flyleaves at the beginning and 16 at the end).</p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="10" writtenLines="10">
+									<p>Uniform. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square Hebrew script.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Black, gold-tooled.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Sir Hans Sloane</name> (b. 1660, d. 1753), baronet, physician and collector.
+Part of the Sloane bequest and incorporated into the newly founded British Museum in <date calendar="Gregorian">1753</date>.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">165</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

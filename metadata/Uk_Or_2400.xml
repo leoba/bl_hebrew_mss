@@ -1,0 +1,166 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2400" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2400</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the Minor Prophets (books 1-4)</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1v" to="116v"/>
+							<title xml:lang="he-Latn-x-lc">Perush nevi᾿im aḥaronim</title>
+							<title xml:lang="he">פרוש נביאים אחרונים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The unpointed Hebrew text, given in red ink, is embodied, with an Arabic translation and Yefet's commentary.</p>
+								<p>The commentary starts with a short introduction.</p>
+							</note>
+							<colophon xml:lang="he">תם ספר עבדיה ע"ה ויתלוה ספר יונה ע"ה והו אלספר אלכאמס.<locus n="116v"/>
+							</colophon>
+							<incipit xml:lang="he">אלגזו אלאול מן שרח ספר תרי עשר מן כלאם אלשיך אלפאצל החכם הנבון מר' ורב' יפת הלוי המכונה באבו עלי הבצרי ת'נ'צ'ב'ה' אנס.<locus n="1v"/>
+							</incipit>
+							<msItem rend="v">
+								<locus from="1v" to="63v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="63v" to="79v"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="79v" to="110v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="110v" to="116v"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>116 folios<dimensions type="leaf" unit="mm">
+										<height>225</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>192</height>
+										<width>131</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>116 folios (+ 1 paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Folios numbered in Hebrew letters.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>The Hebrew text is given in red ink.</p>
+									<p>Visible ruling with a hard-point.</p>
+									<p>Catchwords on every recto and verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square and semi-cursive script of the 19th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="79v"/>- written by a different hand than the rest of the manuscript.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Comm. on the Minor Prophets. Vol. 1. Arabic. Brit. Mus. Oriental 2400.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1800" notAfter="1899"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse002v"> [118v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">287</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

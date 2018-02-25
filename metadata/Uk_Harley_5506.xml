@@ -1,0 +1,196 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-31</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Harley_5506" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5506</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class=" lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points and accents.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim </title>
+							<title xml:lang="he">כתובים  </title>
+							<locus from="1r" to="259v"/>
+							<filiation>This manuscript, though later in date, shows some points of likeness to Additional 21161 (<ref target="Margoliouth_1965" type="number">116</ref>), and also to the so-called Reuchlin Codex 3, Karlsruhe - Badische Landesbibliothek (<ref target="Karlsruhe_1892" type="number">3</ref>).</filiation>
+							<note>
+								<p>Folio 1r: a list of Hebrew works, probably the property of a former owner of the manuscript, comprising biblical texts, commentaries on the Bible, portions of the Talmud, and Maḥzorim.</p>
+								<p>Folio 258v: a list of Sabbath lessons and a number of kabbalistic recipes.</p>
+								<p>Folio 259r: a record of birth of a daughter, inscribed with the previous owner's name, Moshe Shevaḥ, with a date of 15 July <date calendar="Hebrew">222 </date>(<date calendar="Gregorian">1462</date>).</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1v" to="61r"/>
+								<title xml:lang="en">Psalms</title>
+								<note>
+									<p>Psalm 47, initially omitted, is written in the margin on folio 19r. </p>
+									<p>Psalms 1-88 were numbered by the original scribe, and the rest by a later hand. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="79r"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="79r" to="108v"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 91r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="109r" to="112v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112v" to="116r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="116r" to="120v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="120v" to="128v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="128v" to="137v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="137v" to="162v"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="162v" to="184r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="184r" to="257v"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles starts on folio 217r. Missing chapters 3:16-4:1. </p>
+									<p>Some other lacunae supplied in the margin.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>259 folios<dimensions unit="mm" type="leaf">
+										<height>280</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>197</height>
+										<width>147</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>259 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p> 	Quires mostly of 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="23" writtenLines="21">
+									<p>Uniform layout. </p>
+									<p>Ruling with hard-point on the hair side of the folio is visible. </p>
+									<p>Daniel and Proverbs begin a new column, and Song of Songs opens a new leaf.</p>
+									<p>The first word of Daniel, Ezra-Nehemiah, Ecclesiaistes and Proverbs, and the first two of Lamentations, Esther and Chronicles are written in larger letters.</p>
+									<p>The centre mark occurs in all the books except in Lamentations, Esther and Chronicles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated and accentuated, of the 13th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r contains a list of Hebrew works, probably the property of a formwer owner of the manuscript. </p>
+							<p>Folio 258v contains a list of Sabbath lessons mainly from the Bible. Lower down there are some kabbalistic recipes. </p>
+							<p>Folio 259r - a record of birth of a daughter, dated 15 July <date calendar="Hebrew">222 </date>(<date calendar="Gregorian">1462</date>). </p>
+							<p>
+								<name type="person" role="owner">Moshe Shevaḥ ben Yaʿaḳov</name>, <name type="person" role="owner">Yaʿaḳov ben Eliyah</name>, <name type="person" role="owner">Shabtai ben Yaʿaḳov</name>, previous owners, inscribed with their names on folio 258r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, Harleian binding of gold-tooled red leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts; inscription by Harley's librarian, <name type="person">Humfrey Wanley</name>, <date calendar="Gregorian">11 March 1723/4</date> (folio <locus n="259v"/>). Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">141</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

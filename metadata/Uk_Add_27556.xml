@@ -1,0 +1,197 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27556" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27556</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book according to the German rite, with a commentary.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="188v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<note>
+								<p>The accompanying commentary (not covering the whole service) is partly by <name type="person" role="commentator">Eleazar ben Judah of Worms</name>, and including also Avot with a commentary which agrees in the main with that contained in Add MS 27201 (Maḥzor Viṭry).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="47r"/>
+							<title xml:lang="en">Services for week-days</title>
+							<note>
+								<p>Includes some additional portions for Shabat.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="47r" to="73r"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="73r" to="103r"/>
+							<title xml:lang="en">Special portions for Rosh ḥodesh etc.</title>
+							<note>
+								<p>Includes portions for Rosh ḥodesh, Purim, Ḥanukah, Tish῾ah be-av and Yom ṭov,  followed by a series of benedictions.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="103r" to="127r"/>
+							<title xml:lang="en">Prayers for Rosh ha-Shanah and Yom Kipur</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="127r" to="136v"/>
+							<title xml:lang="he-Latn-x-lc">Hosh῾anot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="136v" to="143v"/>
+							<title xml:lang="he-Latn-x-lc">Portions for Simḥat Torah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="143v" to="160v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Pesaḥ</title>
+							<note>
+								<p>The comments on Psalms in the Hagadah are taken from Rashi.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="160v" to="185v"/>
+							<title xml:lang="he-Latn-x-lc">Masekhet avot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="185v" to="188v"/>
+							<title xml:lang="en">Ma῾ariv for the first day of Pesaḥ </title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 13th to 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>188 folios <dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>60/175</height>
+										<width>50/110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>188 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable (too tightly bound).</p>
+									<p>Catchwords at the end of the quires, nearly entirely cut away.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Margins as well as first and last few folios much damaged.</p>
+									<p>Lacuna after folio 2.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="14 51" writtenLines="12 49">
+									<p>Non-uniform layout, with varying number of lines a page.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters. Some letters written in red ink (see folios 127v-135r).</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Most of the margins are occupied with the commentary. The left margin left for commentary by the scribe has also in some cases been cut away (e.g., folios 86, 97-98).</p>
+									<p>Censor's erasures, e.g., folios 30v, 38r.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square and semi-cursive script, partially punctuated, of the 13th to 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Additional comments in different handwriting are found throughout in the margins.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Tephilloth, with Comm. of El'azar of Worms. Hebrew. Brit. Mus. Additional 27,556.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1866-12-08</date>
+							<p>
+								<name type="person" role="bookseller">Samuel Schönblum</name> of Vienna: purchased from him on 08 December 1866: inscribed (folio [190v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">653</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

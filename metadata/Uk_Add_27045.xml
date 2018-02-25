@@ -1,0 +1,205 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27045" xml:lang="he" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27045</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546 lccn.loc.gov/sh85070315" rend="visible">
+						<summary>A collection of kabbalistic and poetical works.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="43v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer nefesh ha-ḥakhamah</title>
+							<title xml:lang="he">ספר נפש החכמה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79260667">Moses ben Shem Tov, de Leon, 1250-1305</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79260667">משה בן שם טוב, די לאון</persName>
+							</author>
+							<note>
+								<p>The work begins with a poem of fifteen lines (folio 2r).</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Nefesh-Hakhamah_1608"/>
+								</bibl>
+							</listBibl>
+							<filiation>Cf. <ref target="Neubauer_1994" type="number">1850</ref>.</filiation>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85070315">
+							<locus from="44v" to="46r"/>
+							<title xml:lang="he-Latn-x-lc">Shirim</title>
+							<title xml:lang="he">שירים</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="46r" to="48v"/>
+							<title xml:lang="he-Latn-x-lc">Musar ha-sekhel</title>
+							<title xml:lang="he">מוסר השכל</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/63993515">Hai, ben Sherira, 939-1038</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/63993515">האי בן שרירא גאון</persName>
+							</author>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85070315">
+							<locus from="49r" to="57r"/>
+							<title xml:lang="he-Latn-x-lc">Maḥberet ha-ṿikuḥim</title>
+							<title xml:lang="he">מחברת הויכוחים</title>
+							<author>
+								<persName xml:lang="en">Issakhar Simḥah</persName>
+								<persName xml:lang="he">יששכר שמחה</persName>
+							</author>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85070315">
+							<locus from="57r" to="60v"/>
+							<title xml:lang="he-Latn-x-lc">Ke῾arat kesef</title>
+							<title xml:lang="he">קערת כסף</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/97803438">Ezobi, Yosef ben Hanan ben Nathan</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/97803438"> אזובי, יוסף בן חנן</persName>
+							</author>
+							<note>
+								<p>At the end of folio 60v there are some kabbalistic directions regarding cutting one's nails.</p>
+							</note>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85070315">
+							<locus from="61r" to="61v"/>
+							<title xml:lang="he-Latn-x-lc">Shirim</title>
+							<title xml:lang="he">שירים</title>
+							<textLang mainLang="he" otherLangs="yi-Hebr"/>
+							<note>
+								<p>Two satirical poems in Hebrew and Yiddish.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>61 folios<dimensions type="leaf" unit="mm">
+										<height>185</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>61 folios (+ 3 unfoliated paper flyleaf at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 5 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="29" writtenLines="28">
+									<p>Uniform layout.</p>
+									<p>Initial words in larger square characters.</p>
+									<p>Visible hard-point and ink ruling.</p>
+									<p>Some additions and comments in the margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 15th century. <name type="person" role="scribe">Simḥah</name>: his name marked off numerous times in the text, e.g., 50r, 51v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active 1575-1624): inscribed with his name, 1597 (folio 41v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 41v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Sepher Ham-Mishkal. Etc. Hebrew. Brit. Mus. Additional 27,045.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>? </p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile his manuscript no. 151; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>); inscribed, folio [63v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">760</ref>
+							</bibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">925</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

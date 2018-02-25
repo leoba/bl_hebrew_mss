@@ -1,0 +1,559 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+   <teiHeader rend="visible">
+
+
+
+      <fileDesc>
+
+
+
+         <titleStmt>
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+            <funder>BL</funder>
+
+
+
+            <sponsor>The Polonsky Foundation</sponsor>
+
+
+
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+            <pubPlace/>
+
+
+
+            <date calendar="Gregorian">2015-06-05</date>
+
+
+
+            <idno>Uk</idno>
+
+
+
+         </publicationStmt>
+
+
+
+         <sourceDesc>
+
+
+
+            <biblFull>
+
+
+
+               <titleStmt>
+
+
+
+                  <title/>
+
+
+
+               </titleStmt>
+
+
+
+               <publicationStmt>
+
+
+
+                  <p/>
+
+
+
+               </publicationStmt>
+
+
+
+            </biblFull>
+
+
+
+            <msDesc xml:id="Uk_Or_14020_A" xml:lang="en" rend="meta">
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+                  <settlement>London</settlement>
+
+
+
+                  <institution>British Library</institution>
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+                  <idno>Or 14020 A</idno>
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+                     <idno>032-003314166</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+                     <idno>ark:/81055/vdc_100031723867.0x000001</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+               </msIdentifier>
+
+
+
+               <head>Targum ῾aravi la-Torah ve-ḥamesh megilot</head>
+
+
+
+               <msContents class="lccn.loc.gov/sh85013576" rend="visible">
+
+
+
+                  <summary>An Judeo-Arabic translation of the Torah and the Five Scrolls. </summary>
+
+
+
+                  <textLang mainLang="jrb-Hebr"/>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="1r" to="360v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Targum ῾aravi le-Torah ve-ḥamesh megilot</title>
+
+
+
+                     <title xml:lang="he">תרגום ערבי לתורה וחמש מגלות</title>
+
+
+
+                     <note>
+                        <p>Prefixed are fragments of haftarot, mostly to Genesis, in Arabic
+                           translation, folios 3r-7v. </p>
+                        <p>The Pentateuch itself is preceded by an introduction in Hebrew and
+                           Arabic, beginning on folio 8r. </p>
+                        <p>Folios 356-360 contain Megilat Antiochus in Hebrew, translated line by
+                           line into Arabic. </p>
+                        <p>See Doron, <ref target="Sefunot" type="number">18</ref> (1985), pp.
+                           279-298. </p>
+                     </note>
+
+
+
+                     <colophon xml:lang="he">כמל שרח אל כמסת גזא אלתורה ... אליום דא יום אל ארבעה
+                        עשרת אייאס פי שהר תמוז סנת כמסת אלאף ותלת מאיה ואחד ותלאתין סנה לאלכליקה פי
+                        אלקרית ... צפת שבגליל העליון תוב"ב ... אנא ... יששכר אבן ... החכם ... כה"ר
+                        מרדכי בן סוסאן זלה .<locus n="127v"/>
+                     </colophon>
+
+
+
+                     <author>
+                        <persName xml:lang="en" key="viaf.org/viaf/17127610">Susan, Issachar ben
+                           Mordecai (translator)</persName>
+                        <persName xml:lang="he" key="viaf.org/viaf/17127610">סוסאן, יששכר בן
+                           מרדכי</persName>
+                     </author>
+
+
+
+                  </msItem>
+
+
+
+               </msContents>
+
+
+
+               <physDesc rend="visible">
+
+
+
+                  <p>Paper codex of the 16th century. </p>
+
+
+
+                  <objectDesc form="codex">
+
+
+
+                     <supportDesc material="chart">
+
+
+
+                        <support>Paper. </support>
+
+
+
+                        <extent>360 folios<dimensions type="leaf" unit="mm">
+
+
+
+                              <height>210</height>
+
+
+
+                              <width>150</width>
+
+
+
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+
+
+
+                              <height>160</height>
+
+
+
+                              <width>110</width>
+
+
+
+                           </dimensions>
+                        </extent>
+
+
+
+                        <foliation>
+                           <p>360 folios (+ 4 unfoliated paper flyleaves at the beginning and 2 at
+                              the end, and the old leather binding). </p>
+                        </foliation>
+
+
+
+                        <collation>
+                           <p>Quires of mostly 6 to 8 leaves each. </p>
+                        </collation>
+
+
+
+                        <condition>
+                           <p>Damp, with tidemarks across the leaves. </p>
+                           <p>Usage stains, mould spotting. </p>
+                           <p>Slight worming. </p>
+                           <p>Losses at edges, all infilled before rebinding. </p>
+                        </condition>
+
+
+
+                     </supportDesc>
+
+
+
+                     <layoutDesc>
+
+
+
+                        <layout columns="1" ruledLines="33 35" writtenLines="33 35">
+                           <p>Uniform layout. </p>
+                           <p>Larger initial words and titles. </p>
+                           <p>Leaf catchwords. </p>
+                           <p>Running titles. </p>
+                           <p>Marginal notes. </p>
+                           <p>Erasures, e.g. folio 75v. </p>
+                           <p>A strip of paper inserted between folio 75 and 76. </p>
+                        </layout>
+
+
+
+                     </layoutDesc>
+
+
+
+                  </objectDesc>
+
+
+
+                  <handDesc hands="1">
+
+
+
+                     <summary>Oriental semi-cursive script of the 16th century. <name type="person"
+                           role="scribe">Isakhar ben Mordekhai Susan</name>: inscribed in the
+                        colophon, folio 127v (autograph). </summary>
+
+
+
+                     <handNote script="Hebrew" scope="sole"/>
+
+
+
+                  </handDesc>
+
+
+
+                  <bindingDesc>
+
+
+
+                     <binding>
+
+
+
+                        <p>Post-1600. Brown leather, blind tooled. </p>
+
+
+
+                        <p>Spine: 'Pentateuch. Judeo-Arabic. Hebrew. Brit. Mus. Oriental Ms.
+                           14020A.'</p>
+
+
+
+                     </binding>
+
+
+
+                  </bindingDesc>
+
+
+
+               </physDesc>
+
+
+
+               <history rend="visible">
+
+
+
+                  <origin>
+                     <origDate when="1571" when-custom="[5]331" calendar="Hebrew">1571
+                        ([5]331)</origDate>
+                     <origPlace>Palestine (Safed)</origPlace>
+                  </origin>
+
+
+
+                  <provenance>
+                     <p>David Solomon Sassoon's bookplate pasted on upper inner cover. </p>
+                     <p>
+                        <name type="person" role="owner">῾Ag'ami ben Yosef ῾Ag'ami</name>:
+                        inscribed, folio 127v. </p>
+                     <p>
+                        <name type="person" role="owner">Ya῾aḳov Boḳriyah</name>: inscribed, folio
+                        1r. </p>
+                  </provenance>
+
+
+
+                  <acquisition>
+                     <date>1981</date>
+                     <p>Purchased by the British Library in 1981. Previously in the Sassoon
+                        Collection, no. 159. </p>
+                  </acquisition>
+
+
+
+               </history>
+
+
+
+               <additional rend="visible">
+
+
+
+                  <adminInfo>
+
+
+
+                     <recordHist>
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+                     </recordHist>
+
+
+
+                     <availability status="free">
+
+
+
+                        <p/>
+
+
+
+                     </availability>
+
+
+
+                     <note/>
+
+
+
+                  </adminInfo>
+
+
+
+                  <listBibl>
+
+
+
+                     <bibl>Sassoon, David S. <title>Ohel Dawid. Descriptive Catalogue of the Hebrew and Samaritan Manuscripts
+                        in the Sassoon Library, London.</title> (London: Oxford University Press, 1932), 62-71.  
+                     </bibl>
+
+
+
+                  </listBibl>
+
+
+
+               </additional>
+
+
+
+            </msDesc>
+
+
+
+            <bibl/>
+
+
+
+            <listBibl>
+
+
+
+               <bibl/>
+
+
+
+            </listBibl>
+
+
+
+         </sourceDesc>
+
+
+
+      </fileDesc>
+
+
+
+      <encodingDesc>
+
+
+
+         <classDecl>
+
+
+
+            <taxonomy/>
+
+
+
+         </classDecl>
+
+
+
+      </encodingDesc>
+
+
+
+      <profileDesc/>
+
+
+
+      <revisionDesc status="draft">
+
+
+
+         <change when="2015-06-05">Agata Paluch</change>
+
+
+
+      </revisionDesc>
+
+
+
+   </teiHeader>
+
+
+
+   <text>
+
+
+
+      <body>
+
+
+
+         <div/>
+
+
+
+      </body>
+
+
+
+   </text>
+
+
+
+</TEI>

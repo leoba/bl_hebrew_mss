@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1487" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1487</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n79066420  lccn.loc.gov/n87871045" rend="visible">
+						<summary>The commentary of Abraham Ibn Ezra on the Pentateuch.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420 	lccn.loc.gov/n82271898">
+							<locus from="1r" to="194v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/88961846">Ibn Ezra, Abraham ben Meïr</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/88961846">אבן עזרא, אברהם בן מאיר</persName>
+							</author>
+							<decoNote type="other">1 carpet page with penwork decoration in colours. <locus n="138v"/>
+							</decoNote>
+							<decoNote type="initial">Numerous initial-word panels with penwork decoration and pen-flourishing, in red, mauve and blue ink. </decoNote>
+							<decoNote type="border">Numerous embellished bands with penwork decoration, in red, mauve and blue ink. </decoNote>
+							<decoNote type="marginal">8 marginal decorations in red mauve ink.<locus n="108r, 108v, 111r, 123r, 123v, 125r, 125v, 134v"/>
+							</decoNote>
+							<decoNote type="paratext"> 1 carmina figurata.<locus n="181r"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1r" to="41r"/>
+							<title xml:lang="en">Genesis </title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="41r" to="111r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="111r" to="139r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="139r" to="165v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="165v" to="194v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex, Sephardi semi-cursive script, unpunctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">194 folios <dimensions unit="mm" type="leaf">
+										<height>190/185</height>
+										<width>150 </width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>115 </height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>194 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>27 quires: i4+1 (1-5), ii8+1 (6-14), iii-xv8 (15-118), xvi8-1 (119-125), xvii-xxvi8 (126-189), xxvii8-4+1 (190-193+194). </p>
+									<p>Catchword on every verso.</p>
+								</collation>
+								<condition>
+									<p>Several mutilated folios.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="30" writtenLines="30">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Pricking and hard-point ruling are visible. </p>
+									<p>Hair side and flesh side are distinguishable. </p>
+									<p>Folio 194r-194v is a later reconstruction. </p>
+									<p>Deleted and rewritten section on folio 25v. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sephardi semi-cursive script, unpunctuated.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="19r"/> and <locus n="25v"/>- contain two erased passages, which have been restored by a later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>ʾAvraham ʾibn ʿEzraʾ ha-Sefaradi (author): inscribed with his name in the author’s colophon (40v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>  	Post-1600. Ivory parchment binding, tooled in black.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Iberian Peninsula</name> or <name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), an antiquities dealer of Jerusalem: his inscription (?): <q>This book was purchased by me from one of the chief Rabbis in Jerusalem in Ocotber 1868...</q> (covered by a paper slip glued over it); bought from him, 2<date calendar="Gregorian">4 November, 1877</date> ([195r]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">191</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2556" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2556</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the books of Daniel, Ezra-Nehemiah and Chronicles (fragments).</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="129v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim </title>
+							<title xml:lang="he">פרושים</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century  </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The Hebrew text in an Arabic phonetic transcription, with the Arabic translation and commentary by Japheth, is embodied.</p>
+								<p>The Hebrew text is provided with the vowel-points and accents in red ink.</p>
+								<p>Contains portions of: Daniel 1:3-5, 2:28-30, Ezra 4:23-5:7, 6:6-21, 7:13-28, 8:19-34, 8:36-9:14, 10:26-33, 10:38-44, Nehemiah 1:1-2:8, 8:11-9:6, 9:8-22, 9:32-10:29, 10:31-33, 10:35-11:8, 11:26-12:19, 13:17-31, 1Chronicles 1:1-12, 1:35-48, 11:13-25, 11:32-47, 15:27-16:18, 18:1-19:5, 21:28-22:10, 27:21-24, 28:11-15, 2Chronicles 15:9-16:6.</p>
+								<p>Sedarim are marked in the margin in Arabic, with a small pen and ink design (e.g., folio 65v, 124v), mostly cut away.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; a Naskhi hand of 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>129 folios<dimensions type="leaf" unit="mm">
+										<height>216</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>122</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>129 folios (+ 2 paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>The quires, all of the more or less imperfect, are signed with Arabic numerals on the left-hand upper corner of the first page. Only one such signature has been preserved. </p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Gaps after folios 2, 3, 7, 13, 19, 25, 34, 35, 46, 55, 62, 68, 69, 77, 79, 88, 90, 96, 97, 104, 113, 120, 121, 122. </p>
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Most of the folios are more or less damaged (the best preserved part of the volume being folio 70-113).Modern restoration, stuck on paper. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="12 15" writtenLines="12 15">
+									<p>The vowel-points and accents are supplied in red ink. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>A Naskhi hand of the 11th century. </summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yesh῾ayah ben Tsaliḥ ben ῾Azaryahu</name> (and also of Or 2554): inscribed, folio 87r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Daniel, Ezra, Nehemiah, Chronicles, with Commentary. Hebrew and Arabic. Brit. Mus. Oriental 2556.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1040"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v"> [130v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">303</ref>
+							</bibl>
+							<bibl>
+								<ref target="Hoerning_1889" type="page">61-68</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

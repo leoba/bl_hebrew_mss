@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_22092" xml:lang="he" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 22092</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n79066420 lccn.loc.gov/n87871045" rend="visible">
+						<summary>Gan Elohim, a supra-commentary on Rashi&apos;s commentary on the Pentateuch, very similar to Minḥat Yehudah of Yehudah ben Eli῾ezer.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class=" lccn.loc.gov/sh85013597">
+							<locus from="1r" to="139v"/>
+							<title xml:lang="he-Latn-x-lc">Gan Elohim</title>
+							<title xml:lang="he">גן אלהים</title>
+							<decoNote type="initial">1 inhabited initial word in brown ink.<locus n="3v"/>
+							</decoNote>
+							<colophon xml:lang="he">סיימתי גן אלהים. של אלהים חיים. ליל ו&apos; פרשת. אלה פקודי שנת קס&quot;ג לאלף השישי. חזק ונתחזק: רפאל לא יזק. לא היום ולא לעולם עד שיעלה חמור בסולם. אא&quot;א סלה.<locus n="130v"/>
+							</colophon>
+							<listBibl>
+								<bibl>
+									<ref target="Freimann_1950" type="page">231-342</ref>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="">
+							<locus from="3r" to="51v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="51v" to="93r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="93r" to="105r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="105r" to="118v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="118v" to="131v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="131v" to="137r"/>
+							<title xml:lang="en">Notes</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">139 folios <dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>160 </width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>139 folios (+ 5 unfoliated modern paper flyleaves at the beginning and 4 unfoliated modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>15 quires: i3 (1*-2), ii10 (3-12), iii10 (13-22), iv10 (23-32), v10 (33-42), vi10 (43-52), vii10 (53-62), viii10 (63-72), ix10 (73-82), x10 (83-92), xi10 (93-102), xii10 (103-112), xiii10 (113-122), xiv10 (123-132), xv6+1 (133-139).</p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="29" writtenLines="28">Watermarks on <locus n="2r"/>, and on <locus n="fse001r"/>. The first watermark is a hand, the second watermark is a vase with a crescent at the top and a monogramm (CO?), similar to <ref target="Heawood_1950" type="number">3603</ref> (dated to 1646, England).<p>Uniform layout. </p>
+									<p>Pricking and hard-point ruling visible. </p>
+									<p>Hair side and flesh side distinguishable. </p>
+									<p>Numerous marginal notes, additions, corrections by an Italian hand of 15th-16th century. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi (French) semi-cursive script, unpunctuated, of the 15th century. <name type="person" role="scribe">Rafa᾿el</name>: inscribed with his name in the colophon, 163 [1403] (folio 130v); the name Rafa᾿el is decorated (folio 12r). </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="131v" to="137r"/>- small pieces by different hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Contract of sale with names erased, 1404 (folio 131r). </p>
+							<p>Purchase note (15th-16th century) (folio 139r). </p>
+							<p>
+								<name type="person" role="owner">Yehudah ha-Rofe᾿ of Aqulia</name> (?): inscribed with his name (folio 2r). </p>
+							<p>Numerous Hebrew inscriptions by Italian hands of the 15th-16th centuries (folios 1*, 2v, 139r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather. </p>
+								<p>Spine: &apos;Commentary on Pentateuch. Hebrew. Brit. Mus. Additional 22,092.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]163" calendar="Hebrew" when="1403"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> or <name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">M. Ashkenazi</name>: purchased by the British Museum from him in August 1857: inscribed, [140v]. </p>
+							<date>1857-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">190</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

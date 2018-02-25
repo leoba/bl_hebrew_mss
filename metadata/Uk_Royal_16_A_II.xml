@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-11</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Royal_16_A_II" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Royal MS 16 A II</idno>
+						<altIdentifier type="former">
+							<idno>Reg. MS 16 A II</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>The Epistles of St James and St Jude in Hebrew translation</head>
+					<msContents class=" lccn.loc.gov/n79023150  	lccn.loc.gov/n79060415  	lccn.loc.gov/n82072965" rend="visible">
+						<summary>The Epistles of St James and St Jude in Hebrew translation, with a Latin dedication to king Henry VIII.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79023150">
+							<title xml:lang="he-Latn-x-lc">Berit ḥadashah</title>
+							<title xml:lang="he">ברית חדשה </title>
+							<locus from="1v" to="49v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="1v" to="23r"/>
+							<title xml:lang="en">Dedication</title>
+							<incipit xml:lang="la">Invictissimo Angliae Fraciaeque regi, Dno Hyberniae, fidei Catholicae defesori, in terrisque supremo capiti, Herico ejus nois octavo, Joanes Schepreus Foelicitate optat perpetuam.<locus n="1v"/>
+							</incipit>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/n79060415">
+							<locus from="23r" to="44r"/>
+							<title xml:lang="en">Epistle of St James</title>
+							<incipit xml:lang="he">מכתב יעקב השליח: אמר יעקב ... לשנים עשר שבטים המפוזרים שלום לכם.<locus n="23r"/>
+							</incipit>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/n82072965">
+							<locus from="44r" to="49v"/>
+							<title xml:lang="en">Epistle of St Jude</title>
+							<incipit xml:lang="he">מכתב יהודה השליח: אמר יהודה ... למקדשים באל האב לשמורי ישוע משיח וקרואיו. <locus n="44r"/>
+							</incipit>
+							<explicit xml:lang="he">נשלם המכתב יהודה.<locus n="49v"/>
+							</explicit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>49 folios<dimensions unit="mm" type="leaf">
+										<height>102</height>
+										<width>66</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>49 folios (+1 unfoliated paper flyleaf at the beginning and 4 at the end).</p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="10" writtenLines="10">
+									<p>The Hebrew text follows the Latin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Latin and square Hebrew script, of 16th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, gold tooled, with initials M.B.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate notBefore="1500" notAfter="1599">16th century</origDate><origPlace>England</origPlace></origin>
+						<provenance>
+							<p>
+								<name type="person" role="owner">John Shepreve</name> (b. 1509?, d. 1542), classical scholar: his dedication to king Henry VIII at the beginning of folio 1v, with no date. </p>
+						</provenance>
+						<acquisition>
+							<p>Presented to the British Museum by George II in 1757 as part of the Old Royal Library.</p>
+							<date>1757</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">164</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,189 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2376" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2376</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points and accents, masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים </title>
+							<locus from="1r" to="154r"/>
+							<note>
+								<p>The first book of the codex, which must have been the book of Ruth, is now missing.</p>
+							</note>
+							<decoNote type="other">
+								<locus n="42v, 58v"/>Small ornamental pen and ink designs at the end of the book of Psalms and Job.</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="42v"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="42v" to="58v"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58v" to="71r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="71v" to="76r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="76r" to="78r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="78r" to="80v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80v" to="91r"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="91r" to="96r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="96v" to="112v"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 103r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112v" to="154r"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles begins on folio 131r.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th to 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>154 folios<dimensions unit="mm" type="leaf">
+										<height>295</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>270</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>154 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally upwards of 18 quires of 8 leaves each.</p>
+									<p>The quires are signed with Hebrew letters on the first and last pages, and with Arabic words on the first page.</p>
+									<p>Catchwords present throughout.</p>
+								</collation>
+								<condition>
+									<p>Several larger lacunae. The first quire is lost and the last quire is imperfect.</p>
+									<p>Folia 1-4 and 141-154 supply the defects.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24 26" writtenLines="24 26">
+									<p>Uniform layout. </p>
+									<p>Masorah magna in one line in the upper and up to four lines in the lower margin. In the resteored part of the manuscript there is no masorah.</p>
+									<p>The number of verses and siman stated at the end of each book, except of Chronicles.</p>
+									<p>The beginning of sedarim indicated in the margin with an ornamental samekh.</p>
+									<p>Visible mastara ruling.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script, punctuated, of 16th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1" to="4"/>, <locus from="141" to="154"/>due to later, 17th century hand. No punctuation.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio [155v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">152</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

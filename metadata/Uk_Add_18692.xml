@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18692" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18692</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="287v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+							<colophon xml:lang="he">הנותן ליעף כח ולאין אונים עצמה ירבה הוא יוסיף לעזור את <name type="person" role="scribe">אברהם פריצול</name> חזן ק'ק' <name type="place">פירארא</name> אשר השלים הסדור השלם הלז לר' יוסף הנקר' <name type="person" role="patron">בונאוינטורא מוייוינו מקרימונא</name> בי"ד ימים לנסן <date calendar="Hebrew">ר'ל'ח'</date> השם יזכהו להגות בזה ובאשר כתבתי הקדש אמן סלה בריך רחמנא דסייען.<locus n="200r"/>
+							</colophon>
+							<decoNote type="border">
+								<locus n="1r, 79r"/>Full foliate borders, in red.</decoNote>
+							<decoNote type="border">Many half-borders with pen-flourishings, in red ink.<locus n="3v, 4v, 6r, 6v, 11v, 14r, 16r, 17r, 17v, 18r, 20r, 21v, 22r, 23r, 23v, 25r, 26r etc."/>
+							</decoNote>
+							<decoNote type="initial">Numerous decorated initial words and initial-word panels, in red ink.<locus n="3v, 4v, 6r, 6v, 11v, 14r, 16r, 17r, 17v, 18r, 20r, 21v, 22r, 23r, 23v, 25r, 26r etc."/>
+							</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="41r"/>
+							<title xml:lang="en">Services for week-days</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="41r" to="79r"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="79r" to="87v"/>
+							<title xml:lang="en">Special portions for Rosh ḥodesh, Purim, Hanukah,  etc.</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="87v" to="118r"/>
+							<title xml:lang="en">Services for Pesaḥ</title>
+							<note>
+								<p>Piyutim at the end of Hagadah are the same as in Add MS 26,968.</p>
+								<p>The shevaḥot for the three festivals begin on folio 113r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="118r" to="125r"/>
+							<title xml:lang="en">Services for Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="125r" to="147v"/>
+							<title xml:lang="en">Services for Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="147v" to="176v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="176v" to="201r"/>
+							<title xml:lang="en">Services for Sukot</title>
+							<note>
+								<p>Hosh῾anot, cf Add. 26968, <ref target="Margoliouth_1965" type="number">616</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="201r" to="255v"/>
+							<title xml:lang="he-Latn-x-lc">A collection of yotserot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="255v" to="287v"/>
+							<title xml:lang="en">Additional pieces</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>287 folios <dimensions unit="mm" type="leaf">
+										<height>150</height>
+										<width>115</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>100</height>
+										<width>65</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>287 folios (+ 1 unfoliated paper flyleaf and 2 unfoliated vellum flyleaves at the beginning and 3 unfoliated vellum flyleaves and 1 unfoliated paper flyleaf at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each, marked with catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16" writtenLines="16">
+									<p>Uniform layout.</p>
+									<p>Visible plummet ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script of the 15th century. Partially punctuated. <name type="person" role="scribe">Avraham Farissol</name> of Ferrara: inscribed with his name in the colophon (folio 200r).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Joseph Bonaventura da Vigevano</name>: inscribed in the colophon (folio 200r).</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, <date calendar="Gregorian">1620 </date>(folio 286v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active 1575-1624): inscribed with his name (folio 287r); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74. </p>
+							<p>Censored by <name type="person" role="censor">Fr. Hippolytus</name>, Italian censor: inscribed with his name, <date calendar="Gregorian">1601</date> (folio 287r).</p>
+							<p>Images of the head, tail, and fore-edge will display as f.viii-r, f.viii-v and f.ix-r respectively.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Prayer Book. Hebrew. Brit. Mus. Additional MS. 18,692.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5238" calendar="Hebrew" when="1478"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): purchased from him on 24 May 1851: inscribed, [288v].</p>
+							<date>1851-05-24</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">621</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

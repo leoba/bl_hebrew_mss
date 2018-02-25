@@ -1,0 +1,150 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27299" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27299</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Tseror ha-kesef, a treatise on monetary transactions, by Ḥayim ben Samuel of Tudela.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="154v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Tseror ha-kesef</title>
+							<title n="0" xml:lang="he">ספר צרור הכסף</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/2041653">Ḥayim ben Samuel ben David, of Tudela, active 14th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/2041653">חיים בן שמואל, מטודילו‏ </persName>
+							</author>
+							<note>
+								<p>The treatise is divided into 5 derakhim, each being subdivided into she'arim, and each of the latter consisting of a number of paragraphs.</p>
+							</note>
+							<colophon xml:lang="he">זה הספר נותן אמרי שפר כאיל ועופר לאשכל הכופר אשר נצניו נתנו ריח' רוקח מעשה רוקח ' נחמד להשכיל ותאוה לעינים ' כאיל תערוג על אפיקי מים ' הותיק בתורה ובגמילות חסדים ' גדול ליהודים ' רצוי לרוב אחיו ' רבו מארבה שבחיו ' כג"ק מה"ר <name type="person" role="patron">משה יצו' בה"ר יהודה</name> נ"ע והיתה השלמתו על ידי [...] והוא ששי לירח אדר הנהדר [...] וארבעין וארבע [...] <locus n="154v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>154 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>154 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). Folio 1 is a recent paper addition.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Last leaf damaged.</p>
+									<p>Water-damaged margins.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>Uniform layout. </p>
+									<p>Chapter numbers given in larger characters.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Red edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1 is a recent addition, the original having been lost.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Tseror Hak-Keseph. Hebrew. Brit. Mus. Additional MS. 27,299.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1866-04-14</date>
+							<p>Mr <name type="person" role="owner">Sam[uel] Schönblum</name>: purchased from him by the British Museum on 14 April 1866: inscribed, folio [155v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">552</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

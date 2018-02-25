@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5704" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5704</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>A Midrash on the Minor Prophets, collected from various sources.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="199v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash tere ῾asar</title>
+							<title xml:lang="he">מדרש תרי עשר</title>
+							<note>
+								<p>Attributed to <name type="person" role="author">Makir Aba Mari</name>, the author of <ref target="Yalkut_Makiri_2002"/>.</p>
+							</note>
+							<colophon xml:lang="he">ותשלם מלאכת הקדש מספר תרי עשר מדרש רבותינו מעולה מאד מעולף ספיר גזרתו על ידי קטן התלמידים לוחך עפרות רגלי החכמים ומשרת תלמידיהם פה בעיר <name type="place">טיבולי </name>אשר תחת ממשלת אדונינו הפיפיור ליאוני יר"ה אשר בתחומי רומה וכתבתי אותו אל הנעלה אדוני אח <name type="person" role="patron">יידיאו</name> הכהן הגדול אשר הוצק על ראשו שמן המשחה ללבוש בגדי השרד והמעלה נצחיית אין קץ לה ולשלוט והיותו כולל על כת שן אגושטינו. ה' למען רחמיו ירוממהו ויזכהו אל חפצו ותאות לבו יתן לו בימיו ובימינו תושע יהודה וישראל ישכון לבטח אמן
+
+והיתה השלמת זה הספר בעיר הנ"ז <date when="1514" calendar="Hebrew">יום שלישי י"ו לחדש אב שנת "ורחמך" לפ"ק ולחשבונם אלף חמש מאות וארבעה עשר ליצירה</date>. <name type="person" role="scribe">יוחנן בכמה"ר יעקב סרקוסי מבני הגרשוני</name>.<locus n="199r"/>
+							</colophon>
+							<msItem rend="" class="lccn.loc.gov/sh85085046">
+								<locus from="1r" to="5v"/>
+								<title xml:lang="en">Midrash on Hosea (fragment)</title>
+							</msItem>
+							<msItem rend="" class="lccn.loc.gov/sh85085046">
+								<locus from="5v" to="20v"/>
+								<title xml:lang="en">Midrash on Joel</title>
+							</msItem>
+							<msItem rend="" class="lccn.loc.gov/sh85085046">
+								<locus from="20v" to="47r"/>
+								<title xml:lang="en">Midrash on Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="47r" to="53v"/>
+								<title xml:lang="en">Midrash on Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="53v" to="61v"/>
+								<title xml:lang="en">Midrash on Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="84v"/>
+								<title xml:lang="en">Midrash on Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="84v" to="90v"/>
+								<title xml:lang="en">Midrash on Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="90v" to="109r"/>
+								<title xml:lang="en">Midrash on Habakkuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="109r" to="118r"/>
+								<title xml:lang="en">Midrash on Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="118r" to="126v"/>
+								<title xml:lang="en">Midrash on Hagai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="126v" to="177r"/>
+								<title xml:lang="en">Midrash on Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="177r" to="199r"/>
+								<title xml:lang="en">Midrash on Malakhi</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>199 folios<dimensions type="leaf" unit="mm">
+										<height>320</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>199 folios (+3 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Catchwords on every verso.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22" writtenLines="22">
+									<p>The beginning of each new section is written in larger characters.</p>
+									<p>Many marginal notes.</p>
+									<p>Some passages are marked off, several of them in red ink.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (North African?) semi-cursive script, of 16th century. <name type="person" role="scribe">Yoḥanan ben Ya῾ḳov Siraḳusi ha-Gershoni</name>: inscribed in the colophon, folio 199r.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>There are many Latin notes in the margins, bearing on Christology.</p>
+							<p>Folio <locus n="1r"/>: <q>Expositio Midras in XII. Prophetas. Liber rarissimus.</q>
+							</p>
+							<p>Folio <locus n="199r"/> has a Latin translation of the Hebrew colophon: <q>F. Aurelius Rochensis scripsit dictante Dno Marcello Theologo, die II. (?) Julii 1574.</q>
+							</p>
+							<p>
+								<name type="person" role="patron">Egidio da Viterbo</name>, aka Giles of Viterbo (b. 1472, d. 1532), Augustinian friar, bishop and cardinal, a reforming theologian, orator, humanist and poet: inscribed in the colophon as יידיאו, folio 199r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash. Minor Prophets. Hebrew. Brit. Mus. Harley 5704.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5274" calendar="Hebrew" when="1514"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>, C. (<name type="place">Tivoli</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley </name>(b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck </name>(b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">342</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-26">Agata Paluch </change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

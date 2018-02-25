@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2384" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2384</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Nur al-tsulm, an Arabic-Hebrew midrashic commentary on the Pentateuch by Nathanael ben Isaiah. </summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="130v"/>
+							<title xml:lang="ara-Latn-x-lc">Nur al-tzulm </title>
+							<title xml:lang="jrb">נור אלצלם</title>
+							<author>
+								<persName xml:lang="en">Nathanael ben Isaiah </persName>
+								<persName xml:lang="he">נתנאל בן ישעיהו</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Kohut_1894"/>
+								</bibl>
+							</listBibl>
+							<filiation>Cf. Or 2356, <ref target="Margoliouth_1965" type="number">360</ref>. </filiation>
+							<msItem rend="v">
+								<locus from="1r" to="21v"/>
+								<title xml:lang="en">Midrash on Genesis</title>
+								<note>
+									<p>Contains two small fragments of the commentary on Genesis: from Lekh lekha to Ṿa-yera and from Toledot to Ṿa-yishlaḥ.</p>
+									<p>Both parts include the same poetic piece, provided with the superlinear punctuation and decorated with coloured designs.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="22r" to="130v"/>
+								<title xml:lang="en">Midrash on the Pentateuch</title>
+								<note>
+									<p>A large naumber of fragments containing portions of the whole work.</p>
+									<p>Exodus begins on folio 61r-73r; Leviticus - 73r-102v; Numbers - 102v-130v. </p>
+									<p>Breaks off with parashah Maṭot. </p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; two Yemenite square and semi-cursive script of 14th and 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>130 folios<dimensions type="leaf" unit="mm">
+										<height>235</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>130 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Lacunae after folios 8, 37, 92, 93, 96, 99, 109, 110, 111, 112. </p>
+									<p>Water-stained. </p>
+									<p>Many pages damaged with loss of text. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22 26" writtenLines="22 26">
+									<p>Some catchwords preserved. </p>
+									<p>Occasional ornaments in colours, most frequent in the first part of the manuscript. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="21v"/> and <locus from="22r" to="130v"/>- due to two different Yemenite hands.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Nur Uz-Zulm. Arabic. Brit. Mus. Oriental 2384.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5088" calendar="Hebrew" when="1328"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, folio <locus n="fse001v">[131v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">362</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

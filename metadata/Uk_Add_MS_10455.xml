@@ -1,0 +1,733 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+   <teiHeader rend="visible">
+
+
+
+      <fileDesc>
+
+
+
+         <titleStmt>
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+            <funder>BL</funder>
+
+
+
+            <sponsor>The Polonsky Foundation</sponsor>
+
+
+
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+            <pubPlace/>
+
+
+
+            <date calendar="Gregorian">2013-09-17</date>
+
+
+
+            <idno>Uk</idno>
+
+
+
+         </publicationStmt>
+
+
+
+         <sourceDesc>
+
+
+
+            <biblFull>
+
+
+
+               <titleStmt>
+
+
+
+                  <title/>
+
+
+
+               </titleStmt>
+
+
+
+               <publicationStmt>
+
+
+
+                  <p/>
+
+
+
+               </publicationStmt>
+
+
+
+            </biblFull>
+
+
+
+            <msDesc xml:id="Uk_Add_10455" xml:lang="en" rend="physdesc">
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+                  <settlement>London</settlement>
+
+
+
+                  <institution>British Library</institution>
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+                  <idno>Add MS 10455</idno>
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+                     <idno>032-003313815</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+                     <idno>ark:/81055/vdc_100031719127.0x000001</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+               </msIdentifier>
+
+
+
+               <head>Pentateuch with Targum Onḳelos, Five Scrolls, the Hafṭarot</head>
+
+
+
+               <msContents class="lccn.loc.gov/n79066420" rend="visible">
+
+
+
+                  <summary>Pentateuch with Targum Onḳelos, the Five Scrolls, the Hafṭarot and
+                     parts of the Prophets, with punctuation and accents, provided with masorah
+                     magna and parva.</summary>
+
+
+
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+
+
+
+                  <msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+
+
+
+                     <locus from="1r" to="460v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot</title>
+
+
+
+                     <title xml:lang="he">תורה, מגילות והפטרות </title>
+
+
+
+                     <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+
+
+
+                     <note>
+                        <p>The Pentateuch has Hebrew text and Targum in alternate verses.</p>
+                        <p>The manuscript has colophons of both the scribe and the naḳdan, folio
+                           460v.</p>
+                     </note>
+
+
+
+                     <colophon xml:lang="he">אני <name type="person" role="scribe">שמשון הסופר ב"ר
+                           יעקב זצ"ל המכונה ויוואנט החוקק חותמות</name> כתבתי זה חמש תרגום חמש
+                        מגילות והפטרות ואיוב וירמיה. שבח ל ברא העולם ביה. יום ד' פרשה ברכה <date
+                           when="1310" calendar="Hebrew" when-custom="5071">כ"ו בתשרי שנת ה' אלפים
+                           שבעים ואחד</date> לפרט לר' <name type="person" role="patron"
+                           >מר&lt;ד&gt;כי ב"ר צדיק</name> השם יזכהו לו ולבניו ולבני בניו עד סוף
+                        העולם. אמן אמן סלה. חזק. הסופר לא יזק. לא היום ולא לעולם.<locus n="460v"/>
+                     </colophon>
+
+
+
+                     <colophon xml:lang="he">בריך רחמנא דסיען. חזק ונתחזק <name type="person"
+                           role="scribe">שלמה הנקדן משונא</name>. ותשלם כל המלאכה <date when="1311"
+                           when-custom="5072" calendar="Hebrew">יום ה' בי"ד לחדש כסלו שנת ע"ב</date>
+                           לפרט.<locus n="460v"/>
+                     </colophon>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="1v" to="86r"/>
+
+
+
+                     <title xml:lang="en">Genesis</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="86v" to="161v"/>
+
+
+
+                     <title xml:lang="en">Exodus</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="162r" to="211r"/>
+
+
+
+                     <title xml:lang="en">Leviticus</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="211v" to="284v"/>
+
+
+
+                     <title xml:lang="en">Numbers</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="284v" to="348v"/>
+
+
+
+                     <title xml:lang="en">Deuteronomy</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="349r" to="351v"/>
+
+
+
+                     <title xml:lang="en">Song of Songs</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="352v" to="354v"/>
+
+
+
+                     <title xml:lang="en">Ruth</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="355r" to="358r"/>
+
+
+
+                     <title xml:lang="en">Lamentations</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="358v" to="364v"/>
+
+
+
+                     <title xml:lang="en">Ecclesiastes</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="v">
+
+
+
+                     <locus from="365r" to="372r"/>
+
+
+
+                     <title xml:lang="en">Esther</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="372v" to="422v"/>
+
+
+
+                     <title xml:lang="en">Hafṭarot of the weekly pericopes, of the feasts and
+                        fasts.</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="423r" to="441r"/>
+
+
+
+                     <title xml:lang="en">Job</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="441r" to="441v"/>
+
+
+
+                     <title xml:lang="en">Jeremiah</title>
+
+
+
+                     <note>
+                        <p>Only chapters: 1:1-23:6; 31:2-31:20.</p>
+                     </note>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="441v" to="460v"/>
+
+
+
+                     <title xml:lang="en">Isaiah</title>
+
+
+
+                     <note>
+                        <p>Only chapters 34 and 35.</p>
+                     </note>
+
+
+
+                  </msItem>
+
+
+
+               </msContents>
+
+
+
+               <physDesc rend="visible">
+
+
+
+                  <p>Parchment codex of the 14th century.</p>
+
+
+
+                  <objectDesc form="codex">
+
+
+
+                     <supportDesc material="perg">
+                        <support>Parchment codex.</support>
+                        <extent rend="visible">460 folios (ii+460+i)<dimensions unit="mm" type="leaf">
+                              <height>445</height>
+                              <width>330</width>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              <height>315</height>
+                              <width>230</width>
+                           </dimensions>
+                        </extent>
+
+                        <foliation>
+                           <p>460 folios (+ 2 unfoliated paper flyleaves at the beginning and 1 at
+                              the end). </p>
+                        </foliation>
+
+                        <collation>
+                           <p>Extant quires are mostly of 8 leaves each.</p>
+                           <p>Quires marked by decorative catchwords on the last page, but only few
+                              of them have been preserved. </p>
+                        </collation>
+
+                        <condition>
+                           <p>Many pages have trimmed margins. </p>
+                           <p>Water damage at edges. </p>
+                           <p>Finger grease, stains, wax, etc. </p>
+                           <p>A few areas of mould mottling. </p>
+                        </condition>
+                     </supportDesc>
+
+                     <layoutDesc>
+                        <layout columns="3" ruledLines="29" writtenLines="28">
+                           <p>Uniform layout. </p>
+                           <p>Visible pricking and page by page plummet ruling. </p>
+                           <p>Graphic fillers at the end of the lines. </p>
+                           <p>Large square initial words. </p>
+                           <p>Last line of text written within ruling. </p>
+                           <p>Each of the books of the Pentateuch commences a new leaf and Hafṭarot
+                              begin a new column.</p>
+                           <p>The beginning of each pericope marked by פ פ פ. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc hands="2">
+                     <summary>Ashkenazi square script of the 14th century. <name type="person"
+                           role="scribe">Shimshon ben Ya῾aḳov Vivant</name>: inscribed as the main
+                        scribe in the colophon, folio 460v. <name type="person" role="scribe"
+                           >Shelomoh ha-Naḳdan</name>: inscribed as the punctuator in the colophon
+                        on folio 460v. </summary>
+                     <handNote script="Hebrew" scope="major"/>
+                  </handDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p>Pre-1600. Thick brown leather, blind tooled boards, with bosses.
+                           Embroidered velour doublures. Boxed. </p>
+                        <p>Spine: Biblia Hebraica. Mus. Brit. Jure Emptionis. 10,455. Plut.</p>
+                     </binding>
+                 </bindingDesc>
+                  <accMat>
+                     <p>A paper quarto is prefixed to the manuscript, containing a partly Hebrew and
+                        partly German letter addressed by the leaders of <name type="place"
+                           >Dusseldorf </name>to the community in <name type="place">Essen</name>,
+                        asking for help on behalf of the Jews of <name type="place">Lissa</name>,
+                        whose houses and possessions were destroyed by fire. The letter is dated the
+                        fifth day of week, <date calendar="Hebrew">10 Ṭevet 528</date> (<date
+                           calendar="Gregorian">1768</date>). Outside address: Herrn Abraham Moses,
+                        vornehmer Handelss Jude in Essen.</p>
+                  </accMat>
+               </physDesc>
+
+
+
+               <history rend="visible">
+                  <origin>
+                     <origDate when-custom="5071-5072" calendar="Hebrew" notBefore="1310"
+                        notAfter="1311">The main text: 26 Tishri 5071 (29 September 1310);
+                        punctuation and masorah: 14 Kisleṿ (5)072 (3 December 1311)</origDate>
+                    
+                     
+                     
+                     
+                     <origPlace>Germany?</origPlace>
+                  </origin>
+
+                  <provenance>
+                     <p>
+                        <name type="person" role="scribe">Shimshon ben Ya῾aḳov, 'Vivant'</name>,
+                        inscription by him on folio 460v: אני שמשון הסופר בר' יעקב ז'צ'ל' המכונה
+                        ויוואנט החוקק חותמות כתבתי זה החמש תרגום חמש מגילות והפטרות ואיוב וירמיה שבח
+                        לברא העולם ביה: יום ד' פרשה ברכה כ'ו' בתשרי שנת ה' אלפים שבעים ואחד לפרט לר'
+                        מרכי בר צדוק השם יזכהו לו ולבניו ולבני בניו עד סוף כל העולם: אמן אמן סלה:
+                        חזק הסופר לא יזק לא היום ולא לעולם:</p>
+                  </provenance>
+ 
+                  <acquisition>
+                     <date>1836-05</date>
+                     <p>Purchased of Rodd (?), May 1836 (inner front cover); perhaps <name
+                           type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796,
+                        d. 1849).</p>
+                  </acquisition>
+
+
+
+               </history>
+
+
+
+               <additional rend="visible">
+
+
+
+                  <adminInfo>
+
+
+
+                     <recordHist>
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+                     </recordHist>
+
+
+
+                     <availability status="free">
+
+
+
+                        <p/>
+
+
+
+                     </availability>
+
+
+
+                     <note/>
+
+
+
+                  </adminInfo>
+
+
+
+                  <listBibl>
+
+
+
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 79.</bibl>
+
+                  </listBibl>
+
+               </additional>
+
+
+            </msDesc>
+
+
+            <bibl/>
+
+
+
+            <listBibl>
+
+
+
+               <bibl/>
+
+
+
+            </listBibl>
+
+
+
+         </sourceDesc>
+
+
+
+      </fileDesc>
+
+
+
+      <encodingDesc>
+
+
+
+         <classDecl>
+
+
+
+            <taxonomy/>
+
+
+
+         </classDecl>
+
+
+
+      </encodingDesc>
+
+
+
+      <profileDesc/>
+
+
+
+      <revisionDesc status="draft">
+
+
+
+         <change when="2013-09-17">Agata Paluch</change>
+
+
+
+      </revisionDesc>
+
+
+
+   </teiHeader>
+
+
+
+   <text>
+
+
+
+      <body>
+
+
+
+         <div/>
+
+
+
+      </body>
+
+
+
+   </text>
+
+
+
+</TEI>

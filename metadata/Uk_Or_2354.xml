@@ -1,0 +1,198 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2354" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2354</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-gadol on Numbers, attributed to David Adani. </summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="167v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-gadol </title>
+							<title xml:lang="he">מדרש הגדול </title>
+							<note>
+								<p>Many marginal notes. </p>
+							</note>
+							<author key="http://viaf.org/viaf/19572491">
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="en">Adani, David ben Amram, active 13th century-14th century </persName>
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="he">העדני, דוד בן עמרם </persName>
+							</author>
+							<colophon xml:lang="he">נשלם <date when="1488" calendar="Seleucid">יום חמישי בשבא דהוא חמשה יומין לירח טבת של שנת א'ת'ש'צ'ט' שנין לשטרות</date> במאתא גרף אלערוס יחרוב ויצדי וירושלם תתבני ותשתכלל'.<locus n="163v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="2v" to="10r"/>
+								<title xml:lang="en">Midrash on Be-midbar</title>
+								<decoNote type="illustration">
+									<locus n="2r"/>Full-page geometrical design.</decoNote>
+								<decoNote type="border">
+									<locus n="164r"/>Full border, in pen and ink.</decoNote>
+								<decoNote type="other">Numerous pen and ink ornamental designs.<locus n="52r, 69v"/>
+								</decoNote>
+							</msItem>
+							<msItem rend="v">
+								<locus from="10r" to="31v"/>
+								<title xml:lang="en">Midrash on Naso᾿</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="31v" to="52r"/>
+								<title xml:lang="en">Midrash on Be-ha῾alotekha</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="52r" to="69v"/>
+								<title xml:lang="en">Midrash on Shelaḥ lekha</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="69v" to="82v"/>
+								<title xml:lang="en">Midrash on Ḳoraḥ </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82v" to="103v"/>
+								<title xml:lang="en">Midrash on Ḥuḳat </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="103v" to="116v"/>
+								<title xml:lang="en">Midrash on Balaḳ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="116v" to="138r"/>
+								<title xml:lang="en">Midrash on Pinḥas</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="138r" to="148v"/>
+								<title xml:lang="en">Midrash on Maṭot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="148v" to="163v"/>
+								<title xml:lang="en">Midrash on Masʿe</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>167 folios<dimensions type="leaf" unit="mm">
+										<height>250</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>167 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires: 1-11 of 10 leaves each, and 12-18 of 8 leaves each. </p>
+									<p>Signed with Hebrew letters at the and and beginning of quires; partially preserved. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="28" writtenLines="28">
+									<p>Marginal notes and additions. </p>
+									<p>Hard-point ruling visible. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Some poetical pieces appended on the end-flyleaves, on folio 1v and 164r.</p>
+							<p>
+								<name type="person" role="owner">Se'adyah</name>: inscribed, folio 164r, 163v. </p>
+							<p>
+								<name type="person" role="owner">Musa ibn Yaḥya Al-Sari</name>: inscribed, folio 2r, 163v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash Haggadol. Numbers. Hebrew. Brit. Mus. Oriental 2215.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1488" when-custom="1799" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1879-12-13</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio <locus n="fse001v">[168v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">354</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

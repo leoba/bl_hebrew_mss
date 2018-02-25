@@ -1,0 +1,147 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2546" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2546</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>Volume 3 of an Arabic commentary on the Pentateuch by Abu al-Faraj Furḳan.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="145v"/>
+							<title xml:lang="en">Perush Tana&quot;kh </title>
+							<title xml:lang="he">פרוש תנ"ך</title>
+							<note>
+								<p>The Hebrew text in Arabic characters, with the Hebrew vowel-points and accents in red ink, is embodied, comprising: Numbers 14:32-15:38, 17:26-28, 24:17-22, 32:6-42, 33:16-34:29, 36:1-13; Deuteronomy 2:15-23.</p>
+								<p>The work is arranged according to the weekly pericopes.</p>
+								<p>Sections of the Hebrew text, with an Arabic translation after each verse, precede each portion of the commentary.</p>
+								<p>Before each pericope some verses from other parts of the Bible are given.</p>
+								<p>At the end of a book and of a pericope the number of verses is indicated by means of Arabic letters in red ink.</p>
+							</note>
+							<filiation>Cf volume 1 of this work, Or 2544, <ref target="Margoliouth_1965" type="number">310</ref> and volume 2, Or 2545, <ref target="Margoliouth_1965" type="number">311</ref>.</filiation>
+							<author key="http://viaf.org/viaf/58767269">
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="ara-Latn-x-lc">Abu al-Faraj Furḳan, active 11th century</persName>
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="he">ישועה בן יהודה </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Naskhi hands of approximately 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>145 folios<dimensions type="leaf" unit="mm">
+										<height>202</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>95/100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>145 folios (+ 2 paper flyleaves at the beginning and 1 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each, marked in the left-hand upper corner with Arabic words. Modern restoration, many leaves now stuck on paper.</p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Imperfect at the beginning and at the end. Many lacunae.</p>
+									<p>Last portion is considerably damaged.</p>
+									<p>Many folios are severely worm-eaten.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14 18" writtenLines="14 18">
+									<p>At the end of a book and of a pericope the number of verses is indicated by means of Arabic letters in red ink.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Naskhi hands of approximately 12th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Pentateuch with Commentary. Hebrew and Arabic. Vol. III. Brit. Mus. Oriental 2546.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1100" notAfter="1199"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[146v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">312</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

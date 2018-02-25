@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5239" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5239</idno>
+					</msIdentifier>
+					<head>Genesis</head>
+					<msContents class="lccn.loc.gov/n80017837" rend="visible">
+						<summary>Genesis, with punctuation and interlinear French translation by <name type="person" role="author">Jacques d'Auzoles Lapeyre</name>.</summary>
+						<textLang mainLang="he" otherLangs="fr">Hebrew, French</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n85305131">
+							<locus from="3r" to="152v"/>
+							<title xml:lang="he-Latn-x-lc">Bereshit</title>
+							<title xml:lang="he">בראשית  </title>
+							<colophon xml:lang="fr">
+								<locus n="152r"></locus> Achevee par <persName>Jacques D'Auzolles Lapeyre</persName> Lan de grace 1622. Le XVIII. Decembre. </colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>152 folios<dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>152 (+ 3 unfoliated paper flyleaves at the beginning and 4 unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>18 quires of 8 leaves each and one quire of 6 leaves, nearly all marked with catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22" writtenLines="22">
+									<p>Uniform layout. </p>
+									<p>Ruling not visible.</p>
+									<p>Text in one column, with interlinear French translation in considerably smaller script. </p>
+									<p>Late 16th century paper with watermark in the shape of grapes (similar to Briquet no. 13219).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square Hebrew character, of 17th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>On folio [i recto] is the following note: L&apos;an 1637. Le XXVII jour d&apos;Avril le jeudi a quatre heures du soir par les misericordes infinies du bon Dieu Monseigneur l&apos;evesque de Montpellier a receu au giron de la St. Eglise Catholique Apostolique Romaine Monsieur d&apos;Auzoles mon tres cher frere. </p>
+							<p>Lower down, folio 3r: Dedié a Monseigneur Alphonse-Louys du Plesis de Richelieu Cardinal Archevesque de Lyon&quot;. </p>
+							<p>A small engraving of Cardinal Richelieu on folio 2v: &quot;La Genese en Hebreu et en francois par la Peyre. A monseigneur l&apos;Archevesque de Lyon.&quot; </p>
+							<p>At the foot of folio 3r: Ex libris Antonii Ducarbon.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, Harleian. On the outer side of each cover is the gilded coat of arms of the translator's family with the inscription:<quote>
+										<q>Ozolai. Plus en effect quen aparence</q>
+									</quote>at head.</p>
+								<p>Spine: &apos;La Genese. Hebr. et Franc. Lapeyre. P. Card. de Lyon. 1622. Mus. Brit. Bib. Harl. 5239. Plut. XXVIIIC. 5239.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1622"> </origin>
+						<provenance>
+							<p>
+								<name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p><quote></quote>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles </name>(b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.<quote/>
+							</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">111</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

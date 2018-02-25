@@ -1,0 +1,168 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-01</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1477" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1477</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008481" rend="visible">
+						<summary>Parts of the Hagiographa, provided with vowel-points and Arabic translation in alternate verses.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim </title>
+							<title xml:lang="he">כתובים  </title>
+							<locus from="1*" to="116v"/>
+							<msItem rend="v">
+								<locus from="1v" to="91v"/>
+								<title xml:lang="en">Psalms</title>
+								<note>
+									<p>Wanting chapters 2:3-18:48, 29:11-31:11, 32:7-37:8.</p>
+									<p>The Psalms are provided (up to Ps. 72)with special directions in Hebrew by a later hand, indicating their practical use for obtaining special favours or warding off certain calamities, with a heading 'Shemot Tehilim.'</p>
+								</note>
+								<incipit xml:lang="he">בעזרת אל סומך נופלים אתחיל לכתוב ספר תהלים.<locus n="1v"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="92v" to="108v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108v" to="114v"/>
+								<title xml:lang="en">Song of Songs</title>
+								<incipit xml:lang="he">בשם רחמן תפסיר שיר השירים לבעץ אלעלמא ז"ל.<locus n="108v"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="115v" to="116v"/>
+								<title xml:lang="en">Lamentations</title>
+								<note>
+									<p>Wanting chapters 1:17 to the end.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>116 folios<dimensions unit="mm" type="leaf">
+										<height>240</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>138</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>116 folios  (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p> Originally upwards of 14 quires mostly of 10 leaves each, but quires 2-14 are not preserved. </p>
+									<p>The quires are marked with catchwords on the last page.  </p>
+								</collation>
+								<condition>
+									<p>Several larger lacunas. Some leaves are imperfectly preserved. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23 24" writtenLines="23 24">
+									<p>The Psalms are divided into 5 parts. </p>
+									<p>The sedarim are marked in the margins, with a simple pen and ink design. </p>
+									<p>Occasional masoretic notes are preserved in the margins. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite (showing similarity to Persian) square script, punctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="1v, 113r"/> due to later hands, of approxiamtely 17th century. Psalms are also numbered by a later hand. </p>
+								<p>
+									<locus n="108r"/>a midrashic Targum on Song of Songs 1:1 is provided by a later hand. </p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yosef ben Seʿadyah ben Shalom</name>, inscribed with his name with no date, folio 115r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">24 November 1877</date> (folio <locus n="fse001v"/>[117v]).
+Folio <locus n="f001~r, f001~v"/> supplied by him on 11 May 1879.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">146</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

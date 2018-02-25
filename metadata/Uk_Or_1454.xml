@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1454" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1454</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="3r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>Exodus, Leviticus, Numbers, and Deuteronomy begin with a new column, four lines being left blank at the end of the preceding column. Every column begins with a new verse, and the initial letter is usually ו. </p>
+								<p>The Song Ha᾿azinu in Deuteronomy 32 written in 67 lines, preceded by six lines of text, with usual initial word, and one blank line. Verses 44-47 are written in five lines. </p>
+								<p>The second דרש in Lev. 10:16 is written at the beginning of the line, and the &quot;puncta extraordinaria&quot; are placed on the ten words prescribed by the masorah. </p>
+								<p>The Song of Moses, Exodus 15, and the five lines of text preceding and following it, are written in accordance with the rule. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 15th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>84 membranes, 226 columns. <dimensions type="leaf" unit="mm">
+										<height>546</height>
+										<width>28010</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>84 membranes, with header/wrapper (774mm long). </p>
+								</collation>
+								<condition>
+									<p>Salt or mould efflorescence. </p>
+									<p>Edge damage, surface abrasion, tears, and losses. Text partly illegible. </p>
+									<p>Some old patches with red rot. </p>
+									<p>Dark, hard or stretchy edges from manufacture. </p>
+									<p>Ink often flaked away. </p>
+									<p>Pleats and folds occasionally obscure text. </p>
+									<p>Some parts very wormed at edges and joins. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="226" ruledLines="51" writtenLines="51">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible pricking and stiching. </p>
+									<p>Made up of a number of fragments pieced together. </p>
+									<p>226 columns in total, one to seven columns per membrane. </p>
+									<p>No tagin, except for three tagin on שעטנזגץ in Ex. 14:28-20:21. The letter ח is arched in some of the fragments. </p>
+									<p>Majuscular and minuscular letter in accordance with the rules. </p>
+									<p>Special shape of the letter פ occurs frequently, inverted נ is placed before and after Num. 10:35-36.  </p>
+									<p>The &quot;puncta extraordinaria&quot; placed on the words fixed by masorah. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Oriental square script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">12</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

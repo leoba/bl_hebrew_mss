@@ -1,0 +1,214 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4114" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4114</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A collection of liturgical poems, Yemenite rite.</summary>
+						<textLang mainLang="he" otherLangs="jrb"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="230v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭim</title>
+							<title xml:lang="he">פיוטים</title>
+							<decoNote type="border">
+								<locus n="2r"/>1 decorated title page, in red and black ink.</decoNote>
+							<decoNote type="diagram">
+								<locus n="2v"/>3 circular designs, in red and black ink.</decoNote>
+							<note>
+								<p>The poems were apparently in use in Yemen at the celebration of marriages and the rite of circumcision. Many pieces were composed by <name type="person" role="author">Shalem Shabezi</name> (b. 1619, d. 1686). Some of the poems include kabbalistic comments of various provenance.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/62734261">Shabazi, Shalem</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/62734261">שבזי, שלום בן יוסף</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="4r" to="67r"/>
+							<title xml:lang="he-Latn-x-lc">Nashod</title>
+							<note>
+								<p>Contains 112 numbered pieces.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="67r" to="198r"/>
+							<title xml:lang="he-Latn-x-lc">Shirot</title>
+							<note>
+								<p>Contains 110 numbered pieces.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="198r" to="206r"/>
+							<title xml:lang="he-Latn-x-lc">Zif᾿at</title>
+							<note>
+								<p>Consists of 17 pieces.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="206r" to="216r"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="216r" to="219v"/>
+							<title xml:lang="he-Latn-x-lc">Nusaḥ birkat nisu᾿in u-virkat erusin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="219v" to="220v"/>
+							<title xml:lang="he-Latn-x-lc">Nusaḥ birkat va-milah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="220v" to="223v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥaduyot</title>
+							<note>
+								<p>Poems of rejoicing, consisting of 12 pieces.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="223v" to="224v"/>
+							<title xml:lang="he-Latn-x-lc">Birkat ha-oreaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="224v" to="225r"/>
+							<title xml:lang="he-Latn-x-lc">At ben ῾etse ῾eden </title>
+							<note>
+								<p>An explanation of the poem.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="225r" to="230v"/>
+							<title xml:lang="he-Latn-x-lc">Mafteaḥ al-nashod</title>
+							<note>
+								<p>Folowed by similar indices for the remaining sections.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th to 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>230 folios <dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>85</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>50</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>230 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Defective at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="27 38" writtenLines="27 38">
+									<p>Uniform layout. </p>
+									<p>Visible vertical hard-point ruling.</p>
+									<p>Initial words and titles written in larger characters and highlighted in red ink.</p>
+									<p>Running titles and section enumeration highlighted in red ink.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script, unpunctuated, of the 17th to 18th century. <name type="person" role="scribe">Yosef ben Se῾id</name>: inscribed, folio 229v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: an explanation of the term 'diwan'.</p>
+							<p>Folios 229v-230r: a subscription of the scribe.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Divan of Shalom ben Joseph Shabeze. Hebrew &amp; Arabic. Brit. Mus. Oriental Ms. 4114.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1890-04-14</date>
+							<p>Mrs <name type="person" role="owner">Wright</name>: purchased from her by the British Library on 14 April 1890: inscribed, folio 230v.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">721</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

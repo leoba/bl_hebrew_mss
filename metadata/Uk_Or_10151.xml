@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader rend="visible">
+    <fileDesc>
+      <titleStmt>
+        <title>Hebrew Manuscripts Catalogue</title>
+        <principal>Ilana Tahan</principal>
+        <funder>BL</funder>
+        <sponsor>The National Library of Israel</sponsor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Library</publisher>
+        <pubPlace/>
+        <date calendar="Gregorian">2016-10-04</date>
+        <idno>Uk</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title/>
+            <sponsor>The National Library of Israel</sponsor>
+          </titleStmt>
+          <publicationStmt>
+            <p/>
+          </publicationStmt>
+        </biblFull>
+        <msDesc xml:id="Uk_Or_10151" xml:lang="en" rend="all">
+          <msIdentifier rend="visible">
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <institution>British Library</institution>
+            <repository>Oriental Manuscripts</repository>
+            <collection>Hebrew Manuscripts Digitisation Project</collection>
+            <idno>Or 10151</idno>
+            <altIdentifier type="former">
+              <idno>Gaster 1493</idno>
+            </altIdentifier>
+            <altIdentifier type="IAMS-ID">
+              <idno>032-003346931</idno>
+            </altIdentifier>
+            <altIdentifier type="MDARK">
+              <idno>ark:/81055/vdc_100036142950.0x000001</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <head>Collection of texts for the Ninth of Av </head>
+          <msContents rend="visible">
+            <summary>Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic</summary>
+            <textLang mainLang="he"/>
+            <msItem rend="visible">
+              <locus from="1r" to="59v"/>
+              <textLang mainLang="he"/>
+              <author/>
+              <title xml:lang="he">קינות לתשעה באב</title>
+              <title xml:lang="he-Latn-x-lc">Ḳinot le-Tishʻah be-Av</title>
+              <incipit/>
+              <note><p>Including lamentation liturgies for Ninth of Av (1a-9), the kerovah for the
+                  Ninth of Av, וארץ שפל רומי ונקלה כבודי by <persName>Shelomoh ben
+                    Yehudah</persName>, and daytime lamentations for the Ninth of
+                  Av.</p><p>Incomplete at the beginning (Hebrew foliation shows that at least 6
+                  leaves are missing).</p></note>
+            </msItem>
+            <msItem rend="visible">
+              <locus from="60r" to="61r"/>
+              <textLang mainLang="jrb-Hebr"/>
+              <title xml:lang="he">מספורי החורבן בערבית</title>
+              <title xml:lang="he-Latn-x-lc">Me-sipure ha-Ḥurban be-ʿaravit</title>
+              <note><p>Stories of the destruction of the Temple in
+                  Judeo-Arabic.</p><p>Incomplete.</p></note>
+            </msItem>
+            <msItem rend="visible">
+              <locus from="62r" to="74v"/>
+              <textLang mainLang="jrb-Hebr"/>
+              <title xml:lang="he">הפטרה לט"ב בתרגום ערבי</title>
+              <title xml:lang="he-Latn-x-lc">Hafṭarah la-Ṭ[isha] b[e-Av] be-targum ʿaravi</title>
+              <note><p>Jeremiah 8:13-9:24 in Arabic translation.</p><p>Incomplete at the
+                end.</p></note>
+            </msItem>
+          </msContents>
+          <physDesc rend="visible">
+            <p>Paper codex of the 18th century.</p>
+            <objectDesc form="codex">
+              <supportDesc material="chart">
+                <support>Paper withg laid lines and chain lines, <watermark>watermark is partially
+                    visible: "ALLA ... COL...".</watermark></support>
+                <extent>74 folios (i+74+i)<dimensions type="leaf" unit="mm">
+                    <height>117</height>
+                    <width>90</width>
+                  </dimensions><dimensions type="written" unit="mm">
+                    <height>90</height>
+                    <width>62</width>
+                  </dimensions></extent>
+                <foliation><p>Foliation in Arabic numerals in pencil not counting the blank leaves
+                    between fols. 59 and 60 and fols. 60 and 61. Parallel Hebrew foliation in ink
+                    (fol. 1=fol. ז), which includes the blank leaves.</p></foliation>
+                <collation><p>13 quires: i<hi rend="sup">4</hi>, ii<hi rend="sup">8</hi>, iii<hi
+                      rend="sup">8-3</hi>, iv-xi<hi rend="sup">8</hi>, xii<hi rend="sup">6</hi>,
+                      xiii<hi rend="sup">4</hi>. Quire ix, x, and xi also includes unfoliated blank
+                    leaves.</p><p> Lacunae after fols. 4, 64, 70.</p><p>There is no lacuna between
+                    fol. 17 and 18, thus the 3 leaves which were cut off at the end of quire iii,
+                    must have been removed during production.</p></collation>
+                <condition><p>Usage stains, smudged ink.</p><p>Water damage.</p></condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1"><p>Not uniform layout.</p><p>Initial words at the beginning of
+                    sections are in bigger, square script, often decorated.</p><p>Ruling is
+                    visible.</p></layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc hands="1">
+              <summary>Sephardi semi-cursive and square scripts.</summary>
+              <handNote script="Hebrew" scope="sole"/>
+            </handDesc>
+            <decoDesc>
+              <decoNote type="initial">Decorated initial words (e.g. 56v).</decoNote>
+              <decoNote>Pen drawing of a human figure and a plant? on fol. 61bv.</decoNote>
+            </decoDesc>
+            <additions/>
+            <bindingDesc>
+              <binding>
+                <p>Post-1600, green cloth binding. </p>
+                <p>Spine with M. Gaster's label: 'קינות Maroco &amp; HebrArab Haftara XVII.'</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history rend="visible">
+            <origin><origDate notBefore="1700" notAfter="1799">18th
+              century</origDate><origPlace/></origin>
+            <provenance><p/></provenance>
+            <acquisition><date>1924-04-12</date><p><name type="person">Moses Gaster</name> (b. 1856,
+                d. 1939), scholar and rabbi: his manuscript, Cod. G. 1493: inscribed with his name
+                on fol. 1r; purchased by the British Museum from him on 12 April, 1924; date of
+                accession 23 March 1932: inscribed on back flyleaf (i)r.</p></acquisition>
+          </history>
+          <additional rend="visible">
+            <adminInfo>
+              <recordHist>
+                <source>Catalogue of Hebrew Manuscripts in the Gaster Collection, the British
+                  Library, London (London: Hebrew Section. Oriental and India Office Collection,
+                  1996).</source>
+              </recordHist>
+              <availability status="free">
+                <p/>
+              </availability>
+              <note/>
+            </adminInfo>
+            <listBibl>
+              <bibl><ref/></bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <bibl/>
+        <listBibl>
+          <bibl/>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc/>
+    <revisionDesc status="draft">
+      <change when="2016-10-04">Zsofia Buda</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div/>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,640 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-31</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2512" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2512</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003314002</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031723498.0x000001</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Fragments of Japhet ben Ali's Arabic commentary on the book of Job</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>Fragments of Japhet ben Ali's Arabic commentary on the book of Job.</summary>
+						<textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="58v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Iyov</title>
+							<title xml:lang="he">פרוש איוב</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, square and semi-cursive script of 14th to 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>[ii]+58+[ii]
+								</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1300" notAfter="1699">14th-17th century</origDate>
+						</origin>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, back flyleaf [i]v.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 298.</bibl>
+						</listBibl>
+					</additional>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>I</idno>
+						</altIdentifier>
+						<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+							<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+							<msItem n="0" rend="" class="lccn.loc.gov/sh85013597">
+								<author>
+									<persName xml:lang="he-Latn-x-lc" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi,‏ active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<locus from="1r" to="7v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>An introduction and a fragment of Yefet's commentary on Job 1:1.</p>
+									<p>The pointed Hebrew text of Job 1:1 with an Arabic translation is embodied.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square and semi-cursive script of 16th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper codex</support>
+									<extent>7 folios<dimensions type="leaf" unit="mm">
+											<height>205</height>
+											<width>148</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>167</height>
+											<width>105</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 1-7</p>
+									</foliation>
+									<collation>
+										<p>Part of a single quire, signed on the lower margin of the last page.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="19" writtenLines="19">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square and semi-cursive script of 16th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>II</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+							<msItem rend="" class="lccn.loc.gov/sh85013597">
+								<locus from="8r" to="9v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>Comprises fragments of Job 5:15-6:4.</p>
+									<p>Of the Hebrew text only the first words of verses are given.</p>
+									<p>The full Hebrew text, with an Arabic translation, has been added in the margin by a later hand.</p>
+								</note>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi,‏ active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper leaf</support>
+									<extent>2 folios<dimensions type="leaf" unit="mm">
+											<height>195</height>
+											<width>140</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>180</height>
+											<width>120</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 8-9</p>
+									</foliation>
+									<collation>
+										<p>A small part of a single quire.</p>
+									</collation>
+									<condition>
+										<p>The latter portions are in a very bad condition and in many stances hardly legible.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="25" writtenLines="25">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="sole"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>III</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+							<msItem rend="">
+								<locus from="10r" to="13v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi,‏ active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<note>
+									<p>Comprises fragments of the commentary on Job 8:14-22, 9:9-17.</p>
+									<p>Of the Hebrew text only the opening words of each verse are given, an Arabic translation being added.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>4 folios<dimensions type="leaf" unit="mm">
+											<height>196</height>
+											<width>142</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>167</height>
+											<width>105</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 10-13</p>
+									</foliation>
+									<collation>
+										<p>Two single leaves.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="24" writtenLines="24">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>IV</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="http://lccn.loc.gov/sh85013597">
+							<msItem rend="">
+								<locus from="14r" to="43v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>Comprises Yefet's commentary on Job 10:13-11:5, 12:22-13:20, 14:15-17:10, 18:1-21:23, 21:34-24:22.</p>
+									<p>Of the Hebrew text only the opening words of each verse are given, but the text has been added in full in a margin by a later hand, an Arabic translation following each verse, as in part II.</p>
+								</note>
+								<filiation>A fragment of the same manuscript as in part II above.</filiation>
+								<author>
+									<persName xml:lang="he-Latn-x-lc" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi,‏ active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="codex">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>29 folios<dimensions type="leaf" unit="mm">
+											<height>195</height>
+											<width>142</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>185</height>
+											<width>125</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 14 to 43</p>
+									</foliation>
+									<condition>
+										<p>Gaps after folios 15, 17, 25, 35.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="25" writtenLines="25">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>V</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<msItem rend="">
+								<locus from="44r" to="47v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>Comprises the commentary on Job 24:6-16, 26:4-14.</p>
+									<p>Of the Hebrew text only the opening words of each verse are given, an Arabic translation is added.</p>
+								</note>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi,‏ active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>4 folios<dimensions type="leaf" unit="mm">
+											<height>191</height>
+											<width>140</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>162</height>
+											<width>110</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 44-47</p>
+									</foliation>
+									<collation>
+										<p>Four separate leaves.</p>
+									</collation>
+									<condition>
+										<p>There is a gap after folio 45.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="23 24" writtenLines="23 24">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>VI</idno>
+						</altIdentifier>
+						<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+							<msItem rend="">
+								<locus from="48r" to="49v"/>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>Comprises the commentary on Job 34:24-37.</p>
+									<p>There are marginal aditions similar to those in part II and IV of this codex.</p>
+								</note>
+								<filiation>A part of the same manuscript as part II and IV of this volume.</filiation>
+								<author>
+									<persName xml:lang="he-Latn-x-lc" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi, active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>2 folios<dimensions type="leaf" unit="mm">
+											<height>191</height>
+											<width>150</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>185</height>
+											<width>125</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folio 48-49</p>
+									</foliation>
+									<collation>
+										<p>Two leaves of a single quire.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="25" writtenLines="25">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>VII</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<msItem rend="">
+								<locus from="50r" to="50v"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi, active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>Comments on Job 35:13-15.</p>
+									<p>The pointed and accentuated Hebrew text and an Arabic translation are embodied.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; semi-cursive script of the 16th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>1<dimensions type="leaf" unit="mm">
+											<height>257</height>
+											<width>150</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>165</height>
+											<width>110</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folio 50</p>
+									</foliation>
+									<collation>
+										<p>A single leaf, being the first in a quire, marked with a Hebrew letter on the upper margin.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="21" writtenLines="21">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Semi-cursive script of the 16th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="visible">
+						<altIdentifier type="internal">
+							<idno>VIII</idno>
+						</altIdentifier>
+						<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+							<msItem rend="">
+								<locus from="51r" to="51v"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi, active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>The commentary on Job 36:20-30.</p>
+									<p>Has marginal notes as in part II.</p>
+								</note>
+								<filiation>Part of the same manuscript as part II and IV above.</filiation>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square character of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>1<height/>
+										<width/>
+										<height/>
+										<dimensions type="leaf" unit="mm">
+											<height/>
+											<width/>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folio 51</p>
+									</foliation>
+									<collation>
+										<p>A single leaf.</p>
+									</collation>
+									<condition>
+										<p>Mutilated in the margin.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="25" writtenLines="25">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square character of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>IX</idno>
+						</altIdentifier>
+						<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+							<msItem rend="">
+								<locus from="52r" to="52v"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi, active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>The commentary on Job 41:4-12.</p>
+									<p>Of the Hebrew text only the opening words of each verse are given, an Arabic translation is added.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square script of the 14th century.</p>
+							<objectDesc form="leaf">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>1<dimensions type="leaf" unit="mm">
+											<height>191</height>
+											<width>150</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>180</height>
+											<width>127</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folio 52</p>
+									</foliation>
+									<collation>
+										<p>A single leaf.</p>
+									</collation>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="27 28" writtenLines="27 28">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square script of the 14th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+					<msPart rend="">
+						<altIdentifier type="internal">
+							<idno>X</idno>
+						</altIdentifier>
+						<msContents rend="visible" class="lccn.loc.gov/sh85013597">
+							<msItem rend="">
+								<locus from="53r" to="58v"/>
+								<author>
+									<persName xml:lang="en" key="viaf.org/viaf/54984961">Japhet ben Ali, ha-Levi, active 10th century</persName>
+									<persName xml:lang="he" key="viaf.org/viaf/54984961">יפת בן עלי, הלוי</persName>
+								</author>
+								<title xml:lang="en">Commentary on Job</title>
+								<note>
+									<p>The commentary on Job 41:18-23, 42:6-10, 17.</p>
+									<p>The pointed Hebrew text of chapters 41:19-23, 42:7-11, with an Arabic translation, is embodied.</p>
+								</note>
+							</msItem>
+						</msContents>
+						<physDesc rend="visible">
+							<p>Paper; square and semi-cursive script of the 17th century.</p>
+							<objectDesc form="other">
+								<supportDesc material="chart">
+									<support>Paper</support>
+									<extent>6 folios<dimensions type="leaf" unit="mm">
+											<height>257</height>
+											<width>150</width>
+										</dimensions>
+										<dimensions type="written" unit="mm">
+											<height>160</height>
+											<width>105</width>
+										</dimensions>
+									</extent>
+									<foliation>
+										<p>Folios 53-58</p>
+									</foliation>
+									<collation>
+										<p>A part of the 14th quire of a manuscript, signed on the upper (inner) margin of the first page and on the lower margin of the last page.</p>
+									</collation>
+									<condition>
+										<p>A gap after folios 53 and 58.</p>
+									</condition>
+								</supportDesc>
+								<layoutDesc>
+									<layout columns="1" ruledLines="19" writtenLines="19">
+										<p>Uniform layout.</p>
+									</layout>
+								</layoutDesc>
+							</objectDesc>
+							<handDesc hands="1">
+								<summary>Square and semi-cursive script of the 17th century.</summary>
+								<handNote script="Hebrew" scope="major"/>
+							</handDesc>
+						</physDesc>
+					</msPart>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-31">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

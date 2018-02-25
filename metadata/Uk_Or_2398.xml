@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2398" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2398</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An Arabic commentary on the weekly sections Be-shalaḥ, Yitro and Mishpaṭim (Exodus 13:17-24:18).</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="270v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Shemot</title>
+							<title xml:lang="he">פרוש שמות </title>
+							<note>
+								<p>The unpointed Hebrew text of chapters 13:17-14:5, 14:29-15:19, 15:22-20:26, 21:12-24:18 is embodied. </p>
+								<p>Each Hebrew verse is followed by an Arabic translation.</p>
+							</note>
+							<filiation>The contents of this volume agree with the corresponding portions of Or 2545, <ref target="Margoliouth_1965" type="number">311</ref>.</filiation>
+							<author key="http://viaf.org/viaf/58767269">
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="he-Latn-x-lc">Abu al-Faraj Furḳan, active 11th century <addName>Yeshuʻah ben Yehudah</addName>
+								</persName>
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="he">ישועה בן יהודה</persName>
+							</author>
+							<incipit xml:lang="he">בשם י'י נע' ונצ' פראשה מקדמה לאמר לאסורים צאו וכו'.<locus n="2r"/>
+							</incipit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 13th to 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>270 folios<dimensions type="leaf" unit="mm">
+										<height>212</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>85/90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>270 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally 32 quires of 10 leaves each, with exception of 8th and 9th which have 11 and 8 leaves respectively).</p>
+									<p>Signatures in Hebrew letters on the left-hand upper corner of the first page of a quire are found on folios 63r, 74r, 82r, 92r, 102r, 112r, 122r, 142r, 152r.</p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Imperfect at the beginning and at the end. Lacunae after folios 3 and 6, and quires 17-20 are entirely lost.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>The unpointed Hebrew text is embodied.</p>
+									<p>Has many marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square and semi-cursive script of 13 to 14th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 270r-270v - contains doodles, magical squares, etc.</p>
+							<p>
+								<name type="person" role="owner">Yosef ben Mosheh</name>: inscribed, folio 1v.</p>
+							<p>
+								<name type="person" role="owner">Mosheh Firūz Ḳara᾿i</name>: inscribed, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Caraite Commentary on Exodus. Arabic. Brit. Mus. Oriental 2398.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse001v"> [271v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">313</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

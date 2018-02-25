@@ -1,0 +1,192 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18685" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18685</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer mitsṿot ḳaṭan of Isaac of Corbeil, Tashbets of Shimshon ben Tsadoḳ, She῾are Dura and Hilkhot nidah of Isaac Dueren. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1v" to="184r"/>
+							<title xml:lang="en">Sefer mitsṿot ḳaṭan  </title>
+							<title xml:lang="he">ספר מצות קטן </title>
+							<note>
+								<p>The number of paragraphs in the body of the work is 315; the index contains 340 simanim. </p>
+								<p>An epistle is appended before the index, folio 177v-178r. </p>
+							</note>
+							<author key="http://viaf.org/viaf/4009920">
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="en">Isaac ben Joseph, of Corbeil, active 13th century </persName>
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="he">יצחק בן יוסף, מקורביל  </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="184r" to="235r"/>
+							<title xml:lang="he-Latn-x-lc">Tashbets  </title>
+							<title xml:lang="he">תשב"ץ</title>
+							<author key="http://viaf.org/viaf/8698827">
+								<persName key="http://viaf.org/viaf/8698827" xml:lang="en">Samson ben Zadok, -1312 </persName>
+								<persName key="http://viaf.org/viaf/8698827" xml:lang="he">שמשון בן צדוק  </persName>
+							</author>
+							<note>
+								<p>The number of paragraphs in both the body of the work and the index is 463. The index precedes the work itself. </p>
+								<p>The hagahot are aritten in smaller characters, but are embodied in the columns of text. They are signed 'morenu rabi Perets' or 'Roḳeaḥ.' </p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="235v" to="258r"/>
+							<title xml:lang="he-Latn-x-lc">Sha῾are Dura </title>
+							<title xml:lang="he">שערי דורא </title>
+							<author key="http://viaf.org/viaf/9742647">
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="en">Dueren, Isaac ben Meir, active 13th century </persName>
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="he">יצחק בן מאיר, מדורא  </persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Shaare_Dura_1547"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>The index to the work is given on folio 264r. </p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="258r" to="264v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot nidah </title>
+							<title xml:lang="he">הלכות נדה </title>
+							<author key="http://viaf.org/viaf/9742647">
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="en">Dueren, Isaac ben Meir, active 13th century </persName>
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="he">יצחק בן מאיר, מדורא  </persName>
+							</author>
+							<note>
+								<p>Contains 25 sections. </p>
+							</note>
+							<colophon xml:lang="he">חזק ונתחזק <name type="person" role="scribe">שמשון בר' אלעזר</name> הסופר: סיימתי הספר: שבח לאשכל הכפר: ועונותינו יכפר: ועצת אויבינו יפר:<locus n="264v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>265 folios <dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>265 folios (+ 1 unfoliated paper flyleaf and 2 unfoliated vellum flyleaves at the beginning and at the end). Folio 265 is an old vellum flyleaf.  </p>
+								</foliation>
+								<collation>
+									<p>33 quires of 8 leaves each, marked by catchwords at the end. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="31" writtenLines="30">
+									<p>Uniform layout. Visible pricking and complete ruling with a plummet. </p>
+									<p>Hair-side and flesh-side of the folios indistinguishable. Visible scraping. </p>
+									<p>Last line written inside the ruling. </p>
+									<p>Initial words given in larger square characters. </p>
+									<p>Catchwords enclosed in pen and ink designs. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the latter part of the 14th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A note on the local liturgical custom, in Hebrew, dated <date calendar="Hebrew">5153 </date>(<date calendar="Gregorian">1393</date>), <name type="place">Trier</name>. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Dark brown leather. Boxed. </p>
+								<p>Spine title: 'Isaac of Corbeil. Sepher Ham-Mitsvoth Katan. Samson ben Zadok: Tashbes. Hebrew. Brit. Mus. Additional 18,685.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1350" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany </name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1851-05-24</date>
+							<p>
+								<name type="person" role="owner">M. Asher</name>: purchased from him by the British Museum on 24 May 1851: inscribed (folio <locus n="fse001v">[266v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">513</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

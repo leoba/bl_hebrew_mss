@@ -1,0 +1,162 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27063" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27063</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A commentary on the Zohar, Numbers.</summary>
+						<textLang mainLang="he">Aramaic of the Zohar</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="156v"/>
+							<title xml:lang="he-Latn-x-lc">Or yaḳar (Be-midbar)</title>
+							<title xml:lang="he">אור יקר (במדבר)</title>
+							<note>
+								<p>The colophon on folio 145v has been crossed out. The colophon at the end (folio 277v) combines the author's colophon with the entry of the scribe, copied from another manuscript. </p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/12317536">Cordovero, Moses ben Jacob, 1522-1570</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/12317536">קורדוברו, משה, 1522-1570</persName>
+							</author>
+							<colophon xml:lang="he">היום ילדתיהו אני הצעי' משה בן לא"א הר' יעקב קורדואירו בחדש אדר ראשון משנת השכ"ג ליציר' פה צפת תות"ב, ונשלם ההעתק' ר"ח ניסן <date calendar="Hebrew">השמ"ז</date>.<locus n="277v"/>
+							</colophon>
+							<colophon xml:lang="he">תם ונשלם ת"ל ע"י הצעיר <name type="person" role="scribe">שלמה בכמ' שמואל מרושינה</name> זצל לכבוד והדר המשכיל דורש אלקי' כמה' <name type="person" role="scribe">יעקב פוייט'</name> יצ"ו פה <name type="place">אסטי</name> י"ח כסלו <date calendar="Hebrew">שמ"ב</date>.<locus n="145v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the second half of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>156 folios<dimensions type="leaf" unit="mm">
+										<height>270</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185/230</height>
+										<width>155/180</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>156 folios (+3 unfoliated paper flyleaves at the beginning and 4 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Original Hebrew foliation, 1-134 (agreeing with folios 12-145).</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="5 33" writtenLines="5 33">
+									<p>Uniform layout. Text and commentary mostly written in parallel columns.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Initial words in larger square characters.</p>
+									<p>Running titles.</p>
+									<p>A number of marginal notes and comments.</p>
+									<p>Folios 6, 8-11 blank.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian cursive scripts (for the main text and for the commentary) of the second half of the 16th century. <name type="person" role="scribe">Ya῾aḳov ben Mordekhai Pogeṭṭi</name>: inscribed in the colophon, folio 145v. <name type="person" role="scribe">Shelomoh ben Shemu᾿el</name>: inscribed in the colophone, folio 145v.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="146r"/>: the commentary on these folios probably written by Shelomoh ben Shemu᾿el. The rest of the manuscript written by Ya῾aḳov ben Mordekhai Pogeṭṭi.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Censored by <name type="person" role="censor">Boniforte del Asinary</name>: Italian censor (active 1575-1599 in Asti): inscribed with his name: 'Visto et coretto per me Boniforte del Asinary' (folio 145v); see <ref target="Popper_1969" type="number">V</ref>.</p>
+							<p>Censored by <name type="person" role="censor">Hieronimus Carolus</name>: inscribed with his name: 'Inqu. Asti. Die 19 Febr. 1582' (folio 145v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Moses Cordovero. Or Yakar. Hebrew. Brit. Mus. Additional 27,063.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]342-[5]347" notBefore="1582" notAfter="1587" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Asti</name> and <name type="place">Ferrara</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 168: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [158v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">776</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

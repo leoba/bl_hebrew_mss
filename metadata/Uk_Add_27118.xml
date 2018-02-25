@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27118" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27118</idno>
+					</msIdentifier>
+					<head>Ḥidushim</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Contains novellae and notes on various parts of the Talmud.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="121v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥidushim </title>
+							<title xml:lang="he">חדושים </title>
+							<msItem rend="v">
+								<locus from="2r" to="110r"/>
+								<title xml:lang="en">Novellae</title>
+								<note>
+									<p>Novellae on Yevamot starts on folio 2r, on Ketuvot on folio 36v, on Ḳidushin on folio 66r, and on Giṭin on folio 83r.</p>
+								</note>
+								<author key="http://viaf.org/viaf/7263057">
+									<persName key="http://viaf.org/viaf/7263057" xml:lang="en">Al-Mandari, Yehuda, active 13th century-14th century</persName>
+									<persName key="http://viaf.org/viaf/7263057" xml:lang="he">אלמנדרי, יהודה בן אלעזר </persName>
+								</author>
+								<incipit xml:lang="he">בשם רחמנא אתחיל לכתוב פירוש סדר נשים רבתי שפירש והוציא לאור כג"ק מרנא ורבנא יהודה הכהן הר' הג' בן כבוד מרנא ורבנא <name type="person" role="author">אלעזר החסיד</name> זצ"ל.<locus n="2r"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="110r" to="121v"/>
+								<title xml:lang="en">Novellae on Bava metsi῾a </title>
+								<note>
+									<p>Contains a greater part of novellae on the first chapter of Bava metsi῾a.</p>
+								</note>
+								<author key="http://viaf.org/viaf/27494766">
+									<persName key="http://viaf.org/viaf/27494766" xml:lang="en">Adret, Solomon ben Abraham, 1235-1310</persName>
+									<persName key="http://viaf.org/viaf/27494766" xml:lang="he">אדרת, שלמה בן אברהם אבן (רשב"א), 1235-1310 </persName>
+								</author>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>121 folios <dimensions unit="mm" type="leaf">
+										<height>302</height>
+										<width>215</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>290</height>
+										<width>170</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>121 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="42" writtenLines="42">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Chapter titles and initials given in larger cursive characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Jehudah hac-Cohen. Comm. on Yebamoth. Etc. Hebrew. Brit. Mus. Additional 27,118.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 225; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed (<locus n="fse002v">[123v]</locus>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">431</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

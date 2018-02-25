@@ -1,0 +1,196 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Harley_5509" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5509</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  ccn.loc.gov/n80008477" rend="visible">
+						<summary>The Latter Prophets, accentuated and punctuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="en">Nevi᾿im </title>
+							<title xml:lang="he">נביאים </title>
+							<locus from="1r" to="131v"/>
+							<msItem rend="v">
+								<title xml:lang="en">Isaiah</title>
+								<locus from="1r" to="28r"/>
+								<note>
+									<p>Missing chapters: 1:1-13:14.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Jeremiah</title>
+								<locus from="28r" to="69v"/>
+								<note>Wanting chapters 20:11 - 22:11.<p>Missing chapters: 31:18-32:39.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="69v" to="111r"/>
+								<title xml:lang="en">Ezekiel</title>
+								<note>
+									<p>Missing chapters 22:29-23:29.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="111r" to="115v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Joel</title>
+								<locus from="115v" to="117v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="117v" to="122v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="122v" to="123r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="123r" to="124v"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="124v" to="127v"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="127v" to="128v"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="128v" to="130r"/>
+								<title xml:lang="en">Habakuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="130r" to="131v"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus n="131v"/>
+								<title xml:lang="en">Haggai</title>
+								<note>
+									<p>Missing chapters: 1:5-3:23.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>131 folios <dimensions unit="mm" type="leaf">
+										<height>295</height>
+										<width>240</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>157</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>131 folios (+3 unfoliated paper flyleaves at the beginning and 4 at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>17 quires of mostly 8 leaves, marked with catchwords on the last page. </p>
+									<p>Imperfect at the beginning and at the end.  </p>
+								</collation>
+								<condition>
+									<p>A number of pages are stained; ink (brown) is partly fading.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>Visible pricking and ruling with brown ink. </p>
+									<p>Jeremiah and Jonah open a new column. </p>
+									<p>The chapters have been numbered with Hebrew letters. </p>
+									<p>Masorah magna occupies two lines in the upper and three in the lower margin of each page. Omitted after folio 86. </p>
+									<p>The beginning of the Hafterot is frequently marked in the margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Sefardi square script of  approximately 14th century. </summary>
+							<handNote script="Hebrew" scope="major">
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Harleian binding. Harley gold stamp 'VIRTUTE ET FIDE' applied to the outside of the upper and lower covers.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley </name>(b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley </name>(b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">137</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

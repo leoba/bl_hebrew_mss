@@ -1,0 +1,146 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-22</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2479" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2479</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A fragment of Judeo-Arabic commentary of Japheth ben Ali on Deuteronomy 26-34.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="92v"/>
+							<title xml:lang="he-Latn-x-lc">Perush devarim</title>
+							<title xml:lang="he">פרוש דברים</title>
+							<note>
+								<p>Concerns Deut. 26-34.</p>
+								<p>The pointed text of Deut. 26:2-29:5 and 29:9-34:12 is embodied, followed by the Arabic translation.</p>
+								<p>Folio 159v contains the genealogy of the scribe.</p>
+							</note>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi, active 10th century</persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<filiation>Cf. a similar handwriting of <ref target="Margoliouth_1965" type="number">271</ref> and <ref target="Margoliouth_1965" type="number">274</ref>.</filiation>
+							<colophon xml:lang="he">נשלם ב<date when="1603" calendar="Hebrew">יום ראשון בשבוע ששה ימים מחדש שבט שנת ה"ש"ס"ג"</date> וכתב הדל הנבזה שפל ורזה הצ' <name type="person" role="scribe">יעקב חזן ב'כ'ר' ישועה חזן</name> נ"ע ושלום רב וישע יקרב א'<locus n="77r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, square and semi-cursive script of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>159 folios<dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>159 folios (+ 2 paper flyleaves at the beginning and at the end)</p>
+								</foliation>
+								<collation>
+									<p>16 quires, of mostly 10 leaves each, the 1st and the 5th having only 9 leaves, and the 8th quire - 11 leaves.</p>
+									<p>Quires signed with Hebrew letters and Arabic words on the upper margin of the first page, and with Hebrew letters on the lower margin of the last page.</p>
+								</collation>
+								<condition>
+									<p>The upper part of folio 1 is torn off.</p>
+									<p>Slightly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>The pointed Hebrew biblical text is embodied.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script of the 17th century.<name type="person" role="scribe">Ya῾aḳov Ḥazan ben Yeshu῾ah Ḥazan</name>: inscribed, folios 77r, 159v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Com. on Deuteronomy. Arabic. Brit. Mus. Oriental 2479.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5363" calendar="Hebrew" when="1603"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[160v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">275</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-01-22">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

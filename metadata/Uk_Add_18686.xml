@@ -1,0 +1,170 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18686" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18686</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A fragment of an anonymous commentary on the Former Prophets.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="57v"/>
+							<title xml:lang="he-Latn-x-lc">Perush</title>
+							<title xml:lang="he">פירוש</title>
+							<note>
+								<p>Many explanations of terms are given in an old French (12th century) see 4r, 16r, 19r, 21v.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="3r" to="10v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="10v" to="22v"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="22v" to="27r"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>Only three folios with the commentary on 1Samuel and one folio on 2Samuel are preserved, folios 22v-27r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="27r" to="55r"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>2Kings begin on folio 43r.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and vellum codex, Sefardi (Provencal) semi-cursive script, unpunctuated, of 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Mixed paper and vellum.</support>
+								<extent rend="visible">57 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>57 folios (+ 4 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Irregular number of leaves in the quire.</p>
+									<p>Folios 1-2 and 56-57 constitute one large folio each, folded in two.</p>
+								</collation>
+								<condition>
+									<p>Has lacunae after folios: 10, 17, 21, 25, 26, 31, 46, 47, 50, 54.</p>
+									<p>Partially water-damaged. Several stains.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="25" writtenLines="25" columns="1">
+									<p>One column, 25 regular lines.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (Provencal) semi-cursive script, unpunctuated, of 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 1r-2v and 56r-57v contain a notarial instrument of Bertrand de Rua of Toulouse, regarding debts held by various people towards Master Salomon Mosse, dated 7 December 1383 and 3 June 1383 respectively.</p>
+							<p>
+								<name type="person" role="owner">Elia Lattas</name>: inscribed with a date of <date calendar="Gregorian">17 August 1590</date>, folio 3r. </p>
+							<p>
+								<name type="person" role="censor">Fr. Alexander Longus Inquisitore de Montis regalis</name>: inscribed, folio 3r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Boxed.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France, S.</name> (<name type="place">Toulouse</name>?)</p>
+						</provenance>
+						<acquisition>
+							<date>1857-05-24</date>
+							<p>
+								<name type="person" role="owner">M. Asher</name>: purchased by the British Museum from him on <date calendar="Gregorian">24 May 1857</date>: inscribed [58v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">249</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

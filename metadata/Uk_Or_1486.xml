@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1486" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1486</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The first two books of Maimonides' Mishneh Torah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="118v"/>
+							<title xml:lang="en">Mishneh Torah </title>
+							<title xml:lang="he">משנה תורה</title>
+							<note>
+								<p>No introduction.</p>
+								<p>The small subdivisions of the chapters are mostly numbered in letters.</p>
+							</note>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204 </persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1v" to="62r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ha-madaʿ </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="62r" to="118v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ahavah</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>118 folios <dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>118 folios (+ 2 modern paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>11 quires of 10 leaves each and 1 (the last one) quire of 8 leaves.</p>
+									<p>Quires numbered with Hebrew letters at the end. </p>
+								</collation>
+								<condition>
+									<p>Imperfect. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="31" writtenLines="30">
+									<p>Uniform layout. Visible hard-point ruling. </p>
+									<p>Hair-side and flesh-side of the folios visible. </p>
+									<p>Last line written inside the ruling. </p>
+									<p>Scant marginal notes. </p>
+									<p>Section titles written in red ink and chapter numbers given in larger characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 14th to 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yosef Al-Falaḳi</name>: inscribed (folio 1r). </p>
+							<p>'Marchion' written on the margins in a few places where censor's erasures were to be made (e.g. 41v, 44v, 45r, 53r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Yad Chazakah.Hebrew. Brit. Mus. Oriental 1486.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">490</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

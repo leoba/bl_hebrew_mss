@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2510" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2510</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Job, chapters 1-22.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="127v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Iyov</title>
+							<title xml:lang="he">פרוש איוב</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The pointed Hebrew text, accompanied by a verse by verse Arabic translation, is embodied.</p>
+								<p>Of the Hebrew text the following parts are preserved: 1:2-12, 1:16-2:10, 2:12, 3:10-17, 3:23-4:7, 4:12-14, 5:4-12, 5:24, 6:27-7:3, 7:17-20, 8:7-9:4, 9:12 (in part)-19, 22-23, 31-32, 10:2-22, 11:15-12:3, 12:9-14:3, 14:22, 15:5-14 (in part), 17-28, 15:33-16:2, 16:7-17:9, 17:12-19:4, 19:6-20:9, 21:14-22:29.</p>
+								<p>Has a scribal subscription at the beginning.</p>
+								<p>Masoretic division into sections and קרי are marked in the margins.</p>
+								<p>The preserved text is divided into 7 sections, beginnings of which are marked in the margins of folios 25v, 44v, 59v, 81v, 98v, 107r, 117v.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>127 folios<dimensions type="leaf" unit="mm">
+										<height>182</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>127 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>20 quires (nos. 1-18, 20-21), originally of 10 leaves each.</p>
+									<p>Apart from the quires 3, 13, 18, all the quires are imperfect.</p>
+									<p>The quires are signed with Hebrew letters and Arabic numerals on the upper margin of the first page.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 1, 2, 3, 9, 19, 20, 23, 27, 28, 32, 33, 36, 37, 45, 49, 50, 51, 57, 59, 72, 73, 75, 79, 81, 89, 98, 108.</p>
+									<p>Many folios stained or water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16" writtenLines="16">
+									<p>Uniform layout.</p>
+									<p>The numbers of the chapters have been added by a later hand.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square and semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shemu᾿el ben Eliyahu Firuz</name>: inscribed in a note, folio 41v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Comm. on Job. Vol. I. Arabic. Brit. Mus. Oriental 2510.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[128v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">295</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

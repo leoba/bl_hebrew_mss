@@ -1,0 +1,642 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-08-10</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_6677" xml:lang="en" rend="physdesc">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 6677</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314096</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724230.0x000001</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Tsore ha-guf by Nathan ben Joel Falaquera</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh93009493" rend="visible">
+                  
+                  
+                  
+                  <summary>A medical treatise. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="185v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Tsore ha-guf</title>
+                     
+                     
+                     
+                     <title xml:lang="he">צרי הגוף</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/61799914">Falaquera, Nathan ben Joel</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/61799914">פלקירה, נתן בן יואל</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <decoNote type="initial">Decorated band around the initial verse, in red ink. <locus n="124r"/>
+                     
+                     
+                     
+                     </decoNote>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Incomplete at the end - parts i-iii.4 only. Part i begins on folio 5r; part ii, folio 65r; part iii, folio 82v. </p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <colophon xml:lang="he">נשלם יום ג' ח' ימים לחדש ניסן שנת <date when="1432" calendar="Hebrew">הקצ"ב</date> ליצירה הרחמן יזכני לקרות בו אני וזרעי וזרע זרעי אמן. <locus n="185v"/>
+                     
+                     
+                     
+                     </colophon>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 15th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper.</support>
+                        
+                        
+                        
+                        <extent>185 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>280</height>
+                              
+                              
+                              
+                              <width>200</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>200</height>
+                              
+                              
+                              
+                              <width>130</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>185 folios (+ 1 unfoliated paper flyleaves at the beginning and 3 unfoliated paper flyleaves at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 8 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Damp entry with tidemarks and losses at edges.</p>
+                           
+                           
+                           
+                           <p>Dirt entry, usage staining and slight worming. </p>
+                           
+                           
+                           
+                           <p>Mould-damaged edges at foot, tearing.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="30" writtenLines="30">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Initial words in larger square characters, partly in red ink. </p>
+                           
+                           
+                           
+                           <p>Marginal additions and notes, some in Latin script (see folio 152v). </p>
+                           
+                           
+                           
+                           <p>Catchowords on every verso. </p>
+                           
+                           
+                           
+                           <p>Doodles, folio 185v. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi semi-cursive script of the 15th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions/>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Nathan b. Jeol Palkeira. Seri Hag-Guf. Hebrew. Bk. I-III.4. Brit. Mus. Oriental Ms. 6677.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate when="1432" when-custom="5192" calendar="Hebrew">1432 (5192)</origDate>
+                     
+                     
+                     
+                     <origPlace>Spain</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Matsliaḥ ben Yosef Ḥakim</name>: inscribed, folio 185v. </p>
+                     
+                     
+                     
+                     <p>Folio [186v]: purchase note, '£35 at sale of Duke of Sussex's books in 1845'.</p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1854-08-12</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">J. Smalley</name>: purchased by the British Museum from him on 12 February 1906: inscribed (folio [187v]). </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1034.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-08-10">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

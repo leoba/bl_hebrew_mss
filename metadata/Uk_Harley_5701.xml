@@ -1,0 +1,181 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5701" xml:lang="en" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5701</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A festival prayer book with services for Rosh ha-Shanah, Yom Kipur and Sukot, according to the German rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="309v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor </title>
+							<title xml:lang="he">מחזור </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="27v"/>
+							<title xml:lang="en">Services for the first day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit, folio 2r (only a small portion is preserved); tefilat musaf, folio 2v (same as Or. 42, half of folio 19r and the whole of the verso are blank, but there is no break in the text).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="27v" to="65r"/>
+							<title xml:lang="en">Services for the second day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit, folio 27v; musaf, folio 46r (same as Or. 42).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="65r" to="248r"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>Ma῾ariv, folio 65r (same as in Or. 42, folio 85r is blank); shaḥarit, folio 85v (piyutim are the same as in Or. 42, but the order of seliḥot is different); musaf, folio 155v; minḥah, folio 203r; ne῾ilah, folio 235r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="248r" to="309v"/>
+							<title xml:lang="en">Services for Sukot</title>
+							<note>
+								<p>Ḳerovah for the first day of Sukot, folio 248r; yotser for the second day, folio 258v; yotser for mo῾ed de-Sukot, folio 266v; ma῾ariv for Shemini ῾atseret, folio 269r; yotser for Shemini ῾atseret, folio 271v; yotser for Simḥat Torah, folio 286v; hosha῾not, folio 294v; ma῾ariv for the first night, folio 304v; ma῾ariv for Shemini ῾atseret, folio 307r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 13th to early 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>309 folios <dimensions unit="mm" type="leaf">
+										<height>335</height>
+										<width>250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>309 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords at the end of the quires, mostly cut away.</p>
+								</collation>
+								<condition>
+									<p>Defective at the end.</p>
+									<p>Stained.</p>
+									<p>Folio 252 partly mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="21" writtenLines="20">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and plummet ruling.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Hair side and flesh side hardly distinguishable.</p>
+									<p>A vellum strip stiched to folio 210.</p>
+									<p>A number of marginal notes and directions, in various hands.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated, of the 13th to early 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1 (a late paper flyleaf) contains an index of seliḥot for Yom Kipur.</p>
+							<p>
+								<name type="person" role="owner">Yitsḥaḳ ben Eli῾ezer ha-Kohen</name>: inscribed (folio 309v).</p>
+							<p>
+								<name type="person" role="owner">Matatyah ben Yuda</name>: inscribed (folio 309v); his name (Mataty' b"r Yudah Levi z"l) tooled on the contemporary 14th century binding.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. Black leather, blind-tooled, with copper centerpiece, cornerpieces and remains of clasps. Boxed.</p>
+								<p>Spine: 'Mahazor. German Rite. Hebrew. Brit. Mus. Harley 5701.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1329"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts[, inscribed as usual by their librarian, <name type="person">Humfrey Wanley</name>, ‘15 Augusti 1715’ (folio 2r).
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753</date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">667</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

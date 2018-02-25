@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27074" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27074</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A kabbalistic treatise by Natan ben Reuven Shapira.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="305v"/>
+							<title xml:lang="he-Latn-x-lc">Derashot le-parashiyot ha-shavu῾a ule-mo῾adim : al derekh ha-ḳabalah ṿe-al derekh ha-midrash</title>
+							<title xml:lang="he">דרשות לפרשיות השבוע ולמועדים : על דרך הקבלה ועל דרך המדרש</title>
+							<note>
+								<p>The manuscript is incomplete. It consists of kabbalistic homilies on parts of the Pentateuch, partly delivered in connection with festival occasions. Some of the homilies are dated 1663-1664, Reggio. </p>
+								<p>An autograph of Natan Shapira, MS Budapest-Kaufmann (Hungarian Academy of Sciences Library) 34, contains similar material, thus it appears that both manuscripts contain works of the same author.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/66342902">Shapira, Natan ben Reuven, -1662</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/66342902">שפירא, נתן בן ראובן דוד</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>305 folios<dimensions type="leaf" unit="mm">
+										<height>190</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>305 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning.</p>
+									<p>Lacunae before folios 6, 8, 43.</p>
+									<p>Damp entry at head and sometimes foredge with occasional staining.</p>
+									<p>Patches of worming.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="27 " writtenLines="27 ">
+									<p>Uniform layout.</p>
+									<p>Titles and initial words in larger square characters.</p>
+									<p>Catchwords on every verso, and under every column if the page is divided.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Red edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 17th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Vellum over boards with (faded) paste paper sides.</p>
+								<p>Spine: 'Nathan Spira. Derashoth. Hebrew. Brit. Mus. Additional 27,074.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 179: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [307v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">847</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,184 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5583" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5583</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A daily prayer book for festivals and fasts according to the Romanian rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="313v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>In several respects the rite resembles the French form of liturgy.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="113v"/>
+							<title xml:lang="en">Services for Pesaḥ</title>
+							<note>
+								<p>Services for the first day begin on folio 2r (the order of readings for the eight days and an explanation of a mnemonic technique starts on folio 14v, musaf begins on folio 22r); services for the second day - folio 33v, services for the sabbath of ḥol ha-mo῾ed - folio 51r; services for the first night - folio 57v; services for the first day - folio 64v; the evening services of the second day - folio 86r; services for the eigth day - folio 90r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="113v" to="179v"/>
+							<title xml:lang="en">Services for Shavu῾ot</title>
+							<note>
+								<p>Services for the sabbath of Shavu῾ot - folio 113v; ma῾ariv of the first night of Shavu῾ot - 125v; Services for the first day of Shavu῾ot - folio 128r; ma῾ariv of the second day - folio 147r; services for the second day of Shavu῾ot - folio 148v; the book of Ruth (for the second day) - folio 176v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="179v" to="191v"/>
+							<title xml:lang="en">Poetical pieces for the special Sabbaths</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="191v" to="300r"/>
+							<title xml:lang="en">Services for fasts and other occasions</title>
+							<note>
+								<p>Seder ῾asarah be-ṭevet begins on folio 191v; Seliḥot de-tsom Ester - folio 203r; Seder Shabat zekhor - folio 209r; Seder lel Purim - folio 218v; Birkat milah - folio 219v; Seder ḥatan ṿe-kalah - folio 224v; Seder tsom Gedalyah - folio 237r; Seder ta῾anit shiv῾ah ῾asar be-tamuz - folio 247v; Seder tish῾ah be-av - folio 245v (ḳinot - folio 255v; megilat Ekhah - folio 260r, tefilah - folio 269r).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="300v" to="313v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳinot</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>313 folios <dimensions unit="mm" type="leaf">
+										<height>250</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>313 folios (+ 3 unfoliated paper flyleaves at the beginning and 3 unfoliated paper flyleaves at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each, partly marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Several leaves cancelled (e.g. after folio 203 and 218).</p>
+									<p>Defective at the beginning.</p>
+									<p>A lacuna after folio 178.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side of the folios distinguishable.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Catchwords on every verso from folio 179 on, only partly preserved.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the 14th to 15th century, punctuated. Missing parts of the original completed in a Sefardi semi-cursive script of the 15th century (e.g. folios 113-123, 179-190, 274-313). <name type="person" role="scribe">Mosheh</name>?: the name Mosheh is marked off in the initial lines on folio 147r.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yeshaʿyah ben Avraham Kohen</name> and perhaps the patron of this manuscript: inscribed in a note: folio 125r, 247r and 253v.</p>
+							<p>
+								<name type="person" role="owner">Mosheh Aboab</name>: inscribed, folio 191r and 253r.</p>
+							<p>
+								<name type="person" role="owner">Bernard Mould</name> (b. c. 1683; d. 1744), chaplain at <name type="place">Smyrna</name>: inscribed with his name, Smyrna, <date calendar="Gregorian">1724</date> (folio 2r); sold to Edward Harley on 28 July 1725 (see <ref target="Wright_1966"/>, <ref target="Wright_1972"/>). An English description of the manuscript by Bernard Mould: stuck to folio 1v.</p>
+							<p>Inscription by Harley's librarian, <name type="person">Humfrey Wanley</name>, 28 Julij A.D. 1725 (folio 2r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red leather Harleian binding, gold-tooled.</p>
+								<p>Spine: 'Mahzor for Festivals and Fasts Rite of Romania. Brit. Mus. Harley MS. 5583.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Ottoman Empire</name> (Anatolia?)</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">685</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

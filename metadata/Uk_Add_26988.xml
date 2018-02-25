@@ -1,0 +1,142 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26988" xml:lang="en" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26988</idno>
+					</msIdentifier>
+					<head>Tosafot</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Contains Tosafot of Perets ben Eliyahu (Rabenu Perets) on Bava ḳama. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="181v"/>
+							<title xml:lang="en">Tosafot Rabenu Perets (Bava ḳama) </title>
+							<title xml:lang="he">תוספות רבנו פרץ (בבא קמא)   </title>
+							<note>
+								<p>The Tosafot on the last chapter are not given in the printed edition, and there are very considerable differences from the contents of the printed text, the manuscript often giving a longer recension of the Tosafot.</p>
+							</note>
+							<author key="http://viaf.org/viaf/70348690">
+								<persName key="http://viaf.org/viaf/70348690" xml:lang="en">Perez ben Elijah, of Corbeil, -approximately 1295</persName>
+								<persName key="http://viaf.org/viaf/70348690" xml:lang="he">פרץ בן אליהו, מקורביל </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>181 folios <dimensions unit="mm" type="leaf">
+										<height>225</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>181 folios (+ 2 modern paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. Imperfect.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and the end.</p>
+									<p>Lacunae after folios 8, 9, 11, 43, 127, 128, 151, 158.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Blank space left on folio 168 to indicate a break in the text.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 15th to 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Peres ben Elijah. Tosaphoth 'al Babha Kamma. Hebrew. Brit. Mus. Additional Ms. 26,988.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 100a: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio <locus n="fse001v">[182v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">417</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

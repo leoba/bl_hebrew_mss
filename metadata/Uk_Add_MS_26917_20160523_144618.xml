@@ -1,0 +1,921 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      <fileDesc>
+         <titleStmt>
+            <title>Hebrew Manuscripts Catalogue</title>          
+            <principal>Ilana Tahan</principal>
+            <funder>BL</funder>
+          <sponsor>The Polonsky Foundation</sponsor>
+         </titleStmt>       
+         <publicationStmt>
+           <publisher>British Library</publisher>
+           <pubPlace/>
+            <date calendar="Gregorian">2013-11-14</date>
+           <idno>Uk</idno>
+         </publicationStmt>
+        <sourceDesc>
+           <biblFull>
+               <titleStmt>
+                 <title/>
+               </titleStmt>
+              <publicationStmt>
+                 <p/>
+             </publicationStmt>
+           </biblFull>
+            
+            <msDesc xml:id="Uk_Add_26917" xml:lang="en" rend="meta">             
+               <msIdentifier rend="visible">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                 <institution>British Library</institution>                 
+                  <repository>Oriental Manuscripts</repository>
+                 <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  <idno>Add MS 26917</idno>
+                 <altIdentifier type="IAMS-ID">
+                    <idno>032-003313850</idno>
+                  </altIdentifier>
+                  <altIdentifier type="MDARK">
+                    <idno>ark:/81055/vdc_100031719710.0x000002</idno>
+                  </altIdentifier>
+              </msIdentifier>              
+               
+               <head>Rashi's commentary on the Pentateuch with parts from the Sefer Tiḳun midot ha-nefesh by Shelomoh Ibn Gabirol</head>
+               
+               <msContents class="lccn.loc.gov/n50082616 lccn.loc.gov/n88074437 lccn.loc.gov/n80001062" rend="visible">
+                  <summary>Rashi's commentary on the Pentateuch and parts of Sefer Tiḳun midot ha-nefesh by Shelomoh Ibn Gabirol.</summary>
+                <textLang mainLang="he"/>
+              </msContents>
+               
+               <physDesc rend="visible">
+                  <p>Vellum codex; Italian semi-cursive script of 13th century between folios 1 and 237 and Italian semi-cursive script of c14th century between folios 239-242.</p>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>Parchment codex.</support>
+                       <foliation>
+                          <p>242 folios (3 paper flyleaves at the beginning and 4 at the end).</p>
+                       </foliation>
+                   </supportDesc>                
+                  </objectDesc>
+                  
+                  <bindingDesc>
+                     <binding>                      
+                        <p>BM in-house.</p>
+                        <p>Spine: 'Solomon Yitschaki. Commentary on the Pentateuch. A.D. 1273. Hebrew. Brit. Mus. Additional 26917.'</p>
+                    </binding>
+                  </bindingDesc>
+              </physDesc>
+
+               <history rend="visible">
+                 <acquisition>
+                   <date>1865-10</date>
+                     <p>
+                                               <name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, [356v].</p>
+                  </acquisition>
+              </history>
+               
+               <additional rend="visible">
+                 <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                    </recordHist>
+                    <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 168.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+               
+               
+               
+               <msPart rend="">
+                  
+                  
+                  
+                  <altIdentifier type="internal">
+                     
+                     
+                     
+                     <idno>I</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <msContents class="lccn.loc.gov/n50082616" rend="visible">
+                     
+                     
+                     
+                     <summary>Rashi's commentary on the Pentateuch</summary>
+                     
+                     
+                     
+                     <textLang mainLang="he"/>
+                     
+                     
+                     
+                     <msItem n="0" rend="">
+                        
+                        
+                        
+                        <locus from="1r" to="237r"/>
+                        
+                        
+                        
+                        <title xml:lang="he-Latn-x-lc">Perush Torah</title>
+                        
+                        
+                        
+                        <title xml:lang="he">פרוש תורה</title>
+                        
+                        
+                        
+                        <author>
+                           
+                           
+                           
+                           <persName xml:lang="en" key="viaf.org/viaf/19684048">Rashi</persName>
+                           
+                           
+                           
+                           <persName xml:lang="he" key="viaf.org/viaf/19684048">שלמה בן יצחק (רש"י)</persName>
+                        
+                        
+                        
+                        </author>
+                        
+                        
+                        
+                        <colophon xml:lang="he">ותכל כל מלאכת הקודש ב[?ש?ל] לחודש בחדש הרביעי בשנת חמשת אלפים ול"ג שנה לבריאת עולם על ידי יוסף ביר' דוד נ"ע לר' בנימן ביר' יצחק השם ישמריהו ויחייהו הוא וזרעו וזרע זרעו עד סוף כל הדורות. אמן.<locus n="237r"/>
+                        
+                        
+                        
+                        </colophon>
+                        
+                        
+                        
+                        <decoNote type="initial">
+                           
+                           
+                           
+                           <locus n="1r"/>Pen-and-ink decorated initial-word panel.</decoNote>
+                     
+                     
+                     
+                     </msItem>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="1r" to="56r"/>
+                        
+                        
+                        
+                        <title xml:lang="en">Genesis</title>
+                     
+                     
+                     
+                     </msItem>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="56r" to="119v"/>
+                        
+                        
+                        
+                        <title xml:lang="en">Exodus</title>
+                     
+                     
+                     
+                     </msItem>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="119v" to="156r"/>
+                        
+                        
+                        
+                        <title xml:lang="en">Leviticus</title>
+                     
+                     
+                     
+                     </msItem>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="156r" to="199r"/>
+                        
+                        
+                        
+                        <title xml:lang="en">Numbers</title>
+                     
+                     
+                     
+                     </msItem>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="199r" to="237r"/>
+                        
+                        
+                        
+                        <title xml:lang="en">Deuteronomy</title>
+                     
+                     
+                     
+                     </msItem>
+                  
+                  
+                  
+                  </msContents>
+                  
+                  
+                  
+                  <physDesc rend="visible">
+                     
+                     
+                     
+                     <p>Vellum; Italian semi-cursive script of 13th century.</p>
+                     
+                     
+                     
+                     <objectDesc form="codex">
+                        
+                        
+                        
+                        <supportDesc material="perg">
+                           
+                           
+                           
+                           <support>Parchment codex</support>
+                           
+                           
+                           
+                           <extent>237<dimensions type="leaf" unit="mm">
+                                 
+                                 
+                                 
+                                 <height>250</height>
+                                 
+                                 
+                                 
+                                 <width>192</width>
+                              
+                              
+                              
+                              </dimensions>
+                              
+                              
+                              
+                              <dimensions type="written" unit="mm">
+                                 
+                                 
+                                 
+                                 <height>160</height>
+                                 
+                                 
+                                 
+                                 <width>121</width>
+                              
+                              
+                              
+                              </dimensions>
+                           
+                           
+                           
+                           </extent>
+                           
+                           
+                           
+                           <foliation>
+                              
+                              
+                              
+                              <p>237 folios</p>
+                           
+                           
+                           
+                           </foliation>
+                           
+                           
+                           
+                           <collation>
+                              
+                              
+                              
+                              <p>Folios 16 to 235 form 22 complete quires of 10 leaves each, signed with hebrew letters on the last page and also marked by catchwords.</p>
+                              
+                              
+                              
+                              <p>Folios 7 to 15 are the remaining leaves of the second quire.</p>
+                              
+                              
+                              
+                              <p>Folios 1 to 6 have been added later (probably in 16th century) to supply the deficiency at the beginnig.</p>
+                              
+                              
+                              
+                              <p>Folding of folios 236 to 242 is uncertain.</p>
+                           
+                           
+                           
+                           </collation>
+                           
+                           
+                           
+                           <condition>
+                              
+                              
+                              
+                              <p>Several lacunas.</p>
+                           
+                           
+                           
+                           </condition>
+                        
+                        
+                        
+                        </supportDesc>
+                        
+                        
+                        
+                        <layoutDesc>
+                           
+                           
+                           
+                           <layout columns="1 2" ruledLines="29 37" writtenLines="28 36">
+                              
+                              
+                              
+                              <p>Each of the books ends with several rhymed lines.</p>
+                           
+                           
+                           
+                           </layout>
+                        
+                        
+                        
+                        </layoutDesc>
+                     
+                     
+                     
+                     </objectDesc>
+                     
+                     
+                     
+                     <handDesc hands="2">
+                        
+                        
+                        
+                        <summary>Italian semi-cursive script of 13th century. 6 folios added by a later hand. <name type="person" role="scribe">Yosef ben David</name> and <name type="person" role="patron">Benyamin ben Yitsḥaḳ</name>: inscribed in the colophon, 237r.</summary>
+                        
+                        
+                        
+                        <handNote script="Hebrew" scope="major">
+                           
+                           
+                           
+                           <p>
+                              
+                              
+                              
+                              <locus from="1r" to="6r"/>due to a later Italian hand.</p>
+                        
+                        
+                        
+                        </handNote>
+                     
+                     
+                     
+                     </handDesc>
+                     
+                     
+                     
+                     <additions>
+                        
+                        
+                        
+                        <p>Folios 237v-239r contain doodles in various handwritings. </p>
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </additions>
+                  
+                  
+                  
+                  </physDesc>
+                  
+                  
+                  
+                  <history rend="visible">
+                     
+                     
+                     
+                     <origin>
+                        
+                        
+                        
+                        <origDate when-custom="3 Tamuz 5033" calendar="Hebrew" when="1273">1273 (3 Tamuz 5033)</origDate>
+                        
+                        
+                        
+                        <origPlace>Italy</origPlace>
+                     
+                     
+                     
+                     </origin>
+                     
+                     
+                     
+                     <provenance/>
+                     
+                     
+                     
+                     <acquisition>
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="person" role="bookseller">Adolphus Asher </name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed [356v]. </p>
+                        
+                        
+                        
+                        <date>1865-10</date>
+                     
+                     
+                     
+                     </acquisition>
+                  
+                  
+                  
+                  </history>
+                  
+                  
+                  
+                  <additional rend="visible"/>
+               
+               
+               
+               </msPart>
+               
+               
+               
+               <msPart rend="visible">
+                  
+                  
+                  
+                  <altIdentifier type="internal">
+                     
+                     
+                     
+                     <idno>II</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <msContents rend="visible" class="lccn.loc.gov/n88074437 lccn.loc.gov/n80001062">
+                     
+                     
+                     
+                     <summary>A fragment of Sefer Tiḳun midot ha-nefesh.</summary>
+                     
+                     
+                     
+                     <textLang mainLang="he"/>
+                     
+                     
+                     
+                     <msItem rend="">
+                        
+                        
+                        
+                        <locus from="239v" to="242v"/>
+                        
+                        
+                        
+                        <author>
+                           
+                           
+                           
+                           <persName xml:lang="he-Latn-x-lc" key="viaf.org/viaf/100186412">Ibn Gabirol</persName>
+                           
+                           
+                           
+                           <persName xml:lang="he" key="viaf.org/viaf/100186412">אבן גבירול, שלמה בן יהודה</persName>
+                        
+                        
+                        
+                        </author>
+                        
+                        
+                        
+                        <author>
+                           
+                           
+                           
+                           <persName xml:lang="he-Latn-x-lc" key="viaf.org/viaf/49379706">Tibon, Yehudah ibn</persName>
+                           
+                           
+                           
+                           <persName xml:lang="he" key="viaf.org/viaf/49379706">אבן תבון, יהודה בן שאול</persName>
+                        
+                        
+                        
+                        </author>
+                        
+                        
+                        
+                        <title xml:lang="he-Latn-x-lc">Sefer Tiḳun midot ha-nefesh</title>
+                        
+                        
+                        
+                        <title xml:lang="he">ספר תקון מדות הנפש</title>
+                        
+                        
+                        
+                        <note>
+                           
+                           
+                           
+                           <p>An ethical treatise of Shelomoh Ibn Gabirol, translated from Arabic into Hebrew by Yehudah Ibn Tibon.</p>
+                        
+                        
+                        
+                        </note>
+                        
+                        
+                        
+                        <incipit xml:lang="he">ספר תיקון מדות הנפש על דעת החכמים הקדמונים ז"ל אשר חיבר החכם הפילוסוף המובהק ר' שלמה בר' יהודה הידוע בן גיברול הספרדי במדינת סרקסטה בניסן שנת ת'ת'ה'.<locus n="239v"/>
+                        
+                        
+                        
+                        </incipit>
+                     
+                     
+                     
+                     </msItem>
+                  
+                  
+                  
+                  </msContents>
+                  
+                  
+                  
+                  <physDesc rend="visible">
+                     
+                     
+                     
+                     <p>Vellum, Italian semi-cursive script of c14th century.</p>
+                     
+                     
+                     
+                     <objectDesc form="codex">
+                        
+                        
+                        
+                        <supportDesc material="perg">
+                           
+                           
+                           
+                           <support>Parchment codex</support>
+                           
+                           
+                           
+                           <extent>4 folios<dimensions type="leaf" unit="mm">
+                                 
+                                 
+                                 
+                                 <height>245</height>
+                                 
+                                 
+                                 
+                                 <width>190</width>
+                              
+                              
+                              
+                              </dimensions>
+                              
+                              
+                              
+                              <dimensions type="written" unit="mm">
+                                 
+                                 
+                                 
+                                 <height>160</height>
+                                 
+                                 
+                                 
+                                 <width>123</width>
+                              
+                              
+                              
+                              </dimensions>
+                           
+                           
+                           
+                           </extent>
+                           
+                           
+                           
+                           <foliation>
+                              
+                              
+                              
+                              <p>Folios 239 to 242.</p>
+                           
+                           
+                           
+                           </foliation>
+                           
+                           
+                           
+                           <collation>
+                              
+                              
+                              
+                              <p>Only four pages are extant.</p>
+                           
+                           
+                           
+                           </collation>
+                           
+                           
+                           
+                           <condition>
+                              
+                              
+                              
+                              <p>Badly mutilated.</p>
+                           
+                           
+                           
+                           </condition>
+                        
+                        
+                        
+                        </supportDesc>
+                        
+                        
+                        
+                        <layoutDesc>
+                           
+                           
+                           
+                           <layout columns="1" ruledLines="28" writtenLines="28">
+                              
+                              
+                              
+                              <p>The last line of text is written under the last ruled line.</p>
+                              
+                              
+                              
+                              <p>Visible ruling with hard-point.</p>
+                           
+                           
+                           
+                           </layout>
+                        
+                        
+                        
+                        </layoutDesc>
+                     
+                     
+                     
+                     </objectDesc>
+                     
+                     
+                     
+                     <handDesc hands="1">
+                        
+                        
+                        
+                        <summary>Italian semi-cursive script of c14th century.</summary>
+                        
+                        
+                        
+                        <handNote script="Hebrew" scope="major"/>
+                     
+                     
+                     
+                     </handDesc>
+                     
+                     
+                     
+                     <additions/>
+                  
+                  
+                  
+                  </physDesc>
+                  
+                  
+                  
+                  <history rend="visible">
+                     
+                     
+                     
+                     <origin>
+                        
+                        
+                        
+                        <origDate notBefore="1300" notAfter="1399">14th century</origDate>
+                     
+                     
+                     
+                     </origin>
+                     
+                     
+                     
+                     <provenance>
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <name type="person" role="censor">Dominico Irosolimitano</name> (fl. 1575 - 1624): inscribed with his name (239r); see <ref target="Popper_1969" type="page">62-74</ref>.</p>
+                     
+                     
+                     
+                     </provenance>
+                     
+                     
+                     
+                     <acquisition>
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="person" role="bookseller">Adolphus Asher </name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed (<locus n="fse002v"/>[356v]).</p>
+                        
+                        
+                        
+                        <date>1865-10</date>
+                     
+                     
+                     
+                     </acquisition>
+                  
+                  
+                  
+                  </history>
+               
+               
+               
+               </msPart>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2013-11-14">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

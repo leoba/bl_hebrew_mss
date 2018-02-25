@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5526" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5526</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Gersonides (Leṿi ben Gershom aka Ralbag) on the book of Job.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="121v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Iyov</title>
+							<title xml:lang="he">פרוש איוב</title>
+							<author key="http://viaf.org/viaf/59118174">
+								<persName key="http://viaf.org/viaf/59118174" xml:lang="en">Levi ben Gershom </persName>
+								<persName key="http://viaf.org/viaf/59118174" xml:lang="he">לוי בן גרשם </persName>
+							</author>
+							<colophon xml:lang="he">נכתב ונשלם בעזרת אל עולם על ידי <name type="person" role="scribe">אברהם בכמ"ר חסדאי ז"ל מפירפניאן</name> אשר בגליל צרפת <date when="1398" calendar="Hebrew">בשלישי בשבת בארבעה ימים לחדש מרחשון שנת חמשת אלפים ומאה ותשעה וחמישים לחרבן הבית</date> וכתבתיו בעיר <name type="place">אנקונה </name>אשר על שפת הים לר' <name type="person" role="patron">יואב בכמ"ר בנימין יל"ב בר' יואב בר' בנימין במה"ר משה בר' יחיאל</name> השם ישמרהו ויחייהו ויזכהו להגות בו ובכל תורת משה הוא וזרעו וזרע זרעו עד סוף כל הדורות כאשר צוה לנו משה עבד ה' אמן.<locus n="120v"/>
+							</colophon>
+							<listBibl>
+								<bibl>
+									<ref target="Gersonides_1477"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>A substance of the colophon is given in Latin under the Hebrew, written by Bartolomeus Abbot.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">121 folios <dimensions unit="mm" type="leaf">
+										<height>206</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>91</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>121 folios (+ 1 unfoliated paper fltyleaf at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>12 quires of 10 leaves each.</p>
+									<p>Catchwords at the end of the quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and ruling with a hard point.</p>
+									<p>Several marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script, unpunctuated. 14th century.<name type="person" role="scribe"> Avraham ben Ḥasdai of Perpignan</name>: inscribed with his name in the colophon, folio 120v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r - a note in English summarising the contents of the manuscript.</p>
+							<p>
+								<name type="person" role="owner">Yo᾿av or Ya῾aḳov ben Benyamin</name> (?): inscribed, folio 2r.</p>
+							<p>
+								<name type="person" role="owner">Yo᾿av ben Benyamin ben Mosheh ben Yeḥi᾿el</name>: inscribed with his name in the colophon, folio 120v.</p>
+							<p>A note of a former owner, folio 3v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black buckram with gold-tooled Harleian coats of arms.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5159" calendar="Hebrew" when="1398"/>
+						<provenance>
+							<p>
+								<name type="place">Italy </name>(<name type="place">Ancona</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, <name type="person">Humfrey Wanley</name>, ‘13 die Julij, 1723’, folio 2r. Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">223</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

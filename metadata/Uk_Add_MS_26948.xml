@@ -1,0 +1,159 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-03-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26948" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26948</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003313859</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031719721.0x000001</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Collection of polemical works</head>
+					<msContents class="lccn.loc.gov/sh85070331" rend="visible">
+						<summary>Religious polemical writings. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="17v"/>
+							<title xml:lang="he-Latn-x-lc">Kelimat ha-goyim</title>
+							<title xml:lang="he">כלימת הגוים</title>
+							<author>
+								<persName key="viaf.org/viaf/13522985" xml:lang="en">Duran, Profiat, 1350-1415</persName>
+								<persName key="viaf.org/viaf/13522985" xml:lang="he">דורן, יצחק בן משה</persName>
+							</author>
+							<filiation>Cf. Add MS 26961. </filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="18r" to="26v"/>
+							<title xml:lang="he-Latn-x-lc">Vikuaḥ ῾al netsiḥut ha-Torah</title>
+							<title xml:lang="he">וכוח על נצחיות התורה</title>
+							<note>
+								<p>An account of public religious debate held in the Convent of Jesuits in Ferrara in April 1617 between the anonymous author (perhaps Azriel Petahyah Aletino) and a Jesuit priest, Alphonso Caracciola, by order of the papal legate, Cardinal Orazio Spinola. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 18th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>26 folios<dimensions type="leaf" unit="mm">
+										<height>290</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>26 folios (+ 1 unfoliated paper flyleaf at the end).
+</p>
+								</foliation>
+								<collation>
+									<p>Quires of 12 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Usage stains. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="36" writtenLines="36">
+									<p>Uniform layout. </p>
+									<p>Visible ink ruling. </p>
+									<p>Square initial words. </p>
+									<p>Hair-side and flesh-side of folios distinguishable. </p>
+									<p>Marginal notes and additions. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 18th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house, hardback cover. </p>
+								<p>Spine: 'Additional 26,948. Brit. Mus. Kelimath Hag-Goyim, Etc. Hebrew.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1700" notAfter="1799">18th century</origDate>
+							<origPlace>Italy (Ferrara?)</origPlace>
+						</origin>
+						<provenance/>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name>(b. 1801, d. 1860), bibliophile; his manuscript no. 8; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [27v] (fse001v). </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1066.</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-03-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18828" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18828</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer mitsṿot ḳaṭan of Isaac of Corbeil. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="140v"/>
+							<title xml:lang="en">Sefer mitsṿot ḳaṭan  </title>
+							<title xml:lang="he">ספר מצות קטן</title>
+							<note>
+								<p>This recension differs largely from the text contained in Add. 18684, <ref target="Margoliouth_1965" type="number">514</ref>, especially in the arrangement of its sections. It has only 252 sections instead of the 292 sections of the latter manuscript.</p>
+								<p>The author's preface is wanting.</p>
+								<p>The form of the geṭ is on folio 44r, dated 18 Iyar 5103, Münster.</p>
+								<p>The index to the different sections is at the end (folios 139-140), but is not complete.</p>
+							</note>
+							<author key="http://viaf.org/viaf/4009920">
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="en">Isaac ben Joseph, of Corbeil, active 13th century </persName>
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="he">יצחק בן יוסף, מקורביל  </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>140 folios <dimensions unit="mm" type="leaf">
+										<height>235</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>115/120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>140 folios (+ 2 unfoliated paper flyleaves and 2 unfoliated vellum flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>18 quires of 8 leaves each, except no. 13 with 10 leaves, and no. 17 with 2 leaves only. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="41 29" writtenLines="40 28">
+									<p>Uniform layout. Visible pricking and ruling with a plummet.  </p>
+									<p>Hair-side and flesh-side of the folios indistinguishable. Visible scraping. </p>
+									<p>Last line written inside the ruling. </p>
+									<p>Initial words given in larger square characters. </p>
+									<p>Catchwords and marginal notes mostly cut away. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi semi-cursive scripts of the 14th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="24v"/> and <locus from="25r" to="140v"/> written in two different, but contemporary hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yosef bar Mosheh ha-Leṿi</name>: inscribed (folio 140r). </p>
+							<p>
+								<name type="person" role="owner">Naftali bar Yehudah of Neumark</name>: inscribed (folio 1r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Isaac of Corbeil. Sepher Mitsvoth Katon. Hebrew. Brit. Mus. Additional 18,828.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5103" calendar="Hebrew" when="1343"/>
+						<provenance>
+							<p>
+								<name type="place">Germany </name>(<name type="place">Münster</name>?)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">A. Löwy</name>: purchased from him by the British Museum on 10 January 1852: inscribed (folio <locus n="fse001v">[141v]</locus>. </p>
+							<date>1852-01-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">511</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

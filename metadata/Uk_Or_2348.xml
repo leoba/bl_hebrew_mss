@@ -1,0 +1,204 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2348" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2348</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentateuch, with masorah magna, parva, vowel-points and accents. Maḥberet ha-tigan is prefixed.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="158v"/>
+							<title xml:lang="he-Latn-x-lc">Torah </title>
+							<title xml:lang="he">תורה </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<listBibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">22-27</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1984" type="page">23, 74-75</ref>
+								</bibl>
+								<bibl>
+									<ref target="Gutmann_1978" type="page">40-43</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">138</ref>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">כאן אלפראג להדא אלכתאב אלמובארך פי שהר צפר [...] מן סנת ארבע וסבעין ותמאן מיה.
+<locus n="154v"/>
+							</colophon>
+							<colophon xml:lang="he">מלך אבראהים אבן יוסף אבן סעיד [אבן] אבראהים אלאישראילי.<locus n="155r"/>
+							</colophon>
+							<note>
+								<p>The colophon is written in ornamental frame in Arabic caligraphic characters. </p>
+							</note>
+							<decoNote type="other">4 carpet pages in colours. <locus n="38v, 39r, 154v, 155r"/>
+							</decoNote>
+							<decoNote type="marginal">Micrographical designs in the margins. <locus n="76r, 76v, 88r, 88v"/>
+							</decoNote>
+							<decoNote type="illustration">3 pages decorated with medallions filled with geometrical design in colours and micrography between the two columns of text.<locus n="151v, 152r, 152v"/>
+							</decoNote>
+							<msItem rend="v">
+								<locus from="1v" to="39v"/>
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="39v" to="68r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="68r" to="92v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="92v" to="109v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="109v" to="133r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="133r" to="154v"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>158 folios<dimensions unit="mm" type="leaf">
+										<height>400</height>
+										<width>280</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>300</height>
+										<width>215</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p> 	158 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p> 	Too tight bound to determine exact gathering structure.  </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="25" writtenLines="25">
+									<p>The beginning of each pericope is marked in the margin by a large ornamental ס. </p>
+									<p>Each pericope is divided into 7 sections numbered with Hebrew letters in colours in the margin. </p>
+									<p>The numbers of the commandments are written in red ink in the margins. </p>
+									<p>The masorah magna occupies two lines in the upper and three lines in the lower margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script, partially punctuated, of the 15th century. The scribe's name, <name type="person" role="scribe">Benayah ben Se῾adia ben Zekharyah ben Margaz</name>, is not mentioned in the colophon. On his identification see <ref target="Ettinghausen_1955" type="page">33</ref>. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Ibrahim ibn Yusuf ibn Sa῾id ibn Ibrahim al-Israili</name>(Hebrew version of his name in Or 2211): inscribed with his name in the colophon, Sana, 1469 (154v-155r).  </p>
+							<p>
+								<name type="person" role="owner">Yosef ben Suliman/Solomon</name>: inscribed with his name in two purchase notes (37v). </p>
+							<p>
+								<name type="person" role="owner">Benyamin ben Avraham</name>: inscribed with his name in two purchase notes (37v). </p>
+							<p>Avraham ben Yosef ben Sa῾id Hanatsel owner: inscribed with his name in a purchase note, Adar .. .. [year is deleted] according to the Seleucid era (38r). </p>
+							<p>
+								<name type="person" role="owner">Sala'am ben Yosef ben Avraham</name>: inscribed with his name in a purchase note, Adar .. .. [year is deleted] according to the Seleucid era (38r). </p>
+							<p>
+								<name type="person" role="owner">Ha-Kohen David ben Yosef</name>: inscribed with his name in a purchase note, Adar .. .. [year is deleted] according to the Seleucid era (38r). </p>
+							<p>
+								<name type="person" role="owner">Yosef ben Se῾adia</name>: inscribed with his name in a purchase note, Adar .. .. [year is deleted] according to the Seleucid era (38r). </p>
+							<p>
+								<name type="person" role="owner">Avraham ben Yosef</name>: inscribed with his name in a purchase note, Adar .. .. [year is deleted] according to the Seleucid era (38r). </p>
+							<p>Erased inscription in Hebrew characters (154). </p>
+							<p>
+								<name type="person" role="owner">Yudah ben Se῾adia</name>.. ..: inscribed with his name in the margin (156v). </p>
+							<p>Erased inscription with Hebrew characters (158v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Pentateuch. Hebrew. Brit. Mus. Oriental 2348.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1469" when-custom="6 Ṣafar 874" calendar="Hijri-qamari"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name>(<name type="place">San&apos;a</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1881-05-28</date>
+							<p>Mr <name type="person" role="owner">Nic. Mavrocordato</name>: purchased by the British Museum from him on <date calendar="Gregorian">28 May 1881</date> (<locus n="fse001v">[159v]</locus>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">89</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">138</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

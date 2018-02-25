@@ -1,0 +1,176 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2349" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2349</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan and a treatise on Hebrew letters in Judeo-Arabic are prefixed.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="143v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+							<colophon xml:lang="he">נכתבה זאת התורה התמימה הטהורה אשר היא לעיני דורשיה מאירה וכשמש מזהירה לחבר הטוב והנעים נטע שעשועים אורי ומחמד עיני אלופי ומיודעי ורביד על גרוני וענק על צוארוני השר הגדול המעוז המגדול <name type="person" role="patron">דוד ש"צ בן אביחסד רי"ת בן בנימן תנצב"ה בן יוסף נע"ג אלטוילי</name> האל ישימיה עליו סימן טוב וברכה מעתה ועד עולם ויקיים עליו מק' שכת' לא ימ' ספ' הת' הז' מפ' [ומפ'? זר? זרע'? מ?]עת' וע' עולם [אנס?]. ויזכה לכל מדה טובה ולזקנה ושיבה ולשמחת בית השאובה. ולחיי העולם הבא אמן כן יאמר אל נערץ בסוד קדושים רבה אנ"ס. והסופר הקל <name type="person" role="scribe">דוד יש"ל בן בניה זק"ל בן סעדיה רי"ת בן זכריה זצ"ל</name> אלהי' ימחול לי על כל מה ששגיתי וטעיתי והוספתי וגרעתי כדכ' שגיאות מי יבין מנסתרות נקיני. ונשלמה בחדש <date when="1490" calendar="Seleucid">מרחשון [בשנת? אק?ב.ת ל?]שטרות</date> קץ וסוף לכל הצרות תחלה וראש [ ] [..שורות? אמן?]
+<locus n="144r"/>
+							</colophon>
+							<colophon xml:lang="he">נשלמה בחדש <date when="1490" calendar="Seleucid">מרחשון אתת"ב לשטרות</date>. ישע יקרב ששון יערב אמן.
+
+<locus n="145r"/>
+							</colophon>
+							<decoNote type="paratext">
+								<locus from="1v" to="2r"/>Carpet pages of micrographic masorah.</decoNote>
+							<filiation>Another manuscript due to the same scribe is Or. 1470, <ref target="Margoliouth_1965" type="number">722</ref>.</filiation>
+							<msItem rend="v">
+								<locus from="2v" to="23r"/>
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="23r" to="29v"/>
+								<title xml:lang="en">A treatise on Hebrew letters</title>
+								<note>
+									<p>In Judeo-Arabic (written in Hebrew characters).</p>
+								</note>
+								<listBibl>
+									<bibl>
+										<ref target="Neubauer_1891"/>
+									</bibl>
+								</listBibl>
+							</msItem>
+							<msItem rend="v">
+								<locus from="29v" to="58r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58r" to="82v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="82v" to="99v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="99v" to="123r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="123r" to="145v"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>145 folios <dimensions unit="mm" type="leaf">
+										<height>343</height>
+										<width>152</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>145 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 unfoliated paper folios at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>14 quires: i12 (folios 1-12), ii10 (folios 13-22), iii6 (folios 23-28), iv-xiii10 (folios 29-137), xiv8 (folios 138-145).  </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="25" writtenLines="25">
+									<p>Four blank lines are found between any two books. </p>
+									<p>The beginning of each pericope is marked in the margin by a large ornamental letter samekh. </p>
+									<p>Each pericope is divided into 7 subsections, numbered in Hebrew letters in the margin. </p>
+									<p>The masorah magna occupies 3 to 5 lines in the upper and 3 to 6 lines in the lower margin. </p>
+									<p>Numerous masoretic rubrics at the end of each book of the Torah, as well as at the end of the whole Pentateuch. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script, punctuate, of the 15th century. <name type="person" role="scribe">David ben Benayah ben Sa'adyah ben Zekhariah</name>, inscribed with his name in the colophon on folio 144r.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Carpet pages of micrographic masorah</summary>
+							<decoNote type="paratext">
+								<locus from="1v" to="2r"/>Carpet pages of micrographic masorah</decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">David ben Avihesed ben Benyamin ben Yosef at-Tawili</name>, his name inscribed in the colophon, folio 144r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600 binding. An original leather box binding with decorative brass bosses and corners. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1490" when-custom="1802" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">90</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,219 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27180" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27180</idno>
+					</msIdentifier>
+					<head>Kabbalistic collectaneum</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of kabbalistic texts.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="2r"/>
+							<textLang mainLang="he"/>
+							<title xml:lang="he">ספר יצירה</title>
+							<title xml:lang="he-Latn-x-lc">Sefer Yetsirah</title>
+							<note>
+								<p>These two folios contain only a small fragment of the book.</p>
+							</note>
+							<incipit xml:lang="he">חבב שביעי תחת השמים: פרק ה': שתים עשרה פשוטות וכו'.<locus n="1r"/>
+							</incipit>
+							<explicit xml:lang="he">זה ספר של אברהם אבינו ע"ה הנק' ספר יצירה. כל המעיין בו אין שיעור לחכמתו וכל המתעסק בו ולומר בחכמתו כן ויודע סודותיו יתגלו לו סודות העולם העליון ועולם התחתון ומובטח לו שהוא בין העולם הבא. כבורך ייי'.<locus n="2r"/>
+							</explicit>
+							<listBibl>
+								<bibl>
+									<ref target="Hayman_2004"/>
+								</bibl>
+							</listBibl>
+							<decoNote type="diagram">Sefirotic tree, ink drawing with a commentary.<locus from="8v" to="9r"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="2v" to="9v"> </locus>
+							<title xml:lang="he-Latn-x-lc">Perush sefer yetsirah</title>
+							<title xml:lang="he">פרוש ספר יצירה</title>
+							<note>
+								<p>A part of an exposition of the '32 paths' taken from the introduction to the commentary.</p>
+								<p>On folio <locus n="39r"/>there is a poem beginning <q>מזמור ליום שבת עונג ונופש</q> , with two short lines beginning: <q>אות וברית עולם</q> at the head.</p>
+							</note>
+							<author>
+								<persName xml:lang="he-Latn-x-lc" key="http://viaf.org/viaf/8687273">Abraham ben David, of Posquières</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/8687273">אברהם בן דוד, מפוסקיר, ראב"ד</persName>
+							</author>
+							<incipit xml:lang="he">מפי חכמים הקדומים וכו'<locus n="2v"/>
+							</incipit>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="10r" to="38v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer temunot</title>
+							<title xml:lang="he">ספר תמונות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel,  1240-approximately 1292</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל</persName>
+							</author>
+							<note>
+								<p>Only part 3 and 4 of the book is given here.</p>
+							</note>
+							<filiation>Cf. Harley MS 1204, <ref target="Margoliouth_1965" type="number">758</ref>
+							</filiation>
+						</msItem>
+						<msItem rend="visible">
+							<locus to="61r" from="39v"/>
+							<title xml:lang="he-Latn-x-lc">Perush shiv῾im u-shenayim shemot</title>
+							<title xml:lang="he">פרוש שבעים ושנים שמות </title>
+							<listBibl>
+								<bibl>
+									<ref target="Sefer_Raziel_1701"/>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">
+									<add>Abulafia, Abraham ben Samuel, 1240-approximately 1292 (or his school)</add>
+								</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל<add/>
+								</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment and paper codex; Spanish and Italian semi-cursive script.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Parchment and paper codex</support>
+								<extent>61 folios<dimensions type="leaf" unit="mm">
+										<height>216</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>61 folios (+ 4 unfoliated flyleaves at the beginning and 4 at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>Quires mostly of 8 leaves.</p>
+									<p>Additional 7 paper leaves at the beginning of the manuscript.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 3" ruledLines="29" writtenLines="29">
+									<p>Text written in one to three columns, with 24 to 29 columns to a page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Spanish and Italian semi-cursive script. <name type="person" role="scribe">Mosheh</name>: inscription in a form of acrostic beginning: מזמר ליום שבת עונג ונופש, folio 39r; Italian semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="2r"/> Italian/Byzantine semi-cursive of approximately 15th century</p>
+								<p>
+									<locus from="2v" to="7r"/>Spanish semi-cursive of approximately 15th century</p>
+								<p>
+									<locus from="8r" to="61v"/>Italian/Byzantine semi-cursive of approximately 15th century</p>
+							</handNote>
+						</handDesc>
+						<decoDesc>
+							<summary>Sefirotic tree.</summary>
+							<decoNote type="diagram">
+								<locus from="8v" to="9r"/>Sefirotic tree, ink drawing with a commentary.</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Number of personal notes, written in a later hand, on folio <locus n="">7v:</locus>
+								<q>בשנת תל"ב ביום ש"ק שמנה עשר לחדש אלול נפטר לעולמו כבוד א"א ז"ל </q>
+							</p>
+							<p>
+								<name type="person" role="owner">Barukh Galiko</name>, inscribed with his name on folio 39r: להו': קניתיהו אני ברוך גאליקו מיד כמהח"ר משלם סלם יצ"ו</p>
+							<p>
+								<name type="person" role="censor">Clemente Renatto</name>, his name signed on folio 38v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house, black buckram.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>?</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 290: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through <name type="org">Asher &amp; Co.</name> in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-163</ref>.</p>
+							<date>1865-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">733</ref>
+							</bibl>
+							<bibl>
+								<ref target="Almanzi_1864"/>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

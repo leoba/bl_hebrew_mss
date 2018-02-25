@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26925" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26925</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="2r" to="6v"/>
+							<title xml:lang="he-Latn-x-lc">Igeret ha-ṿikuaḥ</title>
+							<title xml:lang="he">אגרת הוכוח</title>
+							<note>
+								<p>Defective at the end.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/71428967">Falaquera, Shem Tov ben Joseph, 1225-1295</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/71428967">פלקירא, שם טוב בן יוסף אבן</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="7r" to="30v"/>
+							<title xml:lang="he-Latn-x-lc">Reshit ḥokhmah</title>
+							<title xml:lang="he">ראשית חכמה</title>
+							<author>
+								<persName key="http://viaf.org/viaf/71428967" xml:lang="en">Falaquera, Shem Tov ben Joseph, 1225-1295</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/71428967">פלקירא, שם טוב בן יוסף אבן</persName>
+							</author>
+							<note>
+								<p>Imperfect at the beginning.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="30v" to="50v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-ma῾alot</title>
+							<title xml:lang="he">ספר המעלות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/71428967">Falaquera, Shem Tov ben Joseph, 1225-1295</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/71428967">פלקירא, שם טוב בן יוסף אבן</persName>
+							</author>
+							<note>
+								<p>Preceded by the author's poem.</p>
+							</note>
+							<colophon xml:lang="he">סיום הספר בריך רחמנא דסייעי ובריך מאן דקרי ביה א"ס הנני צעיר כת האמונה כתבתי זה הראשית חכמה וספר המעלות אשר חבר החכם השלם שם טוב ב"ר יוסף אבן פלקריא הפילוסוף האלהי ז"ל נ"ע ביום ג' ר"ח אלול "<date calendar="Hebrew">אברך</date>" הדר לעת הזאת פה עיר <name type="place">קרימה</name> בלונברדיאה נאום הקטן <name type="person" role="scribe">אברהם בכאמ"ר יוסף</name> יזי"י לאלף הששי.<locus n="50v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="51r" to="107v"/>
+							<title xml:lang="he-Latn-x-lc">Sha῾ar ha-shamayim</title>
+							<title xml:lang="he">שער השמים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/22294645">Gershom ben Shelomoh</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/22294645">גרשום בן שלמה</persName>
+							</author>
+							<note>
+								<p>Additions and notes in the margin (e.g., folio 105v, a note by Joseph Almanzi).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>107 folios<dimensions type="leaf" unit="mm">
+										<height>285</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>135</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>107 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). Folio 1 is a paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of 3 to 6 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Usage stains. </p>
+									<p>Lacuna after folio 6.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="43 44" writtenLines="43 44">
+									<p>Uniform layout.</p>
+									<p>Visible ink and hard-point ruling.</p>
+									<p>Titles and inital words in larger characters.</p>
+									<p>The last word of a folio is repeated at the beginning of the next. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive and cursive script, unpunctuated, of the 15th century. <name type="person" role="scribe">Avraham</name>: the name marked off and decorated in pen and ink on folio 32v. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p> BM/BL in-house.</p>
+								<p>Spine: 'Shemtob Ibn Palquera. Iggereth Hav-Vikuach. Etc. Hebrew. Brit. Mus. Additional 26,925.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5223" calendar="Hebrew" when="1463"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Crema</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 33: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [109v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">914</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-01-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

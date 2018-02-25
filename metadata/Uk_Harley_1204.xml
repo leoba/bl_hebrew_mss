@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_1204" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 1204</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of kabbalistic texts.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="159v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-temunah</title>
+							<title xml:lang="he">ספר התמונה</title>
+							<note>
+								<p>Contains sections headed: Sod ha-yiḥud, Perush shema῾ Yisra᾿el veha-shemiṭot. See further <ref target="Scholem_1930" type="page">62-66</ref>.</p>
+								<p>A colophon on folio 158v is crossed out. A Latin translation of it has been pasted on folio 159r.</p>
+							</note>
+							<filiation>Cf. Add MS 27180/IV and III; Add MS 27002/II.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="160r" to="219v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥaye ha-῾olam ha-ba</title>
+							<title xml:lang="he">חיי העולם הבא </title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל</persName>
+							</author>
+							<note>
+								<p>See further <ref target="Idel_1976" type="page">62</ref> (volume 1).</p>
+								<p>The manuscript has been altered by a Christian reader in several places, e.g., 165r.</p>
+								<p>A Latin translation has been pasted on folio 219v below the original colophon.</p>
+							</note>
+							<incipit xml:lang="he">פי' שם המפורש ושמו חיי העולם הבא.<locus n="160r"/>
+							</incipit>
+							<colophon xml:lang="he">ברוך יהוה אשר נתן ליעף כח להשלים ספר עולם הבא בעזרתו בעולם הבא נראה עצמותו מבלי חקר עד אין סוף ונדעהו כאשר הוא פנים אל פנים ולא בדמות ולא בצלם. אמן ואמן סלה.<locus n="219v"/>
+							</colophon>
+							<filiation>Cf. Or 4596/II, Or 1055/III.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>219 folios<dimensions type="leaf" unit="mm">
+										<height>220</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145105</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>219 folios (+ 2 unfoliated paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>Folios 1-158 written in two columns to a page, folios 160-219 written in partly undivided pages and partly within circular lines.</p>
+									<p>Initial words in larger characters, in green or red. Numerous passages highlighted in red or green.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Some additions and comments in the margin.</p>
+									<p>The proper order of leaves: folios 1-64, 73-80, 65-72, 81-219.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov ben Yosef</name>: inscribed, folio 1r.</p>
+							<p>Illegible inscriptions of former owners: folio 219r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Sefer Temunoth. Perush Sehm Ham-Meforash. Hebrew. Brit. Mus. Harley 1204.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753</date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">758</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

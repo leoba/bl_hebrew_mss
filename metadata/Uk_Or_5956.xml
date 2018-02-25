@@ -1,0 +1,1002 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-08-07</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_5956" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 5956</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314078</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724185.0x000002</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Hebrew Bible</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n79054379" rend="visible">
+                  
+                  
+                  
+                  <summary>The Bible, with vowel-points and accents, accompanied with masorah parva.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he">Hebrew</textLang>
+                  
+                  
+                  
+                  <msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+                     
+                     
+                     
+                     <locus from="1r" to="415v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Tana"kh</title>
+                     
+                     
+                     
+                     <title xml:lang="he">תנ"ך</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>At the end of the different books are masoretic rubrics recording the number of verses, etc. (often partially and in a few cases entirely erased). </p>
+                        
+                        
+                        
+                        <p>Appended is Benjamin Kennicott's description of the manuscript, and a letter to the former owner of the manuscript, Mr Simpson, who agreed to lend it to Kennicott (dated at Oxford, March 4, 1770, primarily addressed to the Reverend Dr Cooper, President of King's College, New York, America). </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1v" to="27r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Genesis</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="27r" to="48v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Exodus</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Leviticus</title>
+                     
+                     
+                     
+                     <locus from="48v" to="63v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Numbers</title>
+                     
+                     
+                     
+                     <locus from="63v" to="85v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Deuteronomy</title>
+                     
+                     
+                     
+                     <locus from="85v" to="105r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Joshua</title>
+                     
+                     
+                     
+                     <locus from="106r" to="118v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Judges</title>
+                     
+                     
+                     
+                     <locus from="118v" to="131v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Samuel</title>
+                     
+                     
+                     
+                     <locus from="131v" to="161r"/>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Not divided into two books. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Kings</title>
+                     
+                     
+                     
+                     <locus from="161r" to="192r"/>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Not divided into two books. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="192r" to="214r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Isaiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="214r" to="242v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Jeremiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="242v" to="266v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ezekiel</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="266v" to="286r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Minor Prophets</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="286r" to="288r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ruth</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Psalms</title>
+                     
+                     
+                     
+                     <locus from="288r" to="322r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Job</title>
+                     
+                     
+                     
+                     <locus from="322r" to="337v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Proverbs</title>
+                     
+                     
+                     
+                     <locus from="337v" to="351v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Ecclesiastes</title>
+                     
+                     
+                     
+                     <locus from="351v" to="355r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Song of Songs</title>
+                     
+                     
+                     
+                     <locus from="355r" to="357r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Lamentations</title>
+                     
+                     
+                     
+                     <locus from="357r" to="359r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Daniel</title>
+                     
+                     
+                     
+                     <locus from="359r" to="367r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="367r" to="379r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ezra-Nehemiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="379r" to="383r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Esther</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="383r" to="415v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Chronicles</title>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the late 15th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment codex. </support>
+                        
+                        
+                        
+                        <extent>415 folios<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>210</height>
+                              
+                              
+                              
+                              <width>145</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>155</height>
+                              
+                              
+                              
+                              <width>90</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>415 folios (+ 1 unfoliated paper flyleaf at the beginning and 3 at the end).</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 8 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Usage stains.</p>
+                           
+                           
+                           
+                           <p>Dirt entries at places. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2" ruledLines="32" writtenLines="32">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Complete hard-point ruling. </p>
+                           
+                           
+                           
+                           <p>Hair side and flesh side of folios distinguishable. </p>
+                           
+                           
+                           
+                           <p>Masorah parva given in the outer margin. </p>
+                           
+                           
+                           
+                           <p>The masoretic rubric registering the number of verses placed at the end of most books.</p>
+                           
+                           
+                           
+                           <p>Running titles. </p>
+                           
+                           
+                           
+                           <p>Gilt edges. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi semi-cursive script, with vowel-points and accents, of the 15th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <additions>
+                     
+                     
+                     
+                     <p>Folio 1r: a short list of books in late cursive hand.  </p>
+                  
+                  
+                  
+                  </additions>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>Pre-1600. Black leather, gold tooled ('Joseph Simpson, New York, America'). Boxed. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Old Testament. Hebrew. Kennicott 144. Brit. Mus. Oriental 5956.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1400" notAfter="1499">15th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Spain</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person">Benjamin Kennicott</name> (b. 1718, d. 1783), English biblical scholar: his description of the manuscript appended (a paper sheet affixed on folio [416]). See <ref target="Kennicott_1776" type="number">144</ref>. </p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1901-04-17</date>
+                     
+                     
+                     
+                     <p>Purchased by the British Museum through <name type="person" role="owner">M. Levy</name> on 17 April 1901: inscribed, folio [418r] (fse003r). </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1140.</bibl>
+                     
+                     
+                     
+                     <bibl>
+                        
+                        
+                        
+                        <ref target="Kennicott_1776" type="number">144</ref>
+                     
+                     
+                     
+                     </bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-08-07">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

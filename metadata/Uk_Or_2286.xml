@@ -1,0 +1,192 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2286" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2286</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Hafṭarot, and parts of  the Five Scrolls, with punctuation and accents, provided with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="144v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, hafṭarot u-megilot </title>
+							<title xml:lang="he">תורה, הפטרות  ומגילות  </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>Esther and Lamentations are now missing from the Five Scrolls.</p>
+							</note>
+							<filiation>Cf. <ref target="Neubauer_1994" type="number">2322</ref> and <ref target="Sassoon_1932" type="number">1209</ref>for the manuscripts of the same scribe.</filiation>
+							<colophon xml:lang="he">ספרא רבה בישראל גדול שמו הרב הקדוש שמו נודע בישראל להלל' אדונינו כמורר ה"ר <name type="person" role="scribe">משה זאברה</name> זיע"א אשרי איש יחזיק בזה הספר ויהיה בבית גנזיו והיתה לבני ישראל למשמרת לצרתם להגיה ממנו ספר תורת משה ע"ה וזכות הרב תגן עליו ועל זרעו אכי"ר.
+
+<locus n="103v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="19v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>Missing chapters: 1:1-21:21</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="19v" to="43v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="43v" to="60r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="60r" to="82v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82v" to="104v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104v" to="137v"/>
+								<title xml:lang="en">Hafṭarot of the weekly sections, feast and fasts.</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="137v" to="139r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="139r" to="141r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="141r" to="144v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+								<note>
+									<p>Wanting a few words at the end.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">144 folios<dimensions unit="mm" type="leaf">
+										<height>438</height>
+										<width>324</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>345</height>
+										<width>210</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>144 folios (+ 2 unfoliated flyleaves at the beginning and 3 unfoliated flyleaves at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>Originally 14 quires, each of 12 leaves. Currently the first, parts of the second and fourteenth quires are missing.</p>
+									<p>Quires are marked by Hebrew letters on the last page, as well as by Hebrew signatures at the beginning, of which only few have been preserved. </p>
+								</collation>
+								<condition>
+									<p>Several stained pages, some being also a little damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="20" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Four blank lines between the books of the Pentateuch and also between the Five Scrolls. </p>
+									<p>Masorah magna on the Pentateuch and the Scrolls generally in two lines of the upper and three lines of the lower margin.</p>
+									<p>The weekly sections marked with פרש' in the margin, a continuous enumeration of 54 sections being added in Hebrew letters.</p>
+									<p>The commandments written in the margin or between the column where they respectively appear.</p>
+									<p>No pricking currently visible. Ruling with hard point on the hair-side of folios.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square scrip of the 15th century. <name type="person" role="scribe">Moshe (ben Ya῾aḳov) Zabarah</name>, his name inscribed with another hand on folio 103v: ספרא רבא בישראל גדול שמו הרב הקדוש שמו נודע בישראל להלל' אדונינו כמוהרר משה זאברה זיע"א אשרי איש יחזיק בזה הספר ויהיה בבית גנזיו והיתה לבני ישראל למשמרת לדרתם' להגיה ממנו' ספר תורה משה ע"ה: וזכות הרב תגן עליו ועל זרעו אכי"ר. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1450" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1880-11-09</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 09 November 1880 ([148v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">87</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

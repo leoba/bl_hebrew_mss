@@ -1,0 +1,135 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1069" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1069</idno>
+					</msIdentifier>
+					<head>Sefer ha-emunah ha-ramah</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Sefer ha-emunah ha-ramah by Abraham ben David ibn Daud, translated from Arabic to Hebrew by Shelomoh ben Labi.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="130v"/>
+							<title xml:lang="he">ספר האמונה הרמה</title>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-emunah ha-ramah</title>
+							<author key="http://viaf.org/viaf/86518157">
+								<persName key="http://viaf.org/viaf/86518157" xml:lang="en">Ibn Daud, Abraham ben David,, Halevi, approximately 1110-approximately 1180</persName>
+								<persName key="http://viaf.org/viaf/86518157" xml:lang="he">אברהם בן דוד, הלוי, ראב"ד </persName>
+							</author>
+							<filiation>Cf. <ref target="Neubauer_1994" type="number">1227</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and parchment codex; Sefardi semi-cursive script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Paper and parchment codex.</support>
+								<extent>130 folios<dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>133</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>130 folios (+ 1 modern paper flyleaf at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>First leaf slightly damaged.</p>
+									<p>One leaf missing after folio 119.</p>
+									<p>Paper leaves slightly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Uniform layout. Visible horizontal and vertical ruling with pencil on the paper leaves. Flesh side and hair side distinguishable on the vellum leaves.</p>
+									<p>Initial words of each section written in larger characters.</p>
+									<p>Catchwords given only occasionally. The last word of the folio is usually repeated at the beginning of the next folio.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black buckram, blind tooled.</p>
+								<p>Spine title: 'Abraham b. David. Emunah Ramah. Hebrew. Brit. Mus. Oriental 1069.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">900</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

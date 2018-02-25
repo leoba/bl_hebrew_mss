@@ -1,0 +1,796 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2013-08-20</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Harley_5498c" xml:lang="en" rend="all">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Harley MS 5498c</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>040-003314211</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724936.0x00000a</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Hebrew Bible</head>
+               
+               
+               
+               <msContents class=" lccn.loc.gov/n80008477   lccn.loc.gov/n79054379" rend="visible">
+                  
+                  
+                  
+                  <summary>Hebrew Bible, volume 3: Latter Prophets</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="visible" class="lccn.loc.gov/n80008477">
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Nevi'im aḥaronim </title>
+                     
+                     
+                     
+                     <title xml:lang="he">נביאים אחרונים</title>
+                     
+                     
+                     
+                     <locus from="1r" to="121r"/>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>Third volume of a four-volume set consisting respectively of Pentateuch, Former Prophers, Latter Prophets and Hagiographa; for volumes 1, 2 and 4, see Harley MS 5498a, Harley MS 5498b, and Harley MS 5498d.</p>
+                        
+                        
+                        
+                        <p>Punctuated.</p>
+                        
+                        
+                        
+                        <p>With masorah magna and parva.</p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <decoNote type="other">Masorah in micrographical form in some places. Initial words of the books are unfinished.<locus/>
+                     
+                     
+                     
+                     </decoNote>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1v" to="29r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Isaiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="29r" to="65r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Jeremiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="65r" to="96v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ezekiel</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="96v" to="100v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Hosea</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Joel</title>
+                     
+                     
+                     
+                     <locus from="100v" to="102r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Amos</title>
+                     
+                     
+                     
+                     <locus from="102r" to="105v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Obadiah</title>
+                     
+                     
+                     
+                     <locus from="105v" to="106r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Jonah</title>
+                     
+                     
+                     
+                     <locus from="106r" to="107v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Micah</title>
+                     
+                     
+                     
+                     <locus from="107v" to="109v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Nahum</title>
+                     
+                     
+                     
+                     <locus from="109v" to="110v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Habakkuk</title>
+                     
+                     
+                     
+                     <locus from="110v" to="111v"/>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Zephaniah</title>
+                     
+                     
+                     
+                     <locus from="112r" to="113r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Haggai</title>
+                     
+                     
+                     
+                     <locus from="113r" to="114r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Zechariah</title>
+                     
+                     
+                     
+                     <locus from="114r" to="119v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Malachi</title>
+                     
+                     
+                     
+                     <locus from="119v" to="121v"/>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the 14th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment. </support>
+                        
+                        
+                        
+                        <extent>121 folios (+3 unfoliated flyleaves at the beginning and at
+the end).<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>184</height>
+                              
+                              
+                              
+                              <width>120</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="leaf" unit="lines">
+                              
+                              
+                              
+                              <height>32</height>
+                              
+                              
+                              
+                              <width/>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>10 quires, signature in Hebrew characters at the end of
+quires (signatures are continuous in the throughout the four
+volumes, volume 3: quires 21-30). Quires are of 12 leaves
+each, apart from the first quire which has now 14 leaves and the last one which has 11 leaves. Several unfoliated paper flyleaves (of Christian provenance, with watermark of two
+lions holding a banner) at the beginning and at the end.
+									</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p/>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2" ruledLines="32" writtenLines="32">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Ruling with hard-point, pricking sometimes visible.</p>
+                           
+                           
+                           
+                           <p>Jeremiah and Hosea begin a new column; Joshua, Isaiah and Zephaniah begin a new leaf.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi square script, punctuated through the main text and unpunctuated through the masoretic notes, of the 14th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>Post-1600 Harleian binding, red leather with gold tooling, marble paper pastedown. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Bible III. Hebrew. Brit. Mus. Harl. Ms. 5498.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1300" notAfter="1399">14th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Spain</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p/>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <p>Inscription by Edward Harley's librarian, <name type="person">Humfrey Wanley</name>, <date calendar="Gregorian">28 July 1725</date>. The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta, née Cavendish Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library. </p>
+                     
+                     
+                     
+                     <date>1753</date>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 59.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2013-08-20">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

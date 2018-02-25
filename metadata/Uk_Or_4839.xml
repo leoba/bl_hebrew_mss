@@ -1,0 +1,168 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4839" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4839</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420    lccn.loc.gov/n82271898" rend="visible">
+						<summary>Leviticus, Numbers and Deuteronomy with Rashi's commentary,Targum and Sa῾adia's Arabic translation.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420   lccn.loc.gov/n82271898">
+							<locus from="1v" to="189v"/>
+							<title xml:lang="en">Torah ʿim targum u-ferush Rash&quot;i </title>
+							<title xml:lang="he">תורה עם תרגום ופרוש רש"י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105  </persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105</persName>
+							</author>
+							<note>
+								<p>Contains Leviticus, Numbers and Deuteronomy. </p>
+								<p>Various marginal notes. </p>
+							</note>
+							<filiation>The second of the uniform volumes, the first being Or 4838, <ref target="Margoliouth_1965" type="number">184</ref>. </filiation>
+							<colophon xml:lang="he">נשלמה זאת התורה התמימה נזר ועטרה [...] <date when="1747" calendar="Hebrew">היום יום שלישי לחדש תשרי שהיא יום חמישי בסדר וילך משה שנת תרין אלפין וחמשין ותשע שנין לשטרות שהוא שנת ה'ת'ק'ח' ליצירה</date> תהא שנה זו סוף וקץ לכל צרה [...] הצעיר <name type="person" role="scribe">יחיה בן אדוני אבי משה בן שלו' בן יחיה הידוע אלקראטה</name> וכו'<locus n="189v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="2r" to="58r"/>
+								<title xml:lang="en">Leviticus</title>
+								<incipit xml:lang="he">בשם רחמן מלא רחמים בשם אשר לו הגבורה אתחיל לכתוב ספר ויקרא. עם פרוש שלשה עמודי עולם אשר בכל בתי מדרשות נשמע קול פלפולם זכותם תעמוד לי ולכל ישראל כולם והנני מתחיל לעשות כאשר יעזרני ויי יהיה בעזרי אכיר.<locus n="2r"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58v" to="125v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="126r" to="188r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="188v" to="189v"/>
+								<title xml:lang="en">Miscellanea</title>
+								<note>
+									<p>Masoretic notes and some biblical verses with a Judeo-Arabic translation, followed by Ps. 29 with an Aramaic translation, the genealogy of Moses and several Scripture verses.</p>
+								</note>
+								<quote xml:lang="he">וכשמשלימין לקרות הפרשה ביום שבת אומרין זה הנוסח שמדבר בשבח התורה ובמעלת משה רבינו עליו השלום: צדקתך צדק לעולם ותורתך אמת: משה אמת ותורתו אמת וכו":<locus n="189r"/>
+								</quote>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, Yemenite square and semi-cursive script of 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent rend="visible">189 folios<dimensions unit="mm" type="leaf">
+										<height>480</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>270</height>
+										<width>175</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>189 folios (+1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<condition>
+									<p>Several pages severely stained or damaged. Some restoration has beed done, patching damaged folios with modern paper. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24 35" writtenLines="24 35">
+									<p>Rashi's commentary is written below the main text of the Pentateuch. </p>
+									<p>The commentary has catchwords on each folio. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script of 18th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p> 	BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="Tishri 5508" calendar="Hebrew" when="1747"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1894-11-14</date>
+							<p>
+								<name type="org">Moses Heller &amp; Weiss</name>: purchased by the British Library from him on 14 November 1894, folio <locus n="fse002v">[191v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">185</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2540" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2540</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Fragments of Exodus (chapter 1:1-8:5) written in Arabic characters.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="21v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<note>
+								<p>The system of transcription from Hebrew into Arabic characters is literal. </p>
+								<p>The Hebrew text is written in Arabic characters, with ordinary vowel-points (in red) and the accents (in green) added subsequently. </p>
+							</note>
+							<decoNote type="other">2 carpet pages in gold, red, and brown.  <locus to="3r" from="2v"/>
+							</decoNote>
+							<decoNote type="other">Numerous space fillers in colours and gold. </decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Narkiss_1989" type="page">38</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">14-17</ref>
+								</bibl>
+								<bibl>
+									<ref target="Brown_2006" type="page">273</ref>
+								</bibl>
+							</listBibl>
+							<msItem rend="v">
+								<locus from="1r" to="21v"/>
+								<title xml:lang="en">Exodus</title>
+								<note>
+									<p>Only Ex. 1:1-8:5.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, c10th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>21 folios<dimensions type="leaf" unit="mm">
+										<height>235</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>165</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>21 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="7 10" writtenLines="7 10">
+									<p>Parasha Ṿa-era is marked by فرس' in gold in the margin. </p>
+									<p>The punctuation is provided in red ink and the accents in green ink. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Arabic Naskhi script of c10th century. </summary>
+							<handNote script="naskh" scope="major"/>
+						</handDesc>
+						<additions>
+							<p> 	K. B. No. 1: inscribed,  (folio 1r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="0900" notAfter="0999">Approximately 10th century.</origin>
+						<provenance>
+							<p>
+								<name type="place">Egypt</name>or <name type="place">Palestine</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 8 July 1882: inscribed folio <locus n="fse001v">[22v]</locus>. </p>
+							<date>1882-07-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">104</ref>
+							</bibl>
+							<bibl>
+								<ref target="Hoerning_1889" type="page">X-XI</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

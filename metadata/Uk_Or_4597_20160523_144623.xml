@@ -1,0 +1,602 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation </sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-02-20</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_4597" xml:lang="en" rend="meta">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 4597</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314052</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724121.0x000002</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Tsurat ha-arets by Abraham ben Hiyya Savasorda</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85009019" rend="visible">
+                  
+                  
+                  
+                  <summary>Astronomical work.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="" class="lccn.loc.gov/sh85009019">
+                     
+                     
+                     
+                     <locus from="1r" to="35v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Tsurat ha-arets</title>
+                     
+                     
+                     
+                     <title xml:lang="he">צורת הארץ</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName key="viaf.org/viaf/81287" xml:lang="en">Abraham bar Hiyya Savasorda, 1065-1136</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/81287">אברהם בן חיא, הנשיא</persName>
+                     
+                     
+                     
+                     </author>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the 14th to 15th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment.</support>
+                        
+                        
+                        
+                        <extent>35 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>230</height>
+                              
+                              
+                              
+                              <width>180</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>190</height>
+                              
+                              
+                              
+                              <width>150</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>35 folios (+ 1 unfoliated paper flyleaf at the beginning and 1 unfoliated paper plus 1 vellum flyleaf at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>3 quires of 10 leaves each (folios 1-30), marked with signatures and catchwords at the end, followed by 5 leaves and a flyleaf.</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Usage stains.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="33" writtenLines="33">
+                           
+                           
+                           
+                           <p>Uniform layout.</p>
+                           
+                           
+                           
+                           <p>Pricking and hard-point ruling visible.</p>
+                           
+                           
+                           
+                           <p>Marginal notes and additions throughout.</p>
+                           
+                           
+                           
+                           <p>Hair side and flesh side of folios distinguishable.</p>
+                           
+                           
+                           
+                           <p>Diagrams in the margins, e.g., folios 12v, 15r, 16r, 18r, 18v, 20v, 23r, 23v, 24r.</p>
+                           
+                           
+                           
+                           <p>Erasures, folio 18r. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Italian semi-cursive of the 14th to 15th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. Boxed.</p>
+                        
+                        
+                        
+                        <p>Spine: 'Surath Ha-Ares. Abraham bar Hiyya. Hebrew. Brit. Mus. Or. 4597.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1300" notAfter="1499">14th-15th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Italy</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1623 (folio 35v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+                     
+                     
+                     
+                     <p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active 1575-1624): inscribed with his name (folio 35v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74. </p>
+                     
+                     
+                     
+                     <p>Censored by Alessandro Scipione, Italian censor (active 1593-1599, Mantua): inscribed with his name, 1593 (folio 35v).</p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1893-01-16</date>
+                     
+                     
+                     
+                     <p>Bought by the British Museum from Quaritch, 17 January 1893: inscribed, folio [36v] (fse001v).</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1006.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-02-20">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

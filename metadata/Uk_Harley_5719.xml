@@ -1,0 +1,225 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5719" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5719</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Maimonides' Mishneh Torah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="547v"/>
+							<title xml:lang="en">Mishneh Torah </title>
+							<title xml:lang="he">משנה תורה</title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<filiation>Cf. Add MS 11438, <ref target="Margoliouth_1965" type="number">495</ref>.</filiation>
+							<colophon xml:lang="he">ותשלם עבודת מלאכת הקדש כתיבת החבור הגדול והמפואר אשר חבר הרב המופלא הדיין הגדול כמהר"ר משה בן הדיין המופלא כמוהר"ר מימון זצ"ל בנקרא שמו משנה תורה <date when="1488" calendar="Hebrew">בששי בשבת בעשרה ימים לחדש כסלו שנת חמשת אלפים ומאתים וארבעים ותשע לבריאת עולם</date> פה <name type="place">מנטובה </name>וכתבתיו אל איש חמודות מדובר בו נכבדות עטרת תפארת המשכילים השלם גבירי ורוזני אדו' ומו' כמ"ר <name type="person" role="patron">משה הלוי יצ"ו בכמ"ר שאול הלוי</name> זצ"ל וקבלתי שכרי מידו לידו בשלמות ומחלתי לו דמי אונאה המקום ברחמיו יזכהו להגות בו הוא וזרעו וזרע זרעו עד סוף כל הדורות ויקויים בו מקרא דכתי' לא ימושו מפיך ומפי זרעך ומפי זרע זרעך אמר ה' מעתה ועד עולם אא"ס. ומי שזכני להשלימו יזכני לכתוב שאר ספרי הקדש ולהגות בהם וליראה את השם הנכבד והנורא בלב שלם אני וזרעי וזרע זרעי עד סוף כל הדורות ויקויים בנו מקרא דכתי' לא ימושו מפיך ומפי זרעך ומפי זרע זרעך
+אמר ה' מעתה ועד עולם נאם פעוטא דפעוטי <name type="person" role="scribe">ישעיה בכמ"ר יעקב זצ"ל ממסראן</name> בכמהר"ר ישעיה זצ"ל מיירונה.<locus n="547r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="15r"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="15r" to="40v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ha-mada῾</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="40v" to="69r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ahavah</title>
+								<note>
+									<p>There is no Seder berakhot u-tefilot nor Seder tefilot ha-shanah at the end of this book.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="69r" to="135r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer zemanim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="135r" to="176v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer nashim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="176v" to="215r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ḳedushah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="215r" to="241r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer hafla᾿ah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="241r" to="287v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer zera῾im</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="287v" to="335v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ῾avodah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="335v" to="356r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ḳorbanot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="356r" to="418v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ṭaharah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="418v" to="447r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer neziḳin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="447r" to="480r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer ḳinin</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="480r" to="515v"/>
+								<title xml:lang="he-Latn-x-lc">Sefer mishpaṭim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="515v" to="547r"/>
+								<title xml:lang="he-Latn-x-lc">Sefer shofeṭim</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>547 folios <dimensions unit="mm" type="leaf">
+										<height>340</height>
+										<width>251</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>222</height>
+										<width>160</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>547 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>55 quires of originally 10 leaves each, numbered with Hebrew letters at the end. </p>
+									<p>1 leaf of the 1st quire, 3 leaves of the 7th, and 1 leaf of the last quire have been cancelled. </p>
+								</collation>
+								<condition>
+									<p>Stained. </p>
+									<p>Incomplete. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="42" writtenLines="42">
+									<p>Uniform layout. Last written line outside ruling. </p>
+									<p>Pricking and page by page ruling (horizontal in ink and vertical in plummet) is visible.  </p>
+									<p>Hair-side and flesh-side of folios distinguishable. Scratching and hair follicles visible. </p>
+									<p>Chapter initials and titles given in larger characters.  </p>
+									<p>Headings and catchwords (in smaller characters) in each page. </p>
+									<p>Occasional marginal notes and additions. </p>
+									<p>Folio 1r-v has a summary of Mishneh Torah. </p>
+									<p>Several diagrams have not been completed (e.g. 289r). </p>
+									<p>Many erasures.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square and semi-cursive script (at variance with production area) of the 15th century. <name type="person" role="scribe">Yesha῾yah ben Ya῾aḳov mi-Masr᾿an</name>: inscribed in the colophon: folio 547r. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Mosheh ha-Leṿi ben Sha᾿ul ha-Leṿi</name>: inscribed, folio 547r. A contract of sale of the manuscript to the descendants of the patron's family, folio 547v.</p>
+							<p>
+								<name type="person" role="owner">Mordekhai ben Yosef Kohen</name>: inscribed, folio 12r.</p>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolimitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, (folio 547r); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active in the first quarter of the 17th century): inscribed with his name (folio 547v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Red cover.</p>
+								<p>Spine title: 'Maimonides. Yadh Hahazakah. Hebrew. Brit. Mus. Harley 5719.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5249" calendar="Hebrew" when="1488"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Mantua</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley </name>(b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">485</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

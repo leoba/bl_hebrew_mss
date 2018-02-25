@@ -1,0 +1,173 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17055" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17055</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Prayers for Rosh ha-Shanah and Yom Kipur, Ashkenazi rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="188v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>See further <ref target="Davidson_1924"/>.</p>
+								<p>There are marginal directions in Yiddish in different parts of the manuscript.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="32r"/>
+							<title xml:lang="en">Services for the first day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit (folio 1r) contains the same poetical pieces as in Or. 42.</p>
+								<p>Musaf starts on folio 12r (also the same as in Or. 42).</p>
+								<p>The portions missing after folio 21 and 26 are written in the margin in cursive Ashkenazi script.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="32r" to="57r"/>
+							<title xml:lang="en">Services for the second day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit begins on folio 32r, musaf begins on folio 45v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="57r" to="188v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>Kol nidre begins on folio 57r, shaḥarit on folio 75r, musaf on folio 134r, and minḥah on folio 174v, ne῾ilah on folio 181r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>188 folios <dimensions unit="mm" type="leaf">
+										<height>340</height>
+										<width>275</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>225</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>188 folios (+ 4 unfoliated paper flyleaves at the beginning and 2 unfoliated paper flyleaves and 2 unfoliated vellum flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords at the end of the quires, some of them trimmed away.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folio 21, 26, 126, 167.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="20">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and plummet ruling.</p>
+									<p>Initial words written in larger characters. Some of them highlighted with red ink (e.g. folio 105v, 167r).</p>
+									<p>Hair side and flesh side are hardly distinguishable.</p>
+									<p>Several marginal notes in a semi-cursive script.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, partially punctuated. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>A former owner's note, dated <date calendar="Hebrew">[5]216</date> (<date calendar="Gregorian">1456</date>): folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Mahazor for New Year and Day of Atonement. Ashkenazzi Rite. Hebrew. Brit. Mus. Additional 17,055.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd, the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 24 October 1847, Macdonalds' sale, lot 165: inscribed, folio [189v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">673</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

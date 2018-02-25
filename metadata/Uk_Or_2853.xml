@@ -1,0 +1,149 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2853" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2853</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An anonymous commentary on the Pentateuch.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="233v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah </title>
+							<title xml:lang="he">פרוש התורה </title>
+							<note>
+								<p>Belongs probably to the school of Tosafists, wrongly attributed to <name type="person">Yosef Bekhor Shor</name> (Joseph ben Isaac Bekor Shor, of Orleans, active 12th century), see folio 1r. Refers mostly to legal issues. </p>
+								<p>Large amount of references to Ashkenazi Talmudists.  </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, Ashkenazi semi-cursive script, unpunctuated, of c16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent rend="visible">233 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>233 folios (+ 3 modern paper flyleaves at the beginning and 2 at the end; 1 older paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 to 14 leaves.</p>
+									<p>Catchwords on every verso, but only partially preserved.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Lacunae after folios: 61, 71 and 227.</p>
+									<p>Stained and water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24 28" writtenLines="24 28">
+									<p>Some omissions and additions supplied in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, unpunctuated, of c16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">David Treves</name>: inscribed, folio 1r.</p>
+							<p>Censored by <name type="person" role="censor">Domenico Irosolimitano</name>, Italian censor (active 1575-1624): inscribed with his name, <date calendar="Gregorian">1598 </date>(214v); see <ref target="Popper_1969" type="page">61</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Commentary on Pentateuch. Hebrew. Brit. Mus. Oriental 2853.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1885-04-18</date>
+							<p>
+								<name type="person" role="bookseller">N. Rabinowitz</name>: purchased by the British Library from him on 18 April 1885, folio <locus n="fse002v">[235v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">243</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

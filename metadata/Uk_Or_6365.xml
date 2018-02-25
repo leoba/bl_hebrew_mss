@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6365" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6365</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="246v"/>
+							<title xml:lang="he-Latn-x-lc">She᾿elot ῾al Ha-shema῾ ha-tiv῾i shel Aristo</title>
+							<title xml:lang="he">שאלות על השמע הטבעי של אריסטו</title>
+							<note>
+								<p>In the Hebrew translation of ῾Eli ben Yosef Ḥabillo. The second part begins on folio 56r, the third on folio 118v, the fourth on folio 137v, the fifth on folio 173r, the sixth on folio 187v, the seventh on folio 205v, the eigth on folio 217r.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/311114815">Versor, Johannes</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/311114815">וירשוריו</persName>
+							</author>
+							<colophon xml:lang="he">נשלם כתיבת זה המאמר הרביעי יום רביעי ולחדשים מניסן רביעי ולפרט היצירה ששה עם עשר רביעי על [...] יצירה.<locus n="172v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="247v" to="292v"/>
+							<title xml:lang="he-Latn-x-lc">She᾿elot ῾al ha-haṿayah veha-hefsed shel Aristo</title>
+							<title xml:lang="he">שאלות על ההויה וההפסד של אריסטו</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/311114815">Versor, Johannes</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/311114815">וירשוריו</persName>
+							</author>
+							<note>
+								<p>The Hebrew translation of Versor's Quaestiones on Aristotle's 'De Generatione et Corruptione' by ῾Eli ben Yosef Ḥabillo. </p>
+								<p>The second part begins on folio 274r.</p>
+							</note>
+							<colophon xml:lang="he">השלמתי זה הספר לעצמי אני הצעיר <name type="person" role="scribe">יעקב ב"ר שם טוב אינביטו</name> זלה"ה פה ב<name type="place">פאס</name> יע"א. יום ב' ד' למנחם משנת <date calendar="Hebrew">חמשת אלפים ושלש מאות וה' וחמשים</date> ליצירה.<locus n="292v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>292 folios<dimensions type="leaf" unit="mm">
+										<height>216</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>292 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each, marked on the first page.</p>
+								</collation>
+								<condition>
+									<p>Corrosive ink.</p>
+									<p>Severe water and damp damage. </p>
+									<p>Tidemarks and stains. Paper foxing in margins.</p>
+									<p>Incomplete at the beginning.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="22 30" writtenLines="22 30">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in larger characters. </p>
+									<p>Horizontal catchwords on every verso.</p>
+									<p>Marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive scripts of the 15th to 16th century. <name type="person" role="scribe">Ya῾aḳov ben Shem Ṭov Anbiṭo (?)</name>, responsible for the last section of the manuscript: inscribed, folio 292v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 247r: riddles.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Johannes Versor. Opera Philosophica. Translated By Eli Habillo. Hebrew. Brit. Mus. Oriental 6365.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1595"/>
+						<provenance>
+							<p>
+								<name type="place">Morocco</name> (<name type="place">Fez</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1902-04-15</date>
+							<p>Purchased by the British Museum from <name type="person" role="owner">Raffalovich &amp; Lifkin</name> on 15 April 1902: inscribed, folio [293v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">889</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

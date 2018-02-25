@@ -1,0 +1,602 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2014-06-06</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Add_19786" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Add MS 19786</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003313834</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031719572.0x000004</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Novellae on the tractate Soṭah by Abraham ibn Musa</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85070287" rend="visible">
+                  
+                  
+                  
+                  <summary>Contains Novellae on the tractate Soṭah by Abraham ibn Musa.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  
+                  
+                  
+                  <msItem rend="visible" class="lccn.loc.gov/sh85070287">
+                     
+                     
+                     
+                     <locus from="1r" to="184v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Ḥidushim</title>
+                     
+                     
+                     
+                     <title xml:lang="he">חדושים</title>
+                     
+                     
+                     
+                     <incipit xml:lang="he">חידושי מס' סוטה אשר אסף וקבץ ולא הניח פינה וזוית אשר לא עבר: [...] <name type="person" role="author">אברהם אנן מוסה </name>חזק:<locus n="1r"/>
+                     
+                     
+                     
+                     </incipit>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/288947421">Ibn Musa, Abraham </persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/288947421">אבן מוסא, אברהם</persName>
+                     
+                     
+                     
+                     </author>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 18th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper.</support>
+                        
+                        
+                        
+                        <extent>184 folios <dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>216</height>
+                              
+                              
+                              
+                              <width>155</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>181</height>
+                              
+                              
+                              
+                              <width>130</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>184 folios (+ 1 modern paper flyleaf at the beginning and at the end). </p>
+                           
+                           
+                           
+                           <p>Hebrew foliation in the left-hand upper corner of each recto, written by a later hand.</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 8 leaves each.</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Water-damaged.</p>
+                           
+                           
+                           
+                           <p>Margins slightly injured.</p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="36 55" writtenLines="36 55">
+                           
+                           
+                           
+                           <p>Catchwords on every verso.</p>
+                           
+                           
+                           
+                           <p>Reference to the talmudic source in each section written in larger characters.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="4">
+                     
+                     
+                     
+                     <summary>Oriental semi-cursive script in various hands of the 18th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole">
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <locus from="1r" to="96v"/>, <locus from="97r" to="136v"/>, <locus from="138r" to="153v"/>, <locus from="154r" to="184v"/>written in different but more or less contemporary hands.</p>
+                     
+                     
+                     
+                     </handNote>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding contemporary="inapplicable">
+                        
+                        
+                        
+                        <p>BM in-house. Marbled cover. Boxed.</p>
+                        
+                        
+                        
+                        <p>Spine title: 'Abraham ben Musa. Comment. in Tract. Sotah. Hebrew. A.D. 1368. Brit. Mus. Iure Emptionis 19,786.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1700" notAfter="1799">18th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Syria or Palestine?</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1854-05-13</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">M. Aschkenazi</name>: purchased from him by the British Museum through D. Nutt on 13 May 1854: inscribed, folio [139v].</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 440.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2014-06-06">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

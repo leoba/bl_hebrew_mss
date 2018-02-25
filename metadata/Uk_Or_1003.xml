@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1003" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1003</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>A commentary on Avot by Yitsḥaḳ ben Shelomoh ben Yisra᾿el.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="131v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Avot</title>
+							<title xml:lang="he">פרוש אבות</title>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Yitsḥaḳ ben Shelomoh ibn Yisra᾿el</persName>
+								<persName xml:lang="he">יצחק בן שלמה אבן ישראל</persName>
+							</author>
+							<incipit xml:lang="he">פי' מסכת אבות חברו <name type="person" role="author">יצחק ב"ר שלמה ב"ר יצחק ב"ר שלמה ב"ר יצחק ב"ר ישראל הסופר בן ישראל</name> ת'נ'צ'ב'ה'.<locus n="1v"/>
+							</incipit>
+							<explicit xml:lang="he">שנת ח'י'י עלי מאה וחמש: אלפים ליצירה הם קצובות: <locus n="131v"/>
+							</explicit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>131 folios <dimensions unit="mm" type="leaf">
+										<height>190</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>131 folios (+ 1 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="25" writtenLines="25">
+									<p>Uniform layout.</p>
+									<p>Chapter numbers given in large characters.</p>
+									<p>A few marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sefardi (North African) semi-cursive script of the 14th to 15th century. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="25v" to="26r"/>due to a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: a note in an Italian cursive script of the 16th to 17th century.</p>
+						</additions>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Isaac ibn Israel. Comment. on the Pirke Aboth. Hebrew. Brit. Mus. Oriental 1003.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">J. Benzian</name>: purchased by the British Museum from him on 31 May 1869: inscribed, folio <locus n="fse001v">[132v]</locus>.</p>
+							<date>1880-04-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">465</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

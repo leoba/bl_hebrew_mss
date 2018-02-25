@@ -1,0 +1,666 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-07-24</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_4730" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 4730</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314056</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724121.0x000006</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Haft paikar by Niẓāmī Ganjavī</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85070315" rend="visible">
+                  
+                  
+                  
+                  <summary>Poetical text, in Persian in Hebrew characters.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="jpr-Hebr"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="141v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Haft paikar</title>
+                     
+                     
+                     
+                     <title xml:lang="he">הפט פייקר</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>An illustrated transcript of Niẓāmī's work, in Hebrew script. </p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/2474895">Niẓāmī Ganjavī</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/2474895">ניזאמי</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <decoNote type="miniature">13 miniatures, in colours (damaged and retouched):
+							<p>fol. 16b: Bahram Gur hunting lions watched by Fitna</p>
+                        
+                        
+                        
+                        <p>fol. 35b: Bahram Gur hunting wild asses watched by Fitna</p>
+                        
+                        
+                        
+                        <p>fol. 39b: Fitna carrying the ox on her shoulders up the steps to Bahram Gur</p>
+                        
+                        
+                        
+                        <p>fol. 49b: Bahram Gur entertained by musicians</p>
+                        
+                        
+                        
+                        <p>fol. 51b: Bahram Gur entertained by musicians</p>
+                        
+                        
+                        
+                        <p>fol. 73a: Bahram Gur entertained by the Moorish Princess in the Yellow Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 8lb: Bahram Gur entertained by the Tartar Princess in the Green Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 90b: Bahram Gur entertained by the Russian Princess in the Red Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 98b: Bahram Gur entertained by the Princess of Khvarazm in the Blue Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 114b: Bahram Gur entertained by the Chinese Princess in the Sandalwood Pavilion
+</p>
+                        
+                        
+                        
+                        <p>fol. 128a: Bahram Gur entertained by the Indian Princess in the Black Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 129a: Bahram Gur entertained by the Greek Princess in the White Pavilion</p>
+                        
+                        
+                        
+                        <p>fol. 141b: Bahram Gur killing the dragon</p>
+                        
+                        
+                        
+                        <locus n="16v, 35v, 39v, 49v, 51v, 73r, 81v, 90v, 98v, 114v, 128r, 129r, 141v"/>
+                     
+                     
+                     
+                     </decoNote>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 18th to 19th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper.</support>
+                        
+                        
+                        
+                        <extent>141 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>220</height>
+                              
+                              
+                              
+                              <width>135</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>140</height>
+                              
+                              
+                              
+                              <width>100</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>141 folios (+ 1 unfoliated paper flyleaf at the beginning and 2 at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Indeterminable (too tight binding). </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Old repairs obscure text occasionally.
+</p>
+                           
+                           
+                           
+                           <p>Damp stains at edges. </p>
+                           
+                           
+                           
+                           <p>Usage stains.
+</p>
+                           
+                           
+                           
+                           <p>Some water damage to the pigmented areas. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2" ruledLines="15" writtenLines="15">
+                           
+                           
+                           
+                           <p>Uniform layout.</p>
+                           
+                           
+                           
+                           <p>Text written within a frame, in red and blue ink. </p>
+                           
+                           
+                           
+                           <p>Catchwords on every verso.</p>
+                           
+                           
+                           
+                           <p>Initial verses and titles in larger square charactes. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Persian semi-cursive script of the 18th to 19th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house.</p>
+                        
+                        
+                        
+                        <p>Spine: 'Haft Paikar. Persian In Hebr. Character. Brit. Mus. Or. 4730.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1700" notAfter="1899">18th-19th century</origDate>
+                     
+                     
+                     
+                     <origPlace>Iran?</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1894-02-02</date>
+                     
+                     
+                     
+                     <p>Purchased by the British Museum on 02 February 1894 from <name type="person" role="owner">S. J. A. Churchill</name>, Esq. (b. 1862, d. 1921), a British diplomat, art connoisseur and author: inscribed, folio [143v] (fse002v).</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 947.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-07-24">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

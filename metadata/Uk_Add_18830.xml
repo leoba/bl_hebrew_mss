@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-07</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_18830" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18830</idno>
+					</msIdentifier>
+					<head>Tehilim</head>
+					<msContents class="lccn.loc.gov/n79056804" rend="visible">
+						<summary>The Psalms, with vowel-points and accents, masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="" class="lccn.loc.gov/n79056804">
+							<title xml:lang="he-Latn-x-lc">Tehilim</title>
+							<title xml:lang="he">תהילים </title>
+							<locus from="1r" to="122v"/>
+							<note>
+								<p>The Latin beginnings of the Psalms are written in the margin, showing that the manuscript was at an early period in the monastery use. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>122 folios<dimensions unit="mm" type="leaf">
+										<height>142</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>115</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>122 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 leaves each. </p>
+									<p>Catchwords trimmed away.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="11" writtenLines="11">
+									<p>Uniform layout. </p>
+									<p>The Latin beginnings of the Psalms marked in the margins.</p>
+									<p>Masorah magna occupies 1 line in the upper margin and up to 2 lines in the lower margin, sometimes written in an ornamental pattern.</p>
+									<p>Visible pricking and folio by folio ruling with a hard-point. </p>
+									<p>Hair side and flesh side of folios distinguishable. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Fine Sefardi square script, punctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 120v: Psalterium istud est Monasterii Sancti Benedicti. </p>
+							<p>Monastery of Sancta Maria de angelis in Florence and of Sanct Benedict outside the walls in Florence, inscribed as owners of this psaltery in several Latin notes on folios 1v, 3r, 120v. </p>
+							<p>Folio 121v, records of birth, with a date of 5422 (1662).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BL in-house. </p>
+								<p>Spine: &apos;Psalterium. Hebrew. British Library. Additional 18830.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1852-01-10</date>
+							<p><name type="person" role="owner">Löwy, Albert (Abraham)</name> (b. 1816, d. 1908), Hebrew scholar and minister in the West London Synagogue of British Jews: purchased by the British Library from him on <date calendar="Gregorian">10 January 1852</date>: inscribed on folio [123v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">155</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

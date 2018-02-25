@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1422" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1422</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrashim in Hebrew and Arabic on Leviticus, Numbers and Deuteronomy, followed by a short midrashic commentary on the Hafṭarot. </summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="206v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash  </title>
+							<title xml:lang="he">מדרש  </title>
+							<note>
+								<p>Frequently overlapping with Midrash ha-ḥefets, but formally based on the model of Midrash ha-gadol. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1v" to="61r"/>
+								<title xml:lang="en">Midrash on Ṿa-yiḳra</title>
+								<colophon xml:lang="he">השלמתי ספר התורה כהנים שתחלתו ספר ויקרא בעזרת רם ונשא שוכן שמו שפרה" אשאלה ממנו יגלה לי טמונות התורה" אני <name type="person" role="author">סעדיה בן שלמה</name> אשר דעתי מן החכמה קצרה" אשאלה ממנו יסייענו על השאר ויהיה לי לעזרה".<locus n="61r"/>
+								</colophon>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="104v"/>
+								<title xml:lang="en">Midrash on Be-midbar</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104v" to="190v"/>
+								<title xml:lang="en">Midrash on Devarim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="190v" to="206v"/>
+								<title xml:lang="en">Midrash on Hafṭarot</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>206 folios<dimensions type="leaf" unit="mm">
+										<height>310</height>
+										<width>215</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>206 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>19 quires of 10 leaves each, 1 quire (no. 20) of 8 leaves, and 1 quire (no. 21) of 7 leaves - defective, plus a detached leaf at the end. </p>
+									<p>Signed with Hebrew letters at the beginning and at the end of quires. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the end. </p>
+									<p>Slightly water-damaged. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="34" writtenLines="34">
+									<p>Catchwords on every verso. </p>
+									<p>Titles written in larger characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script of 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="author">Se'adyah ben Shelomoh</name>: probably a compiler of this manuscript: inscribed, folio 61r. The Judeo-Arabic sentence at the end of Deuteronomy, folio 189v, implies that the author had employed a copyist. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Midrash. Hebrew. Brit. Mus. Oriental 1422.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Fischl Hirsch</name>: purchased by the British Library from him on <date calendar="Gregorian">12 January 1877</date>: inscribed, folio <locus n="fse002v">[208v]</locus>.</p>
+							<date>1877-01-12</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">369</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

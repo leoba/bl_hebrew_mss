@@ -1,0 +1,199 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_9404" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 9404</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Hafṭarot and Five Scrolls with Targum.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="210v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot </title>
+							<title xml:lang="he">תורה, מגילות  והפטרות </title>
+							<note>
+								<p>The Pentateuch has Hebrew text and Targum in alternate verses.</p>
+							</note>
+							<filiation>This manuscript shows affinities in vocalisation with Add MS 21161 (school of Ben Naftali), see <ref target="Margoliouth_1965" type="number">116</ref> and <ref target="Ginsburg_1880" type="page">556</ref>.</filiation>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="45v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="45v" to="83r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="83r" to="108v"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="108v" to="146r"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="146r" to="174r"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="174r" to="178r"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="178r" to="179v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="179v" to="181r"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="181r" to="182v"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="182v" to="186v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="186v" to="210v"/>
+							<title xml:lang="en">Hafṭarot </title>
+							<note>
+								<p>Hafṭarot for the whole year. The Hafṭarot  for the festivals begin with Rosh ha-shanah and end with the second day of Shavu'ot.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">210 folios<dimensions unit="mm" type="leaf">
+										<height>286</height>
+										<width>222</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>210 folios (+ 2 unfoliated paper flyleaves at the beginning and 4 unfoliated paper flyleaves at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>27 quires of mostly 8 leaves.  </p>
+									<p>Some quires marked with catchwords on the last page. </p>
+								</collation>
+								<condition>
+									<p>Several folios are stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="41" writtenLines="40">
+									<p>Uniform layout. </p>
+									<p>Leviticus, Esther, Song of Songs and Hafṭarot commence a new leaf. </p>
+									<p>Initial words of each book written in larger letters. </p>
+									<p>Masoretic calculations at the end of Genesis and Leviticus. </p>
+									<p>No Masorah magna or parva, although the ruling for both of them is provided. </p>
+									<p>Visible pricking and ruling with sharp object on the hair-side of folios. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script of the 14th centiry. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="1, 8"/>- these two folios are written in a later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>A standard scribal formula occurs at the end of Exodus (folio 82v) and Leviticus (folio 108v): <q>חזק ונתחזק</q>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: &apos;Pentateuch with Targum. Hebrew. Brit. Mus. Additional Ms. 9404.&apos; </p>
+							</binding>
+						</bindingDesc>
+						<accMat>
+							<p>According to <ref target="Margoliouth_1965" type="number">81</ref>, the following Latin description was written on the back of the front cover, which is no longer extant: <q>Pentateuchus membranaceus in fol. minori cujus versibus singulis subjicitur Targum Onkelos. item quinque Megilloth et Haphtaroth absque Massora. Scriptionis Annus frustra quaeritur; videtur tamen Codex antiquus.</q>
+							</p>
+						</accMat>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate notBefore="1300" notAfter="1399">14th century</origDate>
+						<origPlace>Germany?</origPlace></origin>
+						<provenance>
+						
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar. This codex, together with nine other manuscripts (Add MS 9398-9407) was acquired by the British Museum in <date calendar="Gregorian">1834</date>, once the property of the Hagen family and then of Adam Clarke.</p>
+							<date>1834</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">81</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

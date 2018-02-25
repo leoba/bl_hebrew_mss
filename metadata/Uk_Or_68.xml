@@ -1,0 +1,199 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_68" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 68</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Parts of David ben Abraham Maimuni's homiletico-agadic commentary on Exodus.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="223v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash Shemot </title>
+							<title xml:lang="he">מדרש שמות  </title>
+							<author key="http://viaf.org/viaf/72927588">
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="en">David ben Abraham Maimuni, 1222 or 1223-1300</persName>
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="he">דוד בן אברהם בן הרמב"ם</persName>
+							</author>
+							<filiation>Cf. Or 66, <ref target="Margoliouth_1965" type="number">371</ref>, Or 67, <ref target="Margoliouth_1965" type="number">372</ref>, Or 69, <ref target="Margoliouth_1965" type="number">374</ref> and Or 70, <ref target="Margoliouth_1965" type="number">375</ref>.</filiation>
+							<msItem rend="v">
+								<locus from="1r" to="3v"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-era</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="3v" to="16r"/>
+								<title xml:lang="he-Latn-x-lc">Bo</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="16r" to="28v"/>
+								<title xml:lang="he-Latn-x-lc">Be-shalaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="28v" to="57v"/>
+								<title xml:lang="he-Latn-x-lc">Yitro</title>
+							</msItem>
+							<msItem rend="v">
+								<locus to="79v" from="57v"/>
+								<title xml:lang="he-Latn-x-lc">Mishpaṭim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="79v" to="94r"/>
+								<title xml:lang="he-Latn-x-lc">Terumah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="94r" to="102r"/>
+								<title xml:lang="he-Latn-x-lc">Tetsaveh</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="102r" to="145v"/>
+								<title xml:lang="he-Latn-x-lc">El megilah</title>
+								<note>
+									<p>The midrash on Esther.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="145v" to="158r"/>
+								<title xml:lang="he-Latn-x-lc">Tetsaveh le-shanah meʻuberet</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="158r" to="180v"/>
+								<title xml:lang="he-Latn-x-lc">Ki-tisa</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="180v" to="192r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yakhel le-shanah meʻuberet</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="192r" to="204v"/>
+								<title xml:lang="he-Latn-x-lc">Parashat Ṿa-yakhel u-Peḳude le-shanah peshuṭah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="204r" to="223v"/>
+								<title xml:lang="he-Latn-x-lc">Peḳude le-shanah meʻuberet</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>223 folios<dimensions type="leaf" unit="mm">
+										<height>198</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>223 folios (+ 1 modern paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Lacunae after folios 93, 102, 150.</p>
+									<p>Slightly damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Catchwords on every verso.</p>
+									<p>Initial words and chapter titles given in larger square characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram, blind tooled.</p>
+								<p>Spine title: 'David ben Abraham. Comm. on Exodus. Arabic. Brit. Mus. Oriental 68.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Egypt</name>?</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">A. C. Reichardt</name>: purchased by the British Library from him on <date calendar="Gregorian">08 June 1867</date>: inscribed, folio <locus n="fse001v">[224v]</locus>.</p>
+							<date>1867-06-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">373</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

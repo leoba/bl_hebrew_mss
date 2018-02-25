@@ -1,0 +1,146 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19782" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19782</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>Penitential prayers for the intermediate nights of Rosh ha-Shanah and for the two nights of the festival, according to a North African rite.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="75v"/>
+							<title xml:lang="he-Latn-x-lc">Seliḥot</title>
+							<title xml:lang="he">סליחות</title>
+							<note>
+								<p>The order of prayers is similar to Add MS 19789, with minor exceptions. Especially, the number of pieces for the second day of Rosh ha-Shanah is much smaller than in Add MS 19789.</p>
+								<p>The sections start respectively on folios: 1r, 15r, 19r, 23r, 27v, 31v, 35v, 37r, 39r, 42r, 44r, 45v, 48r, 49v, 52r, 54r, 56r, 58r, 60v, 64r, 69v.</p>
+							</note>
+							<explicit xml:lang="he">ת'ו' ש' ל' ב'ע' יח'ל'צ'י'תו | כתבתי זה הסליחות למי שנדבו לבו לקנות אותו ה' יעזרני לכתוב כמוהו ע"ה אברהם ן' [...] אהרון ן' ישו סל"יט.<locus n="75r"/>
+							</explicit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>75 folios <dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>122</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>75 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained margins.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 5" ruledLines="31 36" writtenLines="31 36">
+									<p>Uniform layout. Variable number of columns to a page.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger square characters.</p>
+									<p>Catchwords on every page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental (North African) semi-cursive and square script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind tooled. Boxed.</p>
+								<p>Spine: 'Selichoth. Preces Expiatorie Et In Festo Novi Anni. Hebraice. Mus. Brit. Jure Emptionis. 19,782.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name> </p>
+						</provenance>
+						<acquisition>
+							<date>1854-05-13</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>: purchased from him by the British Museum through <name type="person" role="bookseller">D. Nutt</name> on 13 May 1854: inscribed, folio [76v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">708</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

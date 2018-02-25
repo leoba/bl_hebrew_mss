@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1468" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1468</idno>
+					</msIdentifier>
+					<head>Genesis and Exodus</head>
+					<msContents class="lccn.loc.gov/n85305131" rend="visible">
+						<summary>Genesis and Exodus, with punctuation and accents, accompanied with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n85305131">
+							<locus from="1v" to="161v"/>
+							<title xml:lang="he-Latn-x-lc">Bereshit u-shemot </title>
+							<title xml:lang="he">בראשית ושמות  </title>
+							<note>
+								<p>In the margins, apart from masorah, there are some midrashic commentaries, see 1v, 11v. </p>
+								<p>Folios 158r-161v contain some portions of Leviticus and Deuteronomy, but the last two leaves are mutilated, the first two are damaged. </p>
+							</note>
+							<decoNote type="marginal">Numerous pen and ink decorated pericope signs. <locus n="17r, 44v, 52v, 67r"/>
+							</decoNote>
+							<msItem rend="v">
+								<title xml:lang="en">Genesis</title>
+								<locus from="1v" to="87r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Exodus</title>
+								<locus from="87r" to="158r"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of about 15th or 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>161 folios<dimensions unit="mm" type="leaf">
+										<height>240</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>161 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end); folios 108-11 and 157 are modern, while folios 158-161 appear to belong to the 14th century.</p>
+								</foliation>
+								<collation>
+									<p>16 quires of 10 leaves each, marked by catchwords or signed with Hebrew letters at the end. </p>
+									<p>The quires are also numbered with Arabic numerals on the left upper corner and Arabic figures and Hebrew letters at the right-hand upper corner at the beginning of the quire. </p>
+								</collation>
+								<condition>
+									<p>Most of the folios are mutilated or damaged, restored later on paper.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Visible pricking; ruling executed with mastara. </p>
+									<p>Writing in one column, with masoretic punctuation and masorah magna and parva. </p>
+									<p>Masorah magna occupies one line of the upper and of the lower margin. </p>
+									<p>Catchwords are only partially preserved, due to some mutilation of pages. </p>
+									<p>There is a lacuna after folio 107. </p>
+									<p>Each pericope is divided into seven liturgical sections marked by coloured Hebrew letters in the  margin. </p>
+									<p>Each pericope is marked by a coloured ornamental design in the margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square Yemenite character, of about 15th or 16th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Previous owner's note, folio 1r: אשתרא לנפסה מן עין מאלה ולדי יוסף הב"ה יזכהו להגות בו הו וזרעו וזרע זרעו עד סוף כל הדורות ילדי (ואלדי) יסתעירהו ומא ירדה ישכנו נחש ועם יי בשלום. הצעיר שכר ן' שכר סרי. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">109</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

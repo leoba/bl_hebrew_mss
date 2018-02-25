@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2516" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2516</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on Lamentations.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="198v"/>
+							<title xml:lang="he-Latn-x-lc">Perush </title>
+							<title xml:lang="he">פרוש </title>
+							<note>
+								<p>An Arabic translation is given to each verse of the text.</p>
+								<p>The unpointed Hebrew text is embodied.</p>
+							</note>
+							<author key="http://viaf.org/viaf/21406867">
+								<persName key="http://viaf.org/viaf/21406867" xml:lang="he-Latn-x-lc">Salmon ben Yeroḥam, active 10th century  </persName>
+								<persName key="http://viaf.org/viaf/21406867" xml:lang="he">סלמון בן ירחם, קראי</persName>
+							</author>
+							<colophon xml:lang="he">וכתב אותה הדל הנבזה ... אשר הוא ישאל מאלהיו כל ימי חייו ממצריים יעלהו ובירושלם ישכניהו ... <name type="person" role="scribe">יעקב מצליח לוי בן ... סעדיה לוי נ"ע בן ... אברהם הלוי נ"ע בן ... משה לוי נ"ע</name> תהי נפשם צרורה בצרור החיים א'נ'ס'. וכאן אלפראג מנה <date when="1747" calendar="Hebrew">יום אלאתנין חמשה עשר יום מחדש תמוז י'א'ל' שנת ה'ת'ק'ז' ליצירה</date> ושלום על ישראל.<locus n="198r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="11v"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="11v" to="197v"/>
+								<title xml:lang="en">Commentary </title>
+								<note>
+									<p>The date of the composition is found on folio <locus n="113r"/>: <q>ועלי מא הו מעלום אן מנד גלות יכניה אלי חית אנתהינא אלף ותלת מאיה כמסה ותמאנין סנה ומנד כראב בית שני אלי חית אנתהינא ת'ת'פ'ח' סנה</q>, i.e. <date calendar="Gregorian">956</date>.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent rend="visible">198 folios <dimensions unit="mm" type="leaf">
+										<height>160</height>
+										<width>110</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>120</height>
+										<width>85</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>198 folios (+2 paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 5 folios each.</p>
+									<p>Catchwords on each verso.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>One column of written text of 17 lines a page.</p>
+									<p>Biblical verses are given in square characters.</p>
+									<p>Catchword on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script, unpunctuated, of 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ya῾akov Matsliyaḥ Leṿi</name>: inscribed, folio 198r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Salmon ben Yerucham. Comm. on Lamentations. Arabic. Brit. Mus. Oriental 2516.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5507" calendar="Hebrew" when="1747"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse002v"> [200v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">252</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-01-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

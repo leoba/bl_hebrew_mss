@@ -1,0 +1,187 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1475" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1475</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class=" lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points and accents, masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim </title>
+							<title xml:lang="he">כתובים  </title>
+							<locus from="1v" to="138v"/>
+							<colophon xml:lang="he">נשלם זה הכתובים בעזרת האל וברחמיו <date when="1605" calendar="Hebrew">ביום רביעי בשלושה עשר לחדש תמוז שנת אתתקיו</date> על שם התלמידים הטובים האהובים החטובים<name type="person" role="patron"> אברם וזכריא ודויד בני שלמה בן דויד הידוע אלטביעה</name> ה' יזכה אותם להגות בו ולדקדק בעניניו ולגלות מצפוניו ויזכה אותם לכל מדה טובה ולשמחת בית השאובה אנס"ל אני העבד הצעיר הקל הנקל קטן הסופרים צעיר התלמידים המתאבק בעפר רגלי החכמים <name type="person" role="scribe">אברהם ב' רב יוסף בן סעדיה הידוע</name> ונ"ה ה' ימחול לי על כל מה ששגיתי וטעיתי ונסתר מעיני כמאמר רבינו דויד מלך ישראל שגיאות מי יבין מנסתרות נקיני [...] ייי צורי וגואלי ש'ו'ש'ר'ש' ב'מ'ש' ל' כ'י' ע'מ'ר'א' <locus n="138v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="3r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="3v" to="34r"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="34r" to="46v"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="47r" to="57v"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58r" to="62r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="62v" to="64v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="64v" to="67r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="67r" to="72r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="72r" to="82r"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82r" to="98r"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 88v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="98r" to="138v"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles starts on folio 116v.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of early 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>138 folios<dimensions unit="mm" type="leaf">
+										<height>370</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>243</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>138 folios  (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end).</p>
+									<p>The leaves are numbered with Hebrew letters.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="28" writtenLines="28">
+									<p>Visible mastara ruling. </p>
+									<p>Each of the first six books begins with a new column. </p>
+									<p>The number of verses and the middle verse are stated at the end of most of the books. </p>
+									<p>Scanty masorah parva. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script, punctuated, of 17th century. <name type="person" role="scribe">Avraham ben Yosef ben Seʿadyah</name>, inscribed with his name, folio 138v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p><name type="person" role="patron">Avraham, Zekharyah and David ben Shelomoh ben David at-Ṭabīʻah</name>, inscribed in the colophon, folio 138v. </p>
+							<p>
+								<name type="person" role="owner">Lulwah (?) bat Ḥasan at-Ṭabīʻah</name> and <name type="person" role="owner">Ibrahim ibn Da'ud</name>, inscribed in the contract of sale with a date of <date calendar="Hebrew">22 Sivan 165</date> (<date calendar="Gregorian">1654</date>) and the names of three witnesses; in Judeo-Arabic, folio 138v. </p>
+							<p>A list of previous owners' names, undated, folio 1r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="13 Tamuz 1916" calendar="Seleucid" when="1605"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 24 November 1877, folio <locus n="fse003v">[141v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">153</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

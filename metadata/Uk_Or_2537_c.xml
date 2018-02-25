@@ -1,0 +1,159 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-07-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2537_c" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2537 c</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003314015</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031723816.0x000001</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Kitāb al-Tajallīyyāt by Ibn al-ʿArabī</head>
+					<msContents class="https://lccn.loc.gov/sh85080730" rend="visible">
+						<summary>Kitāb al-Tajallīyyāt</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="50v"/>
+							<title xml:lang="he-Latn-x-lc">Kitāb al-Tajallīyyāt</title>
+							<title xml:lang="jrb-Hebr">כתאב אלתגליאת</title>
+							<author>
+								<persName xml:lang="en" key="viaf.org/viaf/95223177">Ibn al-ʿArabī, 1165-1240</persName>
+								<persName xml:lang="he" key="viaf.org/viaf/95223177">אבן אל-ערבי, מחמד בן עלי, מחיי אל-דין</persName>
+							</author>
+							<note>
+								<p>The text of the Tajalliyyāt is followed by three short texts of which the third is by ʿAbd al-Karīm al-Jīlī.</p>
+								<p>Several calculations in Arabic numerals on folio 93. </p>
+							</note>
+							<colophon xml:lang="he">ואלחמד ללה וחדה: וכאן אלפראג לילה אלגמעה כאמס שהר שואל סנה כמסה עשר ואלף כדא וגד פי אלנסכה אלאצליה<locus n="87v"/>.
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th to 17th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Oriental paper. </support>
+								<extent>118 folios<dimensions type="leaf" unit="mm">
+										<height>155</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>110</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>51 folios. Foliation is continuous with Or 2537b.</p>
+								</foliation>
+								<collation>
+									<p>Leaves on guards. Bound together with Or 2537a and Or 2537b.</p>
+								</collation>
+								<condition>
+									<p>Iron gall ink corrosion, especially on the first 6 leaves. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15 23" writtenLines="15 23">
+									<p>Uniform layout. </p>
+									<p>Pricking forming a Magen David on the upper margin of folio 46r, pricking through several consequtive folios; a signature (?) in calligraphic form in ink and pierced through several consequtive folios. </p>
+									<p>Catchwords on every verso. </p>
+									<p>Section titles in red ink. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sephardi semi-cursive script of the 16th to 17th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Kaleb Afendopolo. Pathshegen Kethab Had-Dat, Etc. Hebrew &amp; Arabic. Brit. Mus. Oriental 2537.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate from="1500" to="1699">16th-17th century.  </origDate>
+							<origPlace>Egypt?</origPlace>
+						</origin>
+						<provenance>
+							<p>Rebound in December 1883; inscribed on flyleaf first back flyleaf recto.</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed, folio [120v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Information provided by Dr Gregor Schwarb.</p>
+								</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref/>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2016-03-18">Zsofia Buda</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

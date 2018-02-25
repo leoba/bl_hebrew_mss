@@ -1,0 +1,209 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2451" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2451</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech, Hafṭarot and Psalms, with vowel-points and accents, masorah magna and parva, followed by a calendar in Persian.</summary>
+						<textLang mainLang="he" otherLangs="jpr-Hebr">Hebrew, Judeo-Persian</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="378v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he" otherLangs="jpr-Hebr">Hebrew, Judeo-Persian</textLang>
+							<note>
+								<p>Masorah magna and parva accompanies the Pentateuch and Psalms.</p>
+								<p>The calendar is provided in Persian, but in Hebrew characters.</p>
+							</note>
+							<colophon xml:lang="he">נכתב זה שלשה ספרים חמשה חומשי תורה ואפטרה וספר תילי[ן?]
+
+[ב]כח צורי ית' ב"ה. בה' בשבה דהוא תרין יומי ל[חדש?] השלישי [ד]שנת אתשצ"ד לשט' סימן זח"א על יד הצעיר הגולה הדל משרת תורת אל העני שמואל הקטן יאל"ע בן הה"ה רבי אהרן שצב"ה ממקומ"י ביר' כבוד הה"ה המרוחם ר' יהוסף זלה"ה ביר' ה' ר' גרשום תמ"ך נחתם במדינת <name type="place">קום </name>יס"ט וס"י אוי"ר
+<locus from="361r" to="361v"/>
+							</colophon>
+							<colophon xml:lang="he">
+								<locus n="286r"/>(של הנקדן?)
+
+יס"ט וס"י סימניו וטעמיו של ספר הפטרה זה נקדתי ושלמתי בסייעתא דשמיא ית' שמ' בב' בשב' <date when="1483" calendar="Seleucid">כ"ב באלול שנת אתשצ"ד סימן זח"א לשט'</date> ביד ביפת"ך המקום ב"ה יסלח וימחול שגגי ועוני אוי"ר: תם
+</colophon>
+							<colophon xml:lang="he">(של הנקדן?)
+
+וסימניו וטעמיו ומוסרות של זה ספר תילין נסתיים בכח צורי וגאליב"ה בתלתה בשבה דהוא עשרין יומין לירח בול דשנת אתשצ&quot;ה לשט&apos; סימן גכמ"ז יס"ט וס"י עלינו.
+
+<locus n="361v"/>
+							</colophon>
+							<decoNote type="illustration">Full-page drawing, in colours. <locus n="378v"/>
+							</decoNote>
+							<decoNote type="border">Numerous text pages in decorative frame, in colours. <locus n="79v, 80r, 113v,114r, 289v, 290r, 360v, 361r"/>
+							</decoNote>
+							<decoNote type="paratext">Numerous decorated parashah signs, in black ink.</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="62r"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>Missing chapters: 1:1-1:12 and 6:1-11:25.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="62r" to="114r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="114r" to="149r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="149r" to="190r"/>
+								<note>
+									<p>Missing chapters: 28:29 to the end.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="190r" to="214r"/>
+								<note>
+									<p>Missing chapters: 1:1-11:17 and 32:8-to the end.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="214r" to="289v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+								<note>
+									<p>Imperfect at the beginning.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="289v" to="362r"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="362v" to="378v"/>
+								<title xml:lang="en">A calendar</title>
+								<note>
+									<p>A calendar of the cycles with rules for fixing the Jewish festivals, written in Persian (Hebrew characters); defective.</p>
+									<p>Folios 362v-363r and 376-378 are unconnected to the bulk of this calendar.</p>
+								</note>
+								<incipit xml:lang="he">אחל לכתוב מחזור גדול דולאבי מאמר הר' ר' יאשיהו ביר' מבורך אלעאקולי ירחמהו אל זק"ל<locus n="363v"/>
+								</incipit>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>378 folios<dimensions unit="mm" type="leaf">
+										<height>175</height>
+										<width>125</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>100</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>378 folios (+ 2 unfoliated modern paper flyleaves at the beginning and 2 older and 2 modern unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable. Defective at the beginning and after folios 6, 189, 213, 163 etc.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="18 20" writtenLines="18 20">
+									<p>Uniform layout. </p>
+									<p>Number of columns on each page varies from 18 to 20.</p>
+									<p>Incomplete at the beginning. Some folios were added later (folios 7-27, 34, 59, 66). </p>
+									<p>Ruling is visible. </p>
+									<p>Parallel Hebrew foliation. Catchword on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental (Persian) semi-cursive script, punctuated. <name type="person" role="scribe">Shemu᾿el ben Aharon ben Yosef</name>: inscribed with his name in the colophon, <date calendar="Seleucid">1794</date> [<date calendar="Gregorian">1483</date>] (361r-361v). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Colophon without names, <date calendar="Seleucid">22 Elul 1794</date> [<date calendar="Gregorian">1483</date>] (folio 286r). </p>
+							<p>Colophon without names, <date calendar="Seleucid">1795</date>  [<date calendar="Gregorian">1484</date>] (folio 286v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	BM/BL in-house.</p>
+								<p>Spine: 'Pentateuch, Etc. Hebrew. Brit. Mus. Oriental Ms. 2451.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1483"/>
+						<provenance>
+							<p>
+								<name type="place">Persia</name> (Qom?)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-06-24</date>
+							<p>
+								<name type="person" role="owner">Adolf Neubauer</name> (b. 1832, d. 1907), Hebrew scholar born in Hungary: purchased by the British Museum from him on 24 June 1882: inscribed ([380v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">92</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

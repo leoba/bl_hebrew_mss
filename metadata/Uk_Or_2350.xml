@@ -1,0 +1,173 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-20</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2350" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2350</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech and Hafṭarot, with vowel-points and accents, masorah magna and parva. Mahberet ha-tigan is prefixed.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class=" lccn.loc.gov/n79066420">
+							<locus from="1r" to="411v"/>
+							<title xml:lang="he-Latn-x-lc">Torah </title>
+							<title xml:lang="he">תורה </title>
+							<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+							<colophon xml:lang="he">
+								<locus n="305r"/>נכתבה זאת התורה אשר היא לעיני דורשיה מאירה לכג"ק צפירת תפארת הזקן זקן תורה הנכבד האהוב והנחמד השר הגדול המעוז המגדול החכם הנבון המשכיל התחכמון מר'<name type="person" role="patron"> עזרא ביר' כג"ק שלום נע"ג בר כג"ק זכריה נב"ת ביר' כג"ק גד ביר' כג"ק משלם זלל"ה ביר' כג"ק חטר אלחבישי</name> המקום ישימיה עליו ועל בנו שלום סימן טוב ויזכהו להגות בה הוא וזרעו וזרע זרעו מעתה ועד עולם ויקיים עליו לא ימוש ספר התורה הזה מפיך וכ' ויזכה ללמוד וללמד לשמור לעשות את כל דברי התורה הזאת באהבה ויזכהו לזקנ[?ה?] ושיבה ולכל מדה טובה ולשמחת בית השאובה ולחיי העולם הבא כן יאמר אל נערץ בסוד קדושים רבה אנ"ס כתבתי והגהתי ונקדתי ודקדקתי כמו שהעתיקו הסופרים איש מפי איש כיד אלהי הטובה עלי אני <name type="person" role="scribe">משה בן עמרם אבן נצר רי"ת הידוע מן קאימת אבן חביש</name> שנת <date when="1409" calendar="Seleucid">אתש"כ לשטרות</date> קוץ &lt;!&gt; וסוף לכל הצרות תחלה וראש לכל הבשרות אנ"ס.</colophon>
+							<decoNote type="other">
+								<locus from="306v" to="307r"/>Two illuminated carpet pages. </decoNote>
+							<decoNote type="paratext">
+								<locus from="38v" to="39r"/>Masorah in micrographic designs.
+							</decoNote>
+							<note>
+								<p>The date of the manuscript is repeated on folio 154v, in the second line of the masorah magna.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="40v"/>
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="40v" to="105v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="105v" to="160v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="160v" to="200r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="200r" to="255v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="255v" to="310v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="310v" to="411v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+								<note>
+									<p>Imperfect at the end.</p>
+									<p>Hafṭarot are preceded by two illuminated pages, <locus n="306v, 307r"/>, and the bededictions to say before and after the reading of the Hafṭarah, <locus from="309v" to="310r"/>, written c16th century, provided with superlinear punctuation.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>411 folios<dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>230</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>411 folios (+2 unfoliated flyleaves at the beginning and at the ned of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>Originally 41 quires of 10 leaves.  </p>
+									<p>A number of lacunas in the first 4 and the last 10 quires. The first quire is defective. </p>
+									<p>Folios 1-37 contain 4 quires signed with Hebrew letters on the first page; folios 38-307 have 27 quires signed with Hebrew letters on first page; folios 308-410 contain more than 10 quires signed with Hebrew letters on the first and the last page. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Uniform layout. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script, punctuated, of the 15th century. <name type="person" role="scribe">Mosheh ben ῾Amram ibn Naṣr ben ῾Ezra ibn Ḥābish</name>; inscribed with his name in the colophon, 305r and on folios 54r, 240r:אנא ספרא משה בן עמרם בן עזרא, (כתבתי זאת התורה ואני בן שבע ושלושים שנה).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Two full-page illuminated borders. Masorah in micrographic designs.</summary>
+							<decoNote type="border">Two illuminated carpet pages <locus from="306v" to="307r"/>
+							</decoNote>
+							<decoNote type="paratext"> Masorah in micrographic designs.<locus from="38r" to="39r"/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Ezra ben Shalom ben Zekhariah ben Gad ben Meshulam ben Ḥātar Al-Ḥābishi</name>; inscribed in the colophon, folio 305r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	BM/BL in-house binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1408" notAfter="1409" when-custom="1720" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">88</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

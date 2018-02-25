@@ -1,0 +1,585 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2016-03-31</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_10026" xml:lang="en" rend="all">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 10026</idno>
+                  
+                  
+                  
+                  <altIdentifier type="former">
+                     
+                     
+                     
+                     <idno>Gaster 359</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314141</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724401.0x000001</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Shemaʽta de-tagare Lod </head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n81048431" rend="visible">
+                  
+                  
+                  
+                  <summary>Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he" otherLangs="">Hebrew, Aramaic</textLang>
+                  
+                  
+                  
+                  <msItem rend="visible">
+                     
+                     
+                     
+                     <locus from="1r" to="20r"/>
+                     
+                     
+                     
+                     <title xml:lang="he">שמעתא דתגרי לוד :פרוש בבלי, על בבא מציעא מט ע"ב</title>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Shemaʽta de-tagare Lod :perush Bavli, ʽal Bava Metsiʽa 29b</title>
+                     
+                     
+                     
+                     <colophon xml:lang="he">"ונשלם סוגיא זו ביום ג' ב' לירח אייר שנת פ'ר'ח'ה' הגפן" <locus n="20r"/>
+                     
+                     
+                     
+                     </colophon>
+                     
+                     
+                     
+                     <listBibl>
+                        
+                        
+                        
+                        <bibl>
+                  ד' בויארין, העיון הספרדי לפרשנות התלמוד של מגורשי ספרד, ירושלים, תשמ"ט, עמ' 70-.88 נדפס שם עמ' .89-179
+                </bibl>
+                     
+                     
+                     
+                     </listBibl>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 16th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper.</support>
+                        
+                        
+                        
+                        <extent>20 folios<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>215</height>
+                              
+                              
+                              
+                              <width>155</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>155</height>
+                              
+                              
+                              
+                              <width>120</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>20 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>1 quire of 20 leaves. Catchwords on every verso.</p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Water damage.               </p>
+                           
+                           
+                           
+                           <p>Slight worming.</p>
+                           
+                           
+                           
+                           <p>Damaged leaves repaired.
+                  </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1" ruledLines="31" writtenLines="31">
+                           
+                           
+                           
+                           <p>Uniform layout.</p>
+                           
+                           
+                           
+                           <p>Plummet ruling, for frame/vericals only. </p>
+                           
+                           
+                           
+                           <p>Last written line outside ruling. </p>
+                           
+                           
+                           
+                           <p>Larger initial words and headings.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi semi-cursive script of the 16th century.</summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>Gaster binding.</p>
+                        
+                        
+                        
+                        <p>Spine: 'Or. 10,026. Brit. Mus. Sugya on Baba Mesia. Hebrew.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate when="1533" when-custom="293" calendar="Hebrew">1533 ([5]293) </origDate>
+                     
+                     
+                     
+                     <origPlace>Unknown</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1924-04-12</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person">Moses Gaster</name>  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 359; purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [i]v).              </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>The manuscript is listed in Reshimat tatslume kitve ha-yad ha-ivriyim ba-Makhon: K.ha-y be-Sifriyat ha-Muzeum ha-Briṭi, Osef Gaster (Yerushalayim: Miśrad ha-Ḥinukh ṿeha-Tarbut, 5720).</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>
+                        
+                        
+                        
+                        <ref/>
+                     
+                     
+                     
+                     </bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

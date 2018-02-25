@@ -1,0 +1,131 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-07</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_19342" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19342</idno>
+					</msIdentifier>
+					<head>Psalms</head>
+					<msContents class="lccn.loc.gov/n79056804" rend="visible">
+						<summary>A fragment of the Psalms in Hebrew, but written in Ethiopic characters.</summary>
+						<textLang mainLang="he" otherLangs="gez">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79056804">
+							<title xml:lang="en">Psalms</title>
+							<title xml:lang="he">תהילים </title>
+							<locus from="1r" to="12v"/>
+							<note>
+								<p>Psalms 1-11:4, 51, 121, 123, 130, 140.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>12 folios<dimensions unit="mm" type="leaf">
+										<height>101</height>
+										<width>71</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>75</height>
+										<width>45</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>12 folios (+ 4 modern paper flyleaves at the beginning and 12 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Parts of two quires.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19 32" writtenLines="19 32">
+									<p>Irregular layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ethiopic script of the 18th century.</summary>
+							<handNote script="other" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 11r contains the Arabic alphabet with Ethiopic equivalents.</p>
+							<p>Folios 11v-12r contain a list of church furniture in an Italian hand of the 18th century.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind tooled.</p>
+								<p>Spine: '19342. Mus. Brit. CCXVIII A. Iure Empt.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Ethiopia</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">158</ref>
+							</bibl>
+							<bibl>
+								<ref target="Wright_1877" type="number">127</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

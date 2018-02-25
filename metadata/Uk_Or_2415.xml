@@ -1,0 +1,195 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2415" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2415</idno>
+					</msIdentifier>
+					<head>Pentateuch and Prophets</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch and the Former Prophets, provided with vowel-points and accents. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420, lccn.loc.gov/n80008482">
+							<locus from="1r" to="215v"/>
+							<title xml:lang="he-Latn-x-lc">Torah u-neviʼim rishonim</title>
+							<title xml:lang="he">תורה ונביאים ראשונים</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>The masoretic notes are very scanty, being almost entirely confined to the מלא and חסר, and כתיב and קרי.</p>
+								<p>The two verses which are omitted in the printed text of the Bible after Joshua 21:35 are contained in this manuscript. with a marginal note: <q>אלו שני הפסוקים אינם כתובים בהללי ולא בספר בבלי</q> (written in the same hand as the owner's note on folio 2r).   </p>
+							</note>
+							<msItem rend="visible">
+								<locus from="1r" to="14v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>Missing chapters 1:1-29:7 and 37:23-39:5.</p>
+								</note>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="14v" to="42r"/>
+								<title xml:lang="en" rend="visible">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="42r" to="60r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="60r" to="86r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="86r" to="108v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="108v" to="124v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="124v" to="140r"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="140r" to="178r"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio160v.</p>
+								</note>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="178r" to="215v"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>Missing chapters 16:15-17:34 and 25:22-30.</p>
+									<p>2Kings starts on folio 198r.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of probably 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>215 folios<dimensions unit="mm" type="leaf">
+										<height>198</height>
+										<width>152</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>215 folios (+ 2 unfoliated paper flyleaves at the beginning of the manuscript, 1 after folio 5, 1 after folio 208 and 2 at the end of the manuscript).  </p>
+									<p>The Hebrew foliation shows that the first extant leaf was originally the 17th.</p>
+								</foliation>
+								<collation>
+									<p>27 extant quires mostly of 8 leaves, but the codex is missing 16 pages at the beginning and several pages throughout the manuscript.</p>
+									<p>Quires are marked with catchwords on the last page of the quire.</p>
+								</collation>
+								<condition>
+									<p>A number of leaves are missing, folios 41 and 115 are mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="25" writtenLines="25">
+									<p>Ruling with hard point, pricking is not currently visible.</p>
+									<p>Several lacunae.</p>
+									<p>The books of Leviticus (42r) and Kings (178r) begin a new leaf, and between the other books there is a blank of four lines.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script with supralinear punctuation, probably of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>1 half-border on page 108v.</summary>
+							<decoNote type="border">A one-column border, in colour.<locus n="108v"/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Marginal note of the owner on folio 122r.</p>
+							<p>
+								<name type="person">Musa ibn Sulaiman ʻIraḳi</name>, inscribed with his name on folio 2r, attesting that the manuscript is a property of ʻImrān: מוסי אבן סלימאן עראקי יצו' אן אלכתאב חק עמראן יצו'.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1881-10-08</date>
+							<p>
+								<name type="person" role="owner">Nic. Mavrocordato</name>: purchased by the British Museum from him on 08 October 1881 ([216v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">77</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

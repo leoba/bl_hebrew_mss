@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27171" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27171</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Kabbalistic writings of Moses Zacuto.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="51v"/>
+							<title xml:lang="he-Latn-x-lc">Shorshe ha-shemot</title>
+							<title xml:lang="he">שרשי השמות</title>
+							<note>
+								<p>The text was copied from a manuscript containing more extensive compositions by the same author, the pages of the fuller treatise having been indicated by the copyist (see e.g., folio 2r, 2v).</p>
+								<p>Folios 1r-3r: Kaṿanot shemot ha-Shem in various prayers. Folios 4r-35r: expositions of kabbalistic divine names in alphabetical order; the magic efficacy connected with the use of the names is often added. Folios 35r-36v: various vocalisations of the divine names. Folio 37r: a piece on writing a mezuzah according to the teachings of Ari. Folios 38r-39r: expositions of angelic names. Folios 39v-48r contain the commentary on 70 names of Metatron (sar ha-panim) from Nehemiah ben Shelomoh of Erfurt school. Folio 49r: a piece from Shimush Torah. Folios 49v-51r: another part of the book Shimush Torah.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100212052">Zacuto, Moses ben Mordecai, 1620-1697 </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100212052">זכות, משה בן מרדכי </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>51 folios<dimensions type="leaf" unit="mm">
+										<height>195</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>51 folios (+ 2 unfoliated paper flyleaves at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Much stained and water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26 27" writtenLines="26 27">
+									<p>Uniform layout.</p>
+									<p>Section initials in larger characters.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Catchwords on every page.</p>
+									<p>Marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Ivory parchment, blind tooled. Damaged.</p>
+								<p>Spine: 'Shorshe Hash-Shemoth. Hebrew. Brit. Mus. Additional 27,171.'</p>
+								<condition>
+									<p>Vellum binding wormed, holed and may be two layers – appears to be older than textblock; perhaps an old liturgical (Christian?) manuscript.</p>
+								</condition>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 281: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [52v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">854</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

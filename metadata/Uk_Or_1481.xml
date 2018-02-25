@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1481" xml:lang="ara" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1481</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>A short midrash on the Pentateuch, in Hebrew and Arabic.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="88v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash  </title>
+							<title xml:lang="he">מדרש </title>
+							<note>
+								<p>A midrash in a form of question and answer, frequently overlapping with Midrash ha-hefets, but also containing many comments not found there. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="19r"/>
+								<title xml:lang="en">Midrash on Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="19r" to="39r"/>
+								<title xml:lang="en">Midrash on Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="39r" to="59r"/>
+								<title xml:lang="en">Midrash on Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="59r" to="71r"/>
+								<title xml:lang="en">Midrash on Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="71r" to="88v"/>
+								<title xml:lang="en">Midrash on Deuteronomy</title>
+							</msItem>
+							<filiation>This manuscript shares some comments with Or 2351, <ref target="Margoliouth_1965" type="number">363</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>88 folios<dimensions type="leaf" unit="mm">
+										<height>245</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>88 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Modern restoration of quires. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Many pages are lightly damaged and/or worm-eaten. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30" writtenLines="30">
+									<p>Some catchwords preserved. </p>
+									<p>Extensive marginal notes (upper, lower, inner and outer margins filled). </p>
+									<p>Occasional notes between the lines. </p>
+									<p>Chapter and section titles written in larger characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script of 16th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus n="88v"/>due to a different &amp; later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 88v contains rules relating to shehitah in the form of question and answer, probably of 17th century. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram, blind-tooled.</p>
+								<p>Spine title: 'Midrash on Pentateuch. Hebrew. Brit. Mus. Oriental 1481.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">24 November 1877</date>: inscribed, folio <locus n="fse001v">[98v]</locus>.</p>
+							<date>1877-11-24</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">368</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

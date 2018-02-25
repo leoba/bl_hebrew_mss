@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26935" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26935</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85113223" rend="visible">
+						<summary>Responses and letters addressed to Moses Provençal.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85113223">
+							<locus from="1r" to="36v"/>
+							<title xml:lang="en">Responses</title>
+							<title xml:lang="he">שאלות ותשובות </title>
+							<note>
+								<p>The contents are arranged into 5 sections: Yesode ha-Torah (begins on folio 2r), Yesode ha-Torah (folio 3v), Yesode ha-Torah (14r), Gerushin (folio 15r), Gerushin (folio 20v).</p>
+								<p>The letter of enquiry in the first section was written by Reuven ben David of Perugia, dated <date calendar="Gregorian">1569</date>. The first section on Gerushin contains the letter of enquiry written by Yosef Treves of Sevilliano, dated <date calendar="Gregorian">1571</date>. Enclosed is a letter addresd by the writer to Shelomoh Kats of Mantua. The last section (on Gerushin) contains also a latter addressed by Moses Provençal to heads of talmudic academies in Jerusalem and Safed; several communications addressed to Moses Provençal by his nephew Abraham Provençal; and a letter by Barukh Aziel Haschetto (dated <date calendar="Gregorian">1554</date>), on folio 31r.</p>
+								<p>On folio 36r begins a piece on rules regarding lulav and etrog, at the beginning of which the manuscript breaks off.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/45891113">Provençal, Moses ben Abraham, 1503-1575</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/45891113">פרובנצלו, משה בן אברהם</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th to 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>36 folios <dimensions unit="mm" type="leaf">
+										<height>180</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>36 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+									<p>Imperfect at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="28 " writtenLines="28 ">
+									<p>Uniform layout. </p>
+									<p>Hard-point vertical ruling visible.</p>
+									<p>Catchwords on every page.</p>
+									<p>Has original Hebrew foliation.</p>
+									<p>Some marginal notes and additions are present.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 16th to 17th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r is a doodle page.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Moses Provinciale. Teshuboth. Etc. Hebr. Brit. Mus. Additional 26,935.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 43: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, folio [38v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">578</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

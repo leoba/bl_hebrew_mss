@@ -1,0 +1,371 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_24896" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 24896</idno>
+					</msIdentifier>
+					<head>Commentaries</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A collection of commentaries and notes on the biblical books, except the Pentateuch, by various authors.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="422v"/>
+							<title xml:lang="he-Latn-x-lc">Perushim</title>
+							<title xml:lang="he">פירושים</title>
+							<msItem rend="v">
+								<locus from="1r" to="6r"/>
+								<title xml:lang="en">Commentary on the book of Joshua</title>
+								<author key="http://viaf.org/viaf/28447292">
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="en">Isaiah ben Elijah, di Trani</persName>
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="he">טרני, ישעיה בן אליהו די</persName>
+								</author>
+								<note>
+									<p>Followed by notes of various authors.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="6v" to="11r"/>
+								<title xml:lang="en">Comments on Judges </title>
+								<author key="http://viaf.org/viaf/28447292">
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="en">Isaiah ben Elijah, di Trani</persName>
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="he">טרני, ישעיה בן אליהו די</persName>
+								</author>
+								<note>
+									<p>Followed by notes of various authors.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="11r" to="27r"/>
+								<title xml:lang="en">Comments on the books of Samuel</title>
+								<author key="http://viaf.org/viaf/28447292">
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="en">Isaiah ben Elijah, di Trani </persName>
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="he">טרני, ישעיה בן אליהו די</persName>
+								</author>
+								<note>
+									<p>Followed by notes from various sources.</p>
+									<p>The comments on 2Samuel begin on folio 16v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="27r" to="40r"/>
+								<title xml:lang="en">Commentary on the books of Kings</title>
+								<author key="http://viaf.org/viaf/9766726">
+									<persName xml:lang="en">Benyamin ben Judah, of Rome </persName>
+								</author>
+								<note>
+									<p>Followed by notes from various sources. The comments on 1 Kings 1:1 – 7:14 are by Yeshaʻyah Ṭrani, and only the rest by Benyamin of Rome.</p>
+									<p>The comments on 2Kings begin on folio 34v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="40r" to="80v"/>
+								<title xml:lang="en">Commentary on the book of Isaiah</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+								<listBibl>
+									<bibl>
+										<ref target="Friedlander_1967" type="page">204-206</ref>
+									</bibl>
+								</listBibl>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80v" to="129v"/>
+								<title xml:lang="en">Commentary on the book of Jeremiah</title>
+								<note>
+									<p>Contains author's colophon, with a date of <date calendar="Hebrew">(4)951</date> (<date calendar="Gregorian">1191</date>), folio 129v.</p>
+								</note>
+								<author key="http://viaf.org/viaf/73773119">
+									<persName key="http://viaf.org/viaf/73773119" xml:lang="en">Menaḥem ben Shimʻon,‏ of Posquières </persName>
+									<persName key="http://viaf.org/viaf/73773119" xml:lang="he">מנחם בן שמעון, מפוסקיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="129v" to="193r"/>
+								<title xml:lang="en">Commentary on the book of Ezekiel</title>
+								<note>
+									<p>Followed by Rashi's commentary from chapter 40 to the end.</p>
+								</note>
+								<author key="http://viaf.org/viaf/73773119">
+									<persName key="http://viaf.org/viaf/73773119" xml:lang="en">Menaḥem ben Shimʻon,‏ of Posquières </persName>
+									<persName key="http://viaf.org/viaf/73773119" xml:lang="he">מנחם בן שמעון, מפוסקיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="193v" to="226v"/>
+								<title xml:lang="en">Commentary on the Minor Prophets</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr</persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+								<note>
+									<p>Copied most probably from the copy of Ibn ʿEzraʾ's work made by Yosef of Maudeville.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="226v" to="239r"/>
+								<title xml:lang="en">Notes on Isaiah from various sources</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="239r" to="242v"/>
+								<title xml:lang="en">Notes on Jeremiah from various sources</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="242v" to="246r"/>
+								<title xml:lang="en">Notes on Ezekiel from various sources</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="246r" to="254r"/>
+								<title xml:lang="en">Notes on the Minor Prophets from various sources</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="254r" to="266v"/>
+								<title xml:lang="en">Commentary on the books of Chronicles</title>
+								<author key="http://viaf.org/viaf/9766726">
+									<persName xml:lang="en">Benyamin ben Yehudah, of Rome </persName>
+								</author>
+								<note>
+									<p>The comments on 2Chron. begin on folio 260r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="266v" to="330r"/>
+								<title xml:lang="en">Commentary on Psalms</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+								<listBibl>
+									<bibl>
+										<ref target="Friedlander_1967" type="page">210</ref>
+									</bibl>
+								</listBibl>
+							</msItem>
+							<msItem rend="v">
+								<locus from="330r" to="343v"/>
+								<title xml:lang="en">Commentary on the book of Job</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="343v" to="356r"/>
+								<title xml:lang="en">Commentary on the book of Proverbs</title>
+								<author key="http://viaf.org/viaf/9766726">
+									<persName xml:lang="en">Benyamin ben Yehudah, of Rome  </persName>
+								</author>
+								<note>
+									<p>The scribe of this piece is probably Yehudah ben Benyamin ben Yo'av, inscribed in the contract of sale at the end of the whole manuscript, folio 419v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="356r" to="358r"/>
+								<title xml:lang="en">Commentary on Ruth</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="358r" to="364r"/>
+								<title xml:lang="en">Commentary on the Song of Songs</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+								<note>
+									<p>This commentary represents the French recension.</p>
+								</note>
+								<filiation>Cf. the same treatise in <ref target="Margoliouth_1965" type="number">239</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="364r" to="380v"/>
+								<title xml:lang="en">Commentary on Ecclesiastes</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="380v" to="384v"/>
+								<title xml:lang="en">Commentary on Lamentations</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Commentary on the book of Esther</title>
+								<locus from="384v" to="388v"/>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="388v" to="402r"/>
+								<title xml:lang="en">Commentary on the book of Daniel</title>
+								<author key="http://viaf.org/viaf/90633023">
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="en">Ibn Ezra, Abraham ben Meïr </persName>
+									<persName key="http://viaf.org/viaf/90633023" xml:lang="he">אבן עזרא, אברהם בו מאיר</persName>
+								</author>
+							</msItem>
+							<msItem rend="v">
+								<locus from="402r" to="408r"/>
+								<title xml:lang="en">Commentary on Ezra and Nehemiah</title>
+								<author key="http://viaf.org/viaf/28447292">
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="en">Isaiah ben Elijah, di Trani </persName>
+									<persName key="http://viaf.org/viaf/28447292" xml:lang="he">טרני, ישעיה בן אליהו די</persName>
+								</author>
+								<note>
+									<p>The comments on Nehemiah begin on folio 404v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="408r" to="422v"/>
+								<title xml:lang="en">Collection of notes and separate comments from various sources</title>
+								<note>
+									<p>Written in a different hand than the rest of the manuscript.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex, Italian semi-cursive script, unpunctuated, of 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">422 folios <dimensions unit="mm" type="leaf">
+										<height>234</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>164</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>422 folios (+ 5 modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of  mostly 10 leaves each.</p>
+									<p>Quires signed with Hebrew letters at the beginning and at the end, also marked with catchwords at the end.</p>
+									<p>Running titles in the upper margins, occasionally cut off.</p>
+								</collation>
+								<condition>
+									<p>Defective at the end.</p>
+									<p>Side margins are too closely cut and some of the marginal notes are not fully preserved.</p>
+									<p>On folio 422v ink has nearly entirely faded.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="31" writtenLines="31" columns="1">
+									<p>Hair-side and flesh-side of the folio is discernible.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Some omissions supplied in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian semi-cursive script, unpunctuated, of 14th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="408r" to="422v"/>due to a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>An index of commentaries from c17th century is given on folio 419v.</p>
+							<p>A note of purchase of the manuscript, 18th or 19th century, folio 1v.</p>
+							<p>
+								<name type="person" role="owner">M. Conti</name>: inscribed in a note of purchase, folio 3r, with a date of <date calendar="Gregorian">8 January 1836</date>.</p>
+							<p>
+								<name type="person" role="owner">Yehudah ben Benyamin ha-Menaḳed ben Yo'av</name>, probably also the scribe: inscribed in a contract of sale, folio 419v. Yehudah bar Benyamin sold the manuscript to Rabi Natan and Rabi Avraham, sons of Rabi Yeḥiel, son of Daniel of Monte Santo, for 15 gold florins.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600, black leather. Boxed.</p>
+								<p>Spine: 'Bible Commentaries Various Authors. Hebrew. Brit. Mus. Additional Ms. 24896.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1864-06-14</date>
+							<p>
+								<name type="person" role="owner">Joseph B(...)</name>: purchased by the British Museum from him on <date calendar="Gregorian">14 June 1864</date>: inscribed [423v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">237</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

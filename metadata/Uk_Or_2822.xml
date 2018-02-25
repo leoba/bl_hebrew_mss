@@ -1,0 +1,191 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2822" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2822</idno>
+					</msIdentifier>
+					<head>Talmud Yerushalmi</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Volume 1 of a portion of the Palestinian Talmud, with a commentary by Solomon ben Joseph Sirillo.</summary>
+						<textLang mainLang="tmr" otherLangs="he">Aramaic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="371v"/>
+							<title xml:lang="he">תלמוד ירושלמי</title>
+							<title xml:lang="he-Latn-x-lc">Talmud Yerushalmi</title>
+							<listBibl>
+								<bibl>
+									<ref target="Lehmann_1875"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>Uniform with Or 2823, <ref target="Margoliouth_1965" type="number">404</ref> (volume 2 of the manuscript).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="25r"/>
+							<title xml:lang="he-Latn-x-lc">Introduction</title>
+							<note>
+								<p>The beginning of the preface is wanting, and the extant portion is mutilated. </p>
+								<p>Folio 3r contains the order of the tractates. This parts contains constant references to the Talmud Bavli, Tosefta, Sifra and Sifre.</p>
+								<p>Folio 21v begins part 1 of the introduction, explaining foreign words used in the text. This chapter is defective at the end.</p>
+								<p>Folio 23r gives the order of Amoraim mentioned in the Palestinian Talmud whose names do not occur in the Babylonian Talmud. This part is defective at the beginning.</p>
+								<p>Folio 24r begins section 4 of the introduction, which explains the rationale for the sequence of the tractates.</p>
+								<p>On folio 25r there is Sirillo's poem.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="25v" to="102r"/>
+							<title xml:lang="he-Latn-x-lc">Berakhot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="102r" to="165r"/>
+							<title xml:lang="he-Latn-x-lc">Pe᾿ah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="165r" to="226r"/>
+							<title xml:lang="he-Latn-x-lc">Demaʾi </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="226r" to="309r"/>
+							<title xml:lang="he-Latn-x-lc">Kilʾayim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="309r" to="369v"/>
+							<title xml:lang="he-Latn-x-lc">Sheḳalim</title>
+							<note>
+								<p>This tractate interrupts the order of the masekhtot in Seder Zeraʿim.</p>
+								<p>The end of Sheḳalim is missing and replaced on the upper part of folio 369r by a piece beginning: <q>קרבנות הצבור</q>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="370r" to="371r"/>
+							<title xml:lang="en">Notes</title>
+							<note>
+								<p>Various Talmudical notes in Sirillo's writing.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Sefardi square and semi-cursive script of the 16th century, partially an autograph of the commentator.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>371 folios (+ 2 modern paper flyleaves at the beginning and at the end).<dimensions unit="mm" type="leaf">
+										<height>285</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>371 folios.</p>
+								</foliation>
+								<collation>
+									<p>Original quiring not established. All levaes stuck on paper (modern restoration).</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning. Leaves missing after folio 22.</p>
+									<p>A number of pages stained or damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="40" writtenLines="40">
+									<p>The number of the semi-cursive writing is usually 40, but that of the square writing (on the inner part of the page) varies considerably.</p>
+									<p>Many marginal notes and comments supplied in various cursive hands, partially in the author's handwriting.</p>
+									<p>Running titles.</p>
+									<p>Occasional diagrams (e.g. folio 268r).</p>
+									<p>Folio 1 is a title page in Hebrew and German (later addition).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<summary>Sefardi square and semi-cursive script of the 16th century, partially an autograph of the commentator.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>3 folded leaves at the end of the volume, of a recent date, in an Ashkenazi cursive script, with notes on Talmudical portions beginning on folio 143v of the same manuscript.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather.</p>
+								<p>Spine title: Talmud Jerushalmi. Hebrew. Vol. I. Brit. Mus. Oriental 2822.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<acquisition>
+							<date>1885-01-17</date>
+							<p>J. J. Leep (al. Bril): purchased from him by the British Museum on 17 January 1885: inscribed, folio <locus n="fse001v"/>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">403</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,203 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15306" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15306</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch accompanied by masorah magna and masorah parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="196v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<decoNote type="marginal">Masorah in the margin written in micrographic form. 18 full-page panels of micrographical design.<locus from="2v-7r" to="192r-196r">
+									<g/>
+								</locus>
+							</decoNote>
+							<filiation> Some micrographicial motifs are similar to Harley MS 5774, <ref target="Margoliouth_1965" type="number">121</ref>
+							</filiation>
+							<note>
+								<p>See <ref target="Pettigrew_1827" type="page">XVI-XVII</ref>. </p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="2r" to="8v"/>
+							<title xml:lang="en">Masoretic lists</title>
+							<note>
+								<p>Chronology of biblical books from Genesis to Kings.</p>
+								<p>List of the authors of the biblical books.</p>
+								<p>Number of verses in the Bible and its parts.</p>
+								<p>Number of letters in the Torah.</p>
+								<p>Chronology of the biblical period.</p>
+								<p>Alphabetical list of the words that occur twice in the Bible but with different meaning.</p>
+								<p>List of the verses in which all the letters of the alphabet occur.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="8v" to="53r"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="53r" to="92v"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="92v" to="119v"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="119v" to="157v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="157v" to="192v"/>
+							<title xml:lang="en">Deuteronomy</title>
+							<note>Missing chapter 12:17 (in part) to the end.</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="192v" to="196v"/>
+							<title xml:lang="en">Masoretic lists.</title>
+							<note>
+								<p>List of the words that are read but not written.</p>
+								<p>List of the passages in which certain words are marked with dots.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of late 14th or early 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">196 folios<dimensions unit="mm" type="leaf">
+										<height>290</height>
+										<width>215</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>135</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>196 folios (+ 1 unfoliated parchment flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>25 quires: i6, ii-xxiv8, xxv5, numbered at the beginning of each quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="25" writtenLines="25">
+									<p>Uniform layout. </p>
+									<p>Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and two in the lower margin.</p>
+									<p>Round the margins of folios 2v-7r and 192r-196r there is an unpunctuated text of parts of Psalms in large square characters</p>
+									<p>Ruling with hard point on the hair-side of folios, hardly visible.</p>
+									<p>The beginning of the weekly section is marked by פרש' in the margin. The chapters and subdivisions having been noted by means of Hebrew letters in later writing.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Sefardi square script of late 14th or early 15th century, with punctuation.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Petri Arrivabeni</name>: inscribed with his name: ‘Io petri Arriuabeni’, undated (folio 1r). </p>
+							<p>
+								<name type="person" role="owner">David Yitsḥaḳ Karmi</name>: inscribed with his name in an owner’s inscription, undated (folio 2r). </p>
+							<p>
+								<name type="person" role="owner">Yitsḥaḳ Kohen ben [ .. .. ] Yoshu῾a Kohen</name>: inscribed with his name in an owner’s inscription (folio 2r). </p>
+							<p>Illegible Latin inscription (folio 195v). </p>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1612 (folio 196r ); see <ref target="Popper_1969" type="page">100-101</ref>1. </p>
+							<p>Italian inscription: ‘Pentateuco Ebraico ossia li cinque libri di Moise’ (folio 196v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Crimson velvet binding.</p>
+								<p>Boxed.</p>
+								<p>Spine: &apos;Pentateuchus Hebraice. M.S. in Membrana. Mus. Brit. Jure Emptionis. 15,306. Plut.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1375" notAfter="1424">Last quarter of the 14th or 1st quarter of the 15th century.</origin>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick </name>(b. 1773, d. 1843), duke of Sussex: his armorial book-plate, inscribed (inner front cover); his sale <date calendar="Gregorian">13 August 1844</date>, lot 314: inscribed on folio 1r; purchased by the British Museum through <name type="person" role="bookseller">Thomas Thorpe</name> for £20.</p>
+							<date>1844-08-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">82</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

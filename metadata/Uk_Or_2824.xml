@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2824" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2824</idno>
+					</msIdentifier>
+					<head>Talmud Yerushalmi</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Volume 3 of a portion of the Palestinian Talmud, with a commentary by Solomon ben Joseph Sirillo.</summary>
+						<textLang mainLang="tmr" otherLangs="he">Aramaic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="180v"/>
+							<title xml:lang="he-Latn-x-lc">Talmud yerushalmi </title>
+							<title xml:lang="he">תלמוד ירושלמי </title>
+							<listBibl>
+								<bibl>
+									<ref target="Lehmann_1875"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>This volume is not uniform in size with Or 2822, <ref target="Margoliouth_1965" type="number">403</ref> and Or 2823, <ref target="Margoliouth_1965" type="number">404</ref>. </p>
+								<p>See also <ref target="FJB" type="number">16</ref> (1988), pp. 53-73. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="71v"/>
+								<title xml:lang="he-Latn-x-lc">Ḥalah </title>
+								<note>
+									<p>The commentary ends on folio 50v and then begins the text of the Talmud.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="71v" to="135r"/>
+								<title xml:lang="he-Latn-x-lc">ʿOrlah</title>
+								<note>
+									<p>The commentary begins on folio 71v, and the Talmudic text starts on folio 118r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="135r" to="180v"/>
+								<title xml:lang="he-Latn-x-lc">Bikurim</title>
+								<note>
+									<p>The commentary begins on folio 135r, and the Talmudic text begins on folio 165v.</p>
+								</note>
+							</msItem>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/33429759">Sirillo, Solomon ben Joseph, approximately 1558</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/33429759">סיריליאו, שלמה בן יוסף</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Oriental square and semi-cursive script of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>180 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>180 folios (+ 2 modern paper flyleaves at the beginning and 1 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 8 leaves each. Defective at the beginning and at the end.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end.</p>
+									<p>A number of pages stained.</p>
+									<p>Folio 1 much damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Catchwords on each verso.</p>
+									<p>Running titles on recto and verso, added in a later hand.</p>
+									<p>Hard-point ruling occassionally visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather.</p>
+								<p>Spine title: 'Talmud Jerushalmi. Hebrew. Vol. III. Brit. Mus. Oriental 2824.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<acquisition>
+							<date>1885-01-17</date>
+							<p>
+								<name type="person" role="bookseller">J. J. Leep</name> (al. Bril): purchased from him by the British Museum on 17 January 1885: inscribed, folio <locus n="fse001v">[181v]</locus> .</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">405</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

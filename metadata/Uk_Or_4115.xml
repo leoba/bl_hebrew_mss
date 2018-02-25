@@ -1,0 +1,163 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4115" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4115</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Kabbalistic writings of Shelomoh ben David ha-Kohen.</summary>
+						<textLang mainLang="he" otherLangs="jrb"/>
+						<msItem rend="">
+							<locus from="1r" to="168v"/>
+							<title xml:lang="he-Latn-x-lc">Leḥem Shelomoh</title>
+							<title xml:lang="he">לחם שלמה</title>
+							<note>
+								<p>The text is based on several kabbalistic works, e.g., Tolaʿat Yaʿaḳov, Maʿarekhet ha-elohut, Shaʿare orah, Derekh emunah and Sefer kaṿanot. </p>
+								<p>Folios 1 and 2 contain a piece, incomplete at the end, etitled Seder kol ha-nimtsa᾿im (on the order of worlds). </p>
+								<p>Appended are: Sha῾are yedi῾at ha-midot ṿeha-mishḳalot (Arabic in Hebrew characters, imperfect at the end), folios 167r-167v; an incomplete list of passages from Tana"kh and Mishnah, folio 168r.</p>
+								<p>See further <ref target="Kiryat_Sefer" type="number">28</ref> (1953), pp. 396-397 no. 177.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/293149006">Shelomoh ben David, ha-Kohen</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/293149006">שלמה בן דוד, הכהן</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the second half of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>168 folios<dimensions type="leaf" unit="mm">
+										<height>152</height>
+										<width>95</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>168 folios (+ 3 unfoliated paper flyleaf at the beginning and 4 at the end). </p>
+									<p>Original Hebrew foliation is only partly preserved.</p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folios 2, 9, 121, 167.</p>
+									<p>Well-fingered, with dirt and grease in margins, especially lower corner – a few of the latter have been infilled.
+</p>
+									<p>A few tidemarks at head.
+</p>
+									<p>Paper slightly soft and weak from use.
+</p>
+									<p>Folio 168 has small loss at foredge.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="16 22" writtenLines="16 22">
+									<p>Uniform layout.</p>
+									<p>Titles and initial words in larger square characters.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Visible ruling.</p>
+									<p>Running titles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script of the second half of the 17th century. <name type="person" role="scribe">Shemarya ben Yosef ben Shalom</name>: inscribed, folio 166v (acrostic in the upper part of the page).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>A record of deposition of the manuscript, which was transferred  from Yehudah ῾Amar (?) to Yaakov ibn Daud Yosef, dated <date calendar="Seleucid">2026</date> (<date calendar="Gregorian">1715</date>), witnessed by Shemarya ben Yosef and Mosheh ibn Se῾adyah: inscribed in Arabic (in Hebrew characters), folio 20v.</p>
+							<p>An entry with a list of purchased books, dated <date calendar="Gregorian">1866</date>: folio 168v, in Arabic (in Hebrew characters).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Solomon Cohen. Lekhem Shelomoh. Hebrew. Brit. Mus. Or. 4115.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1650" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1890-05-10</date>
+							<p>B. Steinhart: purchased from him by the British Museum on 10 May 1890: inscribed, folio [170v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">852</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

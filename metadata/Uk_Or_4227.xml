@@ -1,0 +1,298 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-12</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_4227" xml:lang="en" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4227</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="lccn.loc.gov/n79054379" rend="visible">
+						<summary>The Bible with masorah magna and parva, with masoretic lists at the beginning and at the end of the manuscript.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+							<locus from="1r" to="279r"/>
+							<title xml:lang="he-Latn-x-lc">Tana&quot;kh</title>
+							<title xml:lang="he">תנ"ך</title>
+							<note>
+								<p>Folios 1r-3v contain a masoretic text in Ashkenazi semi-cursive hand.</p>
+								<p>Folios 5v-271v: contain the Hebrew Bible in Ashkenazi square script. Text provided with full masoretic vocalization and accents, accompanied by the masorah magna and parva. The masorah magna occupies two lines at the top of the page and three or four at the bottom of the page. The number of verses is given only after some of the books. The number of Psalms is 170 (Ps. 119 being divided into 22 parts).</p>
+								<p>Pentateuch: 5v-72r.</p>
+								<p>Prophets: 72v-201v.</p>
+								<p>Hagiographa: 202r-271v.</p>
+								<p>Folios199v - 201r contain masoretic text in Ashkenazi semi-cursive, regarding differences between the Eastern and Western recensions in the books of Hagiographa, including the number of verses of the same book in each recension, the order of the books and pericopes.</p>
+								<p>Folios 272r-279r: contain masoretic lists concerning the letters of the alphabet, vowels and accents; the order of books and chapters. </p>
+								<p>See <ref target="Tahan_2007" type="page">46-47</ref>. </p>
+							</note>
+							<decoNote type="illustration">A sketch of candlestick.<locus n="4r"/>
+							</decoNote>
+							<decoNote type="paratext">Carmina figurata.<locus n="198v"/>
+							</decoNote>
+							<decoNote type="vignette">Texts within an architectural frame. <locus n="199r, 200r, 200v"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="3v"/>
+							<title xml:lang="en">Masoretic list</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="5v" to="23r"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="23r" to="37r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Leviticus</title>
+							<locus from="37r" to="46v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Numbers</title>
+							<locus from="46v" to="60v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Deuteronomy</title>
+							<locus from="60v" to="72r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joshua</title>
+							<locus from="72v" to="81r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="81r" to="89r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="89r" to="108v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="108v" to="131v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jeremiah</title>
+							<locus from="131v" to="152r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Exekiel</title>
+							<locus from="152r" to="169v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Isaiah</title>
+							<locus from="169v" to="185r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Hosea</title>
+							<locus from="185r" to="187r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joel</title>
+							<locus from="187r" to="188r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="188r" to="190r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Obadiah</title>
+							<locus from="190r" to="190r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jonah</title>
+							<locus from="190r" to="191r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Micah</title>
+							<locus from="191r" to="192r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Nahum</title>
+							<locus from="192r" to="192v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Habakuk</title>
+							<locus from="192v" to="193r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zephaniah</title>
+							<locus from="193v" to="194r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Haggai</title>
+							<locus from="194r" to="194v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zechariah</title>
+							<locus from="194v" to="197v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Malachi</title>
+							<locus from="197v" to="198v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Masoretic lists relating to Hagiographa</title>
+							<locus from="199v" to="201v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Ruth</title>
+							<locus from="202r" to="203r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Psalms</title>
+							<locus from="203r" to="221r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Job</title>
+							<locus from="221r" to="227v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="227v" to="233v"/>
+							<title xml:lang="en">Proverbs</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="233v" to="135v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="235v" to="136v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="236v" to="238r"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Esther</title>
+							<locus from="238r" to="240v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="240v" to="245r"/>
+							<title xml:lang="en">Daniel</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="245r" to="252r"/>
+							<title xml:lang="en">Ezra</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Chronicles</title>
+							<locus from="252r" to="272r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Masoretic list.</title>
+							<locus from="272r" to="279r"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex; Ashkenazi (French) square and semi-cursive script of 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>279 folios <dimensions unit="mm" type="leaf">
+										<height>265</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155/160 </height>
+										<width>110/115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>Hebrew foliation starts on folio 6, ends on folio 271. </p>
+									<p>279 folios (+ 2 unfoliated paper flyleaves at the beginning and 2 unfoliated paper flyleaves and a parchment flyleaf at the end). </p>
+								</foliation>
+								<collation>
+									<p>36 quires: i3, ii8, iii8, iv8, v8, vi8, vii8, viii8, ix12-1, x8, xi8, xii8, xiii8, xiv8, xv8, xvi8, xvii8, xviii8, xix8, xx8, xxi8, xxii8, xxiii8, xxiv8, xxv8, xxvi2, xxvii8, xxviii8, xxix8, xxx8, xxxi8, xxxii8, xxxiii8, xxxiv8, xxxv8, xxxvi6.</p>
+									<p>There is confusion in the collation due to a later re-binding: folio 2-3 (maybe folio 1 as well) were initially at the end of the codex as the earlier pencil foliation and quire numbering with Roman numbers demonstrate.</p>
+									<p>Quires marked by catchwords, often decorated, in some cases cut away in the trimming. </p>
+									<p>Edges colored red.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="45" writtenLines="44">
+									<p>Uniform layout. </p>
+									<p>Pricking and ruling are often visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square and semi-cursive, probably French, of 14th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<p>BM/BL in-house binding.</p>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: &apos;Hebrew Bible. Brit. Mus. Oriental 4227.&apos;  </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France </name>?</p>
+						</provenance>
+						<acquisition>
+							<p>Purchased by the British Museum from Quaritch in March <date calendar="Gregorian">1891 </date>, folio 279v; probably <name type="person" role="bookseller">Bernard Alexander Christian Quaritch </name>(b. 1819, d. 1899), bookseller and publisher. Erased inscriptions (presumable in Latin letters), folio 3v (in the lower margin), 5r (upper part). </p>
+							<date>1891-03</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">58</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

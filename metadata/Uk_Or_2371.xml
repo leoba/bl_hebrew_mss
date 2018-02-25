@@ -1,0 +1,170 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-16</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2371" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2371</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The Former Prophets with Targum, punctuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr ar">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1v" to="217v"/>
+							<note>
+								<p>Folio 216v contains a subscription in a later hand, which may be a copy of the original subscription of the manuscript.</p>
+								<p>Judges 4:23-5:31 have also an Arabic translation.</p>
+							</note>
+							<filiation>Written by the same hand as Or 1474 (<ref target="Margoliouth_1965" type="number">139</ref>) and similar to Or 1471 (<ref target="Margoliouth_1965" type="number">130</ref>), which is dated <date calendar="Gregorian">1589</date>. This volume is a companion to Or 1474, which contains the Latter Prophets.</filiation>
+							<colophon xml:lang="he">ותהי השלמתו יום שלישי י"ח יום לחדש מרחשון שנת א'ת'ת'ק'נ'ד' במאתא מעבר ת'ו' ות'ו'ב'י'ר'.<locus n="216v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="32v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Judges</title>
+								<locus from="32v" to="65r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Samuel</title>
+								<locus from="65v" to="140v"/>
+								<note>
+									<p>2Samuel starts on folio 107r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="141r" to="216v"/>
+								<note>
+									<p>2Kings starts on folio 180r.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>217 folios<dimensions unit="mm" type="leaf">
+										<height>311</height>
+										<width>203</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>217 folios. </p>
+									<p>Original foliation in Hebrew letters. </p>
+								</foliation>
+								<collation>
+									<p>22 quires of 10 leaves each, apart from the last of 7 leaves only. </p>
+									<p>The quires are signed with Hebrew letters on the first and last page (lost after 11th quire). </p>
+								</collation>
+								<condition>
+									<p>Folios 1-3, 209-215 are imperfectly preserved. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Masorah magna occupies generally two lines in the upper and one to four lines in the lower margin of the page. </p>
+									<p>The titles of the books are written on the verso of each leaf in the upper margin. </p>
+									<p>A number of masoretic notes is given at the end of each books. </p>
+									<p>The beginning and the end of the Hafṭarot are indicated in the margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Yemenite square script, punctuated. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="216" to="217"/>due to later hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 217r-217v contain doodles. </p>
+							<p>Comments of a non-masoretic character are found throughout, e.g. 42v, 45r.  </p>
+							<p>A Hebrew subscription on folio 216v, with a date of <date calendar="Seleucid">18 Marheshvan 1954</date>, i.e. <date calendar="Gregorian">1642</date>, and the name of the city of <name type="place">Ma'abar</name>, due to a later hand. </p>
+							<p>
+								<name type="person" role="owner">Aharon ha-Kohen</name>, inscribed with his name on folio 1r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Former Prophets with Targum. Hebrew. Brit. Mus. Oriental 2371.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1589" notAfter="1642"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse003v">[220v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">131</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

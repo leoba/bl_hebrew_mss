@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2378" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2378</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Two fragments of Midrash ha-gadol, attributed to David Adani.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="261v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-gadol </title>
+							<title xml:lang="he">מדרש הגדול</title>
+							<note>
+								<p>Many marginal notes.</p>
+							</note>
+							<author key="http://viaf.org/viaf/19572491">
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="en">Adani, David ben Amram </persName>
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="he">העדני, דוד בן עמרם </persName>
+							</author>
+							<msItem rend="v">
+								<locus from="1r" to="235v"/>
+								<title xml:lang="en">Midrash ha-gadol</title>
+								<note>
+									<p>The main protion cotains the greater part of Midrash ha-gadol on Be-reshit.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="236r" to="261v"/>
+								<title xml:lang="en">Midrash ha-gadol</title>
+								<note>
+									<p>Fragments of midrash on Va-yetse and Va-yishlaḥ.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of late 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>261 folios<dimensions type="leaf" unit="mm">
+										<height>257</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195/215</height>
+										<width>145/140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>261 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each; many of the quires and separate leaves are missing. </p>
+									<p>Signatures in Hebrew letters at the end of a quire. </p>
+								</collation>
+								<condition>
+									<p>Several folios partly mutilted. </p>
+									<p>Numerous folios missing. Imperfect at the beginning and at the end. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="27" writtenLines="27">
+									<p>First part of the manuscript is divided to 2 columns, the latter part has pages undivided.  </p>
+									<p>Many marginal (mostly lexical) notes. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Two Yemenite semi-cursive scripts of late 15th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="235v"/>and <locus from="236r" to="261v"/>- executed by two different but contemporary hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>A note of sale, dated <date calendar="Seleucid">2113 </date> (<date calendar="Gregorian">1802</date>), between <name type="person" role="owner">Yuda ibn Avraham Al-ḥa᾿zi</name> and <name type="person" role="owner">Mosheh ibn Yosef Shahad</name>, inscribed, folio 117r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Midrash Hag-Gadol. Genesis. Hebrew. Brit. Mus. Oriental 2378.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1460" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, folio <locus n="fse001v">[262v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">348</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

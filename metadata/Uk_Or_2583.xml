@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2583" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2583</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on the Hafṭarot of Exodus.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="50v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ῾al hafṭarot </title>
+							<title xml:lang="he">פרוש על הפטרות </title>
+							<note>
+								<p>The unpointed Hebrew biblical text is embodied.</p>
+								<p>The commentary is anonymous, but from the information on folio 4r and 6v it can be inferred that he lived in Egypt.</p>
+								<p>The work quotes several authorities, including Targum Jonathan, Sifra, Masekhet Zevahim,
+Rashi, Abu ‘l Walid and Moses Maimonides.</p>
+							</note>
+							<explicit xml:lang="he">נשלם פירוש ההפטרות של ספר ואלה שמות בעזרת שוכן מרומות אשר לו תהלל כל הנשמות הוא ברחמיו הרבים יפרוש עלינו סוכת שלמות ויגלה לנו כל התעלומות א'נ'ס' בריך רחמנא דסייען [?].<locus n="50v"/>
+							</explicit>
+							<msItem rend="v">
+								<locus from="1r" to="8r"/>
+								<title xml:lang="en">1 Kings 5:28-6:13.</title>
+								<note>
+									<p>Imperfect at the beginning.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="8r" to="21r"/>
+								<title xml:lang="en">Ezekiel 43:10-27.</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="21r" to="39v"/>
+								<title xml:lang="en">1 Kings 18:1-45.</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="39v" to="46r"/>
+								<title xml:lang="en">1 Kings 7:13-22</title>
+							</msItem>
+							<msItem rend="">
+								<locus from="46r" to="50v"/>
+								<title xml:lang="en">1 Kings 7:40-50 </title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, Oriental square and semi-cursive script, unpunctuated, of approximately 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent rend="visible">50 folios <dimensions unit="mm" type="leaf">
+										<height>175</height>
+										<width>125</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>50 folios (+ 3 modern paper flyleaves at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>5 quires of 10 leaves.</p>
+									<p>Quires signed with Hebrew letters on the first and last pages.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning.</p>
+									<p>A number of pages partially damaged; large signs of book-worming.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>Blank spaces left on folios: 5r, 5v, 10r, 12v and 14v, were intended to be filled up with figures illustrative of the building of the temple.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script, unpunctuated, of approximately 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Comm. on Hafṭaroth. Arabic. Brit. Mus. Or. 2583.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Egypt</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[51v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">247</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

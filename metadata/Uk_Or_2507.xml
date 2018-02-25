@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2507" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2507</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Proverbs.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="175v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Mishle</title>
+							<title xml:lang="he">פרוש משלי</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The pointed Hebrew text, accompanied by an Arabic translation, is embodied.</p>
+								<p>Contains chapters: 19:10-15, 19:23-20:8, 20:17-21:13, 21:14-23:19, 23:22-25:2, 25:4-26:6, 26:10-28, 27:4-15, 27:17-30:6, 30:8-16, 30:23-31:11, 31:15-20. 31:26-31 (imperfect at the end).</p>
+								<p>Of the Hebrew text the following parts are preserved: 19:10-16, 19:23-20:8, 20:18-21:13, 21:15-23:20, 23:23-25:2, 25:6-26:7, 26:11-28, 27:5-15, 27:!8-30:7, 30:10-31:31.</p>
+								<p>Has a scribal subscription at the beginning.</p>
+								<p>Masoretic division into section and קרי are marked in the margins.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Wechsler_2003" type="page">283-310</ref>
+								</bibl>
+							</listBibl>
+							<filiation>Uniform with Or 2506, <ref target="Margoliouth_1965" type="number">293</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; square and semi-cursive script of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>175 folios<dimensions type="leaf" unit="mm">
+										<height>174</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>175 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>21 quires, originally of 10 leaves each.</p>
+									<p>Quires signed with Hebrew letters and Arabic numerals on the upper margin of the first page.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios: 5, 13, 27, 58, 78, 93, 101, 111, 149, 157, 172, 173.</p>
+									<p>Imperfect at the end.</p>
+									<p>Many folios stained or water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14" writtenLines="14">
+									<p>The numbers of the chapters have been added by a later hand.</p>
+									<p>Catchword on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square and semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="1v"/>and <locus from="18r" to="18v"/> - supplied by a later hand. Also the numbers of the chapters have been added by a later hand.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefet. Commentary on Proverbs. Arabic. Vol. II. Brit. Mus. Oriental 2507.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[176v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">293</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

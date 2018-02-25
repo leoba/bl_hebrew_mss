@@ -1,0 +1,197 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26922" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26922</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="99r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-ḥesheḳ  </title>
+							<title xml:lang="he">ספר החשק</title>
+							<author key="http://viaf.org/viaf/88071000">
+								<persName key="http://viaf.org/viaf/88071000" xml:lang="en">Joseph, de Hamadan, active 13th century-14th century (?)</persName>
+								<persName key="http://viaf.org/viaf/88071000" xml:lang="he">יוסף משושן הבירה (?) </persName>
+							</author>
+							<note>
+								<p>Consists a kabbalistic exposition of the Tabernacle (openning verses of Exodus 25), the Song of Songs and the first chapter of Ezekiel.</p>
+								<p>From folio 1r to 27r the language is Hebrew, the rest being Aramaic. </p>
+								<p>Folios 1r-3r and 10r-12r are arranged peculiarly in two columns, the continuation of the left-hand column of folio 3r being the right-hand column of folio 1r, and from the right-hand column of folio 12r one has to turn to the right-hand column of folio 10r. Cf. the manner of writing of Mandaitic texts.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="99r" to="190r"/>
+							<title xml:lang="he">פרוש פרקי אבות</title>
+							<title xml:lang="he-Latn-x-lc">A commentary on Pirḳe avot</title>
+							<author key="http://viaf.org/viaf/120148944">
+								<persName key="http://viaf.org/viaf/120148944" xml:lang="en">Ben Shushan, Yosef, active 14th century</persName>
+								<persName key="http://viaf.org/viaf/120148944" xml:lang="he">בן שושן, יוסף </persName>
+							</author>
+							<note>
+								<p>Fragments only.</p>
+								<p>The author quotes Maimonides quite frequently, but also gives opinions from the standpoint of kabbalah.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="190r" to="201r"/>
+							<title xml:lang="he">פרק משנה</title>
+							<title xml:lang="he-Latn-x-lc">Pereḳ mishnah</title>
+							<note>
+								<p>A fragment only. </p>
+							</note>
+							<author key="http://viaf.org/viaf/97282190">
+								<persName key="http://viaf.org/viaf/97282190" xml:lang="en">Ibn Shem Tov, Shem Tov ben Joseph ben Shem Tov, active 15th century</persName>
+								<persName key="http://viaf.org/viaf/97282190" xml:lang="he">אבן שם טוב, שם טוב בן יוסף </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="he">פירוש</title>
+							<title xml:lang="he-Latn-x-lc">Perush</title>
+							<locus from="201r" to="217r"/>
+							<note>
+								<p>A kabbalistic commentary on various topics. Anonymous.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="217r" to="286r"/>
+							<title xml:lang="he">פירוש מסכת אבות</title>
+							<title xml:lang="he-Latn-x-lc">Perush Masekhet avot</title>
+							<author key="http://viaf.org/viaf/44658675">
+								<persName key="http://viaf.org/viaf/44658675" xml:lang="en">Baḥya ben Asher ben Ḥlava, ?-1340</persName>
+								<persName key="http://viaf.org/viaf/44658675" xml:lang="he">בחיי בן אשר אבן חלאוה </persName>
+							</author>
+							<colophon xml:lang="he">נשלם בעזרת ה' וישועתו זה הפירוש מפרקי אבות לרבי' בחיי בדיין <date calendar="Hebrew">יום שלישי י"ג לחדש אייר שנת ה'ר'צ'ד' ליצירה</date> והסימן דרכיו ראיתי ו'א'ר'פ'א'ה'ו' על ידי הצעיר הנאנח <name type="person" role="scribe">דוד חסון</name> והוא לחכם שלם ה"ר <name type="person" role="patron">שלמה הלוי בכ"ר החכם השלם ר' משה הלוי אלקאבץ</name> י'צ'ו'ב' השם יזכהו להגות בו וכו'. במתא <name type="place">סאלוניקי</name>:  <locus n="286r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>286 folios <dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>286 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 6 to 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>Slightly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="31" writtenLines="31">
+									<p>Written text arranged in one and occasionally two columns.</p>
+									<p>Some letterforms distinguished from the written text, see 50v-60v. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 16th century. <name type="person" role="scribe">David Hasun</name>: inscribed in a note (folio 157v). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>A scribal note, folio 157v: <q>ואני דוד חסון הכותב אומ'</q>:</p>
+							<p>
+								<name type="person" role="patron">Shelomoh ben Mosheh Alḳabets</name>: inscribed, folio 286r. </p>
+						</additions>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: ''Anonymous Cabalistic Treatises. Commentaries on Pirke Abhoth by Joseph Ibn Shoshan and Bahya ben Asher. Hebrew. Brit. Mus. Additional 26,922.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5294" calendar="Hebrew" when="1534"/>
+						<provenance>
+							<p>
+								<name type="place">Salonica</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his manuscript no. 30b; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed (folio <locus n="fse002v">[288v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">464</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

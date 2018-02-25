@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5682" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5682</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="140v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="15v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Taḥanunim</title>
+							<note>
+								<p>In agreement with the Italian prayer books. The Psalms were written in a contemporary semi-cursive script in the margin.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="15v" to="34r"/>
+							<title xml:lang="en">Services for Rosh ha-Shanah</title>
+							<filiation>Ct the poetical pieces contained in Add MS 19945, V, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="34r" to="137v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<filiation>Cf the contents of Add MS 19945, VI, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="137v" to="139v"/>
+							<title xml:lang="en">Additional pieces</title>
+							<note>
+								<p>Given in somewhat later handwriting.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>140 folios <dimensions unit="mm" type="leaf">
+										<height>280</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>165</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>140 folios (+ 1 unfoliated modern paper flyleaf at the beginning and at the end). Folio 1 is a paper flyleaf.</p>
+									<p>Hebrew foliation has been preserved.</p>
+								</foliation>
+								<collation>
+									<p>14 quires of 10 leaves each (folios 2-140), marked with catchwords and signatures at the end.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="26" writtenLines="26">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive script of the 15th century. Punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active 1585-1624): inscribed with his name, 1598 (folio 139v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1623 (folio 139v); see <ref target="Popper_1969" type="page">100-101</ref>William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969).</p>
+							<p>A note relating to berit milah, mentioning Rafa᾿el ben Shemu᾿el of Modena, undated: folio 140v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Liturgies. Hebrew. Brit. Mus. Harl. MS. 5682.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts: inscribed as usual by their librarian, <name type="person">Humfrey Wanley</name>, ‘18 die Januarii, A.D. 1723/4’ (folio 2r).
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753</date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">638</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

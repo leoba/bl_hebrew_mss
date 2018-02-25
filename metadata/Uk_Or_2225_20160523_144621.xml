@@ -1,0 +1,158 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2225" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2225</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003313983</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031723439.0x00000c</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>A portion of Maimonides' Commentary on the Mishnah of Seder Ṭoharot, in Judeo-Arabic</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>A portion of Maimonides' Commentary on the Mishnah of Seder Ṭoharot, in Judeo-Arabic.</summary>
+						<textLang mainLang="jrb-Hebr">Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="171v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder ṭoharot</title>
+							<title xml:lang="he">פרוש סדר טהרות</title>
+							<author>
+								<persName xml:lang="en" key="viaf.org/viaf/100185495">Maimonides, Moses </persName>
+								<persName xml:lang="he" key="viaf.org/viaf/100185495">משה בן מימון</persName>
+							</author>
+							<note>
+								<p>Folio 1 contains a fragment of hte introduction.</p>
+								<p>Folio 1* opens the Seder with a fragment of Kelim, XIII-XIV.</p>
+								<p>Folio 169 closes with a portion of Oḳetsim, III.</p>
+							</note>
+							<filiation>
+								<p>Folio 170 originally belonged to a volume of Maimonides' Mishneh Torah.</p>
+							</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>170 folios <dimensions unit="mm" type="leaf">
+										<height>277</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>240</height>
+										<width>180</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>170 folios (+ 2 modern paper flyleaves at the beginning and at the end). The second leaf is marked as 1*.</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Largely defective and mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="30" writtenLines="30">
+									<p>Visible mastara ruling.</p>
+									<p>Chapter numbers given in large characters, decorated with pen and ink designs.</p>
+									<p>A few marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive and square script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="1"/>, <locus n="170"/>written in other hands of the same date.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Taharoth. Hebrew. Brit. Mus. Oriental 2225.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1400" notAfter="1499">15th century</origDate>
+							<origPlace>Yemen</origPlace>
+						</origin>
+						<provenance/>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 April 1880: inscribed, folio [171v].</p>
+							<date>1880-04-10</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 462.</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

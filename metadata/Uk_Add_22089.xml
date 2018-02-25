@@ -1,0 +1,234 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_22089" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 22089</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85113223" rend="visible">
+						<summary>A collection of responses by Solomon ibn Adret and others.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85113223">
+							<locus from="1r" to="434v"/>
+							<title xml:lang="en">Responses</title>
+							<title xml:lang="he">שאלות ותשובות </title>
+							<note>
+								<p>The title is given on folio 1r, 15r, and on a flyleaf at the beginning of the volume.</p>
+								<p>Folios 1v-14v contain an index (imperfect) of the responses belonging to different sections.</p>
+								<p>Each section begins with a series of responses by Solomon ibn Adret, and ends with replies on similar subjects by Isaac Alfasi. There are many other rabbinic authorities quoted throughout.</p>
+								<p>A marginal annotator compared the manuscript with Teshuvot ha-Rashba as printed in Venice 1546, and with other editions. Against a large number of responses the same annotator has written the word 'meḥudeshet' (i.e. not known to exist elsewhere).</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/27494766">Adret, Solomon ben Abraham, 1235-1310</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/27494766">אדרת, שלמה בן אברהם אבן (רשב"א)</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="1v" to="14v"/>
+							<title xml:lang="en">Index</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="15v" to="43v"/>
+							<title xml:lang="he-Latn-x-lc">Dine bet din</title>
+							<note>
+								<p>59 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="44r" to="76v"/>
+							<title xml:lang="he-Latn-x-lc">Dine ῾edut</title>
+							<note>
+								<p>72 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="77r" to="93v"/>
+							<title xml:lang="he-Latn-x-lc">Dine sekhirut</title>
+							<note>
+								<p>39 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="94r" to="110v"/>
+							<title xml:lang="he-Latn-x-lc">Dine shutafot</title>
+							<note>
+								<p>37 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="111r" to="121r"/>
+							<title xml:lang="he-Latn-x-lc">Dine piḳadon</title>
+							<note>
+								<p>19 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="121r" to="130v"/>
+							<title xml:lang="he-Latn-x-lc">Dine harsha᾿ah</title>
+							<note>
+								<p>13 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="131r" to="138v"/>
+							<title xml:lang="he-Latn-x-lc">Dine garma be-nezikin</title>
+							<note>
+								<p>18 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="139r" to="210v"/>
+							<title xml:lang="he-Latn-x-lc">Dine halṿa᾿ah</title>
+							<note>
+								<p>196 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="211r" to="277v"/>
+							<title xml:lang="he-Latn-x-lc">Dine matanot ve-tsava῾ot</title>
+							<note>
+								<p>Imperfect at the end. 137 extant responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="278r" to="373v"/>
+							<title xml:lang="he-Latn-x-lc">Dine sheṭarot</title>
+							<note>
+								<p>204 responses.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="374r" to="434v"/>
+							<title xml:lang="he-Latn-x-lc">Dine ḳarḳa῾ot</title>
+							<note>
+								<p>Imperfect at the end. 139 extant responses.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>434 folios <dimensions unit="mm" type="leaf">
+										<height>267</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>434 folios (+ 2 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Lacunae after folio 10, 11, 13, 14, 227.</p>
+									<p>Defective at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="32" writtenLines="32">
+									<p>Uniform layout. </p>
+									<p>Hard-point ruling is visible.</p>
+									<p>Hair-side and flesh-side of folios is distinguishable.</p>
+									<p>Initial word in each section is given in larger characters.</p>
+									<p>Some marginal notes and additions are present.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (North-African) semi-cursive script of the latter part of the 14th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 434r, 434v and [ii recto] contain a consecutive fragment of <name type="person" role="author">Daṿid Kimḥi</name> Sefer ha-shorashim. Each page of the fragment is divided in to 2 columns, with 36 or 37 lines to a column. Written in French-Ashkenazi semi-cursive script, probably of the earlier part of the 14th century.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Solomon ibn Adret and Others. Responsa. Hebrew. Brit. Mus. Additional MS 22089.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1350" notAfter="1399"/>
+						<provenance>
+							<p>Africa, N.</p>
+						</provenance>
+						<acquisition>
+							<date>1857-08-01</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>, of Tunis: purchased from him by the British Museum on 1 August 1857: inscribed, folio [435v] .</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">572</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

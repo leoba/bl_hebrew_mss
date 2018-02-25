@@ -1,0 +1,327 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_1528" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 1528</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Bible with masorah magna and parva (the 'Harley Catalan Bible').</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="424v"/>
+							<title xml:lang="he-Latn-x-lc">Tana"kh</title>
+							<title xml:lang="he">תנ"ך </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<decoNote type="miniature">Full page miniatures in colours and gold of Temple implements. <locus n="7v, 8r"/>
+							</decoNote>
+							<decoNote type="border">12 full-page arcades in colours. <locus n="1v, 2r, 2v, 3r, 3v, 4r, 4v, 7r, 8v, 9r, 9v, 10r"/>
+							</decoNote>
+							<decoNote type="paratext">Masorah in micrographic design.</decoNote>
+							<msItem rend="v">
+								<title xml:lang="en">Masoretic lists</title>
+								<locus from="1v" to="10r"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="11v" to="36v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="36v" to="58r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58r" to="73r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="73r" to="94r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="94r" to="113v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="113v" to="127r"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="127r" to="140v"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="140v" to="172v"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio 158r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="172v" to="206r"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>2Kings starts on folio 190r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="206r" to="229r"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="229r" to="260r"/>
+								<title xml:lang="en">Jeremiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="260r" to="287r"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="287r" to="290v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="290v" to="292r"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="292r" to="294v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="294v" to="295r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="295r" to="296r"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Micah</title>
+								<locus to="298r" from="296r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Nahum</title>
+								<locus to="299r" from="298r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Habakkuk</title>
+								<locus to="300r" from="299r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zephaniah</title>
+								<locus to="301r" from="300r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Haggai</title>
+								<locus from="301r" to="302r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zechariah</title>
+								<locus from="302r" to="306r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Malachi</title>
+								<locus from="306r" to="307v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="307v" to="309r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="309r" to="336v"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="336v" to="347r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="347r" to="356r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="356r" to="359v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="359v" to="361r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="361r" to="363v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="363v" to="371v"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="371v" to="376r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Ezra</title>
+								<locus to="389r" from="376r"/>
+								<note>
+									<p>Nehemiah starts on folio 381v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Chronicles</title>
+								<locus from="389r" to="422v"/>
+								<note>
+									<p>2Chron. starts on folio 404r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="422v" to="424v"/>
+								<title xml:lang="en">Masoretic lists</title>
+								<note>
+									<p>Folios 423-424 contain a list of Hafṭarot.</p>
+								</note>
+							</msItem>
+							<note>
+								<p>See <ref target="Rosenau_1979" type="number">36, 37</ref>, <ref target="Narkiss_1982" type="number">324-327</ref>, <ref target="Metzger_1982" type="page">304</ref>, <ref target="Kogman-Appel_2004" type="page">144-169</ref>, <ref target="Tahan_2007" type="page">54-55</ref>. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the second or third quarter of 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>424 folios<dimensions unit="mm" type="leaf">
+										<height>350</height>
+										<width>270</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>240</height>
+										<width>185</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>424 folios (+ 2 unfoliated older paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>57 quires: ifour (folios 1-4), ii2 (folios 5-6), iiifour (folios 7-10), iv-lv8 (folios 11-418), lvifour (folios 419-422), lviitwo (folios 423-424). </p>
+									<p>Instead of catchwords, there is a quire numbering in Hebrew characters.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="32" writtenLines="32">
+									<p>Watermark, of a lamb holding a cross (folio [ii recto]) and initials of JW (folio [425r]), of James Whatman II, paper maker (1764-1793). </p>
+									<p>Gilt edges.
+</p>
+									<p>Foliation is written on the verso side of the leaves. Hebrew foliation from folio 11. </p>
+									<p>Hair side and flesh side are distinguishable. Ruling is sometimes visible.</p>
+									<p>Numerous decorations: full page miniatures in colours and gold of Temple implements, 12 full-page arcades in colours, masorah in micrographic design.</p>
+									<p>Masorah magna occupies two lines at the top and three lines at the bottom of each page. It is also written in the outer margin in the form of ornamental figures, mostly a candlestick.</p>
+									<p>Joshua, Isaiah, Nahum, Habakuk, Haggai, Ruth and Esther begin a new column, and Zechariah begins a new leaf.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sefardi square script of second or third quarter of 14th century, punctuated. Two folios in unpunctuated Ashkenazi square script.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="5r" to="6v"/>- written in unpunctuated Ashkenazi square script.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">David Finzi ben Menahem Finzi</name> (or Panzi?): inscribed with his name (folio 424r 424r). </p>
+							<p>
+								<name type="person" role="owner">Eliyaḳim ben Hosheʿa Finzi</name> (or Panzi?): sold it to <name type="person" role="owner">Yaʿaḳov ben Avraham of Sforno</name> on Tuesday <date calendar="unknown">29 April 5271</date>  (<date calendar="Gregorian">1511</date>) (folio 11r). </p>
+							<p>Illegible inscription in Latin characters (folio 374r). </p>
+							<p>
+								<name type="person" role="censor">Jacob Geraldino</name>, censor: inscribed with his name, <date calendar="Gregorian">12 December 1555</date>  (folio 422v); see <ref target="Popper_1969" type="page">104</ref>. </p>
+							<p>
+								<name type="person" role="censor">Luigi da Bologna</name>, a converted Jew working for the Inquisition as censor (active at the end of the sixteenth, beginning of seventeenth century): inscribed with his name as censor: 'Visto per mi Fra Luigi da Bologna del 1602 in Reggio' (folio 422v); see <ref target="Popper_1969" type="page">104</ref>. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather binding with the initials 'MB' (presumably Margaret Bentinck).</p>
+								<p>Spine: 'Bible. Hebrew. Brit. Mus. Harley 1528.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notAfter="1374" notBefore="1325"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>, N.E. (<name type="place">Catalonia</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles </name>(b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">57</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

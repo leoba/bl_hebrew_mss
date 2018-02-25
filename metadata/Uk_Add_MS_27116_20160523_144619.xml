@@ -1,0 +1,623 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation </sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-03-19</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Add_27116" xml:lang="en" rend="meta">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Add MS 27116</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003313907</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031719899.0x000003</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Igeret al tehi ke-avotekha by Profiat Duran</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85070331" rend="visible">
+                  
+                  
+                  
+                  <summary>Polemical treatise. </summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="1r" to="17v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Igeret al tehi ke-avotekha</title>
+                     
+                     
+                     
+                     <title xml:lang="he">אגרת אל תהי כאבותיך</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName key="viaf.org/viaf/13522985" xml:lang="en">Duran, Profiat, 1350-1415</persName>
+                        
+                        
+                        
+                        <persName key="viaf.org/viaf/13522985" xml:lang="he">דורן, יצחק בן משה, 1350-1415</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>A satirical epistle addressed to David En-Bonet ben Goron, with the commentary of Joseph ben Shem Tov. The contents of the title page (folio 1r) are taken from the printed edition of Constatinople 1577, with some modifications by the scribe. </p>
+                     
+                     
+                     
+                     </note>
+                     
+                     
+                     
+                     <incipit xml:lang="he">[...] ועתה נתחדשה ותצא לאור משפטה בכתב יד הצעיר הכותב ה"ה <name type="person" role="scribe">יששכר חיים בלא"א יצחק קרפי</name> ז"ל בשנת י'ששכר' ל'פעו'לתך לפ"ק" [=תקמ"ו]. <locus n="1r"/>
+                     
+                     
+                     
+                     </incipit>
+                     
+                     
+                     
+                     <decoNote type="border">
+                        
+                        
+                        
+                        <locus n="1r"/>Title-page in an ornamented frame, in black ink. </decoNote>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Paper codex of the 18th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="chart">
+                        
+                        
+                        
+                        <support>Paper. </support>
+                        
+                        
+                        
+                        <extent>17 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>312</height>
+                              
+                              
+                              
+                              <width>225</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>280/195</height>
+                              
+                              
+                              
+                              <width>205/100</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>17 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).
+</p>
+                           
+                           
+                           
+                           <p>Original foliation preserved. </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of mostly 6 leaves each. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Usage stains. </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1 2" ruledLines="14 25" writtenLines="14 25">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Visible pencil ruling. </p>
+                           
+                           
+                           
+                           <p>Larger square initial words. </p>
+                           
+                           
+                           
+                           <p>The main text in square script surrounded by the commentary in cursive script. </p>
+                           
+                           
+                           
+                           <p>Catchwords under every column.  </p>
+                           
+                           
+                           
+                           <p>Folio 1r is a title-page. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Italian cursive and square script of the 18th century. <name type="person" role="scribe">Yiśakhar Ḥayim Yitsḥaḳ Ḳarpi</name>: inscribed, folio 1r. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'Iggereth Al-Tehi. Hebrew. Brit. Mus. Additional 27,116.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate when="1786" when-custom="[5]546" calendar="Hebrew">1786 ([5]546)</origDate>
+                     
+                     
+                     
+                     <origPlace>Italy</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1865-10</date>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Giuseppe Almanzi</name>(b. 1801, d. 1860), bibliophile; his manuscript no. 223; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [19v] (fse002v). </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1079.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-03-19">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

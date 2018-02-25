@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Egerton_610" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Egerton MS 610</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="8r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 14th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>75 membranes, 262 columns. <dimensions type="leaf" unit="mm">
+										<height>553</height>
+										<width>4623</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>75 membranes, with wooden rollers. Silk mantle. </p>
+								</collation>
+								<condition>
+									<p>Small surface abrasions, especially over folds, and delamination. </p>
+									<p>Some pleats and cockling.  </p>
+									<p>Minor water damage; small area of salt accretion and a few stains at edges. </p>
+									<p>Slight worming at one join.
+</p>
+									<p>Mantle damaged and fragile. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="262" ruledLines="42" writtenLines="42">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point.</p>
+									<p>Visible stitching. </p>
+									<p>262 columns in total, one to five columns per membrane. </p>
+									<p>The second דרש of Lev. 10:16 is not placed at the beginning of the line. </p>
+									<p>Three tagin on שעטנזגץ, and one on בדהיק, the letter ח is occasionally arched.  </p>
+									<p>Several instances of majuscular and minuscular letters. </p>
+									<p>Special shapes of the letter  נ, פ and broken ו occur. </p>
+									<p>The &quot;puncta extraordinaria&quot; placed on the words fixed by masorah, except Gen. 16:5. </p>
+									<p>Wooden rollers (currently kept in a separate box). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1829</date>
+							<p>Bought by the British Museum, using the Bridgewater fund (£12,000 bequeathed in 1829 by <name type="person">Francis Henry Egerton</name>, 8th Earl of Bridgewater (b. 1756, d. 1829). </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">2</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

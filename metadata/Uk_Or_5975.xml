@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5975" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5975</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The commentary of Rashi on Berakhot and Shabat. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="136v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Rashi </title>
+							<title xml:lang="he">פירוש רש"י </title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105 </persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105 </persName>
+							</author>
+							<note>
+								<p>The manuscript breaks off on folio 142v of the standard printed edition. </p>
+								<p>There are additions under the title Hidush at the end of the 7th chapter of Shabat (folio 87r), and also at the end of the 9th chapter (folio 98r). </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="37r"/>
+								<title xml:lang="he-Latn-x-lc">Berakhot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="37r" to="136v"/>
+								<title xml:lang="he-Latn-x-lc">Shabat</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex; Sefardi semi-cursive script of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>136 folios <dimensions unit="mm" type="leaf">
+										<height>308</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>220</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>136 folios (+ 1 modern paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each. Incomplete at the end.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the end. </p>
+									<p>First leaf mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="38" writtenLines="38">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling. </p>
+									<p>Flesh side and hair side distingushable. </p>
+									<p>Chapter titles and initial words of sections written in larger characters. </p>
+									<p>Catchwords on every verso. </p>
+									<p>Additions in smaller characters and marginal notes found throughout the manuscript. </p>
+									<p>Censor's erasures, e.g. folio 117v. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A note in Italian, describing the manuscript, is pasted on the flyleaf at the end of the manuscript, folio [138v].</p>
+							<p>
+								<name type="person" role="owner">Eliyahu of Keriko</name>: inscribed, folio 36r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Solomon Yitshaki. Commentary on Tractates Berakhoth &amp; Shabboth. Hebrew. Brit. Mus. Oriental 5975.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1901-03-30</date>
+							<p>
+								<name type="person" role="owner">Joseph Schlesinger</name>: purchased from him by the British Museum on 30 March 1901: inscribed, folio <locus n="fse003v "/>[139v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">409</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

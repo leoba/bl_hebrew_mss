@@ -1,0 +1,190 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5529" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5529</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Fragments of halakhic commentaries of various authors.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="9v"/>
+							<title xml:lang="he-Latn-x-lc">Birkat ha-perot </title>
+							<title xml:lang="he">ברכת הפירות</title>
+							<author key="http://viaf.org/viaf/89860273">
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="en">Meir ben Baruch, of Rothenburg, approximately 1215-1293</persName>
+								<persName key="http://viaf.org/viaf/89860273" xml:lang="he">מאיר בן ברוך, מרוטנבורג </persName>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="9v" to="12v"/>
+							<title xml:lang="he-Latn-x-lc">Shaʿare Dura </title>
+							<title xml:lang="he">שערי דורא</title>
+							<note>
+								<p>Ends abruptly on folio 12r.</p>
+							</note>
+							<author key="http://viaf.org/viaf/9742647">
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="en">Dueren, Isaac ben Meir, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/9742647" xml:lang="he">יצחק בן מאיר, מדורא </persName>
+							</author>
+							<filiation>Cf. contents of Add. 18685, <ref target="Margoliouth_1965" type="number">513</ref>.</filiation>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="13r" to="15v"/>
+							<title xml:lang="en">Perush ῾al sidur</title>
+							<title xml:lang="he">פרוש על סדור</title>
+							<note>
+								<p>A fragment of an anonymous commentary on the significance of the number of words in benedictions.</p>
+								<p>Contains some recipes of kabbalistic nature.</p>
+							</note>
+							<filiation>Cf. contents of Harley 5510, <ref target="Margoliouth_1965" type="number">754</ref>.</filiation>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="16r" to="19r"/>
+							<title xml:lang="en" rend="visible">Be᾿urim le-Miḳra᾿</title>
+							<title xml:lang="he" rend="visible">באורים למקרא</title>
+							<note>
+								<p>Starts with chapter 17:14.</p>
+							</note>
+							<decoNote type="diagram">
+								<locus n="18r"/>Diagrams of the Holy Land.</decoNote>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="19r" to="155v"/>
+							<title xml:lang="en">Sefer mitsvot ḳaṭan </title>
+							<title xml:lang="he">ספר מצוות קטן</title>
+							<note>
+								<p>Some marginal notes.</p>
+								<p>Contains a divorce formula, dated <date calendar="Hebrew">5139 </date>(<date calendar="Gregorian">1379</date>) in <name type="place">Coburg</name>, folio 75v.</p>
+							</note>
+							<author key="http://viaf.org/viaf/4009920">
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="en">Isaac ben Joseph, of Corbeil, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="he">יצחק בן יוסף, מקורביל </persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>157 folios <dimensions unit="mm" type="leaf">
+										<height>178</height>
+										<width>153</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p> 157 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each.</p>
+									<p>Catchwords at the end of quires, only partially preserved.</p>
+								</collation>
+								<condition>
+									<p>Partly damaged.</p>
+									<p>Several pages left blank after folio 14.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30" writtenLines="30">
+									<p>Marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="5">
+							<summary>Ashkenazi semi-cursive script, unpunctuated, of 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 157v contains an astrological entry for a cycle of seven days. </p>
+							<p>
+								<name type="person" role="owner">Issakhar bar Aleksander Avraham ha-Kohen</name> and <name type="person" role="owner">Yuda bar Aleksander ha-Kohen</name>: inscribed, folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Semak of Isaac of Corbeil, etc. Hebrew. Brit. Mus. Harley 5529.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>?</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Edward Harley</name>: inscription by Harley's librarian, Humfrey Wanley, 20 February 1719/1720 (folio 3r). The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">534</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

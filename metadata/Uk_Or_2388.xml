@@ -1,0 +1,142 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-12</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2388" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2388</idno>
+					</msIdentifier>
+					<head>Perush</head>
+					<msContents class="http://lccn.loc.gov/n80008475" rend="visible">
+						<summary>An Arabic commentary on the second book of Samuel by Yitsḥaḳ  ben Shemuʾel ha-Sefardi.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+						<msItem n="0" rend="" class="http://lccn.loc.gov/n80008475">
+							<title xml:lang="en">Commentary on the book of Samuel</title>
+							<title xml:lang="he">פירוש על שמואל </title>
+							<title xml:lang="he-Latn-x-lc">Perush ʿal sefer Shemuʾel </title>
+							<locus from="1r" to="193v"/>
+							<note>
+								<p>The Arabic translation, generally in small sections, precedes the respective portions of the commentary. Only the first words of the Hebrew text are given.</p>
+								<p>Contains numerous references to the early grammarians and commentators: Saʿadyah Gaʾon (<locus n="134v, 164v, 169v"/>),  Sherira Gaʾon (<locus n="42r, 42v"/>), Hai Gaʾon (<locus n="33r, 158v, 162r"/>),  Abu Zakariya Yaḥya (<locus n="11r, 17r, 29r,150r, 156v, 163r"/>), Abu 'l-Walid Merwan ibn Jannaḥ (<locus n="2r, 6r, 15v, 120v"/>), Yehudah ibn Balaʿam (<locus n="32v, 33r, 33v"/>), Mosheh ben Shemuʾel ibn Giḳaṭila (<locus n="108v, 150v"/>),  Natan ben Yeḥiel (<locus n="95v, 106r"/>), Abu ʾAli al-Baṣrī (<locus n="164v"/>), and also to several anonymous commentaries, general works of reference, and to his own works.</p>
+							</note>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Yitsḥaḳ  ben Shemuʾel ha-Sefardi</persName>
+								<persName xml:lang="he">יצחק בן שמואל הספרדי</persName>
+							</author>
+							<filiation>Similar to a Genizah fragment from Cambridge, 1a 25, in terms of script. See also <ref target="Neubauer_1891" type="number">455</ref> .</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Oriental semi-cursive script of 14-15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>193 folios<dimensions unit="mm" type="leaf">
+										<height>250</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>193 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end)</p>
+									<p>Originally consisted of 210 folios.</p>
+								</foliation>
+								<collation>
+									<p>Originally 21 quires of 10 leaves each, currently incompele at the beginning, with some folios missing throughout.</p>
+									<p>The quires were marked with catchwords and also signed with Hebrew letters on the last and first pages respectively.</p>
+								</collation>
+								<condition>
+									<p>Several folios are badly damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Ruled with mastara.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-square script of 14-15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<locus n="42v"/> has notes in a cursive Sefardi script in the bottom margin.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881: inscribed <locus n="fse003v">[196v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">167</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

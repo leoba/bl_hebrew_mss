@@ -1,0 +1,190 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2584" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2584</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on the Hafṭarot of Numbers.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="2r" to="130v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ῾al hafṭarot </title>
+							<title xml:lang="he">פרוש על הפטרות </title>
+							<note>
+								<p>The pointed and partly accentuated Hebrew biblical text is embodied. The punctuation differs in parts from the standard masoretic recension.</p>
+								<p>The commentary is anonymous, but from the information on folio 4r and 6v it can be inferred that he lived in Egypt. Cf <ref target="Margoliouth_1965" type="number">247</ref>.</p>
+								<p>The works quotes several authorities, including Targum Jonathan, Rashi, Abu’l Walid and Abraham ibn Ezra.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="2r" to="22v"/>
+								<title xml:lang="en">Hosea 2:1-22</title>
+								<note>
+									<p>Fragments of Ezekiel 44:20-21 begin on folio 1r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="22v" to="32r"/>
+								<title xml:lang="en">Judges 13:2-25</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="32r" to="50r"/>
+								<title xml:lang="en">Zechariah 2:14-4:9</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="50r" to="60r"/>
+								<title xml:lang="en">Joshua 2</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="60r" to="73r"/>
+								<title xml:lang="en">1 Samuel 11:14-12:22</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="73r" to="89v"/>
+								<title xml:lang="en">Judges 11</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="89v" to="102r"/>
+								<title xml:lang="en">Micah 5:6-6:8</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="102r" to="114r"/>
+								<title xml:lang="en">1 Kings 18:46-19:21</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="114r" to="122r"/>
+								<title xml:lang="en">Jeremiah 1</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="122r" to="129v"/>
+								<title xml:lang="en">Jeremiah 2:5</title>
+								<note>
+									<p>Imperfect at the end.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 13th to 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent rend="visible">130 folios <dimensions unit="mm" type="leaf">
+										<height>200</height>
+										<width>133</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>130 folios (+ 3 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>12 quires of mostly 10 leaves. </p>
+									<p>Quires signed originally with Arabic words on the first page and with Hebrew letters on the last page; most of the signatures are now lost. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the end. </p>
+									<p>A number of pages partially damaged (restored on modern paper); large signs of worming. </p>
+									<p>There are lacunae after folio 1 and 2. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15 17" writtenLines="15 17">
+									<p>Uniform layout. </p>
+									<p>Text written in one column a page, of 15 to 17 lines each. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental square and semi-cursive script, unpunctuated, of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="114r" to="129v"/>due to a different (later) hand than the rest of the manuscript.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Hafṭaroth with Commentary. Hebrew &amp; Arabic. Brit. Mus. Oriental 2584.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[131v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">248</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

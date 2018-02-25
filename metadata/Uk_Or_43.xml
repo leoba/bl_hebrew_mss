@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_43" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 43</idno>
+					</msIdentifier>
+					<head>Ḥidushim</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Contains Novellae on the tractate Bava batra.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="260v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥidushim</title>
+							<title xml:lang="he">חדושים</title>
+							<note>
+								<p>The authorship is uncertain, <ref target="Herschler_1965"/> attributes the work to Jonah ben Abraham Gerondi. The author quotes several rabbinic authorities, including Shemu᾿el ben Hofni, Asher ben Meshulam, Shelomoh ben Avraham of Montpellier or Maimonides.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/25683756">Jonah ben Abraham Gerondi, approximately 1200-1263</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/25683756">יונה בן אברהם, גרונדי</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>260 folios <dimensions unit="mm" type="leaf">
+										<height>290</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>225</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>260 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>Many of the pages more or less injured.</p>
+									<p>Ink fading on many of the versos.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Chapter initials given in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (North-African?) semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Aaron hal-Levi. Comm. on Baba Bathra. Hebrew. Brit. Mus. Oriental 43.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1867-05-25</date>
+							<p>
+								<name type="person" role="owner">Joseph Schönblum</name>: purchased from him by the British Museum on 25 May 1867: inscribed, folio <locus n="fse002v">[262v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">429</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

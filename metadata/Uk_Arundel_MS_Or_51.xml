@@ -1,0 +1,826 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-08-13</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Ar_Or_51" xml:lang="en" rend="all">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Arundel Or 51</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003312235</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031316949.0x000001</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Maḥberet Menaḥem by Menaḥem ben Saruq with additional commentaries</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85013633" rend="visible">
+                  
+                  
+                  
+                  <summary>A dictionary, with additional commentaries.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="visible" class="lccn.loc.gov/sh85013633">
+                     
+                     
+                     
+                     <locus from="1r" to="160v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Maḥberet Menaḥem</title>
+                     
+                     
+                     
+                     <title xml:lang="he">מחברת מנחם</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/97166551">Menaḥem
+                                    ben Saruq</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/97166551">סרוק, מנחם בן יעקב
+                                אבן</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>See the printed edition of Filipowski, London 1854. </p>
+                        
+                        
+                        
+                        <p>The
+                                    arrangement of the roots is that originally adopted by the
+                                    author (first biliteral roots, then triliteral, etc.). Some
+                                    articles are wanting. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="161r" to="163v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Igeret Sherira Ga᾿on</title>
+                     
+                     
+                     
+                     <title xml:lang="he">אגרת שרירא גאון</title>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/63993515">Hai, ben
+                                    Sherira</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/63993515">שרירא גאון</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>In a short recension. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="" class="lccn.loc.gov/sh85070393">
+                     
+                     
+                     
+                     <locus from="163v" to="166v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Seder tana᾿im ṿe-amora᾿im</title>
+                     
+                     
+                     
+                     <title xml:lang="he">סדר תנאים ואמוראים (קטעים)</title>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>See further the edition of Kalman Kahana, Seder tana᾿im
+                                    ṿe-amora᾿im, Frankfurt 1935. </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="167v" to="207v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Teshuvot Dunash ben Labraṭ ῾al Maḥberet
+                                Menaḥem</title>
+                     
+                     
+                     
+                     <title xml:lang="he">תשובות דונש על מחברת מנחם</title>
+                     
+                     
+                     
+                     <colophon xml:lang="he">אני <name type="person" role="scribe">יצחק בר
+                                    מנחם</name> כתבתי זה המחברת לר' משה ב"ר יוסף [...] בשנת <date when="1189" calendar="Hebrew">ארבעת אלפים ותשע מאות וארבעים
+                                    ותשעה</date> לבריאת עולם. <locus n="169r"/>
+                     
+                     
+                     
+                     </colophon>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/61947743">Dunash ben
+                                    Labrat</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/61947743">דונש בן לברט</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <note>
+                        
+                        
+                        
+                        <p>See the printed edition, Sefer Teshuvot Dunash ben Labraṭ,
+                                    Edinburgh 1855.</p>
+                        
+                        
+                        
+                        <p>The treatise begins with the poem, after
+                                    which follows the colpphon. Folio 169v was left blank by the
+                                    original scribe, and folio 170r begins with rhymed verses. Folio
+                                    169v contains currently some medical prescriptions (in
+                                    semi-cursive script later than the bulk of the manuscript).
+                                </p>
+                     
+                     
+                     
+                     </note>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the 12th century.</p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment.</support>
+                        
+                        
+                        
+                        <extent>207 folios <dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>253</height>
+                              
+                              
+                              
+                              <width>169</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>175</height>
+                              
+                              
+                              
+                              <width>112</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>207 folios (+</p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>26 quires of mostly 8 leaves each, mostly marked by
+                                        catchwords at the end. </p>
+                        
+                        
+                        
+                        </collation>
+                        
+                        
+                        
+                        <condition>
+                           
+                           
+                           
+                           <p>Defective at the end.</p>
+                           
+                           
+                           
+                           <p>Lacuna after folio 160.
+                                    </p>
+                        
+                        
+                        
+                        </condition>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="1 " ruledLines="24" writtenLines="24">
+                           
+                           
+                           
+                           <p>Uniform
+                                        layout. </p>
+                           
+                           
+                           
+                           <p>Hair side and flesh side of folios
+                                        distinguishable. </p>
+                           
+                           
+                           
+                           <p>Visible ruling by hard point,
+                                        bifolium by bifolium on hair side; ruling by plummet on
+                                        other side of hard point.</p>
+                           
+                           
+                           
+                           <p>Visible quire by quire
+                                        pricking, double for major lines, in outer margins only.
+                                        </p>
+                           
+                           
+                           
+                           <p>Graphic filler at the end of line. </p>
+                           
+                           
+                           
+                           <p>Occasional
+                                        infra-linear vocalization. </p>
+                           
+                           
+                           
+                           <p>Last written line within
+                                        ruling. </p>
+                           
+                           
+                           
+                           <p>Initial words, headings and parts of text in
+                                        larger square characters. </p>
+                           
+                           
+                           
+                           <p>Marginal
+                                    notes.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="2">
+                     
+                     
+                     
+                     <summary>Ashkenazi (French) square script of the 12th century. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major">
+                        
+                        
+                        
+                        <p>
+                           
+                           
+                           
+                           <locus from="161" to="166"/>,
+                                    written in Oriental semi-cursive script.</p>
+                     
+                     
+                     
+                     </handNote>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding contemporary="inapplicable">
+                        
+                        
+                        
+                        <p>BM in-house. </p>
+                        
+                        
+                        
+                        <p>Spine title: 'Menachem ben Saruk. Machbereth. Hebrew. Arund. Or.
+                                    51.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate when-custom="4949" calendar="Hebrew" when="1189">1189
+                                (4949)</origDate>
+                     
+                     
+                     
+                     <origPlace>France</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance>
+                     
+                     
+                     
+                     <p>
+                        
+                        
+                        
+                        <name type="person" role="owner">Yedidyah bar Mosheh</name>:
+                                inscribed, folio 2r. </p>
+                     
+                     
+                     
+                     <p>Folio 2r: a stamp of "Soc. Reg. Lond. ex
+                                dono Henry Howard Norfolciensis" (<name type="person" role="owner">Thomas Howard</name>, Earl of Arundel, Surrey, and Norfolk,
+                                having been the original owner of the Arundel Collection).
+                            </p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1831</date>
+                     
+                     
+                     
+                     <p>Purchased by the British Museum from the
+                                Royal Society together with 549 other Arundel manuscripts in
+                                1831.</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue
+                                    of the Hebrew and Samaritan Manuscripts in the British Museum,
+                                    London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 951.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="submitted">
+         
+         
+         
+         <change when="2015-08-13">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

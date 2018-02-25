@@ -1,0 +1,169 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-19</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2364" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2364</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentatuech and Hafṭarot, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan is prefixed. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="288v"/>
+							<title xml:lang="he-Latn-x-lc">Torah </title>
+							<title xml:lang="he">תורה </title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+							<decoNote type="other">Numerous examples of micrographic masorah.<locus n="73r, 73v,182v, 183r, 183v, 184r"/>
+							</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="19v"/>
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan</title>
+								<note>
+									<p>Imperfect at the beginning. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="19v" to="61r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61r" to="96r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Leviticus</title>
+								<locus from="96r" to="120r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Numbers</title>
+								<locus from="120r" to="154v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Deuteronomy</title>
+								<locus from="154v" to="186v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="186v" to="288v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+								<note>
+									<p>Imperfect at the beginning. </p>
+									<p>Hafṭarot are accompanied by the Targum provided with the simple superlinear punctuation. </p>
+								</note>
+								<incipit xml:lang="he">בעזרת האל הגדול הגבור והנורא אתחיל לכתוב הפטריות התורה.<locus n="186v"/>
+								</incipit>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the second part of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>288 folios<dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>250</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>288 folios (+ 1 unfoliated flyleaf at the beginning and 2 unfoliated flyleaves at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>i6; ii12; iii-xviii10; xix7; xx-xxx10; xxxi3. </p>
+									<p>Some quires are marked with a catchword at the end; several quires signed with Hebrew letters at the beginning and at the end. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="22" writtenLines="22">
+									<p>The beginning of the first few pericopes is marked by the letter samekh in the margin. </p>
+									<p>Each pericope is divided into 7 sections numbered with Hebrew letters in the margin or in the text itself. </p>
+									<p>An open section is generally distinguished by a blank line. </p>
+									<p>Masorah magna usually occupies two lines in the upper and two lines in the lower margin. </p>
+									<p>In the Hafṭarot the upper and lower margin is occupied by midrashic comments in Hebrew and partly in Arabic (in Hebrew characters). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square and semi-cursive script, punctuated, of the second part of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Numerous examples of micrographic masorah. </summary>
+							<decoNote type="other">
+								<locus n="73r, 73v,182v, 183r, 183v, 184r "/>Numerous examples of micrographic masorah.</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p> 	Pre-1600. An original box tooled leather binding (the clasps and spine may be of a later date). </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1450" notAfter="1499"/>
+						<provenance>
+							<p>Yemen</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, <locus n="fse003v">[291v]</locus>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">91</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

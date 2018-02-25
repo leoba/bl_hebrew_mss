@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2402" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2402</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Proverbs.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="120v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Mishle</title>
+							<title xml:lang="he">פרוש משלי</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>The unpointed Hebrew text, accompanied by an Arabic translation, is embodied.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Wechsler_2003" type="page">283-310</ref>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">כמל שרח ספר משלי שלמה באלתמאם ואלכמאל וכאן אלפראג מן נקלה פי יום אלגמאה אלמבארך אך טוב וחסד ירדפוני ל<date when="1867" calendar="AM">ח' טבת [...] שנת ת'ר'כ'ז</date>' [...] לפ"ק פה בעיר <name type="place">מצרים </name>יע"א על ידי הכותב והסופר הצ' [...] מתושבי ציון [...] <name type="person" role="scribe">משה הלוי</name> יר"ו המתחזן פה בקהל מצרים היו בלאאו"ר [...] אברהם הלוי [...] הרופא המובהק [...] בלאאו"ר [...] משה הלוי [...] בלאאו"ר [...] שמואל הלוי [...] והוא היה מתושבי עיר דמשק יע"א ואח"כ בא הוא ובניו וכל משפחתו ונתישב בארץ הקדושה בירושתו זצ"ל בלאאו"ר אברהם הלוי [...] בלאאו"ר אליהו הלוי [...] מתושבי דמשק יע"א הקב"ה יזכני להגות בו וגם יזכני להעתיק עוד ספרים ויצילני מצרתי וישיבני אל ארצי ואל מולדתי עיר הק' ירושת"ו וכו'   <locus n="187r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 19th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>190 folios<dimensions type="leaf" unit="mm">
+										<height>187</height>
+										<width>127</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>97</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>190 folios (+ 1 paper flyleaf at the beginning and at the end).</p>
+									<p>Folios 2-186 are numbered with Hebrew letters and Arabic numerals.</p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>One column of written text, of 21 lines each, a page. </p>
+									<p>Has a separate title-page. </p>
+									<p>Has a running title throughout the manuscript.</p>
+									<p>Catchwords on every folio.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square and semi-cursive script of the 19th century. <name type="person" role="scribe">Mosheh ben Avraham ha-Leṿi</name>, inscribed in the colophon, folio <locus n="187r"/>.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>There is a rhymed epigram concerning the doctirne of Islam on folio <locus n="190v"/>.</p>
+							<p>A list of Karaite doctors inscribed in a note, folio <locus n="188r-190r"/>, see <ref target="Margoliouth_1897"/>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, red leather bridge and marbled-paper covers.</p>
+								<p>Spine: 'Yefet. Comm. on Proverbs. Arabic. Brit. Mus. Oriental 2402.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]627" calendar="Hebrew" when="1867"/>
+						<provenance>
+							<p>
+								<name type="place">Egypt </name>(<name type="place">Cairo</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio <locus n="fse001v"> [191v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">292</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

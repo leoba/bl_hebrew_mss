@@ -1,0 +1,150 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2560" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2560</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An Arabic commentary on Numbers.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="96v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Be-midbar </title>
+							<title xml:lang="he">פרוש במדבר </title>
+							<note>
+								<p>Fragment of an Arabic commentary on Numbers 19:4-23:16. </p>
+								<p>Includes a translation of the Hebrew text, being probably part of the shorter recension of Abu al-Faraj Furḳan's Commentary on the Pentateuch. </p>
+								<p>The longer recension of the commentary is quoted on chapters 19:15, 16, 22 and 21:17, folios 34v, 37v, 42v, 62v.</p>
+								<p>Quotes several Karaite authorities.</p>
+								<p>The Arabic translation is arranged in the following sections: chapters 20:1-13, 14-21, 20:22-21:3, 21:4-20, 21:21-22:1, 22:2-23:12.</p>
+							</note>
+							<author key="http://viaf.org/viaf/58767269">
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="he-Latn-x-lc">Abu al-Faraj Furḳan, active 11th century </persName>
+								<persName key="http://viaf.org/viaf/58767269" xml:lang="he">ישועה בן יהודה  </persName>
+							</author>
+							<filiation>The translation of chapters 21:18-22, folios 57r &amp; 63v, agrees with Or 2491 (<ref target="Margoliouth_1965" type="number">93</ref>), folio 32r.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; a cursive Naskhi hand, of probably 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>96 folios<dimensions type="leaf" unit="mm">
+										<height>180</height>
+										<width>135/160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>95/110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>96 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally 11 quires of 10 leaves each, imperfect at the beginning and at the end. </p>
+									<p>Signatures in Arabic words on the left-hand upper corner of the first page of a quire. </p>
+									<p>The original numbering of quires 4-10 was 3-9. </p>
+								</collation>
+								<condition>Lacunae after folios: 12, 21, 31, 45, 48, 61, 115.<p>Imperfect at the beginning and at the end. Lacuna after folio 95. </p>
+									<p>Stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14 22" writtenLines="14 22">
+									<p>14 to 15 lines a page on folios 1-18 and 89-90, and 20 to 22 on folios 19-88. </p>
+									<p>Biblical text in Hebrew characters is embodied. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>A cursive Naskhi hand, of probably 13th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p>
+									<locus from="1r" to="18v"/>and <locus from="89r" to="96v"/>have been supplied by a different hand of about the same date.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Commentary on Numbers. Arabic. Brit. Mus. Oriental 2560.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[97v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">316</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

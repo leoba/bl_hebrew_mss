@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4536" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4536</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85116182" rend="visible">
+						<summary>Sabbathean writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="">
+							<locus from="1r" to="117v"/>
+							<title xml:lang="he-Latn-x-lc">Kovets</title>
+							<title xml:lang="he">קובץ</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/2363327">Nathan, of Gaza, 1643-1680</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/2363327">נתן בנימין, מעזה</persName>
+							</author>
+							<colophon xml:lang="he">תושלבע בשנת א'י'ת'ן' מושביך ושים בסלע קנך יום ג' ב"ך לחדש סיון.<locus n="17v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="12v"/>
+							<title xml:lang="he-Latn-x-lc">Derush ha-taninim</title>
+							<title xml:lang="he">דרוש התנינים</title>
+							<note>
+								<p>See <ref target="Scholem_Gaza_1944"/>
+								</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="13r" to="76v"/>
+							<title xml:lang="he-Latn-x-lc">Zamir ῾aritsim ya῾aneh</title>
+							<title xml:lang="he"> 	זמיר עריצים יענה</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="77r" to="117r"/>
+							<title xml:lang="he-Latn-x-lc">Ḥibur</title>
+							<title xml:lang="he">חבור (חלק)</title>
+							<note>
+								<p>A treatise without a title, but apparently by the same author, on the development of the worlds from En Sof.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>117 folios<dimensions type="leaf" unit="mm">
+										<height>216</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>117 folios (+ 4 unfoliated paper flyleaf at the beginning and 5 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>Paper darkening at edges and foxing.
+</p>
+									<p>Ink flaking, and text area often brown all over.
+</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="31" writtenLines="31">
+									<p>Uniform layout.</p>
+									<p>Initial words in larger square characters.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Catchwords on every page.</p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600 (contemporary with the manuscript). Dark red leather with gold tooling. Boxed.</p>
+								<p>Spine: 'Derush Hat-Tanninim. Etc. Hebrew. Brit. Mus. Or. 4536.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5461" calendar="Hebrew" when="1701"/>
+						<provenance>
+							<p>Greece (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1892-01-11</date>
+							<p>
+								<name type="person" role="owner">M. Herz</name>: purchased from him by the British Museum on 11 January 1892: inscribed, folio [121v] (fse004v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">856</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-01-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

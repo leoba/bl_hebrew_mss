@@ -1,0 +1,203 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2215" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2215</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-gadol on Leviticus, attributed to David Adani.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="187v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-gadol </title>
+							<title xml:lang="he">מדרש הגדול </title>
+							<note>
+								<p>Many marginal notes.</p>
+							</note>
+							<author key="http://viaf.org/viaf/19572491">
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="en">Adani, David ben Amram, active 13th century-14th century</persName>
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="he">העדני, דוד בן עמרם</persName>
+							</author>
+							<colophon xml:lang="he">נשלם <date when="1601" calendar="Seleucid">בחמשה בשבא דהוא שבעת עסר יומין בירח אדר שני של שנת א'ת'ת'ק'י'ב' שנין לשטרו'</date> והכותב קל הקלים <name type="person" role="scribe">זכריה בן אברהם בן זכריה</name> [...] אלמסורי' והקורא בו ידון אותי לכף זכות:<locus n="185v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="3r" to="31r"/>
+								<title xml:lang="en">Midrash on Ṿa-yiḳra</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="31r" to="48v"/>
+								<title xml:lang="en">Midrash on Tsaṿ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="48v" to="69v"/>
+								<title xml:lang="en">Midrash on Shemini</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="69v" to="87r"/>
+								<title xml:lang="en">Midrash on Tazri῾a</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="87r" to="108v"/>
+								<title xml:lang="en">Midrash on Metsora῾</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108v" to="127r"/>
+								<title xml:lang="en">Midrash on Aḥare mot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="127r" to="138v"/>
+								<title xml:lang="en">Midrash on Ḳedoshim</title>
+								<note>
+									<p>A leaf is missing after folio 130.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="138v" to="162v"/>
+								<title xml:lang="en">Midrash on Emor</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="162v" to="173r"/>
+								<title xml:lang="en">Midrash on Be-har</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="173r" to="185v"/>
+								<title xml:lang="en">Midrash on Be-ḥuḳotai</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of early 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>187 folios<dimensions type="leaf" unit="mm">
+										<height>305</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>187 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+								</collation>
+								<condition>
+									<p>One leaf missing after folio 130 and 168 respectively. </p>
+									<p>Folio 3 is a recent restoration. </p>
+									<p>Folios 1-2 and 186-187 are vellum.</p>
+									<p>Several pages water-damaged. </p>
+									<p>First few leaves damaged, preserved on paper. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="34" writtenLines="34">
+									<p>Some marginal notes and additions. </p>
+									<p>Hard-point ruling visible. </p>
+									<p>Catchwords on every verso, partly preserved. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script of early 17th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="2v"/>and <locus from="186r" to="187v"/>due to a different hand, written on vellum.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 1r-2v, 186r-187vand contain Deuteronomy, chapters 13:7-18, 15:13-16:15, 30:20-31:10: Hebrew text with the sublinear punctuation, Targum with the simple superlinear puntuation, and <name type="person" role="author">Sa'adia Gaon</name>'s Arabic version in Hebrew characters. Has masorah magna and parva.</p>
+							<p>
+								<name type="person" role="owner">Daṿid ben Sa῾id</name>: stamped, folio 109v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash Haggadol. Leviticus. Hebrew. Brit. Mus. Oriental 2215.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1601" when-custom="1912" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1879-12-13</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio <locus n="fse001v">[188v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">352</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

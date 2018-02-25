@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2553" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2553</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali ha-Levi on the book of Proverbs. </summary>
+						<textLang mainLang="ara" otherLangs="he">Hebrew, Arabic </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="132v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Mishle </title>
+							<title xml:lang="he">פרוש משלי</title>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century  </persName>
+								<persName key="http://viaf.org/viaf/54984961" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<note>
+								<p>Contains the Hebrew biblical text, written in Arabic characters and provided with vowel-points and accents in red ink, and accompanied by Yefet's Arabic translation and commentary. </p>
+								<p>Comments on chapters: 2:1-3:5, 3:13-18, 22-32, 4:1-19, 23-27, 7:1-8:9, 8:32-9:5, 10:1-4, 8-20, 25-28, 11:5-7, 12-26, 12:5-13:7, 13:11-14:16, 14:24-15:22, 16:3-5, 12-26, 27-31, 17:5-6, 15-16, 24-26, 18:2-19:3, 19:7-15, 20-29, 20:12-28, 21:8-21, 22:5-24:14, 27:8-20, 29:11-23, 31:1-29. </p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Wechsler_2003" type="page">283-310</ref>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>132 folios<dimensions type="leaf" unit="mm">
+										<height>199</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170</height>
+										<width>130/135</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>132 folios (+ 1 paper flyleaf at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally quires of mostly 10 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Slightly worm-eaten. </p>
+									<p>Many leaves partially damaged. </p>
+									<p>Stained.  </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14 15" writtenLines="14 15">
+									<p>The Hebrew text in Arabic characters is embodied. </p>
+									<p>The Hebrew accentuation and punctuation is given in red ink. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>A Naskhi hand of the 11th century.</summary>
+							<handNote script="Arabic" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Proverbs. Yefet's Commentary. Hebrew &amp; Arabic. Oriental 2553.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1099"/>
+						<provenance>
+							<p>
+								<name type="place">Egypt </name>(<name type="place">Cairo</name>)?</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[133v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">294</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19970" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19970</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A commentary on the Pentateuch of Meyuḥas ben Eliyah.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="2r" to="257v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פירוש התורה</title>
+							<note>
+								<p>This commentary is of mainly grammatical and less frequently of legal character. </p>
+								<p>Several commentators of the Bible and other rabinnic authorities, up until the 12th century, are quoted.</p>
+							</note>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Meyuḥas ben Eliyahu</persName>
+								<persName xml:lang="he">מיוחס בן אליהו</persName>
+							</author>
+							<colophon xml:lang="he">נשלם זה הספר הנחמד שחיברו ר' <name type="person" role="author">מיוחס ב"ר אליהו</name> ז"ל על ידי <name type="person" role="scribe">אליהו ב"ר אלקנה מניקופולי</name> בשנת ה&apos; אלפי&apos; ורכ&quot;ט ליצירה לחדש ניסן בט&apos; בו. והש' יזכנו ויחיש גאולתינו. ובימינו יבוא משיחנו. ונראה ונשמח כולנו. ונאמר הנה אלהינו זה קוינו לו ויושיענו זה ה' קוינו לו נגילה ונשמחה בישועתו אאאנ"ס.<locus n="257v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="2r"/>
+								<title xml:lang="en">Introduction</title>
+								<incipit xml:lang="he">עיין בהקדמה זו ואל תיפן אל און כי על זה בחרת מעני:<locus n="1v"/>
+								</incipit>
+							</msItem>
+							<msItem rend="v">
+								<locus from="2r" to="33v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="33v" to="86v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="86v" to="167r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="167r" to="205r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="205r" to="257v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper and vellum codex, Oriental (Byzantine) semi-cursive script, unpunctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Paper and parchment codex</support>
+								<extent rend="visible">257 folios <dimensions unit="mm" type="leaf">
+										<height>261</height>
+										<width>197</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>212</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>257 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>13 quires of 20 leaves each, apart from the last which has only 17 leaves.</p>
+									<p>Each verso had been signed but the margins were cut off.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="33" writtenLines="33">
+									<p>Watermarks in the shape of scale similar to Briquet no. 2444 (see volume I of <ref target="Briquet_1968" type="page">183</ref>), dated 1469, Venezia. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental (Byzantine) semi-cursive script, unpunctuated.<name type="person" role="scribe"> Eliyahu ben Elḳanah of Nikopolis</name>: inscribed in the colophon, folio 257v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>  	Post-1600. Solid black leather binding.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5229" calendar="Hebrew" when="1469"/>
+						<provenance>
+							<p>
+								<name type="place">Byzantium</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1854-10-14</date>
+							<p>
+								<name type="person" role="owner">M. Netter</name>: purchased from him on <date calendar="Gregorian">14 October 1854</date>, inscribed (folio [258v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">201</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

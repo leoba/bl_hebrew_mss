@@ -1,0 +1,312 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-27</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2091" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2091</idno>
+					</msIdentifier>
+					<head>Prophets and Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008477  lccn.loc.gov/n80008481" rend="visible">
+						<summary>Former and Latter Prophets and Hagiographa, punctuated and accentuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477  lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im u-Khetuvim </title>
+							<title xml:lang="he">נביאים וכתובים </title>
+							<locus from="1r" to="424v"/>
+							<listBibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">304</ref>
+								</bibl>
+								<bibl>
+									<ref target="Berliner_1891" type="page">153</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">133-135</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">106</ref>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>Originally part of a complete Bible.</p>
+								<p>An image of the fore-edge is displayed as folio i recto.</p>
+							</note>
+							<quote xml:lang="he">ברוך נותן ליעף כח חזק ונתחזק הסופר לא יזק.<locus n="424r"/>
+							</quote>
+							<decoNote type="marginal">30 micrographic designs at the beginning of chapters. <locus n="1r, 20r, 38v, 84r, 132r, 172v, 203r, 239r, 243v, 245r, 249v, 250r, 251r, 254r, 255r, 256v, 258r, 259v, 265v, 268r, 270v, 309r, 324r, 335v, 338r, 343r, 345v, 352r, 363r, 380r"/>
+							</decoNote>
+							<decoNote type="paratext">Carmina figurata on several folios. <locus n="130v, 131r, 131v, 350v, 351r, 351v"/>
+							</decoNote>
+							<decoNote type="marginal">Catchwords enclosed within pen and ink drawings of figures, usually animals.</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="20r"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Judges</title>
+								<locus from="20r" to="38v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Samuel</title>
+								<locus from="38v" to="84r"/>
+								<note>
+									<p>2Samuel starts on folio 63v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="84r" to="131v"/>
+								<note>
+									<p>2Kings starts on folio 108v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="132r" to="172v"/>
+								<title xml:lang="en">Jeremiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="172v" to="203r"/>
+								<title xml:lang="en">Isaiah</title>
+								<note>
+									<p>Missing chapters: 38:9-42:4.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="203r" to="238v"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="239r" to="243v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="243v" to="245r"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="245r" to="249v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="249v" to="250r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="250r" to="251r"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="251r" to="254r"/>
+								<title xml:lang="en">Micah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="254r" to="255r"/>
+								<title xml:lang="en">Nahum</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="255r" to="256v"/>
+								<title xml:lang="en">Habakuk</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="256v" to="258r"/>
+								<title xml:lang="en">Zephaniah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="258r" to="259v"/>
+								<title xml:lang="en">Haggai</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="259v" to="265v"/>
+								<title xml:lang="en">Zechariah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="265v" to="268r"/>
+								<title xml:lang="en">Malachi</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="268r" to="270v"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="270v" to="309r"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="309r" to="324r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="324r" to="335v"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="335v" to="338r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="338r" to="343r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="343r" to="345v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="345v" to="352r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="352r" to="363r"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="363r" to="380v"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 370v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="380v" to="423v"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles starts on folio 399v.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 2nd half of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>424 folios<dimensions unit="mm" type="leaf">
+										<height>340</height>
+										<width>310</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>260/245</height>
+										<width>210</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>424 folios (the upper and the lower inside covers are parchment leaves with Latin text).</p>
+								</foliation>
+								<collation>
+									<p>53 quires: i8+1 (folios 1-9), ii8 (folios 10-17), iii8 (folios18-25), iv8 (folios 26-33), v8 (folios 34-41), vi8 (folios 42-49), vii8 (folios 50-57), viii8 (folios 58-65), ix8 (folios 66-73), x8 (folios 74-81), xi8 (folios 82-89), xii8 (folios 90-97), xiii8 (folios 98-105), xiv8 (folios 106-113), xv8 (folios 114-121), xvi10 (folios 122-131), xvii8 (folios 132-139), xviii8 (folios 140-147), xix8 (folios 148-155), xx8 (folios 156-163), xxi8 (folios 164-171), xxii8 (folios 172-179), xxiii8 (folios 180-187), xxiv8-2 (folios 188-193), xxv8 (folios 194-201), xxvi8 (folios 202-209), xxvii8 (folios 210-217), xxviii8 (folios 218-225), xxix8 (folios 226-233), xxx8 (folios 234-241), xxxi8 (folios 242-249), xxxii8 (folios 250-257), xxxiii8 (folios 258-265), xxxiv10 (folios 266-275), xxxv8 (folios 276-283), xxxvi8 (folios 284-291), xxxvii8 (folios 292-299), xxxviii8 (folios 300-307), xxxix8 (folios 308-315), xl8 (folios 316-323), xli8 (folios 324-331), xlii8 (folios 332-339), xliii8 (folios 340-347), xliv12 (folios 348-359), xlv8 (folios 360-367), xlvi8 (folios 368-375), xlvii8 (folios 376-383), xlviii8 (folios 384-391), xlix8 (folios 392-399), l8 (folios 400-407), li8 (folios 408-415), lii6-3 (folios 416-418), liii6 (folios 419-424). </p>
+									<p>Catchwords on the last page of the quire.</p>
+								</collation>
+								<condition>
+									<p>Lacuna after folio 190 due to a missing bifolio from the middle of quire xxiv (the missing text: Isaiah 38:9-42:4).</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="28" writtenLines="27">
+									<p>Uniform layout. </p>
+									<p>Judges, Ezekiel, Obadiah and Nahum commence a new column; Jeremiah, Hosea, Ruth and Daniel open a new leaf. </p>
+									<p>The first word of each book is written in large ornamental characters. </p>
+									<p>At the beginning of different books the masorah is written in ornamental designs. </p>
+									<p>The catchwords are enclosed within a pen and ink design. </p>
+									<p>The running titles of the books are written in cursive German characters in the upper left corner of the recto of each book. </p>
+									<p>The leaves are numbered with ordinary ciphers in the lower right-hand corner of each verso and the Latin titles of the books and the numbers of the chapters are written at the foot of each recto. </p>
+									<p>In the text, the chapters are numbered with ciphers throughout the whole manuscript. </p>
+									<p>Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, main text is punctuated, masorah is unpunctuated. The 2nd half of the 13th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>30 micrographic designs at the beginning of chapters. Carmina figurata on several folios. Catchwords enclosed within pen and ink drawings of figures, usually animals.</summary>
+							<decoNote type="paratext">
+								<locus n="1r, 20r, 38v, 84r, 132r, 172v, 203r, 239r, 243v, 245r, 249v, 250r, 251r, 254r, 255r, 256v, 258r, 259v, 265v, 268r, 270v, 309r, 324r, 335v, 338r, 343r, 345v, 352r, 363r, 380r"/>30 micrographic designs at the beginning of chapters.</decoNote>
+							<decoNote type="paratext">
+								<locus n="130v, 131r, 131v, 350v, 351r, 351v"/>Carmina figurata on several folios.</decoNote>
+							<decoNote type="paratext">Catchwords enclosed within pen and ink drawings of figures, usually animals.</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Notes in Latin with some Greek on the content (early modern) (folio 424v).  </p>
+							<p>Small pieces of leather are glued to the parchment to mark the beginning of each biblical book. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600 (dated: <date calendar="Gregorian">1524</date>). </p>
+								<p>Stamped vellum over wooden boards, with brass clasps, corners, and bosses.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1250" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1879</date>
+							<p>Purchased by the British Museum in 1879.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">117</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">106</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

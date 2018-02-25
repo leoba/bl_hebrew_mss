@@ -1,0 +1,175 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-03-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6307" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6307</idno>
+					</msIdentifier>
+					<head>Kabbalistic collectaneum</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Collection of kabbalistic texts.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="107v"/>
+							<textLang mainLang="he"/>
+							<title xml:lang="he-Latn-x-lc">Perush Sefer yetsirah</title>
+							<title xml:lang="he">פירוש ספר יצירה</title>
+							<note>
+								<p>This manuscript was copied from Ms Oxford-Bodleian <ref target="Neubauer_1994" type="number">2250</ref> in 1902 by Menasseh Grossberg.</p>
+								<p>The text of the original manuscript was itself copied from Ms. Cambridge-Harvard 38, 34447, by Yehoshuah Heshel Shor, dated 5217 (1457).</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Vajda_2002"/>
+								</bibl>
+								<bibl>
+									<ref target="Mancuso_2010"/>
+								</bibl>
+								<bibl>
+									<ref target="Segol_2012"/>
+								</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/211875786">Dunash ibn Tamim, active 10th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/211875786">דונש בן תמים</persName>
+							</author>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="108r" to="123r"> </locus>
+							<title xml:lang="he-Latn-x-lc">Sefer yetsirah</title>
+							<title xml:lang="he">ספר יצירה</title>
+							<filiation>Copied from Ms Oxford-Bodleian <ref target="Neubauer_1891" type="page">2250</ref>.</filiation>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="123r" to="136v"/>
+							<title xml:lang="he">ספר המשאלה בקדרות הלבנה והשמש</title>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-mishʼalah be-ḳaderut ha-levanah ṿeha-shemesh</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/90633023">אבן עזרא, אברהם בן מאיר</persName>
+							</author>
+							<filiation>Copied from <ref target="Neubauer_1891" type="number">2023</ref> by Menaseh Grossberg in 1902.</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Yetsirah_1901"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; modern Hebrew cursive script.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Paper codex.</support>
+								<extent>136 folios<dimensions type="leaf" unit="mm">
+										<height>160</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>136 folios (+ 1 unfoliated flyleaf at the beginning and at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 7 leaves each.</p>
+									<p>Text written on recto side of leaves only.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 3" ruledLines="18" writtenLines="18"/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Modern Hebrew cursive script.</summary>
+							<handNote script="Hebrew" scope="major">
+								<locus from="1r" to="2r"/> Italian/Byzantine semi-cursive of approximately 15th century<locus from="2v" to="7r"/>Spanish semi-cursive of approximately 15th century<locus from="8r" to="61v"/>Italian/Byzantine semi-cursive of approximately 15th century</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house, blue blind-tooled binding.</p>
+								<p>Spine: 'Sefer Yesirah. Hebrew. Brit. Mus. Oriental 6307.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1902"/>
+						<provenance>
+							<p>
+								<name type="place">England </name>(<name type="place">Oxford</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Menasseh Grossberg</name>: brought from him by the British Museum on 11 February 1902, inscribed folio <locus n="fse001v"/>.</p>
+							<date>1902-02-11</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">734</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-03-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

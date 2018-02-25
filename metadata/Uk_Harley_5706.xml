@@ -1,0 +1,197 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5706" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5706</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Five Scrolls and Hafṭarot, provided with vowel-points, accents and masoretic notes.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="259v"/>
+							<title xml:lang="en">Torah, megilot ṿe-hafṭarot</title>
+							<title xml:lang="he">תורה, מגילות והפטרות</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>This manuscript has a significant number of omissions in the text, supplied in the margin, chiefly by later hands.</p>
+								<p>The whole book of Genesis is missing at the beginning of the manuscript.</p>
+								<p>Some masoretic notes are written on folio 11r in the lower margin, on a piece of vellum with which the manuscript had been mended (originally belonging to another codex). Compare volume 2 of <ref target="Ginsburg_1880" type="page">334-345</ref>.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="46v"/>
+								<title xml:lang="en">Exodus</title>
+								<note>
+									<p>Wanting chapters 1:1-6:22.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="46v" to="80r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80r" to="122r"/>
+								<title xml:lang="en">Numbers</title>
+								<note>
+									<p>Wanting chapters 4:23-8:20</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="122r" to="166r"/>
+								<title xml:lang="en">Deuteronomy</title>
+								<note>
+									<p>Folio 165v contains 2Chron. 24:5, 1Kings 8:27 and a numbers of single words and phrases from Genesis, chapters 19:16, 39:8, 19:6, 27:25 (v. 29) and Num. 32:42, all provided with vowel-points and accents in order to illustrate the use of accents and its names. Compare volume 1 of  <ref target="Ginsburg_1880" type="page">653</ref>.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="166r" to="175r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="175r" to="178v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="178v" to="182v"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="182v" to="187r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="187r" to="195v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="195v" to="259v"/>
+								<title xml:lang="en">Hafṭarot</title>
+								<note>
+									<p>Hafṭarot for Passover and Pentecost are accompanied with the pointed and accentuated Targum, starting on folio 224r.</p>
+								</note>
+								<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of approximately the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent rend="visible">259 folios <dimensions unit="mm" type="leaf">
+										<height>305</height>
+										<width>241</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>280</height>
+										<width>188</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>259 folios (+3 unfoliated paper flyleaves at the beginning and at the end of the manuscript).</p>
+								</foliation>
+								<collation>
+									<p>32 extant quires, mostly of 8 leaves, with a lacuna after folio 85 and folio 243; also imperfect at the beginning and at the end.</p>
+									<p>Quires are marked with catchwords on the last page.</p>
+								</collation>
+								<condition>
+									<p>Some leaves had been damaged and were later restored; some of the leaves bear stains.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="23" writtenLines="23">
+									<p>The main text is written in two columns, 23 lines a page.</p>
+									<p>Lamentations and Ecclesiastes begin a new column; Numbers, Deuteronomy and Song of Songs begin a new leaf. All other books open a new page.</p>
+									<p>In the Pentateuch the beginning of a new pericope is indicated by <quote>פפפ</quote> written within the column.</p>
+									<p>The centre-marks indicating the middle verse and the middle letter in the Pentateuch are on folios 53r, 57r</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Ashkenazi (French) square scrip of the 13th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+								<p>Spine: 'Pentateuchus. Etc. Hebraice. Brit. Mus. Harley 5706.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>?</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish</name>, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="scribe">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date> to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">72</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

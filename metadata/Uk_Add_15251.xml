@@ -1,0 +1,294 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-12</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_15251" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15251 </idno>
+					</msIdentifier>
+					<head>Tanakh</head>
+					<msContents class="lccn.loc.gov/n79054379" rend="visible">
+						<summary>The Bible with masorah magna and parva, aka 'Duke of Sussex's Italian Bible'.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+							<locus from="1r" to="448v"/>
+							<title xml:lang="he-Latn-x-lc">Tana&quot;kh</title>
+							<title xml:lang="he">תנ"ך</title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+							<decoNote type="miniature">Miniature in colours and gold.<locus n="183r"/>
+							</decoNote>
+							<decoNote type="initial">Decorated initial-word panels.<locus from="13r" to="416r"/>
+							</decoNote>
+							<decoNote type="border">Floral borders inhabited by animals, coloured.<locus from="49v" to="50r"/>
+							</decoNote>
+							<decoNote type="miniature">Miniature in colours and gold.<locus n="183r"/>
+							</decoNote>
+							<decoNote type="initial">Decorated initial-word panels.<locus from="13r" to="416r"/>
+							</decoNote>
+							<decoNote type="border">Floral borders inhabited by animals, coloured.<locus from="49v" to="50r"/>
+							</decoNote>
+							<colophon xml:lang="he">מצוה לכל עברי הקות עלי ספר תורת נביאינו מסיני מתנה: \  חזון נביאיו ומשא נשיאי עם רעו בעתותם עמו באמונה: \ התמיד קריאה בו חקור יסודותיו יומם וליל הגות מקרא והאזנה: \ עיון יוני מעליו מאד הרחק הביא בבית האל כלב מחיר וזונה: \ תודה לכל משכיל הלול וליודעי דת עונג למשכילים לחוקרים מנה: \ הוד למחוקק רב אלי מניעו חן דבר ונעשה צוה ונענה: \ שמואל בן השר כמ"ר [נתן נ"ע? ...] משה כתב ספרו דקדק בחקויו פשפש בנקודיו אמת כאיש בינה: \ <name type="person" role="scribe">עקריש ספרדי</name> עשה כאלה רבות חקק עלי קלף מקרא וגם משנה: \ זכות הנגיד הניעו במפעלו כושר הנענה עד הוא ובו ענה: \ יגדל שלמו עד הלד וצבא טוב יזכה כימי מועד ועת לחננה: \ בניו וגם זרועו אתו הן ישישו יראו פני גואל שוב האל ציונה: \ שלמה כתיבתו ב<date calendar="Hebrew">שנת אנשים חמשת אלפים מאתים ושמנה</date>:<locus n="429v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="12v"/>
+							<title xml:lang="en">Masoretic list</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="13r" to="41v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="41v" to="65v"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Leviticus</title>
+							<locus from="65v" to="81v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Numbers</title>
+							<locus from="81v" to="104r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Deuteronomy</title>
+							<locus from="104r" to="125r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joshua</title>
+							<locus from="125r" to="138v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="138v" to="151v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="151v" to="183r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="183r" to="216v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Isaiah</title>
+							<locus from="216v" to="239r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jeremiah</title>
+							<locus from="239r" to="268v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="268v" to="294r"/>
+							<title>Ezekiel</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Hosea</title>
+							<locus from="294r" to="297r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Joel</title>
+							<locus from="297r" to="298v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="298v" to="301r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Obadiah</title>
+							<locus from="301r" to="301v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Jonah</title>
+							<locus from="301v" to="302v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Micah</title>
+							<locus from="302v" to="304v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Nahum</title>
+							<locus from="304v" to="305v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Habakuk</title>
+							<locus from="305v" to="306v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zephaniah</title>
+							<locus from="306v" to="307v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Haggai</title>
+							<locus from="307v" to="308r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Zechariah</title>
+							<locus from="308r" to="312v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Malachi</title>
+							<locus from="312v" to="313v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Chronicles</title>
+							<locus from="313v" to="347r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Psalms</title>
+							<locus from="347r" to="375r"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Job</title>
+							<locus from="375r" to="386r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="386r" to="394v"/>
+							<title xml:lang="en">Proverbs</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Ruth</title>
+							<locus from="394v" to="398r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="398r" to="396v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="396v" to="404r"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Esther</title>
+							<locus from="404r" to="408r"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="408r" to="416r"/>
+							<title xml:lang="en">Daniel</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="416r" to="430r"/>
+							<title xml:lang="en">Ezra</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Masoretic lists</title>
+							<locus from="430r" to="448r"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex with text written in two columns and masoretic notes in upper and lower margins, as well as on the side margins. Main text in Sefardi square script, masoretic text in Sefardi semi-cursive.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>448 folios<dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>180/185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>115</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>448 folios (+ 2 unfoliated parchment flyleaves at the beginning and at the end).</p>
+									<p>Unfoliated blank leaves after folio 12 and 448.
+Hebrew foliation from folio 13 starting with alef, that is, 1 until folio 124 (Hebrew folio 113). Hebrew foliation restarts on folio 125.
+</p>
+								</foliation>
+								<collation>
+									<p>46 quires: i10 (folios 1-10), ii4 (folios 11-12b), iii-xii10 (folios 13-112), xiii12 (folios 113-124), xiv-xlii10 (folios 125-414), xliii8 (folios 415-422), xliv-10 (folios 423-432), xlveleven (folios 433-443), xlvisix (folios 444-[449]).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="31" writtenLines="31">
+									<p>Uniform layout.</p>
+									<p>Masorah magna in two lines of the upper and three lines of the lower margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Sefardi square script, punctuated, of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major"><name type="person" role="scribe">Mosheh Aḳrish</name>: inscribed with his name in the colophon, 1448 or 1498 (folio 429v: date in the colophon has been partially erased and rewritten. Originally it may have been 5258, that is 1498, and not 5208, that is, 1448.)</handNote>
+						</handDesc>
+						<additions>
+							<p>The margin of folios 2v-10r and 430v embodies the Song of Songs, Ruth, Psalms 1-5 and the beginnings of Psalm 89. </p>
+							<p>
+								<name type="person" role="owner">Samuel ben ...</name>: inscribed with his name in the colophon as a later correction (folio 429v). See comment in the sale catalogue of Bibliotheca Sussexiana, <ref target="Pettigrew_1827"/>, according to which this manuscript &apos;has been taken out of the Vatican by Junot.&apos; </p>
+							<p>
+								<name type="person" role="owner">The Reverand Theodore Williams of Hendon</name>, c. 1824: his motto Deus alit me (&apos;God sustains me&apos;) above his armorial shield of a fess, 3 crescents, 3 birds, and a bird on top of the shield ([i verso]), and the monogram &apos;TW&apos;, and the motto ([i verso]). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red morocco binding with gauffered edges, the arms and motto of <name type="person" role="owner">Theodore Williams</name> on the upper and lower covers.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5208" calendar="Hebrew" when="1448">Year not clear, either 1448 or 1498.</origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>, N. E. (<name type="place">Ferrara</name>?)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick</name> (b. 1773, d. 1843), Duke of Sussex: his armorial book-plate, inscribed (folio 451v); his sale <date calendar="Gregorian">31 July 1844</date>, lot 102: inscribed (folio 449v), purchased by the British Museum through <name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849), for £34.10.
+</p>
+							<date>1844-07-31</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">61</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

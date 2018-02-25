@@ -1,0 +1,163 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-21</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27061" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27061</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A commentary on Tiḳune Zohar.</summary>
+						<textLang mainLang="he">Aramaic of the Zohar</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="242v"/>
+							<title xml:lang="he-Latn-x-lc">Or yaḳar (Tiḳune Zohar)</title>
+							<title xml:lang="he">אור יקר (תקוני הזהר)</title>
+							<note>
+								<p>The volume is uniform with Add MS 27060 and begins where the other broke off, containing gates 6-10 of Bava ḳama.</p>
+								<p>Notes on the subjects treated in the volume are found on folio 2r.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/12317536">Cordovero, Moses ben Jacob, 1522-1570</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/12317536">קורדוברו, משה, 1522-1570</persName>
+							</author>
+							<colophon xml:lang="he">שלם ע"י הצעיר <name type="person" role="scribe">יעק[ב] בכמ"ר מרדכי</name> היום יום ד ט"ו לחדש אדר ראשון שנת <date calendar="Hebrew">השמ"ב</date> ליצירה.<locus n="242r"/>
+							</colophon>
+							<listBibl>
+								<bibl>
+									<ref target="Tikune_Zohar_1867"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the second half of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>242 folios<dimensions type="leaf" unit="mm">
+										<height>320</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>242 folios (+ 1 unfoliated paper flyleaf at the beginning and 14 at the end). Folios 1-9 are paper flyleaves.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Original Hebrew foliation, from folio 10 onwards, extends from no. 283 to 515 (continuing the foliation of Add MS 27060).</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="40" writtenLines="40">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Initial words in larger square characters.</p>
+									<p>Running titles.</p>
+									<p>A number of marginal notes and comments.</p>
+									<p>Folio 1-9 left blank.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script (for the main text and for the commentary) of the second half of the 16th century. <name type="person" role="scribe">Ya῾aḳov ben Mordekhai Pogeṭṭi</name>: inscribed in the colophon, folio 242r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Censored by <name type="person" role="censor">Boniforte del Asinary</name>: Italian censor (active 1575-1599 in Asti): inscribed with his name: 'Visto et coretto per me Boniforte del Asinary' (folio 242r); see <ref target="Popper_1969" type="number">V</ref>.</p>
+							<p>Censored by <name type="person" role="censor">Hieronimus Carolus</name>: inscribed with his name: 'Inqu. Asti. Die 19 Febr. 1582'  (folio 242r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Dark red leather, blind tooled, with marks of clasps. Boxed.</p>
+								<p>Spine: 'Moses Cordovero. Or Yakar. Hebrew. Brit. Mus. Additional 27,061.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]342" when="1582" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Asti</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 166: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [243v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">782</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-21">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,210 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5773" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5773</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Hafṭarot and Five Scrolls, provided with punctuation, accents, masorah magna and parva. Aka the 'London Catalan Pentateuch'.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="248v"/>
+							<title xml:lang="en">Torah, megilot ṿe-hafṭarot</title>
+							<title xml:lang="he">תורה, מגילות  והפטרות </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>Masoretic rubrics registering the numbers of verses, centre-mark, number of pericopes and sedarim, are found at the end of the last four books of the Pentateuch. A similar rubric for the whole Pentateuch is given at the end of Deuteronomy.</p>
+							</note>
+							<decoNote type="paratext">Numerous micrographical designs. </decoNote>
+							<decoNote type="marginal">Numerous decorated parashah signs, in ink.</decoNote>
+							<decoNote type="illustration">
+								<locus n="1r"/>Pen-drawing of a castle (on a doodle-page).</decoNote>
+							<filiation>The mansucript is considered to be the first volume of the series completed by Harley 5574 and Harley 5575, <ref target="Margoliouth_1965" type="number">121</ref>, which are similar, though not identical in style of writing.</filiation>
+							<msItem rend="v">
+								<locus from="1v" to="42v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="42v" to="80r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80r" to="106r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="106r" to="141r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="141r" to="172r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="172r" to="225r"/>
+								<title xml:lang="en">Hafṭarot  </title>
+								<note>
+									<p>Contains Hafṭarot for the whole year.</p>
+									<p>The Hafṭarah for the pericope ויהי ביום is placed last, with the following note at the end: <q>בעבור ששכחתי מלכתוב אותה במקומה כתכתיה כאן</q>.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="225r" to="227v"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="227v" to="230r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="230r" to="236r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="236r" to="239v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="239v" to="248v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of late 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent rend="visible">248 folios<dimensions unit="mm" type="leaf">
+										<height>220</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>248 folios (+ 2 unfoliated modern paper flyleaves and 2 foliated older paper flyleaves [folios 1* and 2*] at the beginning and 2 unfoliated older flyleaves and 2 unfoliated modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>32 quires: i-xv8 (folios 1-120), xvi10+2 (folios 121-132), xvii10 (folios 133-142), xviii-xx10 (folios 143-162), xxi-xxiii6 (folios 163-172), xxiv9 (folios 179-187), xxv10-2 (folios 188-195), xxvi8 (folios 196-203), xxvii-xxxi8 (folios 204-243), xxxii5 (folios 244-248).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="25" writtenLines="25">
+									<p>Watermark, folios [249] and [250], of a fleur-de-lis in a crowned coat of arms and with the monogram 'WR', similar to <ref target="Heawood_1950" type="number">1784</ref>.
+</p>
+									<p>2 unfoliated blank leaves after folio 171.
+</p>
+									<p>Ruling with hard point and sometimes pricking are visible.</p>
+									<p>The masorah (only in the Pentateuch) occupies two lines in the upper and three lines in the lower margin.</p>
+									<p>In the Pentateuch a new pericope is marked by פרש' sometimes decorated in pen and ink.</p>
+									<p>Ornamental חזק written at the end of Genesis.</p>
+									<p>Leviticus and Esther begin a new column, and the Hafṭarot open a new leaf.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Sefardi square script, punctuated, of the last quarter of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Numerous micrographical designs. Numerous decorated parashah signs, in ink. Pen drawing of a castle.</summary>
+							<decoNote type="paratext">Numerous micrographical designs. </decoNote>
+							<decoNote type="marginal">Numerous decorated parashah signs, in ink.</decoNote>
+							<decoNote type="illustration">
+								<locus n="1"/>Pen-drawing of a castle.</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Italian inscription stating that this is the first volume of a three-volume Bible and that it was written in 'Castion' in mese Elul in anno <date calendar="Hebrew">5105 </date> (<date calendar="Gregorian">1345</date>) e la scrittura di Ezra figlio di Jacob Adorat (these data correspond with the colophon in Harley 5775, <ref target="Margoliouth_1965" type="number">121</ref>,([2v]). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. 'Harleian' binding of black buckram.</p>
+								<p>Boxed.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1375" notAfter="1399"/>
+						<provenance>
+							<p>Spain, N. E. (<name type="place">Catalonia</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>
+								<name type="person" role="owner">John Covel</name> (b. 1638, d. 1722), chaplain to the Levant Company at <name type="place">Constantinople</name>: in his collection (no. VIII.): inscribed (<locus n="fs003r">[1r]</locus>). His manuscripts were acquired for the Harley Collection for £300 in 1716; Latin inscription: <q>de accurate Bibliorum Hebrais</q>. .. (18th century?).
+</p>
+							<p>
+								<name type="person" role="owner">Edward Harley</name>: bought by him together with Covel's other manuscripts, for £300 on <date calendar="Gregorian">27 February 1715/6</date> (<ref target="Wright_1972"/>). The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">76</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

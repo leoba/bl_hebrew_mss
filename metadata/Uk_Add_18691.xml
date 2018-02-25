@@ -1,0 +1,204 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18691" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18691</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A daily prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="278v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סדור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="43r"/>
+							<title xml:lang="en">Services for week-days</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="43r" to="81r"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="81r" to="96r"/>
+							<title xml:lang="en">Special portions for Rosh ḥodesh</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="96r" to="133r"/>
+							<title xml:lang="en">Services for Pesaḥ</title>
+							<note>
+								<p>Poetical pieces after the Hagadah are the same as in Add MS 26968, with one new addition.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="133r" to="155r"/>
+							<title xml:lang="he-Latn-x-lc">Pirḳe avot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="155r" to="160v"/>
+							<title xml:lang="en">Services for Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="160v" to="185r"/>
+							<title xml:lang="en">Special portions for Ta῾anit and Tish῾ah be-Av</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="185r" to="207v"/>
+							<title xml:lang="en">Services for Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="207v" to="226v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>Ṿiduy, folio 223v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="226v" to="262r"/>
+							<title xml:lang="en">Services for Sukot</title>
+							<note>
+								<p>Hosh῾anot, cf Add. 26968, <ref target="Margoliouth_1965" type="number">616</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="262r" to="272v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan ta῾anit</title>
+							<note>
+								<p>Includes a series of seliḥot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="272v" to="278v"/>
+							<title xml:lang="en">Additional pieces</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>278 folios <dimensions unit="mm" type="leaf">
+										<height>160</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>105</height>
+										<width>65</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>278 folios (+ 1 unfoliated modern paper flyleaf at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Lacuna after folio 154.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16" writtenLines="16">
+									<p>Uniform layout.</p>
+									<p>Visible plummet ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive scripts of the 15th century. Partially punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>A note of ownership of the Supino family (Mishpaḥat bet ha-ne῾arim Supino): folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Siddur. Daily prayers. Italian Rite. Hebrew. Brit. Mus. Additional 18,691.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): purchased from him on 24 May 1851: inscribed, [279v].</p>
+							<date>1851-05-24</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">619</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

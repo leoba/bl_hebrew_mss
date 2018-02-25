@@ -1,0 +1,158 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26997" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26997</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A commentary on the part of the Zohar (Idra raba).</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Sefer Ḳol be-ramah</title>
+							<title xml:lang="he">ספר קול ברמה</title>
+							<note>
+								<p>Contains the commentary on Idra raba (part of the Zohar) based on comments of Isaac Luria, with additions by Ḥayim Vital, Benyamin ha-Kohen and others, and edited by Jacob Ẓemaḥ. </p>
+								<p>The volume begins with Kelalim, folio 4r; then follows the commentary itself, folio 9r. An index to the commentary is given on folios 149r-150r. </p>
+								<p>Appended are two sections (also bearing on the subject of Idra raba), wntitled Derushe ha-melakhim. These sections are followed by a piece on Beḥinat histalkut, folio 155v.</p>
+								<p>See further Scholem, <ref target="Kiryat_Sefer" type="number">26</ref>, pp. 189-194 and <ref target="Avivi_2008" type="page">661</ref>  of vol. 2.</p>
+							</note>
+							<locus from="1r" to="151v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/18664254">Ẓemaḥ, Jacob ben Ḥayyim, active 17th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/18664254">צמח, יעקב בן חיים</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Kol_beramah_1785"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>156 folios<dimensions type="leaf" unit="mm">
+										<height>220</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>156 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+									<p>Original foliation in the left-hand upper corner of each recto.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 to 12 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>Imperfect at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="31 39" writtenLines="31 39">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Visible vertical hard-point ruling.</p>
+									<p>Headings and initial words in larger square characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Checked red and black hardcover with spine and corners in ivory leather.  </p>
+								<p>Spine: 'Jacob Tsemach Comm. On The Iddera Rabba. Etc. Hebrew. Brit. Mus. Additional 26,997.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 108: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [157v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">797</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-11-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

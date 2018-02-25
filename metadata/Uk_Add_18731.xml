@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18731" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18731</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Naḥmanides (Moshe ben Nahman aka ha-Ramban) on the Pentateuch.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="191v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah </title>
+							<title xml:lang="he">פרוש התורה</title>
+							<author key="http://viaf.org/viaf/219072992">
+								<persName key="http://viaf.org/viaf/219072992" xml:lang="en">Naḥmanides    </persName>
+								<persName key="http://viaf.org/viaf/219072992" xml:lang="he">משה בן נחמן </persName>
+							</author>
+							<colophon xml:lang="he">והנה נשלם הספר הזה אשר כתבתי אל הנעלה כמ"ר <name type="person" role="patron">פנחס יקר יזיי"א בן כמה"ר יצחק יקר</name> זלה"ה. ע"י נמלה הצעירה <name type="person" role="scribe">אריה חלפן יצ"ו בכמ"ר אליעזר חלפן</name> זלה"ה והיתה השלמתו פה <name type="place">איזולה </name>ב<date when="1491" calendar="Hebrew">חמשי בשבת בשמנה ימים לירח תמוז שנת חמשת אלפים ומאתים וחמשים ואחד לבריאת עולם</date> ומי שזכהו להכתיבו יזכהו להגות בו ובספרים אחרים הוא וזרעו וזרע זרעו עד סוף כל הדורות לעולם ועד כן יהי רצון אמן לכבוד ה'.<locus n="191r"/>
+							</colophon>
+							<decoNote type="initial">Initial word included into a medallion decorated with foliate motifs in brown ink.<locus n="2v"/>
+							</decoNote>
+							<decoNote type="mixed">
+								<locus n="191r"/>Text incorporated into geometric forms.</decoNote>
+							<msItem rend="v">
+								<locus from="1r" to="55r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="55r" to="100v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="100v" to="144v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="144v" to="162r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="162r" to="191r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">191 folios <dimensions unit="mm" type="leaf">
+										<height>270</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>191 folios (+ 1 unfoliated paper flyleaf at the beginning with watermark and at the end. Folio 192 is blank and unfoliated).</p>
+								</foliation>
+								<collation>
+									<p>19 quires: i-xvi10 (folios 1-160), xvii12 (folios 161-172), xviii10 (folios 173-182), xix12 (folios 183-192). </p>
+									<p>No catchwords.</p>
+									<p>Quire numbers are in the lower left corner of the first folios. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="42" writtenLines="41">
+									<p>Ruling is visible. </p>
+									<p>Flesh and hair sides are clearly distinguishable.
+</p>
+									<p>Watermark [coat of arms with fleur-de-lis, beneath: LVG] is similar to <ref target="Heawood_1950" type="number">1852</ref> .</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian-Ashkenazi semi-cursive script, unpunctuated. The letter 'alef' is in a Sefardi style throughout. <name type="person" role="scribe">Arieh Ḥalfan ben Eli῾ezer Ḥalfan</name>: inscribed with his name in the colophon, together with <name type="person" role="patron">Pinḥas Yaḳar ben Yitsḥaḳ Yaḳar</name>: dated <date calendar="Hebrew">Tamuz 5251</date>, folio 191r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A former owner's note, folio 1v: שלי [... ].  קניתיו אלינקנטו בדמים יקרים ה' יזכני להגות בו אני וזרעי וזרע זרעי עם שאר ספרי הקדש ברוב טוב וחיים טובים וברכה ושלו' מעתה ועד עולם. Owner's name has been cut out after the word שלי. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. Brown leather with clasps and metalic corners, tooled in gold.</p>
+								<p>Spine title: 'R. Mosis ben Nachman Commentarius in Pentateuchum. Hebraice. Mus. Brit. Jure. Empt. 18,731.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="Tamuz 5251" calendar="Hebrew" when="1491"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Isola</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Major Macdonald</name>'s collection ([192v]).
+Purchased at <name type="org">Lewis's sale room</name>, 18 July 1851 (192v]).</p>
+							<date>1851-07-18</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">210</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

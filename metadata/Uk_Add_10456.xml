@@ -1,0 +1,231 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_10456" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 10456</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Festival prayer book (maḥzor) for the Special Shabatot, Pesaḥ and Shavu῾ot, according to the Ashkenazi rite, with the Books of Ruth and Song of Songs.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="172v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>See further <ref target="Davidson_1924"/>.</p>
+							</note>
+							<decoNote type="initial">17 initial-words decorated with foliate motifs or penwork decoration in black ink and sometimes red.<locus n="1v, 4v, 6r, 15r, 42r, 47r, 47v, 51r, 59r, 65r, 78v, 92v, 109r, 112v, 137r, 163v, 168r"/>
+							</decoNote>
+							<decoNote type="illustration">2 textual illustrations in the margin<locus n="28v, 159v"/>
+							</decoNote>
+							<colophon xml:lang="he">
+								<name type="person" role="scribe">נחמיה בר' יעקב הסופר</name>. כתבתי זה ספרי לר' <name type="person" role="patron">יואל בר' שמעון הלוי</name>.
+
+סיימתי זה ספר <date calendar="Hebrew">ט' בשבט ק"ט לפרט לאלף הששי לבריא' עול'</date>
+
+חזק ונתחזק הסופר לא יוזק / עד שיעלה בסולם החמור.<locus n="172v"/>
+							</colophon>
+							<incipit xml:lang="he">אני אכתב זאת בכמה קולמוסים / בלא מעשה נסים / בעיר <name type="place">ירושלים</name> הבירה / נעשה על ידי / הקטן <name type="person" role="scribe">נחמיה ב"ר יעקב</name> סופר סתם / בשנת ק"ט לפרט / לאלף הששי לבריאת עולם / וכתיבת יד מיוצרות / ושארי שבתות שאומרים יוצרות / וזולתת  וכו' / גם מחזור פסח ושבועות / ומארבע פרשיות.<locus n="1r"/>
+							</incipit>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="6r"/>
+							<title xml:lang="en">Yotser for Shabat and Ḥanukah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="6r" to="14r"/>
+							<title xml:lang="en">For the pericope 'Sheḳalim'</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="14r" to="22v"/>
+							<title xml:lang="en">Yotser for Shabat of the pericope 'Zekhor'</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="22v" to="28v"/>
+							<title xml:lang="en">Poetical pieces for Purim</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="28v" to="36v"/>
+							<title xml:lang="en">For the pericope 'Parah'</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="36v" to="43v"/>
+							<title xml:lang="en">Yotser for the pericope of the month</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="43v" to="50v"/>
+							<title xml:lang="en">Yotser for the great Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="50v" to="65r"/>
+							<title xml:lang="en">Yotser for the first day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="65r" to="73v"/>
+							<title xml:lang="en">Yotser for the second day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="73v" to="78v"/>
+							<title xml:lang="en"/>
+							<title xml:lang="en">Yotser for Shabat of ḥol ha-mo῾ed of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="78v" to="92v"/>
+							<title xml:lang="en">Yotser for the seventh day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="92v" to="108v"/>
+							<title xml:lang="en">Yotser for the last day of Pesaḥ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="108v" to="137r"/>
+							<title xml:lang="en">Yotser for Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="137r" to="162v"/>
+							<title xml:lang="en">Yotser for the second day of Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="163v" to="167v"/>
+							<title xml:lang="en">The book of Ruth</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="168r" to="172v"/>
+							<title xml:lang="en">The Song of Songs</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the mid-14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>172 folios <dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210/230</height>
+										<width>145/155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>172 folios (no flyleaf).</p>
+								</foliation>
+								<collation>
+									<p>22 quires: i8 (folios  1-8), ii8 (folios  9-16), iii8 (folios  17-24), iv8 (folios  25-32), v8 (folios  33-40), vi10 (folios  41-50), vii8 (folios  51-58), viii8 (folios  59-66), ix8 (folios  67-74), x8 (folios  75-82), xi8 (folios  83-90), xii8 (folios  91-98), xiii8 (folios  99-106), xiv8 (folios  107-114), xv8 (folios  115-122), xvi8 (folios  123-130), xvii6 (folios  131-136), xviii8 (folios  137-144), xix8 (folios  145-152), xx8 (folios  153-160), xxi8 (folios  161-168), xxii4 (folios  169-172). Marked with catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16 22" writtenLines="15 21">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Edges coloured in red.</p>
+									<p>Jerusalem as the place of production is mentioned only in the later complement pasted onto folio 1, but not in the original colophon on folio 172v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated. <name type="person" role="scribe">Neḥemiah bar Ya῾aḳov</name>: his colophon: 'I, Neḥemiah bar Ya῾aḳov the scribe, wrote this book for Rabbi <name type="person" role="patron">Yo᾿el bar Shim῾on ha-Leṿi</name>. I finished this book on <date calendar="Hebrew">8 Shvat 109</date> of the fifth millenium of the creation of the world. Grow stronger and let us grow stronger. May no harm befall the copyist until the donkey ascends the ladder to the heavens' (<date calendar="Gregorian">1349</date>) (folio 172v); inscription naming the scribe Neḥemiah bar Ya῾aḳov and Jerusalem, 1349, as the place of production and date on an early modern additional parchment leaf pasted onto folio 1, perhaps a copy of an original inscription now missing. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="place">Cologne</name>: reference to the town in captions, 'This is the seder of Ḳolonya' (folio 92v), and 'This is the end of the seder of Ḳolonya' (folio 140r).</p>
+							<p>
+								<name type="place">Mainz</name>: reference to the town in a caption, 'Here I start the seder of Mentsa', folio 140r.</p>
+							<p>
+								<name type="place">Worms</name>: reference to the town in later marginal notes (folios 44v, 92v, 137r).</p>
+							<p>
+								<name type="person" role="owner">Yudah Leib ben Yeshayahu Preger</name>: inscribed with his name in a purchase note, dated <date calendar="Gregorian">1719</date> (folio 172v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Binding in velvet and silk.</p>
+								<p>Spine: 'Preges Paschales et Pentecostales. Hebraice. Codex A. C. 1349. Exaratus. Mus. Brit. Jure Emptionis. 10,456. Plut CCXXVIIIE.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin n="1349" when="1349" when-custom="[5]109" calendar="Hebrew"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> or Eastern Mediterranean
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1836-05</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd, the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum in May 1836.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">659</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

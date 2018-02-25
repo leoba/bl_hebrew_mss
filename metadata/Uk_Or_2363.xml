@@ -1,0 +1,191 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2363" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2363</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with Targum Onḳelos and masorah magna and parva. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr ">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1v" to="212v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<note>
+								<p>Main text and Targum, in alternate verses, both provided with the superlinear punctuation. </p>
+								<p>See <ref target="Narkiss_1984" type="page">25</ref>, <ref target="Narkiss_1989" type="page">74-75</ref>, <ref target="Kogman-Appel_2004" type="page">46-47</ref>. </p>
+							</note>
+							<filiation>A very striking likeness, especially in puctuation and accentuation, to Or 1467 (see <ref target="Margoliouth_1965" type="number">66</ref>). Both of them belong to the same school and were written at about the same time.</filiation>
+							<msItem rend="visible">
+								<locus from="1r" to="52v"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>Wanting ch. 1:1-2:12 and 30:9-38</p>
+								</note>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="52v" to="98r"/>
+								<title xml:lang="en" rend="visible">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="98r" to="130r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="130r" to="173r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="173r" to="212v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of probably 11-12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>212 folios <dimensions unit="mm" type="leaf">
+										<height>380</height>
+										<width>300</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>260/280</height>
+										<width>235/245</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>212 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>22 quires, mostly quires of 10 leaves, apart from the last one, which has only 6 leaves.</p>
+									<p>Quires marked with catchwords on the last page and signed with Hebrew letters on the first and last pages.</p>
+								</collation>
+								<condition>
+									<p>A considerable number of leaves are soiled and mutilated, some of them seriously damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="29" writtenLines="27 29">
+									<p>Ruling is visible. </p>
+									<p>Erasures (e.g., 47r, 166r, 192r).</p>
+									<p>Several lacunae.</p>
+									<p>Masorah magna generally occupies two lines in the lower margin; in the upper margin it varies from three to five lines (due to a later hand).</p>
+									<p>Each pericope divided into 7 sections, numbered with Hebrew letters in margins.</p>
+									<p>Indications on weekly readings added with later hand.</p>
+									<p>Centre-marks for each book of the Pentateuch.</p>
+									<p>Masoretic summary after the end of the Pentateuch.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script (Persian?) with superlinear punctuation, probably of 11th to 12th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>1 carpet page with micrographic design, in colours. Ten Commandments in 2 decorated panels, in colours. 4 masoretic notes in decorated panels. 6 full borders, in colours. Numerous decorated parashah signs, in colours. Numerous coloured initial words at the beginning of the parashiyot. Numerous modest geometric and floral motifs in the margins, in colours or in brown ink.</summary>
+							<decoNote type="other">1 carpet page with micrographic design, in colours.<locus n="212v"/>
+							</decoNote>
+							<decoNote type="vignette">
+								<locus n="73v"/>Ten Commandments in 2 decorated panels, in colours.</decoNote>
+							<decoNote type="vignette">4 masoretic notes in decorated panels. <locus n="52v, 98r, 130r, 173r"/>
+							</decoNote>
+							<decoNote type="border">6 full borders, in colours. <locus n="67v,  68r, 208r, 208v, 209r, 209v"/>
+							</decoNote>
+							<decoNote type="initial">Numerous decorated parashah signs, in colours. Numerous coloured initial words at the beginning of the parashiyot. </decoNote>
+							<decoNote type="paratext">Couloured letters in masoretic notes at the end of each pericope.</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Numerous modest geometric and floral motifs in the margins, in colours or in brown ink.</p>
+							<p>The middle word marked on folios 105r, 107v, between the columns.</p>
+							<p>
+								<name type="person" role="owner">Avraham ben Natan</name>: inscribed with his name, 212v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+								<p>Spine: 'Pentateuch with Targum. Hebrew. Brit. Mus. Oriental 2363.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1199"/>
+						<provenance>
+							<p>
+								<name type="place">Iran</name> or <name type="place">Irak</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">23 July 1881</date>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">65</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

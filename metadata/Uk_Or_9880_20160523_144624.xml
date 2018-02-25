@@ -1,0 +1,566 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+   
+   <teiHeader rend="visible">
+
+
+      
+      <fileDesc>
+
+
+         
+         <titleStmt>
+
+
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+            
+            <principal>Ilana Tahan</principal>
+
+
+            
+            <funder>BL</funder>
+
+
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+
+
+         
+         </titleStmt>
+
+
+         
+         <publicationStmt>
+
+
+            
+            <publisher>British Library</publisher>
+
+
+            
+            <pubPlace/>
+
+
+            
+            <date calendar="Gregorian">2015-06-22</date>
+
+
+            
+            <idno>Uk</idno>
+
+
+         
+         </publicationStmt>
+
+
+         
+         <sourceDesc>
+
+
+            
+            <biblFull>
+
+
+               
+               <titleStmt>
+
+
+                  
+                  <title/>
+
+
+               
+               </titleStmt>
+
+
+               
+               <publicationStmt>
+
+
+                  
+                  <p/>
+
+
+               
+               </publicationStmt>
+
+
+            
+            </biblFull>
+
+
+            
+            <msDesc xml:id="Uk_Or_9880" xml:lang="en" rend="physdesc">
+
+
+               
+               <msIdentifier rend="visible">
+
+
+                  
+                  <country>United Kingdom</country>
+
+
+                  
+                  <settlement>London</settlement>
+
+
+                  
+                  <institution>British Library</institution>
+
+
+                  
+                  <repository>Oriental Manuscripts</repository>
+
+
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+                  
+                  <idno>Or 9880</idno>
+
+
+                  
+                  <altIdentifier type="former">
+
+
+                     
+                     <idno>Gaster 150</idno>
+
+
+                  
+                  </altIdentifier>
+
+
+                  
+                  <altIdentifier type="IAMS-ID">
+
+
+                     
+                     <idno>032-003314119</idno>
+
+
+                  
+                  </altIdentifier>
+
+
+                  
+                  <altIdentifier type="MDARK">
+
+
+                     
+                     <idno>ark:/81055/vdc_100031724266.0x000002</idno>
+
+
+                  
+                  </altIdentifier>
+
+
+               
+               </msIdentifier>
+
+
+               
+               <head>Biblical fragments</head>
+
+
+               
+               <msContents class="lccn.loc.gov/n79054379" rend="visible">
+
+
+                  
+                  <summary>Biblical fragments ('Second Gaster Bible') with masorah magna and parva
+                     .</summary>
+
+
+                  
+                  <textLang mainLang="he"/>
+
+
+                  
+                  <msItem rend="" class="lccn.loc.gov/n79054379">
+
+
+                     
+                     <locus from="1r" to="37v"/>
+
+
+                     
+                     <title xml:lang="he-Latn-x-lc">Tana"kh </title>
+
+
+                     
+                     <title xml:lang="he">תנ"ך</title>
+
+
+                     
+                     <decoNote type="other">Numerous golden rosettes and medallions between the
+                        lines, the text columns and in the margins, in colours and gold.<locus n="34r"/>
+                     
+                     </decoNote>
+
+
+                     
+                     <note>
+                        
+                        <p>The manuscript contains Genesis 34:5-35:3, 39:19-43:15, 44:16-37:25,
+                           49:3-50:26; Exodus 1:1-12:3, 39:24-39:36, 39:40-40:15; Leviticus
+                           14:3-16:8, 19:23-20:18, 23:5-23:33; Numbers 2:24-3:26, 13:7-14:8,
+                           14:40-15:31, 20:28-21:29; Deuteronomy 1:11-1:31, 3:14-4:10, 11:29-12:20,
+                           16:11-17:15, 19:5-20:15, 26:5-28:23, 30:16-31:21. </p>
+                        
+                        <p>See <ref target="Gaster_1901" type="number">350</ref>, <ref target="Narkiss_1984" type="page">23</ref>, <ref target="Tahan_2007" type="page">20-21</ref>. </p>
+                     
+                     </note>
+
+
+                  
+                  </msItem>
+
+
+               
+               </msContents>
+
+
+               
+               <physDesc rend="visible">
+
+
+                  
+                  <p>Parchment codex of the last quarter of the 11th century or first quarter of the
+                     12th century. </p>
+
+
+                  
+                  <objectDesc form="codex">
+
+
+                     
+                     <supportDesc material="perg">
+
+
+                        
+                        <support>Parchment. </support>
+
+
+                        
+                        <extent>37 folios<dimensions type="leaf" unit="mm">
+
+
+                              
+                              <height>390</height>
+
+
+                              
+                              <width>290</width>
+
+
+                           
+                           </dimensions>
+                           
+                           <dimensions type="written" unit="mm">
+
+
+                              
+                              <height>310</height>
+
+
+                              
+                              <width>250</width>
+
+
+                           
+                           </dimensions>
+                        
+                        </extent>
+
+
+                        
+                        <foliation>
+                           
+                           <p>37 folios (+ 1 unfoliated modern paper flyleaf at the beginning and at
+                              the end). </p>
+                        
+                        </foliation>
+
+
+                        
+                        <collation>
+                           
+                           <p> Fragments of the parchment folios stamped on paper leaves. </p>
+                        
+                        </collation>
+
+
+                        
+                        <condition>
+                           
+                           <p>Damaged by damp and mould. </p>
+                           
+                           <p>Large losses. </p>
+                           
+                           <p>Dark stains. </p>
+                           
+                           <p>Splits across text areas, edges with many splits. </p>
+                           
+                           <p>All repaired and inlaid before rebinding. </p>
+                        
+                        </condition>
+
+
+                     
+                     </supportDesc>
+
+
+                     
+                     <layoutDesc>
+
+
+                        
+                        <layout columns="3" ruledLines="23" writtenLines="23">
+                           
+                           <p>Uniform layout. </p>
+                           
+                           <p>Complete ruling by hard-point visible. </p>
+                           
+                           <p>Traces of pricking on the outer margins only. </p>
+                           
+                           <p>Masorah magna and parva. </p>
+                           
+                           <p>Catchwords on every verso. </p>
+                        
+                        </layout>
+
+
+                     
+                     </layoutDesc>
+
+
+                  
+                  </objectDesc>
+
+
+                  
+                  <handDesc hands="1">
+
+
+                     
+                     <summary>Oriental square script, punctuated, of the last quarter of the 11th
+                        century or first quarter of the 12th century. </summary>
+
+
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+
+
+                  
+                  </handDesc>
+
+
+                  
+                  <bindingDesc>
+
+
+                     
+                     <binding>
+
+
+                        
+                        <p>BM in-house. </p>
+
+
+                        
+                        <p>Spine: 'Biblical Fragments. Hebrew. Brit. Mus. Or. 9880.'</p>
+
+
+                     
+                     </binding>
+
+
+                  
+                  </bindingDesc>
+
+
+               
+               </physDesc>
+
+
+               
+               <history rend="visible">
+
+
+                  
+                  <origin>
+                     
+                     <origDate notBefore="1075" notAfter="1124">Last quarter of the 11th century and
+                        1st quarter of the 12th century</origDate>
+                     
+                     <origPlace>Egypt</origPlace>
+                  
+                  </origin>
+
+
+                  
+                  <provenance/>
+
+
+                  
+                  <acquisition>
+                     
+                     <date>1924-04-12</date>
+                     
+                     <p>
+                        
+                        <name type="person" role="owner">Moses Gaster</name> (b. 1856, d. 1939),
+                        scholar and rabbi: his manuscript, Cod. G. 150; purchased by the British
+                        Museum from him on 12 April, 1924: inscribed, [38v]. </p>
+                  
+                  </acquisition>
+
+
+               
+               </history>
+
+
+               
+               <additional rend="visible">
+
+
+                  
+                  <adminInfo>
+
+
+                     
+                     <recordHist>
+
+
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+                     
+                     </recordHist>
+
+
+                     
+                     <availability status="free">
+
+
+                        
+                        <p/>
+
+
+                     
+                     </availability>
+
+
+                     
+                     <note/>
+
+
+                  
+                  </adminInfo>
+
+
+               
+               </additional>
+
+
+            
+            </msDesc>
+
+
+            
+            <bibl/>
+
+
+            
+            <listBibl>
+
+
+               
+               <bibl/>
+
+
+            
+            </listBibl>
+
+
+         
+         </sourceDesc>
+
+
+      
+      </fileDesc>
+
+
+      
+      <encodingDesc>
+
+
+         
+         <classDecl>
+
+
+            
+            <taxonomy/>
+
+
+         
+         </classDecl>
+
+
+      
+      </encodingDesc>
+
+
+      
+      <profileDesc/>
+
+
+      
+      <revisionDesc status="draft">
+
+
+         
+         <change when="2015-06-22">Agata Paluch</change>
+
+
+      
+      </revisionDesc>
+
+
+   
+   </teiHeader>
+
+
+   
+   <text>
+
+
+      
+      <body>
+
+
+         
+         <div/>
+
+
+      
+      </body>
+
+
+   
+   </text>
+
+
+
+</TEI>

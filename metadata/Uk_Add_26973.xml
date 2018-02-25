@@ -1,0 +1,137 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-07</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_26973" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26973</idno>
+					</msIdentifier>
+					<head>Psalms</head>
+					<msContents class="lccn.loc.gov/n79056804" rend="visible">
+						<summary>The Psalms, not punctuated.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n79056804">
+							<title xml:lang="he-Latn-x-lc">Tehilim </title>
+							<title xml:lang="he">תהילים  </title>
+							<locus from="2r" to="127v"/>
+							<note>
+								<p>The numbering in the margins probably by the hand of original scribe. There is an omission of chapter 104, rectified further. </p>
+								<p>Tefilat ha-derekh at the end of the manuscript, folio 127v-129r, written in Italian cursive script. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>129 folios<dimensions unit="mm" type="leaf">
+										<height>101</height>
+										<width>71</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>75</height>
+										<width>45</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>129 folios </p>
+								</foliation>
+								<collation>
+									<p>13 quires of mostly 10 leaves each. </p>
+									<p>Catchwords on the last page of the quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="11" writtenLines="11">
+									<p>Hebrew numbering of the Psalms throughout.</p>
+									<p>Visible pricking and ruling with a hard-point. Vanilla-dotted hair-side of folios.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and cursive script, punctuated, of 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham</name>: inscribed, folio 1r.</p>
+							<p>A former owner's name on the inside of the front cover is not legible, but his father's name was <name type="person" role="owner">Yitsḥaḳ of Cologne</name>. Written in Italian cursive script. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, brown leather with gold tooling. </p>
+								<p>Gilt edges. </p>
+								<p>Boxed.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), bibliophile; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum, 1841-1853 (<ref target="Paisey_1997" type="page">131-153</ref>): inscribed folio <locus n="fse001r"/>([130r]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">156</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

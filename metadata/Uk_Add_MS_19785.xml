@@ -1,0 +1,178 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The National Library of Israel</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2016-09-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The National Library of Israel</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_MS_19785" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19785</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003313833</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031719572.0x000003</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Ḳitsur zekher tsadiḳ by Joseph ben Zaddik</head>
+					<msContents class="https://lccn.loc.gov/sh85077732" rend="visible">
+						<summary>A halakhic commentary on the liturgy by Joseph ben
+              Zaddik.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible">
+							<locus from="2r" to="152v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/294715931">Joseph ben Zaddik,
+                  active 15th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/294715931">יוסף בן צדיק</persName>
+							</author>
+							<title xml:lang="he"> קצור זכר צדיק</title>
+							<title xml:lang="he-Latn-x-lc">Ḳitsur zekher tsadiḳ</title>
+							<note>
+								<p>Not complete.</p>
+								<p>Note on fol. 152v: "העתקתי אותו פה מתא תונס יע"ה בעברי דרך אניה
+                  בלב ים כדי למצוא נחת להדפיסו עם ס’ מגן אבות לא"ז הרשב"ץ ז"ל ה' יעזור לי וימלא
+                  משאלות לבי לטובה ז[...] ע"ה חיים יונה דוראן ס"ט יצ"ו"</p>
+								<p>The Magen avot by the Rashbats (Simeon ben Zemah Duran) was printed in Livorno in
+                  1762 by Moses Athias. The title page of this edition mentions Hayim Yonah
+                  Duran as the person who submitted the work to the printing house.</p>
+							</note>
+							<colophon>Colophon on fol. 152v: ע"י הפועל במלאכת הקודש זעירא דמן חברייא דוד פאפו(?)</colophon>
+							<filiation>Cf. contents of Oxford, Bodleian Library, MS
+                Oppenheim Add.4to 133 (Neubauer 2367).</filiation>
+							<textLang mainLang="he"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper with chain lines and laid lines, <watermark>watermark:
+                    tré-lune.</watermark>
+								</support>
+								<extent>153 folios (iv+153+iv)<dimensions type="leaf" unit="mm">
+										<height>213</height>
+										<width>156</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>Foliation in Arabic numerals in pencil. Parallel foliation in Hebrew characters
+                    in pen starting on fol. 2 and finishing on fol. 152.</p>
+								</foliation>
+								<collation>
+									<p>Quires mostly of 10 leaves.</p>
+									<p>Catchword on every verso; no signatures.</p>
+								</collation>
+								<condition>
+									<p>Usage stains, slight water damage.</p>
+									<p>Some quires have been strengthened.</p>
+									<p>Slight mould-mottling</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1">
+									<p>Beginnings of the sections are in Sefardi square and semi-cursive script.</p>
+									<p>Some marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<decoDesc>
+							<decoNote>
+								<p/>
+							</decoNote>
+						</decoDesc>
+						<additions>
+							<p>Fol. 153r: short prayer written by a different hand.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Brown leather binding, blind-tooled. Boxed.</p>
+								<p>Spine: 'Joseph ben Tzadek. Excerpta e Libro Zechar Tzadek. Hebr. Mus. Brit. Jure
+                  Emptionis 19,785.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1700" notAfter="1763">18th century, before 1763.</origDate>
+							<origPlace>Africa, N. (Tunis)</origPlace>
+						</origin>
+						<provenance>
+							<p>Ownership inscription on fol. 152v: אברהם ן' אסדורא(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1854-05-13</date>
+							<p>Acquisition note inscribed on back flyleaf (i)v: "Purch[ase]d of <persName role="bookseller">D. Nutt</persName> (on behalf of) <persName>M. Aschkenazi</persName> 13 May 1854."
+              </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 151., vol. IV (supplement)</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2016-09-08">Zsofia Buda</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

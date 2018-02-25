@@ -1,0 +1,245 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_2696" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2696</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420  lccn.loc.gov/n82271898" rend="visible">
+						<summary>Pentateuch, the Five Scrolls and Hafṭarot with masorah and Rashi's commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420  lccn.loc.gov/n82271898">
+							<locus from="3r" to="636v"/>
+							<title xml:lang="en">Torah, megilot ṿe-hafṭarot ʿim perush Rash&quot;i </title>
+							<title xml:lang="he">תורה, מגילות  והפטרות עם פרוש רש"י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105 </persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש&quot;י), 1040-1105</persName>
+							</author>
+							<decoNote type="diagram">2 diagrams of the Land of Canaan and its neighbours in ink. <locus n=" 340r, 341r"/>
+							</decoNote>
+							<decoNote type="initial">Numerous initial-word panels with gold letters, decorated with foliate motifs in colours or filigree penwork, or inhabited by dragons and hybrids in colours.<locus/>
+							</decoNote>
+							<decoNote type="paratext">End of the text of Esther arranged in two medallions with two lions/dragons in ink.<locus n="438r"/>
+							</decoNote>
+							<decoNote type="marginal">3 pen drawings around marginal notes.<locus n="94r, 605r, 616v"/>
+							</decoNote>
+							<decoNote type="paratext">Commentary in geometric forms or in medallions.</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Freimann_1950" type="page">231-342</ref>
+								</bibl>
+								<bibl>
+									<ref target="Sed_Rajna_1986/1987" type="page">45-54</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">42</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">70-71</ref>
+								</bibl>
+							</listBibl>
+							<msItem rend="v">
+								<locus from="3r" to="104v"/>
+								<title xml:lang="en">Genesis </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104v" to="195r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="195r" to="257v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="257v" to="345r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="345r" to="423r"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="423r" to="439r"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="439r" to="452r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="452r" to="458v"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="458v" to="466v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="466v" to="487r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="487r" to="620v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarot </title>
+								<note>
+									<p>Hafṭarot of the weekly sections and of the feasts and fasts.</p>
+									<p>Alternative Hafṭarot are marked in the margins.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="621r" to="636v"/>
+								<title xml:lang="en">Various liturgical and masoretic notes</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">636<dimensions unit="mm" type="leaf">
+										<height>215</height>
+										<width>155</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>100/110, 75</height>
+										<width>45/50, 35/50</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>636 folios  (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>73 quires: i10 (folios 1-10), ii-ix8 (11-74), x10 (75-84), xi-xiv8 (85-116), xv12 (117-128), xvi8 (129-136), xvii12 (137-148), xviii8 (149-156), xix8 (157-164), xx12 (165-176), xxi8 (177-184), xxii10 (185-194), xxiii8 (195-202), xxiv10 (203-212), xxv-xxvii8 (213-236), xxviii-xxx12 (237-272), xxxi6 (273-278), xxxii-xxxix8 (279-342), xl-xli10 (343-362), xlii-xlvi8 (363-402), xlvii12 (403-414), xlviii8 (415-422), xlix10 (423-432), l16 (433-448), li-lii12 (449-472), liii8 (473-480), liv14 (481-494), lv10 (495-504), lvi-lviii8 (505-528), lix4 (529-532), lx-lxv8 (533-580), lxvi6 (581-586), lxvii-lxviii14 (587-614), lxix6 (615-619a), lxx-lxi6 (620-631), lxxii-lxxiii3 (632-637). </p>
+									<p>Catchwords.  </p>
+									<p>From folio 601r onwards, due to the tight binding and the lack of catchwords, the collation cannot be established with certainty. It is clear, however, that there were some changes over time in the sequence of the folios. The prints of the text on folio 632 can be seen on the verso side of folio 619a, thus folios 635r-631v was inserted in between later. </p>
+									<p>The last folio of the codex was 634, folios 635r-637v are later additions.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="21" writtenLines="20">
+									<p>Uniform layout. </p>
+									<p>Pricking and ruling are visible. </p>
+									<p>Gilt edges.
+</p>
+									<p>Mostly 20 lines in the body of the text, with various number of columns in the commentary. </p>
+									<p>Blank folio after 619  is numbered as 619a. Parallel foliation on some folios from 3r (folio 3 =  folio 1).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square and semi-cursive script, punctuated.<name type="person" role="scribe"> Mordekhai Emendante</name>, punctuator and scribe of the masorah: inscribed with his name (104v, 344v); the name Mordechai is decorated (<locus n="426v, 427r, 428r, 433v"/>). <name type="person" role="scribe">Ḥayim de-Ḳofdana</name> of <locus from="632r " to="633v"/>?: inscribed with his name (folios 111r, 633r). The word ḥayim is decorated (folio 111r). </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="619v" to="636v"/> due to a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Hebrew inscriptions partially illegible (folios 2r, 2v). </p>
+							<p>
+								<name type="person" role="owner">Ḥayim of Moriali ben Yaʿaḳov</name> owner: sold to <name type="person" role="owner">Shelomoh Yedayah</name>(?) in <date calendar="Hebrew">164 </date> [<date calendar="Gregorian">1404</date>]: purchase note (634r). </p>
+							<p>
+								<name type="person" role="owner">Shelomoh ben Ḥayim</name> sold it to <name type="person" role="owner">Menaḥem ben Yeḥiel</name> on Tuesday, 4 Tishri <date calendar="Hebrew">168</date> [<date calendar="Gregorian">1408</date>]: purchase note (634r). </p>
+							<p>
+								<name type="person" role="owner">Ḥananel Menaḥem Yedayah(?) ben Yeḥiel</name>: sold to <name type="person" role="owner">Yaʿaḳov ben Eliʿezer</name> on Wednesday 13 Tishri, <date calendar="Hebrew">191</date> [<date calendar="Gregorian">1430</date>]: purchase note (634r). </p>
+							<p>
+								<name type="person" role="owner">Yaʿaḳov ben Eliʿezer</name> sold it to <name type="person" role="owner">Eleʿazar bar Shemuʾel ha-Leṿi</name> on Thursday <date calendar="Hebrew">24 Tishri, 191</date> [<date calendar="Gregorian">1430</date>]: purchase note (634r). </p>
+							<p>
+								<name type="person" role="owner">Molin (?) Montneier</name>'s widow: sold through <name type="person" role="bookseller">Meʾir ben Yitsḥaḳ</name>: purchase note (15th century) (634r). </p>
+							<p>
+								<name type="person" role="owner">Yisraʾel ben Meʾir Heilpron (Heilbronn?)</name>: sold to <name type="person" role="owner">Yosef ben Shelomoh</name>: purchase note (15th century) (634r). </p>
+							<p>
+								<name type="person" role="owner">Shelomoh bar Yosef Ḳastel Virnaḳo</name> (?), <name type="person" role="owner">Rikha Luriah</name>: inscribed with their names (16th century?) (3r). </p>
+							<p>
+								<name type="person" role="owner">Yaʿaḳov Ṿiṭal</name>: inscribed with his name (17th century?) (2r). </p>
+							<p>
+								<name type="person" role="owner">Yoʾel Abram Luzzatto [..] di Cittadella</name>: inscribed with his name in Italian (1r). </p>
+							<p>
+								<name type="person" role="owner">Abraham Luzzatto</name>owner and his wife Perla: inscribed with their names, <date calendar="Hebrew">433</date> [<date calendar="Gregorian">1673</date>] (2r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin notBefore="1350" notAfter="1399">2nd quarter of the 14th century</origin>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>, S. (<name type="place">Upper Rhine</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1883-12-08</date>
+							<p>
+								<name type="person" role="owner">N. Rabinowitz</name>: purchased by the British Museum from him on <date calendar="Gregorian">8 December 1883</date> (<locus n="fse002v"/>[638v]). </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">179</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

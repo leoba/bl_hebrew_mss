@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2368" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2368</idno>
+					</msIdentifier>
+					<head>Exodus</head>
+					<msContents class="lccn.loc.gov/n79063137" rend="visible">
+						<summary>The book of Exodus with a verse-by-verse translation into Aramaic, an Arabic translation of Sa'adia Gaon, and provided with the simple superlinear punctuation. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79063137">
+							<locus from="1r" to="86v"/>
+							<title xml:lang="he-Latn-x-lc">Shemot</title>
+							<title xml:lang="he">שמות</title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr jrb"/>
+							<note>
+								<p>Missing chapters: 1:1-11; 22:6-21; 27:7-20; 28:12-26; 39:7-20.</p>
+								<p>Text and Targum are provided with the simple superlinear punctuation and also with the superlinear Ethnah.</p>
+							</note>
+							<decoNote type="other">Simple pen-decorated parashah signs.<locus n="5v, 15v, 24v"/>
+							</decoNote>
+							<msItem rend="visible">
+								<locus from="1r" to="86v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of probably 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex with many damaged pages repaired with paper.</support>
+								<extent>86 folios <dimensions unit="mm" type="leaf">
+										<height>320</height>
+										<width>235</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235</height>
+										<width>185</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>86 (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires mostly of 10 leaves.</p>
+								</collation>
+								<condition>
+									<p>Much stained or blurred in parts, occasionally also a little damaged. Imperfect at the beginning and also having lacunae between some leaves in the body of the mss.
+									</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>The writing depends from the ruled line.</p>
+									<p>Visible pricking. </p>
+									<p>Ruling with hard-point is visible, lines ruled on the flesh side. </p>
+									<p>Manuscript imperfect at the beginning and at the end.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script with punctutation, probably of 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Decorated parashah signs. </summary>
+							<decoNote type="marginal">Pen-decorated parashah signs.<locus n="5v, 15v, 24v"/>
+							</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499" calendar="Gregorian"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">23 July 1881</date>.</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">112</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

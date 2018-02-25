@@ -1,0 +1,265 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_70" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 70</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Parts of David ben Abraham Maimuni's homiletico-agadic commentary on Deuteronomy.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="372v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash Devarim </title>
+							<title xml:lang="he">מדרש דברים</title>
+							<author key="http://viaf.org/viaf/72927588">
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="en">David ben Abraham Maimuni, 1222 or 1223-1300</persName>
+								<persName key="http://viaf.org/viaf/72927588" xml:lang="he">דוד בן אברהם בן הרמב"ם</persName>
+							</author>
+							<filiation>Cf. Or 66, <ref target="Margoliouth_1965" type="number">371</ref>, Or 67, <ref target="Margoliouth_1965" type="number">372</ref>, Or 68, <ref target="Margoliouth_1965" type="number">373</ref> and Or 69, <ref target="Margoliouth_1965" type="number">374</ref>.</filiation>
+							<colophon xml:lang="he">נחתם זה הפירוש על שם היקר ונכבד כה"ר אברהם ן' דנאן י"צ יזכהו השם לקרות בו הוא וזרעו וזרע זרעו אמן נצח סלה. ונשלם יום [...] <date calendar="Hebrew">כ"ח מעשיו הגיד לעמו לחדש תשרי שנת אך קרוב ליריאיו ישעו לפ"ק ליצי</date>' פה <name type="place">מצרים</name>. |  א' חשון שנ' פו הסעיר <name type="person" role="scribe">יוסף מוצרי</name> יצ"ו אכי"ר.  |  העתקתי אותו מהתורף העקירי תיבה בתיבה מבלי תוספת ומגרעת כלל וסייעני השי"ת. העבד הסופר [...]  <locus n="368v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="19v"/>
+								<title xml:lang="he-Latn-x-lc">Devarim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="19v" to="73v"/>
+								<title xml:lang="he-Latn-x-lc">Midrash Tishʿah be-av</title>
+								<note>
+									<p>Le-tishʿah be-av begins on folio 57v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="73v" to="99r"/>
+								<title xml:lang="he-Latn-x-lc">Midrash ḳinot hashbaʿah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="99r" to="108v"/>
+								<title xml:lang="he-Latn-x-lc">Ekhah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108v" to="119v"/>
+								<title xml:lang="he-Latn-x-lc">Ani ha-gever</title>
+							</msItem>
+							<msItem rend="v">
+								<locus to="130v" from="119v"/>
+								<title xml:lang="he-Latn-x-lc">Ekhah yoʿam zahav</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="130v" to="136v"/>
+								<title xml:lang="he-Latn-x-lc">Zekhor Adonai mah hayah lanu</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="136v" to="155r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-etḥanan</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155r" to="173v"/>
+								<title xml:lang="he-Latn-x-lc">Eḳev</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="173v" to="195r"/>
+								<title xml:lang="he-Latn-x-lc">Re᾿eh</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="195r" to="214v"/>
+								<title xml:lang="he-Latn-x-lc">Shofeṭim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="214v" to="232v"/>
+								<title xml:lang="he-Latn-x-lc">Ki tetse</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="214v" to="232v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="232v" to="246r"/>
+								<title xml:lang="he-Latn-x-lc">Ki tavo</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="246r" to="256r"/>
+								<title xml:lang="he-Latn-x-lc">Netsavim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="256r" to="269v"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yelekh</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="269v" to="296r"/>
+								<title xml:lang="he-Latn-x-lc">Le-rosh ha-shanah</title>
+								<note>
+									<p>Ta῾ani yom rosh ha-shanah</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="296r" to="305r"/>
+								<title xml:lang="he-Latn-x-lc">Ha᾿azinu</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="305r" to="320v"/>
+								<title xml:lang="he-Latn-x-lc">Yom Ḳipur</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="320v" to="330v"/>
+								<title xml:lang="he-Latn-x-lc">Derash Yom Ḳipur</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="330v" to="339v"/>
+								<title xml:lang="he-Latn-x-lc">Le-ḥag ha-Sukot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="339v" to="347v"/>
+								<title xml:lang="he-Latn-x-lc">Le-ḥag ha-Sukot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="347v" to="354v"/>
+								<title xml:lang="he-Latn-x-lc">Le-shemini atseret</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="354v" to="364v"/>
+								<title xml:lang="he-Latn-x-lc">Zot ha-berakhah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="364v" to="368v"/>
+								<title xml:lang="he-Latn-x-lc">Peṭirat Mosheh rabenu</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>372 folios<dimensions type="leaf" unit="mm">
+										<height>195</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>372 folios (+ 1 modern paper flyleaf at the beginning and 2 at the end).</p>
+									<p>Hebrew foliation preserved almost throughout.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 9 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning.</p>
+									<p>Folios missing after folio 304.</p>
+									<p>Slightly water-damaged. </p>
+									<p>Last leaves slightly worm-eaten.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Catchwords (vertical, inclined) on every verso.</p>
+									<p>Initial words given in larger characters.</p>
+									<p>Running title on every recto.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive scripts of 17th century.The main scribe inscribed in the colophon as <name type="person" role="scribe">Yosef Motsri</name>, folio 368v. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="369r" to="372v"/>due to a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>The last six leaves belonged to a different manuscript. Contain midrashic expositions on parashah Ṿa-yelekh and Ha᾿azinu. </p>
+							<p>
+								<name type="person" role="owner">Mikha᾿el ben Mosheh</name>: inscribed, folio 2r. </p>
+							<p>
+								<name type="person" role="owner">Raḥamim ben Shemu᾿el Malki</name>owner: inscribed, folio 369r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram, blind-tooled.</p>
+								<p>Spine title: 'David ben Abraham. Comm. on Deuteronomy. Arabic. Brit. Mus. Oriental 70.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Egypt</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">A. C. Reichardt</name>: purchased by the British Library from him on <date calendar="Gregorian">08 June 1867</date>: inscribed, folio <locus n="fse001v">[373v]</locus>.</p>
+							<date>1867-06-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">375</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

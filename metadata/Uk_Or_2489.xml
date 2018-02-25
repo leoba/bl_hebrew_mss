@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2489" xml:lang="he" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2489</idno>
+					</msIdentifier>
+					<head>Perush Ṿa-yiḳra</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary on the book of Leviticus (fragments).</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="113v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Ṿa-yiḳra </title>
+							<title xml:lang="he">פירוש ויקרא</title>
+							<author key="http://viaf.org/viaf/305238133">
+								<persName key="http://viaf.org/viaf/305238133" xml:lang="he-Latn-x-lc">Samuel ben Moses ha-Rofe, al-Magrebi, active 15th century </persName>
+								<persName key="http://viaf.org/viaf/305238133" xml:lang="he">הרופא, שמואל בן משה המערבי</persName>
+							</author>
+							<note>
+								<p>Part of an Arabic commentary on Leviticus 1:1-14, 3:16-4:2, 5:1-6:3, 7:6-15:33.</p>
+							</note>
+							<incipit xml:lang="he">ויקרא מסלה גואב הדא אלמצחף יחתוי עלי הפרשיות והם ויקרא צו שמיני תזריע מצורע מן תפסיר כ'ה'ר' שמואל רופא.<locus n="1r"/>
+							</incipit>
+							<incipit xml:lang="he">אלגזו אלאול מן שרח ספר ויקרא והי מסלה ואלגואב למר' ורב' שמואל הרופא תנצבה בן מר' ור' משה נ"ע.<locus n="2v"/>
+							</incipit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th and 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>113 folios<dimensions type="leaf" unit="mm">
+										<height/>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>133</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>113 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>14 quires (nos. 1, 3-15) of mostly 10 leaves each.</p>
+									<p>Signatures in Hebrew letters and Arabic words on the upper margin of the first page of a quire.</p>
+									<p>Quires 1, 3, 5 are imperfect.</p>
+								</collation>
+								<condition>
+									<p>Several pages pages partially stained. </p>
+									<p>Water-damaged.</p>
+									<p>Lacunae after folios 9, 10, 20.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24 25" writtenLines="24 25">
+									<p>Unform layout.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive script of 16 and 17th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Mosheh ben Yosef he-Ḥakham, owner: inscribed in a note, folio 113r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Samuel Ha-Rofe. Comm. On Leviticus. Hebrew. Brit. Mus. Oriental 2489.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on <date calendar="Gregorian">08 July 1882</date>, folio [114v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">324</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-02-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

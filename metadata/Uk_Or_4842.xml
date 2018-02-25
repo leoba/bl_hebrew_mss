@@ -1,0 +1,155 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4842" xml:lang="en" rend="additional">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4842</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic.</summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="186v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder nashim </title>
+							<title xml:lang="he">פרוש סדר נשים </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<colophon xml:lang="he">נשלם ספר זה במעלי שבא שהוא <date when="1401" calendar="Seleucid">חד ועשרין יומן לירח מרחשון של שנת אתשיג לשטרות</date> [...] בצנעת בני קיס תתבני עד שתתבני ירושלם: נכתב על שם החבר הטוב <name type="person" role="patron">אשר [?] בן עובדיה</name> אלהים יזכיהו למהגי ביה ולדקדק בעני[ניו הוא] וזרעיה וכו':<locus n="186v"/>
+							</colophon>
+							<note>
+								<p>The order of the masekhtot is the same as in Or 2392, <ref target="Margoliouth_1965" type="number">455</ref>.</p>
+								<p>On folio 1r there is a fragment of the same author's introduction to his Mishnah's Commentary, in the Hebrew translation of Yehudah Ḥarizi.</p>
+								<p>On the lower part of the same page is a portion of halakhic notes in Judeo-Arabic.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>186 folios <dimensions unit="mm" type="leaf">
+										<height>255</height>
+										<width>175</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>197</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>186 folios (+ 3 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves leaves each, with the exception of the first and the last, of 9 and 7 folios respectively.</p>
+									<p>Signatures in Hebrew letters at the end of each quire.</p>
+								</collation>
+								<condition>
+									<p>Marks of damp damage.</p>
+									<p>Margins slightly injured.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. Visible mastara ruling.</p>
+									<p>Chapter numbers given in large characters.</p>
+									<p>Catchwords on every verso, partly cut away.</p>
+									<p>A few marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 15th century. <name type="person" role="scribe">Maḥpots ibn Ma῾ots</name>[?]: inscribed, folio 186v, with a date of <date calendar="Seleucid">1713</date>[<date calendar="Gregorian">1401</date>]. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Asher (?) ben ῾Ovadyah</name>: inscribed, folio 186v. </p>
+						</additions>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Nashim. Hebrew. Brit. Mus. Oriental 4842.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1713" calendar="Seleucid" when="1401"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name> (San῾ah)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="org">Morris, Heller &amp; Weiss</name>: purchased by the British Museum on 14 November 1894: inscribed, <locus n="fse002v">[188v]</locus>.</p>
+							<date>1894-11-14</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">454</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

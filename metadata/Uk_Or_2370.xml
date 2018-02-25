@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2370" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2370</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>Former Prophets, accentuated and punctuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1v" to="206v"/>
+							<colophon xml:lang="he">נבצע בשנת <date when="1461" calendar="Seleucid">אתש[ע"ב] לשטרות</date> יהא סימ[ ] ברב <name type="person" role="patron">זכריה רי"ת הידוע אלבוני</name> אלה' יזכיה[ ]ניו ולה[ב] מעתה ועד עולם הוא וזרעו וזרע זרעו אנס"ו ויתקיים עליו מקרא שכ[ ] ה' וישמ' יאר ה' פניו אל' ישא ה' פניו אל' וג' ספרא חלשא ומ[ס]ינא קל ה[ק ] <name type="person" role="scribe">בניה בן סעדיה בן זכריה בן מרגז</name> אלה ימחול לי על מה ששגיתי וטעית[ ] ונסתר מ[ ] שגיאות מי יבין מנסתרות נקיני אנ"ס ישע יקרב ששון יע[ר]<locus n="206v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="32v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Judges</title>
+								<locus from="32v" to="62r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Samuel</title>
+								<locus from="62r" to="132v"/>
+								<note>
+									<p>2Samuel starts at folio <locus n="100v"/>.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="132v" to="206v"/>
+								<note>
+									<p>2Kings starts at folio <locus n="171r"/>.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>206 folios<dimensions unit="mm" type="leaf">
+										<height>283</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>126</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>206 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>21 quires of 10 leaves each, apart from the first and the last quire, which have only 8 leaves each. </p>
+									<p>The quires are signed with Hebrew letters on the first page and marked with catchwords on the last page.  </p>
+								</collation>
+								<condition>
+									<p>The first three leaves and the last leaf are not fully preserved. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>Masorah magna occupies generally one line at the top and one line in the bottom margin of the page. </p>
+									<p>A number of masoretic rubrics is given at the end of each books. </p>
+									<p>The titles of the books are written at the top of every page and the chapters are numbered with Hebrew letters by later hands. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script, punctuated, of  the 15th century. <name type="person" role="scribe">Benayah ben Se'adyah ben Zekharyah ben Margaz</name>: inscribed with his name in the colophon, folio 206v. For manuscripts of the same scribe see Or 2210, 2211, 2348, 2375 (<ref target="Margoliouth_1965" type="number">128</ref>, <ref target="Margoliouth_1965" type="number">138</ref>, <ref target="Margoliouth_1965" type="number">89</ref>, <ref target="Margoliouth_1965" type="number">147</ref>.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">[...] ben Zekharyah Alboni</name>?: inscribed with his name in the colophon, folio 206v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Former Prophets. Hebrew. Brit. Mus. Oriental 2370.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1772" calendar="Seleucid" notBefore="1460" notAfter="1461"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name>(<name type="place">San'a</name>?) </p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">127</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

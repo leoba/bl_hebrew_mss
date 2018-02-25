@@ -1,0 +1,164 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27150" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27150</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="274v"/>
+							<title xml:lang="en">Arba῾ah Ṭurim</title>
+							<title n="0" xml:lang="he">ארבעה טורים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>Oraḥ ḥayim begins on folio 8r, Yoreh de῾ah begins on folio 152r.</p>
+								<p>Arba῾ah Ṭurim is preceded by explanations of the abbreviations and the difficult words, and by a chapter on Hilkhot ῾avadim (as in Harley 5716, <ref target="Margoliouth_1965" type="number">544</ref>, from which it was probably copied).</p>
+							</note>
+							<colophon xml:lang="he">ותכל מלאכת עבודת הקדש מלאכת ארבעה טורים את שמותם אכנה הנה בסופו אחת לאחת הטור הראשון הוא הנקרא ארח חיים הטור השני יורה דעה והטור השלישי חשן משפט והטור הרביעי שהוא האחרון הוא הנקרא אבן העזר וכתבתיו וסיימתיו אני הצעיר <name type="person" role="scribe">מרדכי מיסוליאנו</name> יזיי"א בכמ"ר משה טובי זקן זצ"ל אל האחים הנכבדים והמפוארים כמ"ר רפאל וכמ"ר שמואל וכמ"ר יצחק יצ"ו יורשי כמ"ר דניאל אביהם נ"ע והיתה השלמתו היום<date calendar="Hebrew"> יו' ג' תשעה עשר לירח אלול שנת חמשת אלפים ומאתי' ושנים וחמשים לבריאת עולם</date> פה <name type="place">קרפי </name>וה' אשר זיכני לכותבו ולשלמו יזכם להגות בו הם וזרעם וזרע זרעם עד סוף כל הדורות אמן וקבלתי מהם שכר טרחי משלם וחלקי המחוקק יהיה צפון עם שאר הצדיקים אמן ס"ו.<locus n="274v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>274 folios <dimensions unit="mm" type="leaf">
+										<height>342</height>
+										<width>236</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>225</height>
+										<width>156</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>274 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>i7 (folios 1-7), ii-xv10 (folios 8-147), xvi4 (folios 148-151), xvii-xxviii10 (folios 152-271), xxix3 (folios 272-274).</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="43" writtenLines="43">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and horizontal ruling in ink, page by page, and vertical ruling with plummet, also page by page. </p>
+									<p>Hair side and flesh side of the folios distinguishable.</p>
+									<p>Last line written within ruling.</p>
+									<p>Initial words in larger square script. </p>
+									<p>Catchword at the end of each quire.</p>
+									<p>Contains marginal annotations.  </p>
+									<p>Many censorial erasures, e.g., folio 41v, 55r, 58v, 146r, etc.</p>
+									<p>Marginal drawings, e.g., folio 86v, 87v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive and square script, unpunctuated, of the 15th century. <name type="person" role="scribe">Mordekhai mi-Suliano</name>: inscribed with his name in the colophon (folio <locus n="274v"/>). </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Refa᾿el ben Daniyel</name>, <name type="person" role="patron">Shemu᾿el ben Daniyel</name>, <name type="person" role="patron">Yitsḥaḳ ben Daniyel</name>: inscribed in the colophon, folio <locus n="274v"/>.</p>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1597 (folio 274v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active in the first quarter of the 17th century): inscribed with his name, 'Revisto per me Gio. Domenico Caretto 1609' (folio 273r); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+							<p>
+								<name type="person" role="censor">Luigi da Bologna</name>, a converted Jew working for the Inquisition as censor (active at the end of the sixteenth, beginning of seventeenth century): inscribed with his name, 'Revisto per mi Fra Luigi da Bologna, 1597' (folio 274v), see <ref target="Popper_1969" type="page">104</ref>, and appendix § 112-117. </p>
+							<p>Folio 1r: several ownership notes: inheritants of Shelomoh of Cologne (Cremona), below this: Azri᾿el of Cologne, and afterwards: sons of Cologne.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Jacob ben Asher. Tur Orach Chayim And Tur Yoreh De'ah. Hebrew. Brit. Mus. Bibl. Additional 27,150.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5252" calendar="Hebrew" when="1492"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Carpi</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 258: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed (folio <locus n="fse002v">[276v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">546</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

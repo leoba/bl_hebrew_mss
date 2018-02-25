@@ -1,0 +1,180 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18693" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18693</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A liturgical collection and Moses Kimḥi's Mahalakh shevile ha-daʿat.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="88v"/>
+							<title xml:lang="en">Collection</title>
+							<title xml:lang="he">קובץ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="49v"/>
+							<title xml:lang="he-Latn-x-lc">A liturgical collection </title>
+							<note>
+								<p>The present collection includes Psalms to be said in connection with benedictions at meals for week-days, Sabbaths and festivals, as well as a number of poetical pieces.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Sidur-Miberakhah_1693"/>
+								</bibl>
+								<bibl>
+									<ref target="Seder-Berakhot_1832"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="">
+							<locus from="50r" to="88v"/>
+							<title xml:lang="he-Latn-x-lc">Mahalakh shevile ha-daʿat</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/59230461">Kimḥi, Moses, -approximately 1190</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/59230461">קמחי, משה בן יוסף</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Shevile-Ha-Daat_1550"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>The contents comprise only of an exposition of the three parts of speech: shem, milah, po῾el.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>88 folios <dimensions unit="mm" type="leaf">
+										<height>110</height>
+										<width>85</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>70</height>
+										<width>45</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>88 folios (+ 1 modern paper flyleaf and 2 vellum flyleaves - all unfoliated - both at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each, marked with catchwords and signatures at the end.</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning (the first leaf of the first quire is missing).</p>
+									<p>Stained. </p>
+									<p>Ink is fading on the last few pages.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16" writtenLines="16">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive script of the 15th century. Punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham</name>: inscribed (folio 88v).</p>
+							<p>
+								<name type="person" role="patron">Aharon</name>: apparently a brother of the scribe, inscribed in the body of the text as the first recipient of the manuscript (folio 50v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather. Boxed.</p>
+								<p>Spine: 'Psalmi et Preces. R. Dav. Kimhi. Grammar. Hebr. Mus. Brit. Jure Empt. 18,693.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]238" calendar="Hebrew" when="1478"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1851-05-24</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853: purchased from him on 24 May 1851: inscribed, [89v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">639</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

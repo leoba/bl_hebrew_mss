@@ -1,0 +1,194 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17052" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17052</idno>
+					</msIdentifier>
+					<head>Compendium</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>A volume containing the glosses which are written on the margins of Add. 17049 and 17050 (Alfasi's commentary on  Seder Mo῾ed, Nashim and Neziḳin).</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="40v"/>
+							<title xml:lang="en">Bava metsi῾a</title>
+							<note>
+								<p>Imperfect at the beginning.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="40v" to="94v"/>
+							<title xml:lang="he-Latn-x-lc">Bava batra</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="94v" to="107r"/>
+							<title xml:lang="he-Latn-x-lc">Ḳidushin</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="107r" to="117v"/>
+							<title xml:lang="he-Latn-x-lc">Shevu῾ot </title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="117v" to="124v"/>
+							<title xml:lang="he-Latn-x-lc">Sanhedrin</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="124v" to="126r"/>
+							<title xml:lang="he-Latn-x-lc">Makot</title>
+							<note>
+								<p>Continues without a break from the preceding number.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="126r" to="141r"/>
+							<title xml:lang="he-Latn-x-lc">Yevamot</title>
+							<note>
+								<p>Imperfect.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="141r" to="163r"/>
+							<title xml:lang="he-Latn-x-lc">Ketubot</title>
+							<note>
+								<p>Imperfect.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="163r" to="177v"/>
+							<title xml:lang="en">Additional fragments</title>
+							<note>
+								<p>Fragments of responses and discussions on portions of Bava ḳama and Bava metsi῾a.</p>
+							</note>
+							<filiation>Cf Add. 17049, <ref target="Margoliouth_1965" type="number">473</ref>, folios 222-233.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>177 folios <dimensions unit="mm" type="leaf">
+										<height>260</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>177 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each, signed with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folio 138, 140, 144, 154, 158, 160, 162, 166, 175.</p>
+									<p>Ink slightly fading.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="33" writtenLines="32">
+									<p>Uniform layout. Visible pricking and ruling with a plummet. </p>
+									<p>Last line written within the ruling.</p>
+									<p>Marginal notes, occasionally mutilated in the trimming.</p>
+									<p>Several blank pages.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square and semi-cursive script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="167r" to="177v"/>due to a different hand, probably of the 15th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person">Yitsḥaḳ ben Menaḥem ha-Gadol</name>: inscribed, folio 167r, upper margin. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Alfasi Halakhoth in Seder Nezikin and Nashim. Hebrew. Brit. Mus. Additional 17,052.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849): purchased from him by the British Museum on 23 October 1847: inscribed, folio <locus n="fse001v">[103v]</locus>: Macdonald's sale, lot 160. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">475</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

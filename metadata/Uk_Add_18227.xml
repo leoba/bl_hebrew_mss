@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-01-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18227" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18227</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="37v"/>
+							<title xml:lang="he-Latn-x-lc">Ha-higayon</title>
+							<title xml:lang="he">ההגיון</title>
+							<note>
+								<p>In the Hebrew translation of <name type="person" role="translator">Avraham Avigdor ben Meshulam</name>.</p>
+								<p>No division into books or chapters.</p>
+								<p>A number of Latin and Hebrew explanations of terms, etc., and corrections by later hands.</p>
+								<p>Folios 9v, 21r: some tables completing the text, added by later hand.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/87227886">Petrus Hispanus, -1277<addName>John XXI, Pope</addName>
+								</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/87227886">פטרוס היספנוס</persName>
+							</author>
+							<colophon xml:lang="he">חזק ונתחזק הסופר לא יזק עד שיעלה חמור בסולם אשר יעקב אבינו חלם <name type="person" role="scribe">יוסף פואה</name>.<locus n="37v"/>
+							</colophon>
+							<filiation>The same scribe, Yosef Foah, wrote also MS New York JTS 2312, dated 236 (<date calendar="Gregorian">1476</date>).</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>37 folios<dimensions type="leaf" unit="mm">
+										<height>195</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>37 folios (+ 4 unfoliated paper flyleaves at the beginning and 5 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each, marked with catchwords and signatures at the end (only partly preserved).</p>
+								</collation>
+								<condition>
+									<p>Tidemark at head. </p>
+									<p>Usage stains. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="19" writtenLines="19">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in larger characters.</p>
+									<p>Diagrams (e.g., 5r).</p>
+									<p>Marginal notes in Hebrew and Latin characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, unpunctuated, of the 15th century. <name type="person" role="scribe">Yosef Foah</name>: inscribed with his name in the colophon, folio 37r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p> Post-1600. Brown leather, blind tooled.</p>
+								<p>Spine: 'Tractatus de Logica. Hebr. Brit. Mus. Jure Empt. 18,227.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1850-07-13</date>
+							<p>Purchased through <name type="person" role="bookseller">Adolphus Asher</name>, Berlin bookseller and dealer to the British Museum 1840-1853: inscribed, folio [38v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">917</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-01-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,220 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5709" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5709</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with Rashi's commentary and Targum Onḳelos; the Five Scrolls with Rashi's commentary; the Hafṭarot with Rashi's commentary, and a portion of the Targum on the Song of Songs.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="323v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot ʿim perush Rash&quot;i</title>
+							<title xml:lang="he">תורה, מגילות  והפטרות עם פרוש רש"י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י)</persName>
+							</author>
+							<decoNote type="marginal">22 marginal drawings in ink.<locus n="31v, 38v, 44r, 51v, 57v, 58v, 72r, 83v, 84v, 108r, 119v, 131v, 137v, 146v, 147r, 206v, 232v, 236r, 236v, 241r"/>
+							</decoNote>
+							<decoNote type="marginal">Numerous modest decoration inside or around the marginal text in brown ink, some of them are unfinished.<locus/>
+							</decoNote>
+							<decoNote type="paratext">Numerous carmina figurata.<locus/>
+							</decoNote>
+							<note>
+								<p>The manuscript breaks off with chapter 6 of the Targum on Song of Songs. </p>
+								<p>See <ref target="Wright_1972" type="page">246, 459</ref>, <ref target="Kogman_Narkiss_2009" type="page">319-351</ref>. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="61r"/>
+								<title xml:lang="en">Genesis </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61r" to="112v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112v" to="149r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="149r" to="196v"/>
+								<title xml:lang="en">Numbers</title>
+								<note>
+									<p>No Targum on Num. 6:24-26.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="196v" to="240v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="241r" to="295r"/>
+								<title xml:lang="en">Hafṭarot </title>
+								<note>
+									<p>Hafṭarot for Pesaḥ and Shavuʿot have also the punctuated Targum.</p>
+									<p>A scribal subscription on folio 287v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="295v" to="300r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="300r" to="303r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="303r" to="308r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="308r" to="315r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="315r" to="321v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="321v" to="323v"/>
+								<title xml:lang="en">A portion of Targum on Song of Songs</title>
+								<note>
+									<p>Written in two columns to a page, 46 lines in a column.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 13th or 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent rend="visible">323 folios<dimensions unit="mm" type="leaf">
+										<height>310</height>
+										<width>250</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195/175</height>
+										<width>95/165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>323 folios (+ 1 unfoliated modern flyleaf and 1 unfoliated older paper flyleaf with watermark at the beginning, 1 unfoliated older paper flyleaf and 2 modern unfoliated paper flyleaves with watermark at the end).</p>
+								</foliation>
+								<collation>
+									<p>40 quires: i8 (folios 1-8), ii8 (folios 9-16), iii8 (folios 17-24), iv8 (folios 25-32), v8 (folios 33-40), vi8 (folios 41-48), vii12 (folios 49-60), viii8 (folios 61-68), ix8 (folios 69-76), x8 (folios 77-84), xi8 (folios 85-92), xii8 (folios 93-100), xiii8 (folios 101-108), xiv8 (folios 109-116), xv8 (folios 117-124), xvi8 (folios 125-132), xvii8 (folios 133-140), xviii8 (folios 141-148), xix8 (folios 149-156), xx8 (folios 157-164), xxi2 (folios 165-172), xxii10 (folios 173-182), xxiii8 (folios 183-190), xxiv8 (folios 191-198), xxv8 (folios 199-206), xxvi12 (folios 207-218), xxvii8 (folios 219-226), xxviii8 (folios 227-234), xxix8 (folios 235-242), xxx8 (folios 243-250), xxxi8 (folios 251-258), xxxii8 (folios 259-266), xxxiii8 (folios 267-274), xxxiv6 (folios 275-280), xxxv8 (folios 281-288), xxxvi4 (folios 289-292), xxxvii10 (folios 293-302), xxxviii5 (folios 303-307), xxxix8 (folios 308-315), xl8 (folios 316-323).</p>
+									<p>Quires marked with catchwords.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="24 26" writtenLines="23 25">
+									<p>Pricking and ruling are visible. </p>
+									<p>Watermark on iii recto, of a fleur de lys, similar to <ref target="Briquet_1968" type="number">7126</ref>  (dated <date calendar="Gregorian">1582</date>, <name type="place">Vicenza</name>). </p>
+									<p>Watermark, [324r], of a horn included into a crowned shield and with the letters LVG, similar to <ref target="Heawood_1950" type="number">2745</ref> (dated 1755, London).</p>
+									<p>Closely cut margins.</p>
+									<p>A large number of smaller and greater omissions from text, Targum and commentary have been subsequently supplied in the margins by various hands.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square and semi-cursive script, partially punctuated.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="1r, 1v, 8r, 8v"/> and <locus from="308r" to="323v"/>: due to a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="scribe">Ḥayim Kohen</name>: probably of folios 1-307: the word Kohen is marked many times, e.g., 95r, 104r, 116v, 128v, 262r; the word Ḥayim is decorated on 204r. </p>
+							<p>Probably censored by <name type="person" role="censor">Hippolite of Ferrara</name>, Franciscan: inscribed 'Fra Hipp. Ferr' (active at the end of the 16th century-beginning of 17th century, in Cremona) (folio 323v), see <ref target="Popper_1969" type="page">18-19, 93</ref>.</p>
+							<p>
+								<name type="person" role="bookseller">Nataniel Noel</name> (fl. 1681, d. 1753), employed by <name type="person" role="owner">Edward Harley</name> for buying books and manuscripts chiefly on the Continent, where his agent was <name type="person" role="bookseller">George Suttie</name> (<ref target="Wright_1972"/>): sold to Edward Harley on <date calendar="Gregorian">18 January 1723/4</date>; date inscribed ([ii recto]).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p> 	Post-1600. Black leather with the Harley coat of arms in the centre.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1339"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+							<date>1753</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">170</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

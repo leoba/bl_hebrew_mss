@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_75" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 75</idno>
+					</msIdentifier>
+					<head>Philology</head>
+					<msContents class="lccn.loc.gov/sh85059886" rend="visible">
+						<summary>Grammatical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85059886">
+							<locus from="1r" to="346v"/>
+							<title xml:lang="he-Latn-x-lc">Rav pe῾alim</title>
+							<title xml:lang="he">רב פעלים</title>
+							<note>
+								<p>The work starts with a preface, followed by a table of contents (folio 3r). The first part begins on folio 3v, the second on folio 24r, the thirs on folio 141r, the fourth on folio 289v. </p>
+								<p>Folios 336v-338v contain an account of the accents, illustrated by verses from the Psalms abd other parts of Scripture. </p>
+								<p>Folios 338v-341r contain a fuller table of contents than the one fiven at the beginning.</p>
+								<p>Folios 341v-342v contain a paradigm of binyan ḳal, with explanations.</p>
+								<p>On folio 346v are given the names of the accents, and also a medical recipe.</p>
+								<p>There is the author's colophon copied on folio 336r, stating that the work was finished in <date calendar="Hebrew">5189</date> (<date calendar="Gregorian">1429</date>).</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/97507226">Zarka, Joseph</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/97507226">זרקא, יוסף בן יהודה</persName>
+							</author>
+							<incipit xml:lang="he">הפסוקים שהביא הרד"ק ז"ל בספר השרשים ולא נמצאו.<locus n="1r"/>
+							</incipit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>346 folios<dimensions type="leaf" unit="mm">
+										<height>168</height>
+										<width>110</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>150/135</height>
+										<width>92/80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>346 folios (+ 1 unfoliated paper flyleaves at the beginning and 2 at the end).  </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Foxing at edges.  </p>
+									<p>Usage stains.  </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="25" writtenLines="25">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in larger characters. </p>
+									<p>Occasional catchwords. </p>
+									<p>Very wide margins, frequently with notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Sefardi and Italian semi-cursive scripts of the latter part of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Abraham (Joseph Solomon ben Mordecai) Graziano</name> of Modena ("Ish Ger"), (d. 1684), Italian rabbi: inscribed, folio 1r, 2r.</p>
+							<p>Illegible inscriptions of former owners, folio 1r.</p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, 1613 (folio 133v, 342v); see <ref target="Popper_1969" type="number">50-56</ref>.</p>
+							<p>
+								<name type="person" role="censor">Renato da Modena</name>: inscribed with his name, 1626 (folio 346v); see <ref target="Popper_1969" type="number">132-133</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Ivory leather.</p>
+								<p>Spine: 'Joseph Zark. Rab Pe'alim. Hebrew. Brit. Mus. Oriental 75.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1450" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1868-04-22</date>
+							<p>
+								<name type="person" role="owner">Samuel Schönblum</name> of Vienna: purchsed from him by the British Museum on 22 April 1868: inscribed, folio [347v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">974</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

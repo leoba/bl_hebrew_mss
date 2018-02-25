@@ -1,0 +1,154 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-30</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26895" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26895</idno>
+					</msIdentifier>
+					<head>Midrashim</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>A book of short musarim, or ethical discourses, on the pericopes of the Pentateuch, composed in Italian by Isaac Lampronti, and translated into Hebrew by his pupils.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="216v"/>
+							<title xml:lang="ita">Documenti insegnati </title>
+							<author key="http://viaf.org/viaf/55627259">
+								<persName key="http://viaf.org/viaf/55627259" xml:lang="en">Lampronti, Isaac Hezekiah ben Samuel, 1679-1756 </persName>
+								<persName key="http://viaf.org/viaf/55627259" xml:lang="he">לאמפרונטי, יצחק בן שמואל </persName>
+							</author>
+							<note>
+								<p>Folio 1r is a title page.</p>
+								<p>At the end of the various musarim there are the signatures of Lampronti's pupils, in their Hebrew and Italian names.</p>
+								<p>Letters in Italian, relating to the death of Yosef Ḥayim, and to other subjects are found on folios 61, 62, 111, 112, 115.</p>
+								<p>There are two Hebrew letters on folios 113-114 composed by pupils of Isaac Lampronti.</p>
+								<p>Folios 58v-60v, 63v-69v, 117v, 159r-160v and 214-215 are occupied with shorter exercises in translation from Italian into Hebrew.</p>
+								<p>The whole volume is planned as a book of exercises in Hebrew composition.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>216 folios<dimensions type="leaf" unit="mm">
+										<height>301</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>216 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each, unsigned.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="28" writtenLines="28">
+									<p>Many pages left entirely or half blank. </p>
+									<p>Various handwritings and layouts. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="13">
+							<summary>Latin and Italian cursive script of the 18th century. Many different hands. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="1r"/>- written probably by the author (a partial autograph).</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 33v, [217r, 217v] - doodle pages.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'R. Isac Lampronti Documenti. Hebrew Italian. Brit. Mus. Additional MS 26,895.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1714" notAfter="1715"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> </p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>=
+						<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name>(b. 1801, d. 1860), Italian bibliophile: his manuscript no. 4: inscribed (<locus n="fs002v "/>[ii verso]); 322 Hebrew manuscripts were acquired from his library in <date calendar="Gregorian">October 1865</date> through <name type="person" role="bookseller">Adolphus Asher</name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">384</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-30">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,182 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2733" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2733</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book for Rosh ha-Shanah, Franco-German rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="90v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<decoNote type="initial">
+								<locus n="2v"/>1 decorated initial word in ink. </decoNote>
+							<decoNote type="illustration">2 pen drawings embedded into the text. <locus n="6r, 6v"/>
+							</decoNote>
+							<decoNote type="marginal">4 marginal drawings. <locus n="4r, 49r, 57r, 59r"/>
+							</decoNote>
+							<decoNote type="paratext">7 decorated catchwords. <locus n="10v, 26v, 34v, 44v, 54v, 76v, 84v"/>
+							</decoNote>
+							<decoNote type="other">Carmina figurata.<locus n="6r, 6v, 7r, 44v, 50r, 50v, 51r, 51v"/>
+							</decoNote>
+							<note>
+								<p>The manuscript has a number of marginal notes and additions in Italian and other types of handwriting of various dates. </p>
+								<p>The volume appears to have been used in an Ashkenazi community in Italy.</p>
+								<p>See further <ref target="Davidson_1924"/>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1v" to="45r"/>
+							<title xml:lang="en">Services for the first day</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="45r" to="88v"/>
+							<title xml:lang="en">Services for the second day</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="89r" to="90v"/>
+							<title xml:lang="en">Services of  seliḥot (fragment)</title>
+							<note>
+								<p>The fragment originally belonged to a different manuscript, though of the same date as the rest.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>90 folios <dimensions unit="mm" type="leaf">
+										<height>255</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>170/185</height>
+										<width>125/145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>90 folios (+ 2 unfoliated modern paper flyleaves at the beginning, and an older and 2 modern unfoliated flyleaves at the end. </p>
+									<p>Quire numbering in upper right corner; quires viii and ix are equally numbered as 8. </p>
+									<p>Parallel Hebrew foliation, which shows that the middle bifolio of quire viii is missing (folios 66-67).</p>
+								</foliation>
+								<collation>
+									<p>11 quires: i10 (folios 1-10), ii8 (folios 11-18), iii8-1 (folios 19-26), iv8 (folios 27-34), v10 (folios 35-44), vi12-2 (folios 45-54), vii8 (folios 55-62), viii8-2 (folios 63-68), ix8 (folios 69-76), x8 (folios 77-84 ), xi6 (folios 85-90). </p>
+									<p>Catchwords at the end of the quires, often decorated.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22" writtenLines="21">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Numerous marginal notes by various hands.</p>
+									<p>Deleted paragraphs (erasure of censor?) e.g., folios 36r, 78v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square and semi-cursive script, partially punctuated, with a number of notes in Italian and other semi-cursive and cursive scripts. <name type="person" role="scribe">Ḥayim</name>: the word ḥayim is decorated (e.g. folios 2v, 3v, 8r, 19v, 44r, 49r, 51v, 87v). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r contain an imperfect list of poetical pieces, but not all the piyuṭim enumerated are contained in the present volume.</p>
+							<p>The last two folios (folios 89-90) are from another manuscript.</p>
+							<p>
+								<name type="person" role="owner">Mosheh Yehudah</name>: inscribed with his name in Hebrew, next to it illegible signature in Latin letters with the same ink (lower margin, folio 81v).
+</p>
+							<p>
+								<name type="person" role="owner">Emanuel de Miliyat</name>?: inscribed with his name (folio 85v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Machzor. Hebrew. Brit. Mus. Oriental 2733.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1884-01-26</date>
+							<p>
+								<name type="person" role="owner">Chaim M. Horowitz</name>: purchased by the British Museum from him on 26 January 1884 (folio [92v])</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">665</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

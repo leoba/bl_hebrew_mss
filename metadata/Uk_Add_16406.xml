@@ -1,0 +1,200 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_16406" xml:lang="ara" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 16406</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Four fragments of midrashic commentaries.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="136v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash rabah</title>
+							<title xml:lang="he">מדרש רבה</title>
+							<listBibl>
+								<bibl>
+									<ref target="Midrash-Rabah_1985"/>
+								</bibl>
+								<bibl>
+									<ref target="Jellinek_1853" type="page">73-82</ref> of volume 2. </bibl>
+							</listBibl>
+							<note>
+								<p>The text differs largely from the printed editions in many parts.</p>
+								<p>The enumeration of chapters is irregular.</p>
+							</note>
+							<decoNote type="marginal">
+								<locus n="136r"/>A passage written in a geometrical design.</decoNote>
+						</msItem>
+						<msItem rend="" class="http://lccn.loc.gov/sh85085046">
+							<locus from="137r" to="258v"/>
+							<title xml:lang="he-Latn-x-lc">Sifra</title>
+							<note>
+								<p>The enumeration of diffirent divisions is not consistent.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Sifra_1999"/>
+								</bibl>
+								<bibl>
+									<ref target="Neusner_1988a"/>
+								</bibl>
+								<bibl>
+									<ref target="Neusner_1988b"/>
+								</bibl>
+							</listBibl>
+							<incipit xml:lang="he">בעזרת שוכן מעונים אתחיל תורת כוהנים. <locus n="137r"/>
+							</incipit>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85085046">
+							<locus from="259r" to="283v"/>
+							<title xml:lang="he-Latn-x-lc">Sifre</title>
+							<note>
+								<p>The sections are not regularly marked throughout.</p>
+								<p>Sifre on Numbers, folios <locus from="259r" to="315v"/>, on Deuteronomy, folios 316r-386v.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Sifre_1990"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="" class="lccn.loc.gov/sh85085046">
+							<locus from="283v" to="386v"/>
+							<title xml:lang="he-Latn-x-lc">Peṭirat Aharon ve-Mosheh</title>
+							<note>
+								<p>Occasional marginal notes, partially cut away. </p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Jellinek_1853" type="page">91-95, 115-129</ref> of volume 1.</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex; Ashkenazi square script of approximately 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex</support>
+								<extent>386 folios<dimensions type="leaf" unit="mm">
+										<height>360</height>
+										<width>265</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>270</height>
+										<width>200</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>386 folios (+2 vellum flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>48 quires of 8 leaves each (apart from no. 32 which has 10 leaves).</p>
+								</collation>
+								<condition>
+									<p>Margins slightly damaged at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24 25" writtenLines="24 25">
+									<p>Catchwords at the end of the quire.</p>
+									<p>Has some marginal notes, occasionally cut away.</p>
+									<p>Pricking and hard-point ruling is visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script of approximately 12th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yitsḥaḳ ben Mosheh de Pisa</name> (?): inscribed in a deed of sale, with a witness' name Mordekhai ben Shimshon Ḥizḳiyah, dated Friday, 26 Tishri, folio <locus n="1r"/>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600, brown leather, blind-tooled, with remains of clasps.</p>
+								<p>Spine title: 'I. Bereshith Rabbah. II. Siphra. III. Siphre. IV. Petirath Aharon u-Mosheh. Hebrew &amp; Aramaic. Brit. Mus. Additional 16.406.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1100" notAfter="1199"/>
+						<provenance>
+							<p>
+								<name type="place">Greece </name> or <name type="place">Italy</name>?</p>
+						</provenance>
+						<acquisition>
+							<p>Purchased by the British Museum from <name type="org">Payne &amp; Foss</name> on <date calendar="Gregorian">9 January 1847</date>; originally Rezzi collection: inscribed folio <locus n="fse001v">[387v]</locus>.</p>
+							<date>1847-01-09</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">341</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

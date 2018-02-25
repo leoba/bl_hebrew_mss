@@ -1,0 +1,321 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2536" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2536</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/sh98001892" rend="visible">
+						<summary>An introduction to Karaite ritual according to the use of Damascus, containing a series of liturgical directions, followed by the tracts on the accents, Hebrew grammar etc.</summary>
+						<textLang mainLang="he" otherLangs="jrb"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh98001892">
+							<locus from="1r" to="126v"/>
+							<title xml:lang="he-Latn-x-lc">Mavo</title>
+							<title xml:lang="he">מבוא</title>
+							<note>
+								<p>The treatise consists of 26 chapters.</p>
+								<p>Nearly the same entry as the incipit on folio 1r is found on folio 81r.</p>
+							</note>
+							<incipit xml:lang="he">קדוש לה' אלהים אלהי ישראל ית' שמן לקרות בו בבית הכנסת של בני מקרא ישמרם איום ונורא בעיר דמשק הקדישו כותבו הע' הצעיר צעיר תלמידי החכמים והרופאים הנרצע לעבודת האל וקשור בעבותות אהבת ישראל ומחכה לראות פני הגואל דניאל יבורך מייי' ומישראל ב'ל'א'א' <name type="person" role="scribe">משה המלמד נ"ע בכ"ר ישעיה נ"ע מבית פירוז</name> י'ע'מ'ש' ארור גונבו ומוכרו ולוקחו לביתו וברוך שומרו א'נ'ס' ונכתב שנת ומן <date calendar="Hebrew">המקדש</date> לא יצא ליצירה. <locus n="1r"/>
+							</incipit>
+						</msItem>
+						<msItem rend="">
+							<locus from="5r" to="5r"/>
+							<title xml:lang="en">Introduction to the Pentateuch lections</title>
+							<note>
+								<p>A general statement on the Pentateuch lections in ordinary and intercalary years.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="5r" to="18r"/>
+							<title xml:lang="en">Lists of lections</title>
+							<note>
+								<p>Detailed lists of the Pentateuch and Prophetic lections used on week-days, Sabbath days, the feast of the new moon, and festivals.</p>
+								<p>Chapters 3 and 4 of this text are missing, but their contents are given in the table of chapters on folios 1-4.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="18r" to="20r"/>
+							<title xml:lang="en">On pericope Ha᾿azinu</title>
+							<note>
+								<p>Defective at the beginning.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="20r" to="22r"/>
+							<title xml:lang="en">Readings from the Torah</title>
+							<note>
+								<p>A chapter giving introductory and valedictory portions for the readings from the Torah. These consist entirely of Scriptural verses taken from different parts.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="22r" to="28v"/>
+							<title xml:lang="en">Series of Scripture verses</title>
+							<note>
+								<p>To be recited on the occasions of a wedding and the birth of a child.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="28v" to="30v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭ</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/305236993">Samuel ben Moses, al-Maghribī</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/305236993">שמואל בן משה, המערבי</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="30v" to="31v"/>
+							<title xml:lang="en">Introductory verses</title>
+							<note>
+								<p>For the the reading of the Ten Commandments.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="31v" to="34r"/>
+							<title xml:lang="en">Series of biblical verses for Megilat Purim</title>
+							<note>
+								<p>Defective at the end.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="34r" to="38v"/>
+							<title xml:lang="en">For the month of Av</title>
+							<note>
+								<p>Series of kinot etc. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="38v" to="40v"/>
+							<title xml:lang="en">Tokhaḥot </title>
+							<note>
+								<p>Introductory and valedictory verses for the Tokhaḥot contained in the pericopes of Be-ḥuḳotai and Ki tavo.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="40v" to="47r"/>
+							<title xml:lang="en">Special funeral offices</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="47r" to="50r"/>
+							<title xml:lang="en">Prayers for the dying</title>
+							<note>
+								<p>On folio 48r begins a chapter of rules to be observed by mourners.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="50r" to="57r"/>
+							<title xml:lang="en">On mid-day prayers on Sabbath-days</title>
+							<note>
+								<p>Imperfect at the beginning.</p>
+								<p>Includes Psalm 55, 1Sam 2:1-10, Jonah 2:2-10; Psalms 91, 92, 8, and a number of other portions and series of verses.</p>
+								<p>Brikat kohanim is given on folio 55r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="57r" to="65r"/>
+							<title xml:lang="en">Propitiatory prayers</title>
+							<note>
+								<p>Each section includes Ex. 32:11 sqq. and Ex. 34:6 sqq.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="65r" to="83r"/>
+							<title xml:lang="en">Penitential hymns and prayers</title>
+							<note>
+								<p>Folios 81v and 82 contain (in a different hand) fragments of a declaration of the divine unity, followed by petitions of pardon etc. This portion is named in the table of contents at the beginning as part of this section.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="83r" to="86r"/>
+							<title xml:lang="en">Benedictions</title>
+							<note>
+								<p>A series of benedictions connected with food etc. Several of these benedictions are taken from the Rabbanite prayer book. </p>
+								<p>Imperfect at the end. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="86r" to="92v"/>
+							<title xml:lang="en">Grammatical section (fragments)</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="92v" to="98v"/>
+							<title xml:lang="en">Grammatical section</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="98v" to="101v"/>
+							<title xml:lang="en">Grammatical section</title>
+							<note>
+								<p>Included are small sections on the triliteral character of Hebrew roots and on methods of vocalization.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="101v" to="102v"/>
+							<title xml:lang="en">On numerals</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="102v" to="108v"/>
+							<title xml:lang="en">On the authorship of Scripture</title>
+							<note>
+								<p>A small section treating on the authorship of Biblical books and the succession of chief authorities according to the Karaite tradition.</p>
+								<p>The remainder of this section includes short masoretic lists, a statement on the commandments, Biblical chronology, the genealogy of Moses, and a Karaite version of the 13 principles of interpretation.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="108v" to="111r"/>
+							<title xml:lang="en">On chronology</title>
+							<note>
+								<p>The time from the Creation to the Exodus is computed at 2446 years, from the exodus to the beginning of the building of the first Temple 480 years, from the Creation to the destruction of the first Temple 3354 years, and from the Creation to the destruction of the second Temple 3839 years. After this are short statement on the Muhammadan era, the era of Alexander and the Christian era.</p>
+							</note>
+							<colophon xml:lang="he">אעלם יא איהא אלואקף עלי דלך אלתואריך באנהא נאקלינהא מן בואטן כתב אלעלמא אלמתקדמין י"ה : וכאן אלפראג מן נסך דלך פי אול שהר טבת יאל מן סנה התנד לבריאת העולם ופי כאנון אלתאני מן סנה ב וכמס סנין לתאריך אלאסכנדרי לשטרות . ופי גמאד אלאול מו סנה אקה ללהגרה הסאב ישמעאל ושלום על ישראל וכאתבה הע' הצ' <name type="person" role="scribe">דניאל</name> יבורך מייי' ומישראל.<locus n="110v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="111r" to="126v"/>
+							<title xml:lang="en">A series of piyuṭim for Sabbath-days and festivals</title>
+							<note>
+								<p>Defective.</p>
+								<p>Folios 117-126 have been appended and contain mainly piyuṭim (written in various hands).</p>
+							</note>
+							<colophon xml:lang="he">כמלת בעון אללה תעאלי: וכאן אלפראג מנהא יום אלתאלת סדר נצ ויקרא אלתאני תאריכו יום כח לחודש אדר שני שנת <date calendar="Hebrew">התקס"ט</date> ליצירה לפ"ק פה מצרים נב"ע [?] אלמואפק לשהר אלערבי צפר יום תמניה ועשרין סנת אלף ומאיתין ועשרין וכמסה. על שם הנער היפה היקר הנעים <name type="person" role="patron">שלמה הצעיר בן אליהו ירוש החזן</name> ס"ט בן המנוח אלישע ירו' נ"ע תנצב"ה אכי"ר ושלום.  <locus n="122v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the late 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>126 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>126 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end).</p>
+									<p>Contains later Arabic foliation.</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable (the manuscript is fragmentary; originally quires consisted of mostly 4 and 10 leaves each, signed with Hebrew letters and Arabic numerals on the first page).</p>
+								</collation>
+								<condition>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Lacuna after folios 16, 33, 49, 78, 81, 82, 85, 87, 113 ,116.</p>
+									<p>Several leaves more or less damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="23 25" writtenLines="23 25">
+									<p>Non-uniform layout. </p>
+									<p>Visible hard-point ruling.</p>
+									<p>Some parts of text highlighted in red ink (folios 118-122 of the appended part).</p>
+									<p>Catchwords on every verso in most parts of the manuscript.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Oriental semi-cursive script, partly punctuated, of the late 17th century. <name type="person" role="scribe">Daniel ben Mosheh ha-Melamed ben Yesh῾ayah Firuz</name>: inscribed, folio 1r &amp; 81r.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="117r" to="126v"/>are due to later hands, dated 5569 (folio 122v) and 5525 (folio 124r).</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>An entry with the date <date calendar="Hebrew">5525</date> (<date calendar="Gregorian">1765</date>) as the time when the manuscript to which this page belonged originally was finished, folio 124r.</p>
+							<p>
+								<name type="person" role="owner">Yedidyah Shelomoh Nasi ben Amtsiyahu Yosef Nasi</name>: inscribed in an owner's entry, folio 17r.</p>
+							<p>
+								<name type="person" role="patron">Shelomoh ben Eliyahu Ḥazan</name>: inscribed, folio 122v.</p>
+							<p>A note on the number of persons to be called up at the reading of the Torah, folio 17v.</p>
+							<p>An English description of the manuscript in pencil, in a modern hand: folio [iii verso].</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Karaite Ritual. Heb. &amp; Arab. Brit. Mus. Oriental 2536.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5444-5454" calendar="Hebrew" notBefore="1684" notAfter="1694"/>
+						<provenance>
+							<p>
+								<name type="place">Syria</name> (<name type="place">Damascus</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed (folio [128v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">724</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

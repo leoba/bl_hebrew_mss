@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2210" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2210</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class=" lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>Former Prophets, accentuated and punctuated, with Targum, masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi&apos;im</title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1r" to="194v"/>
+							<colophon xml:lang="he">נבצע בירח <date when="1468" calendar="Seleucid">מרחשון שנת אתש&quot;ף לשטרי</date> יהא סימן טוב על מריה אברהם ש&quot;צ ברב יוסף רי&quot;ת אלהים יזכיהו להגות בו ולדקדק בעניניו ולהבין מצפוניו מעתה ועד עולם הוא וזרעו וזרע זרעו אנס&quot;ו ויתקיים עליו מקרא שכתוב יברכך ה&apos; וישמרך יאר ה&apos; פניו אל&apos; ישא ה&apos; פניו אל&apos; וג&apos; אלה ימחול לי על כל מה ששגיתי וטעיתי ונסתר מעיני כדכתיב שגיאות מי יבין מנסתרות נקיני אנ&quot;ס ישע יקרב ששון יערב.<locus n="193v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="28r"/>
+							<title xml:lang="en">Joshua</title>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Judges</title>
+							<locus from="28r" to="55v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Samuel</title>
+							<locus from="55v" to="121v"/>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="en">Kings</title>
+							<locus from="121v" to="193v"/>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite square script, punctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>194 folios<dimensions unit="mm" type="leaf">
+										<height>420</height>
+										<width>280</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>414</height>
+										<width>218</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>194 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>20 quires of 10 leaves each, apart from the following: i8, xv9, xvii9, and xx8.</p>
+									<p>The quires are signed with Hebrew letters on the first page and marked with catchwords on the last page. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. </p>
+									<p>Masorah magna in generally one line in the lower margin and occasionaly one line in the upper margin of the page.</p>
+									<p>The beginning and the end of the Haftarot marked in the margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary> Yemenite square script, punctuated. <name type="person" role="scribe">Benayah [ben Sa&apos;adyah ben Zekharyah ben Margaz]</name>, for manuscripts of the same scribe see Or 2211, 2348, 2370, 2375. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Avraham ben Yosef</name>: inscribed with his name in the colophon, folio 193v. </p>
+							<p>A birth record of the son of <name type="person" role="owner">Ibrahim ibn Yusuf</name>, inscribed on folio 193v, with a date of Adar <date calendar="Seleucid">1781</date> (<date calendar="Gregorian">1470</date>). </p>
+							<p>A purchase note in Judeo-Arabic, folio 194v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="Marheshvan 1780" calendar="Seleucid" when="1468"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name>(<name type="place">San&apos;a</name>?)</p>
+						</provenance>
+						<acquisition>
+							<date>1879-12-13</date>
+							<p><name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 13 December 1879, inscribed [195v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">128</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

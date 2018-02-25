@@ -1,0 +1,221 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Harley_5699" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Harley MS 5699</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Lisbon Mishneh Torah, volume 2.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="435v"/>
+							<title xml:lang="en">Mishneh Torah</title>
+							<title xml:lang="he">משנה תורה</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100185495">Maimonides, Moses, 1135-1204</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100185495">משה בן מימון, 1138-1204</persName>
+							</author>
+							<decoNote type="border">9 embellished frontispieces in colours and gold at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-border with foliate motifs and gold, inhabited by birds and animals. <locus n="2v, 34v, 94v, 161v, 189v, 277v, 313v, 355v, 397v"/>
+							</decoNote>
+							<decoNote type="border">1 carpet page including a colophon with gold letters and penwork decoration, surrounded by full foliate border inhabited by birds and animals.<locus n="434v"/>
+							</decoNote>
+							<filiation>See also the first volume of the work, Harley 5698, <ref target="Margoliouth_1965" type="number">486</ref>.</filiation>
+							<note>
+								<p>On this manuscript see <ref target="Narkiss_1969" type="page">78</ref>, <ref target="Sed-Rajna_1970" type="page">20-23</ref>, <ref target="Wright_1972" type="page"> 246, 459</ref>, <ref target="Narkiss_1982" type="number">I, no. 41; II, figs 394-403</ref>, <ref target="Sed-Rajna_1988" type="page">12-13</ref>, <ref target="Gold_1988" type="page">57</ref>.</p>
+							</note>
+							<colophon xml:lang="he">אנא זעירא דמן חבריא <name type="person" role="scribe">שלמה ן' אלזוק</name> הסופר כתבתי זה הספר ' הנותן אמרי שפר ' עץ חיים אשר לא נפלו עליו ' כל עץ בגן אלהים לא דמה אליו ' ויד יי' היתה עליו ' הי"ד הגדולה והמפוארה ' תורה שבעל פה ' כלה סדורה ' בלשון ברורה ' ודרך קצרה ' הנקרא משנה תורה " חברו הגאון האלהי המורה הגדול רבי' משה בר מימון ז"ל " ואני כתבתיו לאיש חמודות ' המדובר בו נכבדות ' לו ביחס ובמעלות ' עשר ידות " תמים בפעולותיו ' וישר בדעותיו ' יועץ ונבון לחשים ' ראש בקרואים ובראשים ' תחכמוני ראש השלשים ' דובר מישרים ' חמדת השרים והישרים ' ערב ונאה ' ויהי יוסף יפה תואר ויפה מראה " דורש טוב לעמו ' בגוים גדול שמו : <name type="person" role="patron">יוסף בן דוד בן שלמה בן הרב הנכבד ונעלה ' דוד בן גדליה הזקן ן' יחיא</name> ת'נ'צ'ב'ה' האל יזכהו להגות בו הוא וכל זרעו משרשיו יפריח ' וכל אשר יעשה יצליח ' ויקיים בו לא ימוש ספר התורה הזה מפיך ' וגו' " ונגמר <date calendar="Hebrew">באלף הששי ליצירה שנת ז'כ'ר'ה' </date>לי אלהי לטובה" <locus n="434v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="2v" to="34v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer hafla᾿ah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="34v" to="94v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer zera῾im</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="94v" to="161v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ῾avodah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="161v" to="189v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ḳorbanot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="189v" to="277v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ṭohorah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="277v" to="313v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer neziḳin</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="313v" to="355v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ḳinyan</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="355v" to="397v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer mishpaṭim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="397v" to="435v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer shofeṭim</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>435 folios <dimensions unit="mm" type="leaf">
+										<height>330</height>
+										<width>245</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>435 folios (+ 3 unfoliated modern paper flyleaves and 1 unfoliated and 1 foliated older paper flyleaves at the beginning, and 1 unfoliated older flyleaf and 3 unfoliated modern paper flyleaves). </p>
+									<p>Hebrew foliation is the continuation of that of the first volume (folio 2 is identical with Hebrew foliation 293). Unfoliated leaf [folio 160*] after folio 160 (but it has the Hebrew foliation: 452) and one unfoliated leaf [folio 436] after folio 435.</p>
+								</foliation>
+								<collation>
+									<p>53 quires: i8 (folios 2-9), ii8 (folios 10-17), iii8 (folios 18-25), iv8 (folios 26-33), v8 (folios 34-41), vi8 (folios 42-49), vii8 (folios 50-57), viii8 (folios 58-65), ix8 (folios 66-73), x8 (folios 74-81), xi10 (folios 82-93), xii8 (folios 94-101), xiii8 (folios 102-109), xiv8 (folios110-117), xv8 (folios 118-125), xvi8 (folios 126-133), xvii8 (folios 134-141), xviii8 (folios 142-149), xix12 (folios 150-[161*]), xx8 (folios 161-168), xxi8 (folios 169-176), xxii6 (folios 177-182), xxiii6 (folios 183-188), xxiv8 (folios 189-196), xxv8 (folios 197-204), xxvi8 (folios 205-212), xxvii8 (folios 213-220), xxviii8 (folios 221-228), xxix8 (folios 229-236), xxx8 (folios 237-244), xxxi8 (folios 245-252), xxxii8 (folios 253-260), xxxiii8 (folios 261-268), xxxiv8 (folios 269-276), xxxv8 (folios 277-284), xxxvi8 (folios 285-292), xxxvii10 (folios 293-302), xxxviii10 (folios 303-312), xxxix8 (folios 313-320), xl8 (folios 321-328), xli8 (folios 329-336), xlii8 (folios 337-344), xliii10 (folios 345-354), xliv8 (folios 355-362), xlv8 (folios 363-370), xlvi8 (folios 371-378), xlvii8 (folios 379-386), xlviii10 (folios 387-396), xlix8 (folios 397-404), l8 (folios 405-412), li8 (folios 413-420), lii8 (folios 421-428), liii8 (folios 429-[436]).</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="36" writtenLines="36">
+									<p>Uniform layout. </p>
+									<p>Visible ruling with a sharp object (complete). Hair-side and flesh-side are distinguishable.
+</p>
+									<p>Scant marginal notes. </p>
+									<p>Fore edge, lower and upper edges are colored with red strips.
+</p>
+									<p>Manicula in the margin (folio 17r).</p>
+									<p>The spaces for diagrams in Sefer ῾avodah have been left blank.</p>
+									<p>The unfoliated older paper flyleaves have watermarks similar to <ref target="Heawood_1950" type="number">447, 2745</ref>, the foliated paper flyleaf has a watermark similar to <ref target="Heawood_1950" type="number">750</ref>.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, unpunctuated, of the 15th century. <name type="person" role="scribe">Shelomoh ibn Alzuḳ</name> : inscribed in the colophon, folio 434v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Written by Shelomoh ben Alzuḳ for <name type="person" role="patron">Yosef ben Daṿid ben Shelomoh ben Rabi Daṿid ben Gedalyah the elder</name>: inscription (folio 434v).
+</p>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name>: inscribed with his name: 'Revistu[s] p[er] me Laurentiu[s] Franguellu[s] die 26 novembris 1574' (folio 434r), see <ref target="Popper_1969" type="number">105-110</ref>.
+</p>
+							<p>
+								<name type="person" role="censor">Luigi de Bologna</name>: inscribed 'Revisto et corretto per me f. Luigi da Bologna del 1601' (folio 433v). A converted Jew working for the Inquisition as censor (active at the end of the sixteenth, beginning of seventeenth century), see <ref target="Popper_1969" type="page">104</ref>, and appendix § 112-117.
+</p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, <date calendar="Gregorian">1613 </date>(folio 433v), see <ref target="Popper_1969" type="number">50-56</ref>.
+</p>
+							<p>
+								<name type="person" role="censor">Renato de Modena</name>: inscription 'Visto p[er] me fr. Renato de Mod[ena] 1626' (f. 434); see <ref target="Popper_1969" type="number">132-133</ref>.
+</p>
+							<p>Erasures (e.g. <locus n="224v, 283r, 294v, 297r, 375r, 422r"/>).
+</p>
+							<p>
+								<name type="person" role="owner">Bernard Mould </name>(b. c. 1683; d. 1744), chaplain at Smyrna: inscribed with his name, <name type="place">Smyrna</name>, <date calendar="Gregorian">1724 </date>(folio 435b); sold to <name type="person" role="owner">Edward Harley</name> on 28 July 1725 (see <ref target="Wright_1966"/>, <ref target="Wright_1972"/>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Moses ben Maimon. Mishneh Torah. Hebrew. Vol. II. Brit. Mus. Harley Ms. 5699.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5253" calendar="Hebrew" when="1472"/>
+						<provenance>
+							<p>
+								<name type="place">Portugal</name> (<name type="place">Lisbon</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1753</date>
+							<p>The Harley Collection, formed by <name type="person" role="owner">Robert Harley</name> (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and <name type="person" role="owner">Edward Harley</name> (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, <name type="person" role="owner">Henrietta Cavendish, née Holles</name> (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, <name type="person" role="owner">Margaret Cavendish Bentinck</name> (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in <date calendar="Gregorian">1753 </date>to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">487</ref>
+							</bibl>
+							<bibl>
+								<ref target="Harleian_1808" type="number">5698-5699</ref>
+							</bibl>
+							<bibl>
+								<ref target="Wright_1966" type="page">370</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">95</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

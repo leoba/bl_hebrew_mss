@@ -1,0 +1,162 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27109" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27109</idno>
+					</msIdentifier>
+					<head>Philosophy</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Philosophical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="92v"/>
+							<title xml:lang="he-Latn-x-lc">Teḥilat davar : ḥibur be-ḥokhmat ha-higayon</title>
+							<title xml:lang="he">תחלת דבר : חבור בחכמת ההגיון</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19577743">Concio, Joseph ben Gerson, -1628</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19577743">קונציו, יוסף בן גרשם</persName>
+							</author>
+							<note>
+								<p>A treatise on logic. An autograph, with frequent corrections by the author himself. The work consists of a preface, intrudiction and two chapters.</p>
+								<p>The work ends with a list of syllogisms with the usual designations on one side (in Latin script), and with Hebrew terms on the other.</p>
+								<p>Folios 89r-91v contain a table of contents, and on folio 92r there is an additional piece with some rhymed lines at the end.</p>
+							</note>
+							<colophon xml:lang="he">נכתב ונשלם פה ק"ק <name type="place">אסטי</name> תמוז <date calendar="Hebrew">שס"ה</date> לפ"ק שלי הצעיר <name type="person" role="scribe">יוסף קונציו</name>.<locus n="91v"/>
+							</colophon>
+							<colophon xml:lang="he">והשלמתיה כפי המכוון פה ק"ק <name type="place">אסטי</name> בחדש השלישי בשנת <date calendar="Hebrew">שלש מאות וששים ושש לאלף הששי</date>.<locus n="92r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>92 folios<dimensions type="leaf" unit="mm">
+										<height>205</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>92 folios (+ 3 unfoliated paper flyleaves at the end). </p>
+									<p>Original Hebrew foliation.</p>
+								</foliation>
+								<collation>
+									<p>Quires of 20 to 24 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Dark tidemarks at edges. Usage stains.</p>
+									<p>Ink smears and some pen trials on text leaves.</p>
+									<p>Occasional worming.</p>
+									<p>Corroding ink.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="16 21" writtenLines="16 21">
+									<p>Uniform layout.</p>
+									<p>Visible vertical hard-point ruling.</p>
+									<p>Titles and inital words in larger square characters. </p>
+									<p>Catchwords on every page.</p>
+									<p>Scribblings and pen trials on folios 48v-49r, 72v-73r.</p>
+									<p>Folio 2 is a title page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Itlaian cursive script of the 17th century. <name type="person" role="scribe">Joseph ben Gerson Concio</name>: inscribed with his name in the colophon and a subscription, folios 91v, 92r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: a former owner's note, <name type="person" role="owner">Joseph Almanzi</name>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Techillath Dibber. Hebrew. Brit. Mus. Additional 27,109.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5365-5366" calendar="Hebrew" notBefore="1605" notAfter="1606"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N.</name> (<name type="place">Asti</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 215: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [95v] (fse003v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">923</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

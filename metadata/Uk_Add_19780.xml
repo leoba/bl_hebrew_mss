@@ -1,0 +1,199 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19780" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19780</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A festival prayer book, according to the rite of Algiers.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="189v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="17v"/>
+							<title xml:lang="en">Services for the week of the 4th of Marḥeshvan</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="17v" to="23v"/>
+							<title xml:lang="he-Latn-x-lc">Seder parashat Sheḳalim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="23v" to="33r"/>
+							<title xml:lang="he-Latn-x-lc">Seder parashat Zekhor</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="33r" to="35v"/>
+							<title xml:lang="he-Latn-x-lc">Tiḳun yom Purim</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="35v" to="40v"/>
+							<title xml:lang="en">Seder parashat Parah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="40v" to="46r"/>
+							<title xml:lang="he-Latn-x-lc">Seder parashat ha-ḥodesh</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="46r" to="49v"/>
+							<title xml:lang="he-Latn-x-lc">Azharot</title>
+							<note>
+								<p>Services for the great sabbath.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="49v" to="94r"/>
+							<title xml:lang="he-Latn-x-lc">Seder ha-Pesaḥ</title>
+							<note>
+								<p>Services for the first evening of Pesaḥ, folio 49v; services for the first day of Pesaḥ, folio 56v; services for the second day, folio 71v; services for sabbath and the intermediate days of the festival, folio 76v; services for the seventh day of Pesaḥ, folio 80r; services for the last day of Pesaḥ, folio 84v.</p>
+								<p>Folio 90r contains the blessings for the biblical reading, and folios 90v-93v contain the readings for Pesaḥ.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="94r" to="128r"/>
+							<title xml:lang="he-Latn-x-lc">Seder ḥag Shavu῾ot</title>
+							<note>
+								<p>Services for the first day, folio 94r; services for the second day, folio 119v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="128r" to="188v"/>
+							<title xml:lang="he-Latn-x-lc">Seder ḥag Sukot</title>
+							<note>
+								<p>Services for the first day, folio 128r; services for the second day, folio 142v; services for sabath and the intermediate days, folio 149v; the order of haḳafot for Hosh῾anah rabah, folio 156r; services for Shemini ῾atseret, folio 167r; services for Simḥat Torah, folio 177r.</p>
+								<p>Folios 185r-187v contain Hafṭarot for the festival of Sukot.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>189 folios <dimensions unit="mm" type="leaf">
+										<height>280</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200</height>
+										<width>160</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>189 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Foxed paper.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 4" ruledLines="22" writtenLines="22">
+									<p>Uniform layout. </p>
+									<p>Initial words written in larger characters.</p>
+									<p>Leaf catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (North African) semi-cursive script, of the 17th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yosef Neḳaṿah</name> (?): inscribed, folios 56r, 188r.</p>
+							<p>An anonymous entry, dated 8 Adar <date calendar="Hebrew">5680</date> (<date calendar="Gregorian">1708</date>): inscribed, folio 188r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind tooled. Boxed.</p>
+								<p>Spine: 'Machazor. Secundum Ritum Algerensum. Hebraice. Mus. Brit. Jure Emptionis. 19,780.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1854-04-08</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>: purchased from him by the British Museum through D. Nutt on 08 April 1854: inscribed, folio [189v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">702</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-18</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2211" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2211</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The Latter Prophets with Targum Onkelos and the Arabic translation of Isaiah by Sa&apos;adyah Ga&apos;on.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi&apos;im</title>
+							<title xml:lang="he">נביאים</title>
+							<locus from="1r" to="321v"/>
+							<colophon xml:lang="he">...אני הקל צעיר ימים ושנים <name type="person" role="scribe">בניהו </name>משרת הזקנים: אני סופר ועיטי הם שנונים אני אינני כדאי קל הקטנים: נשלם והלל לה&apos;: נשלם זה הנביאים בעזרת בורא הברואים <date when="1475" calendar="Seleucid">יום שלישי דהוא עסרין וחד יומין בירח אדר שלשנת אלפא ושבע מאה ותמנין ושית שנין לשטרית</date> במדינת <name type="place">צנעא </name>תחרוב ותצדי: וירושלם תתבני ותשתכלל: יהא סימן טוב וברכה על מריה דאתעסק ביה <name type="person" role="patron">אברהם ש&quot;צ בן יוסף רי&quot;ת בן סעדיה נע&quot;ג בן אברהם תנצ&quot;?ג?
+
+</name>
+								<locus n="320r"/>
+							</colophon>
+							<note>
+								<p>See <ref target="Ettinghausen_1955" type="page">32-39</ref>, <ref target="Van_Zijl_1992" type="page">57-63</ref>, <ref target="Berger_2005" type="page">228-246</ref>, <ref target="Tahan_2007" type="page">28-29</ref>. </p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Jeremiah</title>
+							<locus from="1r" to="84r"/>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Ezekiel </title>
+							<locus from="84r" to="156r"/>
+						</msItem>
+						<msItem rend="v">
+							<locus from="156r" to="261v"/>
+							<title xml:lang="en">Isaiah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="262r" to="272v"/>
+							<title xml:lang="en">Hosea</title>
+						</msItem>
+						<msItem rend="v">
+							<title xml:lang="en">Joel</title>
+							<locus from="272v" to="276r"/>
+						</msItem>
+						<msItem rend="v">
+							<locus from="276r" to="284r"/>
+							<title xml:lang="en">Amos</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="284r" to="285r"/>
+							<title xml:lang="en">Obadiah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="285v" to="287v"/>
+							<title xml:lang="en">Jonah</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="287v" to="293v"/>
+							<title xml:lang="en">Micah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="293v" to="296r"/>
+							<title xml:lang="en">Nahum</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="296r" to="299r"/>
+							<title xml:lang="en">Habakuk</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="299r" to="302r"/>
+							<title xml:lang="en">Zephaniah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="302r" to="304r"/>
+							<title xml:lang="en">Haggai</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="304r" to="316v"/>
+							<title xml:lang="en">Zechariah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="316v" to="321v"/>
+							<title xml:lang="en">Malachi</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite square script, punctuated and accentuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>321 folios <dimensions unit="mm" type="leaf">
+										<height>400</height>
+										<width>280</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>290</height>
+										<width>200</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>321 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally 31 quires of mostly 10 leaves as the catchwords and the quire numbering show. </p>
+									<p>Collation has been modified at a later binding though.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. </p>
+									<p>Jonah, Zephaniah, Haggai and Malachi open a new column, and Hosea commences a new leaf.</p>
+									<p>The beginning and the end of the Haftarot indicated in the margin, for the most part in red ink.</p>
+									<p>Masorah magna in one to three lines in the lower margin of each page.</p>
+									<p>The number of verses stated at the end of each book.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script; Biblical text with Tiberian punctuation, Targum with Babylonian (superlinear) punctuation.</summary>
+							<handNote script="Hebrew" scope="major">
+<name type="person" role="scribe">Benayah [ben Sa&apos;adyah ben Zekharyah ben Margaz]</name>: inscribed with his name in the colophon, <name type="place">Sana</name>, <date calendar="Seleucid">21 Adar 1786</date> [1475] (folio 320r). 							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Avraham ben Yosef ben Sa&apos;adyah ben Avraham</name>: inscribed with his name in the frontispiece and in the colophon, Sana, <date calendar="Seleucid">1 Adar 1786</date>  (folios 1v, 2r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house binding. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="21 Adar 1786" when="1475" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name> (<name type="place">San&apos;a</name>)</p>
+						</provenance>
+						<acquisition>
+							<p><name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879 (folio 323r).</p>
+							<date>1879-12-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">138</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

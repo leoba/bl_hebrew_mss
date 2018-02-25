@@ -1,0 +1,161 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2782" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2782</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Sefer otsar ha-kavod.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="185v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer otsar ha-kavod</title>
+							<title xml:lang="he">ספר אוצר הכבוד </title>
+							<note>
+								<p>The text is not preceded be either introduction or verses. There is no table of contents or division into numbered paragraphs.</p>
+								<p>The text itself is often corrupt.</p>
+							</note>
+							<filiation>Cf. the contents of Or 62, <ref target="Margoliouth_1965" type="number">742</ref>, II.</filiation>
+							<colophon xml:lang="he">נשלם ספר הנקרא אוצר הכבוד בשנת <date calendar="Hebrew">הקס"א</date> ביום ב' בכ"ה ימים לחודש מרחשון למניין שאנו רגילים [?ל]מ[?נ]ות פה בקהל <name type="place">נקופולי</name>, וכתבתיו לכבוד הרב רבנא <name type="person" role="patron">ר' שמעון</name> והשם יזכנו להגות בו הוא ובניו ובני בנ[?י]ו עד סוף כל הדורות ויבורך בברכה שניתנה לישראל בלי תנאי אמן ואמן נ[?צח] סלה
+
+<locus n="185v"/>
+							</colophon>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/24783259">Abulafia, Todros ben Joseph, ha-Levi, approximately 1220-1298</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/24783259"> 	אבולעפיה, טודרוס בן יוסף, הלוי</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Todros_Abulafia_1807"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the early 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>185 folios<dimensions type="leaf" unit="mm">
+										<height>220</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>185 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each, marked by catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+									<p>2 leaves missing after folio 10, and 1 leaf after folios 21 and 31 respectively.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="28" writtenLines="28">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Decorated catchwords, folio 103v, 171v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Byzantine (Greek) semi-cursive script of the early 15th century. <name type="person" role="scribe">Eliyahu</name>: his name marked off on folio 170v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Rabi <name type="person" role="patron">Shim῾on</name>: inscribed in the colophon, folio 185v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Osar Hak-Kabhodh. Hebrew. Brit. Mus. Oriental Ms. 2782.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5161" calendar="Hebrew" when="1400"/>
+						<provenance>
+							<p>
+								<name type="place">Byzantine Empire</name>, <name type="place">Greece</name> (<name type="place">Nicopolis</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Hirsch Lipschutz</name>: bought from him by the British Museum on 22 May 1884: inscribed, folio [187v].</p>
+							<date>1884-05-22</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">738</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,175 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4596" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4596</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of Abraham Abulafia's works.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="69r"/>
+							<title xml:lang="he-Latn-x-lc">Sitre Torah</title>
+							<title xml:lang="he">סתרי תורה</title>
+							<listBibl>
+								<bibl>
+									<ref target="Idel_1976" type="page">11-12</ref>, p. 42 n. 43.</bibl>
+							</listBibl>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל</persName>
+							</author>
+							<incipit xml:lang="he">פירוש סודות מורה הנבוכים ושמו ספר סתרי תורה.<locus n="2r"/>
+							</incipit>
+						</msItem>
+						<msItem rend="">
+							<locus from="69v" to="120v"/>
+							<title xml:lang="he-Latn-x-lc">Ḥaye ha-῾olam ha-ba</title>
+							<title xml:lang="he">חיי העולם הבא</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל</persName>
+							</author>
+							<incipit xml:lang="he">פירוש שם המפורש ושמו חיי העולם הבא וסוד מספר אותיות ירושלם.<locus n="69v"/>
+							</incipit>
+							<note>
+								<p>Folio 117r: a poem exhibiting the acrostic with the title of the work.</p>
+								<p>At the end, folios 117v-118v: Sod ha-merkavah, ῾Esrim u-shetayim otiyot shel Metatron, and two segulot.</p>
+								<p>See further <ref target="Idel_1976" type="page">62-64</ref> (volume 1).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>120 folios<dimensions type="leaf" unit="mm">
+										<height>147</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>110</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>120 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves each, marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Slightly worm-eaten towards the gutter.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="29 30" writtenLines="29 30">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Some additions and comments in the margin.</p>
+									<p>Too closely cut in the binding.</p>
+									<p>Diagrams, folios 74r-98r, 117v,</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shemaryah Tsevi Avraham Yeḥiel </name>: inscribed in an owner's entry, folio 1r.</p>
+							<p>
+								<name type="person" role="owner">Nathan Coronel</name> (inscribed as N. S. Coronel): folio 119v.</p>
+							<p>Two additional, partly illegible inscriptions of former owners, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Boxed.</p>
+								<p>Spine: 'Commentary to Moreh Nebokhim &amp; Shem-Ham_Meforash. Abul-Afia. Hebrew. Brit. Mus. Or. 4596.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1893-01-16</date>
+							<p>Purchased by the British Museum through <name type="person" role="bookseller">Bernard Quaritch</name> on 16 January 1893: folio [122v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">757</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-11-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

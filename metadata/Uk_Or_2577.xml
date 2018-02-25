@@ -1,0 +1,150 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2577" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2577</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85071588" rend="visible">
+						<summary>A large fragment of Karaite Sefer ha-mitsṿot.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85071588">
+							<locus from="1r" to="102v"/>
+							<title xml:lang="ara-Latn-x-lc">Maḳalah 5</title>
+							<note>
+								<p>Contains parts of Maḳalah 5, treating on forbidden degrees in marriage. Hebrew quotations are also in Arabic characters.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="103r" to="159v"/>
+							<title xml:lang="ara-Latn-x-lc">Maḳalah 6</title>
+							<note>
+								<p>Contains parts of Maḳalah 6 on the laws of inheritance. Hebrew quotations are also in Arabic characters.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="160r" to="167v"/>
+							<title xml:lang="ara-Latn-x-lc">Maḳalah </title>
+							<note>
+								<p>A small fragment of another Maḳalah on unleavened bread on Passover. Hebrew quotations are also in Arabic characters.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>167 folios <dimensions unit="mm" type="leaf">
+										<height>170</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>75</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>167 folios (+ 3 unfoliated paper flyleaves at the beginning and 2 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 10 leaves each. The enumeration in Arabic numerals is for the most part preserved.</p>
+								</collation>
+								<condition>
+									<p>Much damaged. Worm-eaten.</p>
+									<p>Incomplete. Leaves missing after folio 102, 106, 159.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="12" writtenLines="12">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Arabic script of the 11th century.</summary>
+							<handNote script="Arabic" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Karaite Sefer Mitsvoth. Arabic. Brit. Mus. Oriental 2577.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="415" calendar="Hijri-qamari" when="1024"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882: inscribed (folio [168v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">592</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

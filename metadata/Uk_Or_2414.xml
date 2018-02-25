@@ -1,0 +1,167 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2414" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2414</idno>
+					</msIdentifier>
+					<head>Genesis</head>
+					<msContents class="lccn.loc.gov/n85305131" rend="visible">
+						<summary>Genesis, with punctuation and accents, accompanied with masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n85305131">
+							<locus from="1r" to="161v"/>
+							<title xml:lang="he-Latn-x-lc">Bereshit</title>
+							<title xml:lang="he">בראשית</title>
+							<msItem rend="v">
+								<title xml:lang="he-Latn-x-lc">Maḥberet ha-tigan (fragment)</title>
+								<note>
+									<p>A fragment of the treatise on accents.</p>
+								</note>
+								<incipit xml:lang="he">בזרקה: וכן המארכה תצמד בטעם לגרמיה.<locus n="1v"/>
+								</incipit>
+								<explicit xml:lang="he">זה הוא שראינו לכתבו לפי מדעינו וברוך אדונינו ברוך ייי לעולם אמן אמן.<locus n="3r"/>
+								</explicit>
+								<locus from="1r" to="3r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Genesis</title>
+								<locus from="3v" to="89v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus n="89v"/>
+								<title xml:lang="he-Latn-x-lc">Hafṭarot</title>
+								<note>
+									<p>Only the beginning of the Hafṭarot of Genesis are preserved, on f. 89v.</p>
+								</note>
+								<incipit xml:lang="he">בעזרת האל הגדול הגבור והנורא אתחיל לכתוב אפטריות זה החומש.<locus n="89v"/>
+								</incipit>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of about 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>89 folios<dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>89 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>10 quires of originally10 leaves each, with some leaves cut off from the 4th, 5th and 8th quire. </p>
+									<p>End of the quire signed with Hebrew letters at the end, in the left-hand bottom corner of the page and at the right-hand upper corner at the beginning of the quire.</p>
+									<p>Catchwords are only partially preserved due to mutilation of pages.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Uniform layout. </p>
+									<p>Visible pricking; ruling executed with hard-point on the hair-side of the leaf.</p>
+									<p>Writing in one column, with masoretic punctuation and masorah magna and parva. </p>
+									<p>Masorah magna in one line of the upper and of the lower margin, where it sometimes creates a round corner.</p>
+									<p>The beginning of a weekly section marked by an ornamental פ, and the liturgical subdivisions marked by Hebrew letters in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square Yemenite character, of about 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="author">Rashi</name>'s commentary given in the margin (semi-cursive writing of 17th century) of folio 29r.</p>
+							<p>Previous owner's note, 3v: הצעיר שלום בן שלמה הכהןowner יצו.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>Mr <name type="person" role="owner">Nicolas Mavrocordato</name>: purchased by the British Museum from him on <date calendar="Gregorian">08 October 1881</date>.</p>
+							<date>1881-10-08</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">107</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

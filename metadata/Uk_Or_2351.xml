@@ -1,0 +1,544 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2351" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2351</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon-Rofe, aka Yaḥya ben Saliman.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="357v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-ḥefets </title>
+							<title xml:lang="he">מדרש החפץ</title>
+							<author key="http://viaf.org/viaf/19836689">
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="en">Zechariah ben Solomon-Rofe, active 15th century</persName>
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="he">זכריה בן שלמה, הרופא</persName>
+							</author>
+							<colophon xml:lang="he">תעלם אן ב<date calendar="Seleucid">שנת א'ת'ש'מ'ז' לשטרות</date> צח פנא עצים ומות ומא בקי מן אלנאס אלא שי קליל פי אכתר אלבלדאן וכו'.<locus n="105v"/>
+							</colophon>
+							<filiation>Cf. Or 2380, <ref target="Margoliouth_1965" type="number">364</ref>.</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Midrash-Rabah_1985"/>
+								</bibl>
+							</listBibl>
+							<msItem rend="v">
+								<locus from="1r" to="3r"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="3r" to="26r"/>
+								<title xml:lang="en">Homily on Be-reshit</title>
+								<note>
+									<p>Hafṭarah starts on folio 25v. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="26r" to="34v"/>
+								<title xml:lang="en">Homily on Noaḥ</title>
+								<note>
+									<p>Hafṭarah starts on folio 34r. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="34v" to="41v"/>
+								<title xml:lang="en">Homily on Lekh lekha</title>
+								<note>
+									<p>Hafṭarah starts on folio 41r. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="41v" to="50r"/>
+								<title xml:lang="en">Homily on Ṿa-yera</title>
+								<note>
+									<p>Hafṭarah starts on folio 49v. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="50r" to="55r"/>
+								<title xml:lang="en">Homily on Ḥaye Sarah</title>
+								<note>
+									<p>Hafṭarah starts on folio 54v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="55r" to="61r"/>
+								<title xml:lang="en">Homily on Toledot</title>
+								<note>
+									<p>Hafṭarah starts on folio 60v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61r" to="67v"/>
+								<title xml:lang="en">Homily on Ṿa-yetse</title>
+								<note>
+									<p>Hafṭarah starts on folio 67r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="67v" to="72r"/>
+								<title xml:lang="en">Homily on Ṿa-yishlaḥ</title>
+								<note>
+									<p>Hafṭarah starts on folio 71v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="72r" to="76r"/>
+								<title xml:lang="en">Homily on Ṿa-yeshev</title>
+								<note>
+									<p>Hafṭarah starts on folio 76r. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="76r" to="81r"/>
+								<title xml:lang="en">Homily on Mi-kets</title>
+								<note>
+									<p>Hafṭarah starts on folio 80v. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="81r" to="84v"/>
+								<title xml:lang="en">Homily Ṿa-yigash</title>
+								<note>
+									<p>Hafṭarah starts on folio 84r. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="84v" to="90v"/>
+								<title xml:lang="en">Homily on Ṿa-yeḥi</title>
+								<note>
+									<p>Hafṭarah starts on folio 90r.</p>
+									<p>Author's colophon is copied on folio 90r. Similar statements are found at the end of Exodus, Leviticus and Numbers. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="90v" to="97r"/>
+								<title xml:lang="en">Homily on Shemot</title>
+								<note>
+									<p>Hafṭarah starts on folio 96v. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="97r" to="102r"/>
+								<note>
+									<p>Hafṭarah starts on folio 102r.</p>
+								</note>
+								<title xml:lang="en">Homily on Ṿa-᾿era</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="102r" to="110r"/>
+								<title xml:lang="en">Homily on Bo</title>
+								<note>
+									<p>Hafṭarah starts on folio 109v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="110r" to="122r"/>
+								<note>
+									<p>Has Megilat Ester between folio 117r-121r, then follows the Hafṭarah.</p>
+								</note>
+								<title xml:lang="en">Homily on Be-shalaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="122r" to="132r"/>
+								<title xml:lang="en">Homily on Yitro</title>
+								<note>
+									<p>Hafṭarah starts on folio 131r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="132r" to="141v"/>
+								<title xml:lang="en">Homily on Mishpaṭim</title>
+								<note>
+									<p>Hafṭarah starts on folio 141r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="141v" to="147v"/>
+								<title xml:lang="en">Homily on Terumah</title>
+								<note>
+									<p>Hafṭarah starts on folio 146v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="147v" to="151v"/>
+								<title xml:lang="en">Homily on Tetsaveh</title>
+								<note>
+									<p>Hafṭarah starts on folio 151r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="151v" to="160r"/>
+								<title xml:lang="en">Homily on Ki tisa</title>
+								<note>
+									<p>Hafṭarah starts on folio 159v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="160r" to="163r"/>
+								<title xml:lang="en">Homily on Ṿa-yaḳhel</title>
+								<note>
+									<p>Hafṭarah starts on folio 163r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="163r" to="165v"/>
+								<title xml:lang="en">Homily on Peḳude</title>
+								<note>
+									<p>Hafṭarah starts on folio 165r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="165v" to="174v"/>
+								<title xml:lang="en">Homily on Ṿa-yiḳra</title>
+								<note>
+									<p>Hafṭarah starts on folio 174r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="174v" to="181r"/>
+								<title xml:lang="en">Homily on Tsaṿ</title>
+								<note>
+									<p>Hafṭarah starts on folio 180v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="181r" to="187v"/>
+								<title xml:lang="en">Homily on Shemini</title>
+								<note>
+									<p>Hafṭarah starts on folio 187r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="187v" to="192v"/>
+								<title xml:lang="en">Homily on Tazri῾a</title>
+								<note>
+									<p>Hafṭarah starts on folio 192v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="192v" to="198r"/>
+								<title xml:lang="en">Homily on Metsora῾</title>
+								<note>
+									<p>Hafṭarah starts on folio 198r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="198r" to="204v"/>
+								<title xml:lang="en">Homily on Aḥare mot</title>
+								<note>
+									<p>Hafṭarah starts on folio 204v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="204r" to="211v"/>
+								<title xml:lang="en">Homily on Ḳedoshim</title>
+								<note>
+									<p>Hafṭarah starts on folio 211v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="211v" to="220r"/>
+								<title xml:lang="en">Homily on Emor</title>
+								<note>
+									<p>Hafṭarah starts on folio 219v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="220r" to="223v"/>
+								<title xml:lang="en">Homily on Be-har</title>
+								<note>
+									<p>Hafṭarah starts on folio 223r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="223v" to="228r"/>
+								<title xml:lang="en">Homily on Be-ḥuḳotai</title>
+								<note>
+									<p>Hafṭarah starts on folio 228r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="228r" to="231r"/>
+								<title xml:lang="en">Homily on Be-midbar</title>
+								<note>
+									<p>Hafṭarah starts on folio 231r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="231r" to="238v"/>
+								<title xml:lang="en">Homily on Naso</title>
+								<note>
+									<p>Hafṭarah starts on folio 238v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="238v" to="244r"/>
+								<title xml:lang="en">Homily on Be-ha᾿alotekha</title>
+								<note>
+									<p>Hafṭarah starts on folio 243v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="244r" to="251r"/>
+								<title xml:lang="en">Homily on Shalaḥ lekha</title>
+								<note>
+									<p>Hafṭarah starts on folio 251r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="251r" to="257r"/>
+								<title xml:lang="en">Homily on Ḳoraḥ</title>
+								<note>
+									<p>Hafṭarah starts on folio 257r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="257r" to="262r"/>
+								<title xml:lang="en">Homily on Ḥuḳat</title>
+								<note>
+									<p>Hafṭarah starts on folio 262r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="262r" to="266r"/>
+								<title xml:lang="en">Homily on Balaḳ</title>
+								<note>
+									<p>Hafṭarah starts on folio 266r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="266r" to="271v"/>
+								<title xml:lang="en">Homily on Pinḥas</title>
+								<note>
+									<p>Hafṭarah starts on folio 271r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="271v" to="274r"/>
+								<title xml:lang="en">Homily on Maṭot</title>
+								<note>
+									<p>Hafṭarah starts on folio 273v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="274r" to="277v"/>
+								<title xml:lang="en">Homily on Mas῾e</title>
+								<note>
+									<p>Hafṭarah starts on folio 276v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="277v" to="281v"/>
+								<title xml:lang="en">Homily on Eleh ha-devarim</title>
+								<note>
+									<p>Hafṭarah starts on folio 281r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="281v" to="290v"/>
+								<title xml:lang="en">Homily on Ṿa-etḥanan</title>
+								<note>
+									<p>Hafṭarah starts on folio 291r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="291v" to="296r"/>
+								<title xml:lang="en">Homily on ῾Eḳev</title>
+								<note>
+									<p>Hafṭarah starts on folio 296r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="296r" to="303r"/>
+								<title xml:lang="en">Homily on Re᾿eh</title>
+								<note>
+									<p>Hafṭarah starts on folio 303r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="303r" to="310r"/>
+								<title xml:lang="en">Homily on Shofṭim</title>
+								<note>
+									<p>Hafṭarah starts on folio 310r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="310r" to="317r"/>
+								<title xml:lang="en">Homily on Ki tetse</title>
+								<note>
+									<p>Hafṭarah starts on folio 317r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="317r" to="321r"/>
+								<title xml:lang="en">Homily on Ki tavo</title>
+								<note>
+									<p>Hafṭarah starts on folio 320v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="321r" to="326v"/>
+								<title xml:lang="en">Homily on Netsavim</title>
+								<note>
+									<p>Hafṭarah starts on folio 326r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="326v" to="329v"/>
+								<title xml:lang="en">Homily on Ha᾿azinu</title>
+								<note>
+									<p>Hafṭarah starts on folio 329r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="329v" to="340v"/>
+								<title xml:lang="en">Homily on Zot ha-berakhah</title>
+								<note>
+									<p>Hafṭarot for special sabbaths and festivals start on folio 333v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="341r" to="356v"/>
+								<title xml:lang="he-Latn-x-lc">Mishneh Torah </title>
+								<title xml:lang="he">משנה תורה</title>
+								<author key="http://viaf.org/viaf/100185495">
+									<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204  </persName>
+									<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון</persName>
+								</author>
+								<note>
+									<p>Only a fragment of the treatise, i.e. Sefer ahavah, has been appended here.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 15th to 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>357 folios<dimensions type="leaf" unit="mm">
+										<height>255</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>142</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>357 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Damaged. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Gaps after folios 3, 63, 92. </p>
+									<p>Several leaves inlaid with tracing paper for preservation. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Titles of chapters and beginning of sections highlighted with red ink. </p>
+									<p>Catchwords on every verso. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of 15 to 16th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios [i recto], 357r, 357v contain a fragment of Maimonides' Commentary on the Mishnah Midot 2:4-3:1.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash Ha-Chefets. Hebrew and Arabic. Brit. Mus. Oriental 2351.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1430" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-05-28</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 28 May 1881, inscribed, folio <locus n="fse001v">[358v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">363</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

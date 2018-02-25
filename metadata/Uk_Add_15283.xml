@@ -1,0 +1,199 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15283" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15283</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch, Hafṭarot and Five Scrolls, provided with punctuation, accents and masorah parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="http://lccn.loc.gov/n79066420">
+							<locus from="1r" to="265v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot </title>
+							<title xml:lang="he">תורה, מגילות  והפטרות </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p>The fullest masorah is given to the Pentateuch; in the Hafṭarot  and the Five Scrolls only the קרי is given. </p>
+								<p>See <ref target="Sed-Rajna_1970" type="page">74-75</ref>, <ref target="Sed-Rajna_1988" type="page">16-17</ref>, <ref target="BL_2007" type="page">40</ref>, <ref target="Tahan_2007" type="page">66-67</ref>. </p>
+							</note>
+							<decoNote type="other">5 frontispieces in colours and gold.<locus n="1r, 48v, 88r, 114v, 152r"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus n="242v, 248v, 255r, 258v"/>4 decorated initial-word panels in colours and gold.</decoNote>
+							<decoNote type="other">1 embellished panel in colours and gold.<locus n="245v"/>
+							</decoNote>
+							<decoNote type="other">1 embellished panel with pen-flourishing, in mauve ink. <locus n="42r"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="v">
+							<locus from="2r" to="48v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="48v" to="88r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="88r" to="114r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="114v" to="152r"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="152r" to="185v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="185v" to="242v"/>
+							<title xml:lang="en">Hafṭarot  </title>
+							<note>
+								<p>Contains Hafṭarot of the weekly sections and of the fasts and feasts.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="242v" to="245v"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="245v" to="248v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="248v" to="255r"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="255r" to="258v"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="258v" to="265v"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of late 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">265 folios<dimensions unit="mm" type="leaf">
+										<height>195</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>120</height>
+										<width>85</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>265 folios (+ 4 unfoliated modern paper flyleaves at the beginning and 4 unfoliated modern paper flyleaves and an unfoliated parchment flyleaf at the end); folio 1 is a foliated parchment flyleaf. </p>
+								</foliation>
+								<collation>
+									<p>33 quires: i-x8 (folios 2-81), xi6 (folios 82-87), xii-xxxii8 (folios 88-255), xxxiiit10 (folios 256-265). </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="21" writtenLines="21">
+									<p>Uniform layout. </p>
+									<p>Hair side and flesh side are distinguishable. </p>
+									<p>Ruled with hard-point. </p>
+									<p>Folio 185 is a later reconstruction. </p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Sefardi semi-cursive script, punctuated, of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>English description of the manuscript (folio 1r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: &apos;Pentateuch, Haphtaroth, and Meghilloth. Hebrew. Brit. Mus. Additional Ms. 15,283.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1475" notAfter="1499">Last quarter of 15th century</origin>
+						<provenance>
+							<p>
+								<name type="place">Portugal, C.</name> (<name type="place">Lisbon</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1844-08-02</date>
+							<p><name type="person" role="owner">Prince Augustus Frederick </name>(b. 1773, d. 1843), duke of Sussex: his armorial book-plate (inside back cover); his sale <date calendar="Gregorian">2 August 1844</date>, lot 315: inscribed ([266v]), purchased by the British Museum by <name type="person">Frederick Madden</name> for £37. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">84</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

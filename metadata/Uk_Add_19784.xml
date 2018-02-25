@@ -1,0 +1,148 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19784" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19784</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Discussions on the Hilkhot sheḥiṭah of Maimonides' Mishneh Torah, by Rabi <name type="person" role="author">Shemu᾿el</name>, with additional expositions by <name type="person" role="author">Yehudah ben Pinḥas</name>.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="215v"/>
+							<title xml:lang="en">Hilhot sheḥiṭah </title>
+							<title xml:lang="he">הלכות שחיטה</title>
+							<note>
+								<p>Folio 3v contains a poem (in continuation with the title page) in Aramaic, composed by Yehudah ben Pinḥas (perhaps the scribe of this manuscript?) in honour of Rabi Shemu᾿el. At the end (folios 213v-214r) is a similar poem in Hebrew, by the same author.</p>
+							</note>
+							<decoNote type="border">
+								<locus n="3r"/>Decorated border around the title page, in black and yellow ink.</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th to 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>215 folios <dimensions unit="mm" type="leaf">
+										<height>157</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>125</height>
+										<width>75</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>215 folios (+ 4 unfoliated modern paper flyleaves at the beginning and at the end). Folio 1 is a modern paper flyleaf.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves eeach.</p>
+								</collation>
+								<condition>
+									<p>Slightly water-damaged.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="26" writtenLines="26">
+									<p>Uniform layout. Visible hard-point ruling.</p>
+									<p>Catchwords on every page.</p>
+									<p>Some marginal notes.</p>
+									<p>Chapter numbers and initials given in larger characters.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental (Persian) square and semi-cursive script of the 17th to 18th century. <name type="person" role="scribe">Yehudah ben Pinḥas</name>: inscribed, folio 213v.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Doodles on folio 215r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Blind tooled brown leather. Boxed.</p>
+								<p>Spine title: 'Comm. on Mishneh Thorah. Hebrew. Brit. Mus. Additional 19,784.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Iran</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1854-05-13</date>
+							<p>
+								<name type="person" role="owner">D. Nutt (Aschkenazi)</name>: purchased by the British Museum from him on 13 May 1854: inscribed, folio <locus n="fse001v">[216v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">502</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

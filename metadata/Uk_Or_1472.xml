@@ -1,0 +1,156 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-17</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1472" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1472</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>The book of Samuel and Kings, with Targum in alternate verses, accentuated and punctuated, with masorah magna and parva.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים </title>
+							<colophon xml:lang="he">נכתב זה הנביאים אשר הוא לעיני דורשו מאירו וכשמש מזהירו לכג"ק הכהנים הטובים צפירת תפארת מחמד עינינו ורביד על גרונינו וענק על צוארינו עשר ברביד החן נרבדים ובשם טוב נזבדים אדונינו ורבותינו
+[...]		<name type="person" role="patron">הכהן יש"ל ב[ ] יוסף הכהן רי"ת בן ישועה הכ[?הן</name>?]
+[...] כיהם להגות [בו?] ובתורתו הם וזרעם וזרע זרעם מעתה ועד עולם אנ"ס ויקיים עליהם מק' שכת' לא ימ' ספ' התו' הז' מפי' והג' ב' יומ' ולילה אמן כן יאמר בעל הרחמים אמן.<locus n="167r"/>
+							</colophon>
+							<locus from="1v" to="167v"/>
+							<decoNote type="border">Heavy pen and ink design with the inscription from Ps. 98:20.<locus n="82r"/>
+							</decoNote>
+							<msItem rend="v">
+								<locus from="1v" to="81v"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio 45v. </p>
+								</note>
+								<decoNote type="other"> Heavy pen and ink design with the inscription from Ps. 98:20.<locus n="82r"/>
+								</decoNote>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Kings</title>
+								<locus from="82v" to="167v"/>
+								<note>
+									<p>2Kings starts on folio 126r. </p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.  </support>
+								<extent>167 folios<dimensions unit="mm" type="leaf">
+										<height>358</height>
+										<width>253</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>259</height>
+										<width>174</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>167 folios (+ 1 modern paper flyleaf at the beginning and 4 modern paper flyleaves at the end). </p>
+								</foliation>
+								<collation>
+									<p>18 quires of 10 leaves each, divided into two parts of 9 quires each and numbered separately in Hebrew letters on the first page. </p>
+									<p>Quire 9 and 18 are not full. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="28" writtenLines="28">
+									<p>Kings opens on the verso of a new leaf. </p>
+									<p>Masorah magna occupies one line at the bottom and frequently also one line at the top of the page. </p>
+									<p>There is number of masoretic notes for each book. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite square script, punctuated and accentuated, of the 16th century. </summary>
+							<handNote script="Hebrew" scope="major">
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+							<summary>Pen and ink design.</summary>
+							<decoNote type="paratext">
+								<locus n="82r"/> Heavy pen and ink design with the inscription from Ps. 98:20. </decoNote>
+						</decoDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Yaḥya ibn Salam Alzabib</name> and <name type="person" role="owner">Musa ben Yeḥiel Alzabib</name>: inscribed, folio 1r.   </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: 'Samuel &amp; Kings with Targum. Hebrew. Brit. Mus. Oriental 1472.' </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin calendar="Seleucid" when-custom="1824" notBefore="1512" notAfter="1513"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">133</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-06-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27195" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27195</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>An elaborate work on the Hafṭarot according to the German rite, as used in a town of Northern Italy, by Moses Romanini.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="88v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor minhag Ashkenaz le-Shavuʻot ule-Sukot </title>
+							<title n="0" xml:lang="he">מחזור מנהג אשכנז לשבועות ולסוכות ‬</title>
+							<note>
+								<p>The work is divided into 26 chapters.</p>
+							</note>
+							<decoNote type="illustration">A wood-cut representing an archway (excerpted from Daniel Bomberg's edition of the Hafṭarot, Venice 1548).<locus n="1r"/>
+							</decoNote>
+							<decoNote type="illustration">
+								<locus n="6r, 7r, 11r, 13r, 16r, 22r,  23v, 25r, 27r, 29r, 34v, 41r, 42v, 46r, 48v, 50v, 51v, 52v, 53r, 56r, 60r, 65r, 76v, 82r, 83r, 85v, 86v"/>A pen and ink representation of human head at the begininng of chapters.</decoNote>
+							<decoNote type="diagram">Diagrams.<locus n="21v, 22v, 33r"/>
+							</decoNote>
+							<decoNote type="paratext">
+								<locus n="20v"/>Musical notes.</decoNote>
+							<author n="0">
+								<addName/>
+								<persName xml:lang="en">Romanini, Moses</persName>
+							</author>
+							<msItem rend="v">
+								<locus from="3r" to="3v"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="3v" to="5v"/>
+								<title xml:lang="en">Table of contents</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="6r" to="86r"/>
+								<title xml:lang="en">A treatise on Hafṭarot </title>
+								<note>
+									<p>On folio 65r sqq. are a series of footnotes, occupying considerable portions of pages.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="86v" to="87v"/>
+								<title xml:lang="en">Table of contents</title>
+							</msItem>
+							<msItem rend="v">
+								<locus n="88r"/>
+								<title xml:lang="he-Latn-x-lc">Ṭe῾ame ha-hafṭarot </title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>88 folios <dimensions unit="mm" type="leaf">
+										<height>295</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>265</height>
+										<width>185</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>88 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end)</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 and 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="32 33" writtenLines="32 33" columns="1">
+									<add/>
+									<p>Uniform layout, with clear division into chapters.</p>
+									<p>Catchwords on most of the pages.</p>
+									<p>Beginning of chapters and individual sections within chapters marked with a Hebrew letter. Initial words of each section written in bold characters.</p>
+									<p>Numerous pen and ink drawings of a human head at the beginning of chapters.Occasional diagrams. </p>
+									<p>Separate title-page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi cursive and square scripts of the 18th century. Autograph.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="3v" to="5v"/>a table of contents exhibits the acrostic "אנכי משה", followed by תשרק. </p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Yehudah Ḥayim Romanini</name>: the author's son: his name inscribed in an acrostic, folio 2r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600 binding. Blue velvet, with metal at the corners.</p>
+								<p>Spine: 'Pum Memallel Rabreban. Hebrew. Brit. Mus. Additional 27,195.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]537" calendar="Hebrew" when="1777"/>
+						<provenance>
+							<p>
+								<name type="place">Italy, N. </name>(<name type="place">Venice</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 309; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="person" role="bookseller">Adolphus Asher </name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, <locus n="fse001r">[89r]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">680</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-06-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

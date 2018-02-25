@@ -1,0 +1,150 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_73" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 73</idno>
+					</msIdentifier>
+					<head>Halakhic commentary</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Rashi's commentary on Bava metsiʿa (a fragment). </summary>
+						<textLang mainLang="tmr" otherLangs="he">Aramaic, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="138v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Bava metsiʿa  </title>
+							<title xml:lang="he">פירוש בבא מציעא</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105 </persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש&quot;י)</persName>
+							</author>
+							<colophon xml:lang="he">סליק בבא מצעא בעזרת רוכב שב[ע
+
+לאדונינו <name type="person" role="patron">דוד ר[?א?ש הגולה</name>: יתמד ש[
+
+וכסאו לעד יכון סלה: וימלא לו כל [
+
+ואיביו תחת רגליו להפילה: וגם <date when="1192" calendar="Seleucid">י[
+
+ניסן תק"א</date> לשטרות:<locus n="138r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>138 folios <dimensions unit="mm" type="leaf">
+										<height>250</height>
+										<width>175</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p> 138 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>14 quires and a single leaf: i-xiii10 (folios 1-129), xiv8 (folios 130-137) plus folio 138. </p>
+									<p>Quires marked with catchwords at the end. </p>
+								</collation>
+								<condition>
+									<p>Folios missing at the beginning and at the end. </p>
+									<p>Pages mutilated with loss of text. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="35" writtenLines="34">
+									<p>Uniform layout. </p>
+									<p>Pricking and ruling are visible. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script, unpunctuated, of the 12th century. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Daṿid ben Shemu᾿el Rosh ha-Golah</name>: inscribed in the colophon, folio 138r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Babha metsiʿa.T.B. Hebrew &amp; Aramaic. Brit. Mus. Oriental 73.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="501" calendar="Seleucid" when="1192"/>
+						<provenance>
+							<p>
+								<name type="place">Irak </name>(<name type="place">Baghdad</name>?)</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">412</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

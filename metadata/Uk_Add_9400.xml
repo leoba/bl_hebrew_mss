@@ -1,0 +1,201 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_9400" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 9400</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with Targum Onḳelos, the Five Scrolls and Hafṭarot, with punctuation and accents.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="337v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot </title>
+							<title xml:lang="he">תורה, מגילות  והפטרות </title>
+							<note>
+								<p>The Pentateuch has Hebrew text and Targum in alternate verses.</p>
+								<p>Masoretic notes are very scarce. </p>
+								<p>The manuscript has a forged colophon written in semi-cursive script of probably 18th century, followed by a transliteration in square script (folio 273v). Below the transliteration there is a Latin note of ownership.</p>
+							</note>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">יחיאל בר יקובן</name> כתבתי זה הספר בעיר <name type="place">קונשתנתין </name>אלף ושבע לחורבן הבית שהיא אלף שלוש מאות שבע ושמונים למנין השטרות שהיא <date when="1076" calendar="Hebrew">שנת ארבע אלפים שמונה מאות שלושים ושש ליצירה [?]</date>.<locus n="273v"/>
+							</colophon>
+						</msItem>
+						<msItem rend="v">
+							<locus from="2v" to="70r"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="70r" to="128r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="128r" to="170r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="170r" to="223v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="223v" to="273v"/>
+							<title xml:lang="en">Deuteronomy</title>
+							<msItem rend="v">
+								<locus from="274r" to="275r"/>
+								<title xml:lang="en"> Notes</title>
+							</msItem>
+						</msItem>
+						<msItem rend="v">
+							<locus from="275r" to="277r"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="277r" to="279r"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="279r" to="281v"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="282r" to="286v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="286v" to="292r"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="292r" to="337v"/>
+							<title xml:lang="en">Hafṭarot </title>
+							<note>
+								<p>Hafṭarot of the weekly pericopes and of the feasts and fasts.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent rend="visible">337 folios<dimensions unit="mm" type="leaf">
+										<height>425</height>
+										<width>343</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>290</height>
+										<width>245</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>337 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>42 quires: 41 of 8 leaves and the last one of 7 leaves. </p>
+									<p>Quires marked by ornamented catchwords on the last page.  </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="29" writtenLines="28">
+									<p>Folios 2-5 and 274 added in the 18th century. </p>
+									<p>Numbers, Song of Songs and Ecclesisates commence a new leaf. </p>
+									<p>Initial words of Genesis, Song of Songs and Haftarot written in larger letters. </p>
+									<p>Beginnings of pericopes in the Pentateuch marked in the margin by ornamented פ or פר. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, provided with vowel-points and accents, of the 13th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind-tooled, with clasps. </p>
+								<p>Spine: &apos;Bible. Hebrew. Brit. Mus. Additional 9400.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate notBefore="1200" notAfter="1299">13th century</origDate>
+						<origPlace>Germany</origPlace></origin>
+						<provenance>
+							<p>
+								<name type="person" role="owner">John van der Hagen</name>, scholar and pastor in Amsterdam. His inscription in Latin on folio 273v: &quot;haec eadem verba leguntur in hac ipsa pagina ad calcem Pentateuchi, scripta Literis Rabbinicis, fere detritis: quapropter ea iterum describi curavi, Literis Quadratis, ao&apos; Chri&apos; 1726, Aprilis 25. Johannes van der Hagen, pastor Amstelodami. In his verbis, Scriptionis annus triplici aera designatur, et nomen Scribae, atque locus Scriptionis exprintur.&quot; </p>
+							<p>Folio 273r, a Latin description of the manuscript headed: &quot;Rev. John van der Hagen&apos;s account of this manuscript is as follows.&quot;</p>
+							<p>
+								<name type="person" role="owner">Cornelius Schulting</name>, scholar and pastor in Amsterdam, his inscription in the lower margin of 273v: &quot;A.M. 4836, q est A.C. 1076. Scriptus est hic liber and below it, another van der Hagen&apos;s inscription: Haec est manus Cornii Schulting, Pastoris Amstelodamensis, qui annum scriptionis recta notavit, ut patet ex iis, quae hic e regione leguntur et supra descripta sunt.&quot; </p>
+							<p>Folio 274r has an English memorandum: &quot;This Latin manuscript was once in the Library of the Rev. Cornelius Schulting, and at this demise was purchased by the Rev. J. v. d. Hagen in 1726. Both were ministers of the reformed religion in Amsterdam: the autographs of both are on the opposite page. The work is written on 334 leaves of vellum, in an Italian  hand: length of the page, 17 inches; breadth, 13 inches and a half. It is one of the oldest Hebrew MSS. known to exist, and has not been collated either by Kennicott or de Rossi. See a further description of this and the other van der Hagen MSS. in my MS. Catalogue.&quot;</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar. His bookplate with Greek inscription: <q>ho theos agape estin</q> (inner lower cover) and his short description of the manuscript in English on folio [ii verso]. This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in <date calendar="Gregorian">1834</date>, once the property of the Hagen family and then of Adam Clarke. </p>
+							<date>1834</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">71</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

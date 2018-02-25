@@ -1,0 +1,246 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_16577" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 16577</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book, according to the Italian rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="287v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<decoNote type="border">
+								<locus n="1r, 27v, 30v"/>3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote>
+							<decoNote type="miniature">1 full-page miniature including the first owner’s inscription. <locus n="287r"/>
+							</decoNote>
+							<decoNote type="initial">Numerous initial-word panels and initial words accompanied with foliate scrolls or floral motifs and sometimes with animals or birds, in colours and gold. </decoNote>
+							<decoNote type="marginal">2 pen drawings in the margin.<locus n="53r, 101v"/>
+							</decoNote>
+							<note>
+								<p>See further <ref target="Tahan_2007" type="page">83-85</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="13v"/>
+							<title xml:lang="en">Services for week-days</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="13v" to="29v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan Shabat</title>
+							<filiation>Cf. the contents of Add MS 19944.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="29v" to="35r"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan Rosh ḥodesh</title>
+							<filiation>Cf. the contents of Add MS 19944.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="35r" to="37v"/>
+							<title xml:lang="he-Latn-x-lc">Seder ῾Asarah be-ṭevet</title>
+							<filiation>Cf. Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="37v" to="48r"/>
+							<title xml:lang="he-Latn-x-lc">Seder arba῾ah parashiyot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="48r" to="84r"/>
+							<title xml:lang="he-Latn-x-lc">Seder ῾Inyan Pesaḥ</title>
+							<filiation>Cf. Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+							<note>
+								<p>The Hagadah begins on folio 51r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="84r" to="108r"/>
+							<title xml:lang="he-Latn-x-lc">Pirḳe avot</title>
+							<note>
+								<p>Contains <name type="person" role="translator">Samuel ibn Tibbon</name>’s introduction and his Hebrew translation of Maimonides’ commentary on Pirḳe avot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="108r" to="126r"/>
+							<title xml:lang="he-Latn-x-lc">Seder Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="126r" to="149v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan arba῾ah tsomot</title>
+							<filiation>Cf the contents of Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="149v" to="166r"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan ta῾anit </title>
+							<filiation>Cf the contents of Add MS 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="166r" to="177r"/>
+							<title xml:lang="he-Latn-x-lc">Seder ma῾amadot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="177r" to="188v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="188v" to="260v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Yom Kipur</title>
+							<filiation>Cf the contents of Add MS 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="260v" to="287v"/>
+							<title xml:lang="he-Latn-x-lc">῾Inyan ḥag ha-Sukot</title>
+							<note>
+								<p>Cf the contents of Add. 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>287 folios <dimensions unit="mm" type="leaf">
+										<height>325</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>225</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>287 folios (+ 3 unfoliated modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>29 quires: i-xxviii10 (folios 1-280), xxixten (folios 281-286, 286a, 287). </p>
+									<p>Catchwords. </p>
+									<p>Quire numeration on the recto of the first folios in Arabic numbers.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="35" writtenLines="35">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Parallel Hebrew foliation. </p>
+									<p>Gilt edges.
+</p>
+									<p>Censors’ erasures (e.g., folio 2r, 8v, 154r, 155v, 178v, 183r).
+</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century, partially punctuated. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham ben Ya῾aḳov</name>: inscribed with his name in an owner's inscription (folio 287v).
+</p>
+							<p>
+								<name type="person" role="owner">Kalonymos Finziim</name> (Panziim?; of the Finzi/ Panzi family?: inscribed with his name in an owner’s inscription, undated (folio 1r).
+</p>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name> (fl. until 1596): inscribed with his name, <date calendar="Gregorian">1575</date> (folio 286r); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), p. 78, appendix § 105-110.</p>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, <date calendar="Gregorian">1611 </date>(folio 286r); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 50-56.
+</p>
+							<p>
+								<name type="person" role="censor">Antonio Franc. Enriques</name> (fl. in Urbino): inscribed with his name, <date calendar="Gregorian">1688 </date>(folio 286r); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 44.
+</p>
+							<p>Marginal inscription: an attempt to copy Franguellus' signature (folio 103v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. Red velvet, with clasps. Rebound in-house in brown leather (both bindings preserved). </p>
+								<p>Spine: 'Machazor Liber Precum. Hebraice. Mus. Brit. Jure Emptionis. 16,577. Plut.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1450" notAfter="1474"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>Acquired by the British Museum in 1847.</p>
+							<date>1847</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">630</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">44</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

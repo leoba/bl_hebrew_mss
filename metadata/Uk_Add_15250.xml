@@ -1,0 +1,334 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15250" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15250</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Bible (the 'Duke of Sussex's Catalan Bible) with masorah magna and parva</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="437v"/>
+							<title xml:lang="he-Latn-x-lc">Tana"kh</title>
+							<title xml:lang="he">תנ"ך </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<note>
+								<p/>
+							</note>
+							<decoNote type="miniature">
+								<locus from="3v" to="4r"/>2 full-page miniatures of the Temple implements, in colours and gold.</decoNote>
+							<decoNote type="border"> Masoretic lists in architectural frames, in colours and gold. <locus from="1v" to="3r"/>
+							</decoNote>
+							<decoNote type="paratext">
+								<locus/>Masorah in micrographic design.</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Pettigrew_1827" type="page">xii-xiv</ref>
+								</bibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">303</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1982" type="number">19</ref>
+								</bibl>
+								<bibl>
+									<ref target="Kogman-Appel_2004" type="page">145-164</ref>
+								</bibl>
+								<bibl>
+									<ref target="Rosenau_1979" type="number">34-35</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">52-53</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">143</ref>
+								</bibl>
+							</listBibl>
+							<msItem rend="v">
+								<locus from="2v" to="3r"/>
+								<title xml:lang="en">Masoretic list</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="5v" to="32v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="32v" to="56r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="56r" to="72v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="72v" to="95v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="95v" to="116v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="116v" to="131v"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="131v" to="145v"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="145v" to="180r"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio 164v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="180r" to="215r"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>2Kings starts on folio 198r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="215r" to="239r"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="239r" to="270v"/>
+								<title xml:lang="en">Jeremiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="270v" to="297r"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="297r" to="300v"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="300v" to="302r"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="302r" to="305r"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="305r" to="305r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="305r" to="306r"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Micah</title>
+								<locus to="308r" from="306r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Nahum</title>
+								<locus to="309r" from="308r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Habakuk</title>
+								<locus to="311r" from="309r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zephaniah</title>
+								<locus to="311r" from="310r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Hagai</title>
+								<locus from="311r" to="312r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zechariah</title>
+								<locus from="312r" to="316v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Malachi</title>
+								<locus from="316v" to="317v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="317v" to="319v"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="319v" to="346v"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="346v" to="358r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="358r" to="367r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="367r" to="371v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="371v" to="373r"/>
+								<title xml:lang="he-Latn-x-lc">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="373r" to="375v"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="375v" to="384r"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Esther</title>
+								<locus to="388v" from="384r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Ezra</title>
+								<locus from="388v" to="402r"/>
+								<note>
+									<p>Nehemiah starts on folio 394r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Chronicles</title>
+								<locus from="402r" to="437r"/>
+								<note>
+									<p>2Chron. starts on folio 417v.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the third quarter of the 14th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>437 folios<dimensions unit="mm" type="leaf">
+										<height>170</height>
+										<width>120</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>110</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>437 folios (+ 2 unfoliated paper flyleaves at the beginning and 1 unfoliated older paper and 2 unfoliated parchment flyleaves and a paper flyleaf at the end), the recto of the first and the verso of the last flyleaf are covered in silk.</p>
+								</foliation>
+								<collation>
+									<p>55 quires: i4 (folios 1-4), ii-liv8 (folios 5-428), lv10-1 (folios 429-437). </p>
+									<p>Quire numbering in Hebrew characters.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2 3" ruledLines="31" writtenLines="31">
+									<p>Uniform layout. Ruling and pricking are visible.</p>
+									<p>Numerous decorations:  2 full-page miniatures of the Temple implements, masoretic lists in architectural frames, masorah in micrographic design.</p>
+									<p>Masorah magna usually occupies two lines of the upper and three lines of the lower margin of each page. It is frequently written in the form of ornamental design, often that of a candlestick.</p>
+									<p>Exodus, Numbers, Jeremiah, Malachi, Psalms, Song of Songs, Esther and Ezra-Nehemiah begin a new column, and Leviticus and Proverbs begin a new leaf.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script, third quarter of the 14th century, punctuated. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Note of birth: Joseph, the brother of a previous owner was born on <date calendar="Hebrew">15 Nisan 5253</date> [<date calendar="Gregorian">1493</date>] (folio 437r). </p>
+							<p>Illegible Hebrew inscription (folio 1r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. 18th-century Italian red velvet binding on wood boards, with copper centrepiece and cornerpieces and remains of clasps.</p>
+								<p>Spine: 'Biblia Sacra Hebraica in Membrana. Mus. Brit. Jure. Emptionis. 15, 250.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1350" notAfter="1374"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>, N.E. (<name type="place">Catalonia</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1844-07-31</date>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick</name> (b. 1773, d. 1843), Duke of Sussex: his armorial book-plate, inscribed (inner front cover); his sale 31 July 1844, lot 101: inscribed (folio 437v), purchased by the British Museum through <name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849), bookseller for £41.
+English inscription, 19th century: 'The date assigned to this MS by Mr Pettigrew (Bibl. Suss. i. p. xii. No. 2) and marked on the binding is erroneous and arises from his having mistaken the note at the end of the volume for the date of the copy whereas it refers only to the birthday of the son of a former possessor of the MS' (folio [438v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">53</ref>
+							</bibl>
+							<bibl>
+								<ref target="Pettigrew_1827" type="number">xii-xiv</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

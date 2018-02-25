@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1041" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1041</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentateuch in <name type="person" role="translator">Sa'adia Gaon</name>'s translation.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="188v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="jrb-Hebr" otherLangs="he"> Judeo-Arabic, Hebrew</textLang>
+							<msItem rend="visible">
+								<locus from="1v" to="49r"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="49r" to="89r"/>
+								<title xml:lang="en" rend="visible">Exodus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="89r" to="117r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="117r" to="153r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="153r" to="188v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>188 folios<dimensions unit="mm" type="leaf">
+										<height>273</height>
+										<width>193</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>188 folios (+ 1 unfoliated paper flyleaf at the beginning and at the end of the codex).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 10 leaves each, numbered with Hebrew letters both at the beginning and at the end of the quire.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22" writtenLines="22">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="185" to="187"/>and <locus n="10"/>are modern.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shelomoh ben Yosef ben Ṣalaḥ</name>, his inscription on folio 49r.</p>
+							<p>
+								<name type="person" role="owner">G'aramah ibn Sa'alam</name>, his inscription on folio 118v.</p>
+							<p>
+								<name type="person" role="owner">Yosef ben Shelomoh Ṣalaḥ</name>owner, his name inscribed on 187r.</p>
+							<p>
+								<name type="person" role="owner">Saliman ibn Yaḥyah</name>, his name inscribed on 188v.</p>
+							<p>
+								<name type="person" role="owner">Abraham ibn Yosef al-Aḥmar </name>and <name type="person" role="owner">Da'ud ibn Yosef al-Aḥmar</name>, mentioned as owners in a record of sale, <date calendar="Seleucid">18 Nisan 1920</date> (<date calendar="Gregorian">1609</date>), folio 89r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1870-10-06</date>
+							<p>
+								<name type="person" role="owner">Adolf Neubauer</name> (b. 1832, d. 1907), Hebrew scholar born in Hungary: purchased by the British Museum from him on <date calendar="Gregorian">06 October 1870</date>: inscribed ([189v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">100</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

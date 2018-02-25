@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2219" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2219</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>Maimonides' Commentary on Seder Mo῾ed in Judeo-Arabic.</summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="184v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Seder mo῾ed </title>
+							<title xml:lang="he">פרוש סדר מועד </title>
+							<author key="http://viaf.org/viaf/100185495">
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="en">Maimonides, Moses, 1135-1204</persName>
+								<persName key="http://viaf.org/viaf/100185495" xml:lang="he">משה בן מימון, 1138-1204 </persName>
+							</author>
+							<note>
+								<p>The Gemara is sometimes referred to in the marginal notes (see e.g. folio 80r).</p>
+							</note>
+							<colophon xml:lang="he">[...] <date when="1513" calendar="Seleucid">[א]'ת'ת'כ'ד' שנין לשטרות</date> [...] <name type="person" role="scribe">[אב] רהם הכהן בירב סעדיה הכהן</name> [...]<locus n="184v"/>
+							</colophon>
+							<decoNote type="diagram">Diagrams, in pen and ink.<locus n="8v, 9r, 20r, 23r, 44r, 46r, 54v, 55v, 56v, 65v, 66v, 68r, 68v"/>
+							</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>184 folios <dimensions unit="mm" type="leaf">
+										<height>255</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>184 folios (+ 2 modern paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>One leaf is missing at the beginning and the first signature is at the end of folio 8. Folios 9-15 form the second quire, folios 16-23 the third, and folios 24-183 contain 16 quires of 10 leaves each. Folio 184 remains of the last quire, the rest having been cancelled. </p>
+								</collation>
+								<condition>
+									<p>Incomplete at the beginning.</p>
+									<p>Two leaves are missing after folio 183. </p>
+									<p>Several leaves at the beginning and at the end are mutilated. </p>
+									<p>Marginal notes.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. Visible mastara ruling. </p>
+									<p>Chapter numbers given in large characters. </p>
+									<p>Catchwords on every verso. </p>
+									<p>A few marginal notes. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of the 16th century. <name type="person" role="scribe">[Av]raham ha-Kohen ben Se῾adyah ha-Kohen</name>: inscribed, folio 184v, with a date of <date calendar="Seleucid">1824 </date>[<date calendar="Gregorian">1513</date>]. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham ben Se῾id</name> and <name type="person" role="owner">Se῾id Da᾿ud</name>: inscribed in the lower margin of folio 75r. </p>
+						</additions>
+						<bindingDesc>
+							<binding contemporary="inapplicable">
+								<p>BM in-house. </p>
+								<p>Spine title: 'Maimonides' Commentary Seder Moed. Hebrew. Brit. Mus. Oriental 2219.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1824" calendar="Seleucid" when="1513"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">	Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 Dec. 1879: inscribed, <locus n="fse001v">[185v]</locus>.</p>
+							<date>1879-12-13</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">452</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

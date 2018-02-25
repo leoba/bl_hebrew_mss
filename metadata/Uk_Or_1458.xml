@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1458" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1458</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420   lccn.loc.gov/sh85118979" rend="visible">
+						<summary>The Pentateuch scroll. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="4r"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Torah </title>
+							<title xml:lang="he">ספר תורה</title>
+							<note>
+								<p>The Pentateuch, with the following fragments written by different hands: Ex. 35:14-Lev. 3:14; Num. 4:32-7:59; 7:60-9:21; 9:22-14:16; 14:17-16:12; 16:13-21:8; 21:9-22:26; 26:14-31:37. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 15th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>65 membranes, 227 columns. <dimensions type="leaf" unit="mm">
+										<height>637</height>
+										<width>31970</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>65 membranes, with header/wrapper (854mm). </p>
+								</collation>
+								<condition>
+									<p>Worming in several phases (repairs wormed in different pattern), grazed surface. </p>
+									<p>Surface delamination, deliberate erasures. </p>
+									<p>Weak edges with tears and losses, a few parts folded under. </p>
+									<p>Creases from rolling. </p>
+									<p>Inks slightly flaking. Some ink spills. </p>
+									<p>Pleat covering text. </p>
+									<p>Soil accretions. </p>
+									<p>Occasional contracted areas at edge with dark, brittle, flaking surface. </p>
+									<p>Usage and damp stains.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="227" ruledLines="50" writtenLines="50">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Visible pricking and stitching. </p>
+									<p>227 columns in total, one to six columns per membrane. </p>
+									<p>Few tagin present. </p>
+									<p>Four lines left blank between the end of a book and the beginning of another. Leviticus begins with a new column. </p>
+									<p>Every column commences with a new verse, most frequently beginning with the letter ו. </p>
+									<p>The end of a verse not marked, but the position of Ethnah is marked by a black point. </p>
+									<p>Three black points generally placed in the right margin at the beginning of an open or closed section. Sometimes these points appear at the end of a section to indicate the beginning of a verse. </p>
+									<p>Special arrangement of lines of the Song of Moses, Ex. 15. The Song Ha&apos;azinu, Deut. 32, is written in 67 lines. The first דרש of Lev. 10:16 is written at the end of the line. Puncta extraordinaria placed on the ten words fixed by the masorah. </p>
+									<p>Majuscular and minuscular letters occur. </p>
+									<p>The inverted letter nun is placed before and after Num. 10:35-36. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Oriental square script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Boxed. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">16</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

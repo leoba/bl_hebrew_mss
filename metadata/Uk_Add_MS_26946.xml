@@ -1,0 +1,149 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-06-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_26946" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 26946</idno>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003313857</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100031719710.0x000009</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Prayers for Rosh ha-shanah with kabbalistic comments</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Kabbalistic writing. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Tefilot ῾im kavanot u-perushim ῾al derekh ha-ḳabalah</title>
+							<title xml:lang="he">תפלות עם כוונות ופירושים על דרך הקבלה</title>
+							<locus from="1r" to="31v"/>
+							<note>
+								<p>The text of the prayers for Rosh ha-shanah (in square script), accompanied by kabbalistic comments (in cursive script, mostly interlinear). Parts of the commentary attributed to Moses Zacuto. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th to 18th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper. </support>
+								<extent>31 folios<dimensions type="leaf" unit="mm">
+										<height>240</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>31 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).
+</p>
+								</foliation>
+								<collation>
+									<p>Leaves on guards. </p>
+								</collation>
+								<condition>
+									<p>Major losses infilled before rebinding.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="14 19" writtenLines="14 19">
+									<p>Uniform layout. </p>
+									<p>Vertical hard-point ruling visible. </p>
+									<p>14 to 19 lines of square writing to a full page between folios 1-17, number of lines on appended folios varies. </p>
+									<p>Square initial words.  </p>
+									<p>Catchwords on every page. </p>
+									<p>Extensive marginal notes throughout. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and cursive script of the 17th to 18th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Comm. On The Prayers For The New Year. Hebrew. Brit. Mus. Brit. Mus. Additional 26,946.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate notBefore="1600" notAfter="1799">17th-18th century</origDate>
+							<origPlace>Italy?</origPlace>
+						</origin>
+						<provenance/>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 55: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [33v]. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 855.</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-06-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

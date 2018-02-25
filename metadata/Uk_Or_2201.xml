@@ -1,0 +1,356 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2201" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2201</idno>
+					</msIdentifier>
+					<head>Bible</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Bible with masorah ('First Ibn Merwas Bible').</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="368v"/>
+							<title xml:lang="he-Latn-x-lc">Tana"kh </title>
+							<title xml:lang="he">תנ"ך  </title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<decoNote type="miniature">Full-page miniature of the Temple implements, with colours and gold. <locus n="2r"/>
+							</decoNote>
+							<decoNote type="border">5 full borders of geometric design, in colours and gold. <locus n="34v, 35r, 97v, 98r, 98v"/>
+							</decoNote>
+							<decoNote type="marginal">Masorah in the margins written in microghraphical form. </decoNote>
+							<decoNote type="paratext">6 full-page panels of masorah magna in micrographical design. <locus n="187r, 187v, 188r, 188v, 189r, 338r"/>
+							</decoNote>
+							<decoNote type="marginal">Numerous decorated parashah signs, in ink.</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Narkiss_1982" type="number">2</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1984" type="number">33</ref>
+								</bibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">304</ref>
+								</bibl>
+								<bibl>
+									<ref target="Kogman-Appel_2004" type="page">88-92</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">128</ref>
+								</bibl>
+								<bibl>
+									<ref target="EAJS-6_1999" type="page">164-167</ref>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">אני יוסף בר' יהודה נע' בן מרואס כתבתי אלו עשרים וארבעה ספרים בעזרת אדיר אדירים במאמר היקר הנחמד אור זורח וציץ פורח צפנת פענח גזע נדיבים ושועים מובחר בין רעים השם הטוב כגן הטוב [ ר' של[מה]...] הישישים טוב עם ה' ועם אנשים אדר היקר חסן ויקר [ ר' [יו]סף? ] האל יזכהו להגות בהם וללמד לשמור ולעשות ויקיים בו מקרא שכתו' לא ימוש ספר התורה הזה מפיך והגית בו יומם ולילה למען תשמור לעשות ככל הכתוב בו כי אז תצליח את דרכך ואז תשכיל. הלא צויתיך חזק ואמץ אל תערף ואל תחת כי עמך ה' אלהיך בכל אשר תלך. ונא' אמן.
+
+וסיימתים בירח איאר שנת חמשת אלפים וששים לבריאת עולם בטליטלה ישע יקרב.<locus n="184r"/>
+							</colophon>
+							<msItem rend="v">
+								<title xml:lang="en">Masoretic lists</title>
+								<locus from="1v" to="3v"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="4v" to="27v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="27v" to="48v"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="48v" to="62v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="62v" to="82r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="82r" to="104v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104v" to="116r"/>
+								<title xml:lang="en">Joshua</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="116r" to="127v"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="127v" to="155r"/>
+								<title xml:lang="en">Samuel</title>
+								<note>
+									<p>2Samuel starts on folio 142r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155r" to="189v"/>
+								<title xml:lang="en">Kings</title>
+								<note>
+									<p>2Kings starts on folio 170r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="189v" to="208v"/>
+								<title xml:lang="en">Isaiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="208v" to="227r"/>
+								<title xml:lang="en">Jeremiah</title>
+								<note>
+									<p>Wanting chapters 6:6-20:18.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="227r" to="248v"/>
+								<title xml:lang="en">Ezekiel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="248v" to="251r"/>
+								<title xml:lang="en">Hosea</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="251r" to="252r"/>
+								<title xml:lang="en">Joel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="252r" to="254v"/>
+								<title xml:lang="en">Amos</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="254v" to="255r"/>
+								<title xml:lang="en">Obadiah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="255r" to="255v"/>
+								<title xml:lang="en">Jonah</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Micah</title>
+								<locus to="257v" from="255v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Nahum</title>
+								<locus to="258r" from="257v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Habakkuk</title>
+								<locus to="259r" from="258r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zephaniah</title>
+								<locus to="259v" from="259r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Haggai</title>
+								<locus from="259v" to="260v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Zechariah</title>
+								<locus from="260v" to="254r"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Malachi</title>
+								<locus from="264r" to="265r"/>
+							</msItem>
+							<msItem rend="v">
+								<locus from="265r" to="290r"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="290r" to="299v"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="299v" to="307v"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="307v" to="309r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="309r" to="310v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="310v" to="314r"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="314r" to="316r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="316r" to="319v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="319v" to="326v"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Ezra</title>
+								<locus to="337v" from="326v"/>
+								<note>
+									<p>Nehemiah starts on folio 331r.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus n="338r"/>
+								<title xml:lang="en">Masoretic list</title>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Chronicles</title>
+								<locus from="338v" to="368v"/>
+								<note>
+									<p>2Chron. starts on folio 351v.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 368 folios; written in Sefardi square script, first quarter of 14th century, punctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>368 folios<dimensions unit="mm" type="leaf">
+										<height>240</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185</height>
+										<width>160</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>368 folios (+ 1 unfoliated paper flyleaf at the beginning and 4 unfoliated paper flyleaves at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 6 leaves, but at a later re-binding the quires have been rendered indeterminate. </p>
+									<p>Catchwords at the end of quires. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="32" writtenLines="32">
+									<p>Folio 1 is cut off most part. Folios 1 and 4 are later additions.
+ </p>
+									<p>Complete ruling with hard-point. Pricking in outer and inner margins, quire by quire, on recto. </p>
+									<p>Uniform layout, last line of text written ouside ruling. </p>
+									<p>Heading on each leaf. </p>
+									<p>Hebrew foliation from folio 5, starting with 2 until the end of the Pentateuch (folio 99).
+ </p>
+									<p>In the colophon (folio 184), the name of the patron has been erased. The original date <date calendar="Hebrew">5060 </date>[<date calendar="Gregorian">1300</date>] has been erased and overwritten as <date calendar="Hebrew">5006 </date>[<date calendar="Gregorian">1246</date>].
+The same scribe copied two other bibles in Toledo: Sassoon Collection (MS 508 dated 1307, MS 1208 dated 1334). </p>
+									<p>Numerous decorations: full-page miniature of the Temple implements, 5 full borders of geometric design, masorah in the margins written in microghraphical form, 6 full-page panels of masorah magna in micrographical design, numerous decorated parashah signs. </p>
+									<p>Masorah magna occupies two lines at the top and three lines at the bottom of each page.  </p>
+									<p>Joshua, Isaiah, Psalms, and Chronicles begin a new leaf, and Jeremiah begins a new column. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the beginning of 14th century, punctuated. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="scribe">Yosef ben Yudah ben Merwas</name>: inscribed with his name in the colophon, Toledo, <date calendar="Hebrew">Iyyar 5060</date> [<date calendar="Gregorian">1300</date>] (folio 184r). </p>
+							<p>Erased inscription (folio 4r). </p>
+							<p>
+								<name type="person" role="owner">Sulaiman ben Shemu᾿el (?) ben Ḥayim</name>: inscribed with his name as the seller in an Arabic purchase note, <date calendar="Gregorian">1450</date> (folio 99v). </p>
+							<p>Judeo-Arabic note, partially obliterated (folio 368v). </p>
+							<p>
+								<name type="person" role="owner">Shalom ben Yosef Ḥayim [ .. ]  Levi</name>: inscribed with his name in an owner's inscription, 18th century (folio 184r). </p>
+							<p>
+								<name type="person" role="owner">Musi 'n Salem al-Gamal</name>: inscribed with his name in an owner's inscription, 18th century (folio 184r). </p>
+							<p>
+								<name type="person" role="owner">Judah 'n Musi</name>: inscribed with his name in an unclear purchase note, undated (folio 186v). </p>
+							<p>
+								<name type="person" role="owner">Yudah Kamal</name>: inscribed with his name in an owner's inscription, undated (folio 5r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. White parchment binding, black tooled.</p>
+								<p>Spine: 'Bible. Hebrew. Brit. Mus. Oriental 2201.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1300" period="1309"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>, Central (<name type="place">Castile</name>, <name type="place">Toledo</name>)</p>
+						</provenance>
+						<acquisition>
+							<p>Purchased by the British Museum in <date calendar="Gregorian">1879</date>. </p>
+							<date>1879</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">52</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

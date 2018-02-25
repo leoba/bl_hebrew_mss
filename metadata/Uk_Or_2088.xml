@@ -1,0 +1,163 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2088" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2088</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book, according to the Italian rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="180v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="8v"/>
+							<title xml:lang="en">Seliḥot le-‘aseret yeme teshuvah </title>
+						</msItem>
+						<msItem rend="">
+							<locus from="8v" to="27r"/>
+							<title xml:lang="en">Services for Rosh ha-Shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="27r" to="145r"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<filiation>Cf. the contents of Add MS 19945, VI, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="145r" to="180v"/>
+							<title xml:lang="en">Services for Sukot</title>
+							<filiation>Cf. the contents of Add MS 19945, part VII, <ref target="Margoliouth_1965" type="number">627</ref>, Add MS 26968, <ref target="Margoliouth_1965" type="number">616</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>180 folios <dimensions unit="mm" type="leaf">
+										<height>240</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>180 folios (+ 3 unfoliated modern paper flyleaves at the beginning and at the end).</p>
+									<p>Late Hebrew foliation between folios 9-180 (א-קסא), and four wrongly marked leaves after folio סו.</p>
+								</foliation>
+								<collation>
+									<p>Between folios 5-124: quires of mostly 10 leaves each, marked with catchwords and signatures at the end. After folio 125: irregular foldings and catchwords, no signatures.</p>
+								</collation>
+								<condition>
+									<p>Much stained.</p>
+									<p>Defective at the beginning and at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout.</p>
+									<p>Visible pencil and hard-point ruling. </p>
+									<p>Visible pricking.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Quire signatures occasionally enclosed within pen and ink design, e.g. folio 94v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script of the 15th century. Punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Machzor. Hebrew. Brit. Mus. Oriental 2088.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">D.A. Berliner</name>: purchased from him by the British Museum on 31 October 1878: inscribed, [182v].</p>
+							<date>1878-10-31</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">637</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

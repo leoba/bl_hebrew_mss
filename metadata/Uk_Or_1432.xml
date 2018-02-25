@@ -1,0 +1,170 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1432" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1432</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class=" lccn.loc.gov/sh85013597  lccn.loc.gov/n87871045" rend="visible">
+						<summary>The supercommentary on Abraham Ibn Ezra's commentary on the Pentateuch.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597  lccn.loc.gov/n82271898">
+							<locus from="1a" to="217v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Torah</title>
+							<title xml:lang="he">פירוש התורה</title>
+							<filiation>This commentary is in partial agreement with Yosef Ibn Kaspi's supercommentary on Ibn Ezra's commentary. See BL Add. 22091, <ref target="Margoliouth_1965" type="number">196</ref> and also Cambridge Add. 433, <ref target="Schiller_1876" type="page">148-159</ref>, <ref target="Reif_1997" type="page">113</ref>; and Ms Oxford POC 207 <ref target="Neubauer_1891"/>, which contain the same treatise written by the same scribe.</filiation>
+							<colophon xml:lang="he">ותשלם המלאכה [...] בפי' ביאור התורה על הראב"ע ז"ל <date when="1562" calendar="Hebrew">היום יום שלישי א'ך' טוב לחדש שבט שנת השכ"ב ליצירה</date> פה<name type="place"> [שאלו]ניקי</name> במצות האדון [...] <name type="person" role="patron">דון יהודה אברבנאל</name> יצ"ו בן לשר [...] יצחק אברבנאל יצ"ו [...] <name type="person" role="scribe">יוחנן בכמאא"ר אברהם ן' עזיז</name>.<locus from="217r" to="217v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1a" to="45r"/>
+								<title xml:lang="en">Genesis</title>
+								<note>
+									<p>The first sixteen pages, signed as folios 1r-16b, supplied as facsimile, taken from Ms. Cambridge Add. 433.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="45r" to="122r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="122r" to="155v"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155v" to="193v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="193v" to="217v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex, Oriental cursive script, unpunctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">217 folios + 16 additional facsimile folios<dimensions unit="mm" type="leaf">
+										<height>213</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>152</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>217 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Indeterminable (too tightly bound). </p>
+									<p>Catchwords on every verso.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="26" writtenLines="26">
+									<p>16 facsimile pages supplied at the beginning of the manuscript which complete the missing part of the text.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental cursive script, unpunctuated.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1a" to="16b"/>the facsimile pages provided at the beginning (originally not of the same manuscript) are due to the same hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="scribe">Yoḥanan ben Avraham ibn ῾Azi᾿el</name>: inscribed with his name in the colophon, <date calendar="Gregorian">1562 </date> (folio 217v).</p>
+							<p>
+								<name type="person" role="owner">Don Yehudah ben Yitsḥaḳ Abravanel</name>: inscribed with his name in the colophon, folio 1r.</p>
+							<p>
+								<name type="person" role="owner">Sha᾿ul ben Yeshayah ibn Mayor</name>: inscribed with his name, folios 129r, 212r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>  	BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5322" calendar="Hebrew" when="1562"/>
+						<provenance>
+							<p>
+								<name type="place">Salonika</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-02-24</date>
+							<p>
+								<name type="person" role="owner">Joseph Schlesinger</name>: bought from him on <date calendar="Gregorian">24 February 1877</date> (folios [219v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">197</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

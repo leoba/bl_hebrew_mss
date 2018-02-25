@@ -1,0 +1,212 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_22413" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 22413</idno>
+					</msIdentifier>
+					<head>Tripartite Maḥzor</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Festival prayer book for Shavuʻot (Feast of Weeks) and Sukot (Feast of the Tabernacles), German rite, including biblical readings. The Book of Ruth and the Book of Ecclesiastes with Joseph Ḳara's commentary. Aka the 'Tripartite Maḥzor'.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="167v"/>
+							<title n="0" xml:lang="he-Latn-x-lc">Maḥzor minhag Ashkenaz le-Shavuʻot ule-Sukot</title>
+							<title n="0" xml:lang="he">מחזור מנהג אשכנז לשבועות ולסוכות ‬</title>
+							<note>
+								<p>1. Services for Shavuʻot, folios 1r-83r. The book of Ruth with a commentary ascribed to Joseph Ḳara begins with folio 71r. (Beginning: <q>ויהי בימי שפוט' כו'</q>, end: <q>ואלה תולדות פרץ</q>, subscription: <q>חסלת מגילת רות, פרישת רבי' יוסף קרא: ז"ע</q>.)</p>
+								<p>2. Services for Sukot, folios 83v-167v. The book of Ecclesiastes with the commentary of Joseph Ḳara (up to chapter 9:2) and Barukh ben Shemu᾿el (from there to the end), begins on folio 106r. </p>
+								<p>See <ref target="Narkiss_1969" type="page">108</ref>, <ref target="Gutmann_1978" type="page">92-95</ref>, <ref target="Metzger_1982" type="page">304</ref>, <ref target="Sed-Rajna_1987" type="page">147, 150</ref>, <ref target="Tahan_2007" type="page">88</ref>, <ref target="BL_2007" type="page">146</ref>, <ref target="Narkiss_1955" type="page">129-135</ref>, <ref target="Melinkoff_1999"/>, <ref target="Davidson_1924"/>, <ref target="Shalev-Eyni_2001"/>, <ref target="Shalev-Eyni_2005" type="page">37-57</ref>, <ref target="Shalev-Eyni_2010"/>. </p>
+							</note>
+							<decoNote type="other">12 medallions of the zodiac signs in colours.<locus from="138r" to="142v"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus n="3r, 49r, 71r, 85r, 148r"/>Historiated initial-word panels in colours and gold.</decoNote>
+							<decoNote type="initial">Inhabited initial-word panels in colours and gold.<locus n="98r, 106r, 131r"/>
+							</decoNote>
+							<decoNote type="paratext">Commentary written in carmina figurata.</decoNote>
+							<filiation>The codex is the second volume of a three-volume prayer book; the first volume is kept in Budapest (Library of the Hungarian Academy of Sciences, Kaufmann Collection MS A384), and the third volume is kept in Oxford (Bodleian Library, MS Michael 619). Originally the prayer book constituted a two-volume codex. The manuscript is related stylistically to the 'Duke of Sussex Pentateuch' (British Library Add MS 15282, <ref target="Margoliouth_1965" type="number">74</ref>) and the Gradual of Saint Katharinental (Zürich, Schweizerisches Landesmuseum, Frauenfeld, LM 26117).</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Narkiss_1969" type="page">108</ref>
+								</bibl>
+								<bibl>
+									<ref target="Gutmann_1978" type="page">92-95</ref>
+								</bibl>
+								<bibl>
+									<ref target="Metzger_1982" type="page">304</ref>
+								</bibl>
+								<bibl>
+									<ref target="Sed-Rajna_1987" type="page">147, 150</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">88</ref>
+								</bibl>
+								<bibl>
+									<ref target="BL_2007" type="page">146</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1955" type="page">129-35</ref>
+								</bibl>
+								<bibl>
+									<ref target="Melinkoff_1999"/>
+								</bibl>
+								<bibl>
+									<ref target="Davidson_1924"/>
+								</bibl>
+								<bibl>
+									<ref target="Shalev-Eyni_2001"/>
+								</bibl>
+								<bibl>
+									<ref target="Shalev-Eyni_2005" type="page">37-57</ref>
+								</bibl>
+								<bibl>
+									<ref target="Shalev-Eyni_2010"/>
+								</bibl>
+							</listBibl>
+							<author n="0">
+								<persName xml:lang="en" key="http://viaf.org/viaf/59876084">Kara, Joseph</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/59876084">יוסף קרא</persName>
+								<addName/>
+							</author>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1r" to="83v"/>
+							<title xml:lang="en">Services for Shavuʻot </title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="83v" to="167v"/>
+							<title xml:lang="en">Services for Sukot </title>
+							<filiation>Similar in content to other manuscripts from the BL collection, see <ref target="Margoliouth_1965" type="number">667</ref> and <ref target="Margoliouth_1965" type="number">671</ref>. </filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the beginning of the 14th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>167 folios <dimensions unit="mm" type="leaf">
+										<height>315</height>
+										<width>220</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>200/300</height>
+										<width>150/165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>167 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>21 quires: i8, ii8, iii8, iv8, v8, vi8, vii8, viii8, ix12, x6, xi8-1, xii8, xiii8, xiv8, xv8, xvi8, xvii8, xviii8, xix8, xx8, xxi6. </p>
+									<p>No catchwords. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="26" writtenLines="26" columns="2 3">
+									<add/>
+									<p>Uniform layout. </p>
+									<p>Visible ruling with hard-point. </p>
+									<p>Text written in either two or three columns, commentary presented in carmina figurata. </p>
+									<p>Large square initial words. </p>
+									<p>26 lines to a page of square writing; the semi-cursive commentary arranged variously, often in geometrical figures.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square and semi-cursive script, punctuated, of the early 14th century. <name type="person" role="scribe">Ḥayim</name>, inscribed with his name on 80v and 167v; the word חיים is decorated. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Coats of arms of Bavaria and Austria at a depiction of two knights fighting (volume 1, folio 103v). The scene may refer to a battle between King Frederick the Fair of Austria and his rival king, King Louis IV the Bavarian, at Mühldorf in 1322. This data is one of the criteria on which the manuscript was dated, see <ref target="Narkiss_1969" type="page">130</ref>, and <ref target="Shalev-Eyni_2005" type="page"> 294</ref>. </p>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov Daniyel bar Avraham Ulmo</name>: inscribed with his name (folio 1r). </p>
+							<p>An obituary entry of 1572 (folio 167v). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. Brown leather. </p>
+								<p>Spine: &apos;Machazor Cum Comment. R. Josephi Kara Super Megilloth. Hebr. Mus. Brit. Jure Emptionis. 22,413.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1329"></origin>
+						<provenance>
+							<p>
+								<name type="place">Germany</name> (area of Lake Constance) </p>
+						</provenance>
+						<acquisition>
+							<p><name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): purchased by the British Museum from him on <date calendar="Gregorian">12 June 1858</date>: inscribed (168v). </p>
+							<date>1858-06-12</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">662</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">146</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

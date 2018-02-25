@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-06-19</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27124" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27124</idno>
+					</msIdentifier>
+					<head>Mishnah</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>A fragmentary commentary on the Mishnah of Yevamot by Samuel Portaleone. It is apparently a part of the author's Mishnah arukah. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="12v"/>
+							<title xml:lang="he">משנה ארוכה</title>
+							<title xml:lang="he-Latn-x-lc">Mishnah arukah</title>
+							<author>
+								<persName xml:lang="en">Portaleone, Samuel ben Elisha </persName>
+								<persName xml:lang="he">פורטלאונה, שמואל בן אלישע</persName>
+							</author>
+							<note>
+								<p>Folio 12r (in different writing and dimensions) contains a list of secondary prohibited degrees.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>12 folios<dimensions type="leaf" unit="mm">
+										<height>185</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>12 folios (+ 3 paper flyleaves at the beginning and 11 older and 3 modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 4 leaves each.</p>
+								</collation>
+								<condition>Several folios slightly mutilated.<p>Slightly stained.</p>
+									<p>The ink has eaten through the pages.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30" writtenLines="30">
+									<p>Catchowords on every verso.</p>
+									<p>Uniform layout.</p>
+									<p>Folio 1r is a title page.</p>
+									<p>Folios 2v-4v are blank.</p>
+									<p>Many erasures.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 17th century. Samuel Portaleone's autograph.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folio 12 is a later addition (previously folded).</p>
+							<p>
+								<name type="person" role="owner">Elḥanan Ḳerami bar Ḥanama᾿el (?) Natan Ḳerami</name>, <name type="person" role="owner">Yehudah Nag᾿ani</name> (?), <name type="person" role="owner">Shemu᾿el Malakh Avraham Modena</name>: inscribed (folio 2r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Mishnah Arukkah. Hebrew. Brit. Mus. Additional 27, 124.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 231; 322 Hebrew manuscripts were acquired from his library in October 1865 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum 1841-1853.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">469</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-06-19">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

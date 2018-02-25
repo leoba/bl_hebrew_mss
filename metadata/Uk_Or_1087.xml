@@ -1,0 +1,134 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1087" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1087</idno>
+					</msIdentifier>
+					<head>Megilat Ester</head>
+					<msContents class="lccn.loc.gov/n79053644" rend="visible">
+						<summary>The book of Esther. </summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n79053644">
+							<locus from="1r" to="20v"/>
+							<title xml:lang="en">Megilat Ester </title>
+							<title xml:lang="he">מגלת אסתר</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>20 folios <dimensions unit="mm" type="leaf">
+										<height>286</height>
+										<width>159</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>20 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). Folio 1 is a paper flyleaf. </p>
+								</foliation>
+								<collation>
+									<p>Previously in the form of scroll, now in book-form. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Uniform layout. </p>
+									<p>19 columns, first four with vowel-points.</p>
+									<p>The letters of שעטנזגץ provided with three tagin. One tag placed on the letters בדהחיק.</p>
+									<p>Majuscular letters in verses: 1:6, 9:9, 9:29; minuscular letters in verses: 9:7, 9:9.</p>
+									<p>The names of the sons of Haman arranged according to the rule.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi aquare script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>From the collection of <name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: inscribed, folio 1v. </p>
+							<p>Folio 1v (paper flyleaf at the beginning of the manuscript): a note of ownership of <name type="person" role="owner">J. Noble Coleman</name>: his bookplate with Latin inscription: recte sed suaviter (inner upper cover). The manuscript was given to him by <name type="person" role="owner">George Pope</name>, having been bought from a bookseller in Bristol.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather. Gold tooled.</p>
+								<p>Spine title: &apos;Esther. Hebrew. Oriental 1087.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1872-05-25</date>
+							<p>Rev. <name type="person" role="owner">John Noble Coleman</name> (b. 1793, d.1872), Methodist missionary and scholar: bequeathed by him to the British Museum on 25 May 1872.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">38</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

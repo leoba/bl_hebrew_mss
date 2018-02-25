@@ -1,0 +1,221 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-13</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15282" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15282</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch (aka the 'Duke of Sussex's German Pentateuch') with Targum Onḳelos, small pieces on the feasts, Five Scrolls and Hafṭarot, accompanied by masorah magna and parva.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="v" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="358v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot ṿe-hafṭarot</title>
+							<title xml:lang="he">תורה,מגילות  והפטרות </title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+							<note>
+								<p>The masorah magna occupies two lines at the top of the page and three at the bottom of the page. In the lower margin it is written in the form of ornamental patterns (micrography). </p>
+								<p>Number of verses and words given at the end of each weekly portion. At the end of each of the first 4 books of the Torah there is a rubric indicating the number of verses, centremark and number of weekly sections and orders of the respective books (similarly as at the end of Megilot).</p>
+								<p>Folios 291r-293v (i.e. between the Torah and Megilot) there are short pieces containing mnemonic words (משך, תורה, קדש, בכסבא, פסל, סמדרבא, שלח, בוכרא) with explanations; a list of lessons for other festivals, fasts and special Sabbaths (סימני הקריאה משאר כל השנה מרב סעדיה); the arrangement of Hafṭarot and weekly portions in accordance with variations in the calendar; rules regarding reading from the Torah; and the benedictions before and after reading from the Hafṭarot.</p>
+								<p>See further: <ref target="Tahan_2007" type="page">43-45</ref>, <ref target="Narkiss_1969" type="page">104</ref>, <ref target="Gutmann_1978" type="page">76-77</ref>, <ref target="Metzger_1982" type="page">303</ref>, <ref target="Narkiss_1982" type="page">125</ref>, <ref target="Sed-Rajna_1988" type="page">57</ref>, <ref target="Epstein_1997" type="page">88-90</ref>. </p>
+							</note>
+							<decoNote type="initial">
+								<locus n="1v 75v 137r 179v 238r"/>Full-page miniature with initial word panel.</decoNote>
+							<decoNote type="initial">Decorated initial-word panel. <locus n="294r, 296v 302r 307v 314r"/>
+							</decoNote>
+							<decoNote type="initial">
+								<locus from="218r" to="218r"/>Small lion in ink in the upper corner of the page.</decoNote>
+							<quote xml:lang="he">חזק <name type="person" role="scribe">חיים </name>לא יוזק אמן סלה.<locus n="313v"/>
+							</quote>
+							<quote xml:lang="he">
+								<name type="person" role="scribe">חיים </name>חזק. <locus n="358r"/>
+							</quote>
+							<quote xml:lang="he">לזכות ולעדות ולראייה לר' <name type="person" role="owner">יחיאל בר' אורי</name> יצו' מודה אני החמ' איך שמכרתי זה החומש לו ודמיו קיבלתי במעות מזומני' מידו לידי והמכירה היא מכירה עולמית דלא למידר בה מן יומא דין לעלם ומעת' אני מוכרח לסלק אותו מכל הזק ועירעורי' שיוכל לבא מצד מכירה דנא ומה שנעשה <date when="1469" calendar="Hebrew">היום יו' ד' כ"ח אייר רכט לפק</date> נאו' <name type="person" role="owner">יעקב בר' מרדכי</name> יצו'. <locus from="358v" to="358v"/>
+							</quote>
+							<filiation>The manuscript is related stylistically to the Tripartite Maḥzor (British Library Add MS 22413, <ref target="Margoliouth_1965" type="number">662</ref>) and the Gradual of Saint Katharinental (Zürich, Schweizerisches Landesmuseum, Frauenfeld, LM 26117).</filiation>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="75v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="75v" to="137r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="137r" to="179v"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="179v" to="238r"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="238r" to="294r"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="294r" to="296v"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="296v" to="299r"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="299r" to="302r"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="302r" to="307v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="307v" to="314r"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="314r" to="360v"/>
+							<title xml:lang="he-Latn-x-lc">Hafṭarot </title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the first quarter of 14th century. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>360 folios<dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>360 (+ 1 unfoliated paper flyleaf at the beginning and at the end, 1 unfoliated parchment leaf at the beginning [folio 1a]).</p>
+								</foliation>
+								<collation>
+									<p>32 quires: i13+1, ii12, iii12, iv8, v8, vi8, vii8, viii8, ix8, x8, xi8, xii8, xiii12, xiv16, xv12, xvi16, xvii16, xviii12, xix12, xx16, xxi10, xxii16, xxiii14, xxiv8, xxv12, xxvi8, xxvii16, xxviii8, xxix12, xxx12, xxxi12, xxxii9+2. </p>
+									<p>Quires marked by catchwords at the end. </p>
+								</collation>
+								<condition>
+									<p>The margins have been cropped.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="31" writtenLines="30">
+									<p>Ruling and pricking are sometimes visible. </p>
+									<p>Smaller sections of Hafṭarot are marked at the beginning of each pericope with red Hebrew letters (א at the end of the first portion, ב at the beginning of the second, the end of the third portion is indicated by black א marking the end of the first Sabbath lection).</p>
+									<p>The beginning of each of the five books of the Torah is distinguished by a whole page illumination in gold and colours, with the first word of the respective book in the middle. At the beginning of each of the Five Scrolls and Hafṭarot there is a similar ornament, but smaller.</p>
+									<p>Masorah in micrographic design in numerous folios, often shaped to illustate the biblical text. </p>
+									<p>Gilt edges.</p>
+									<p>Small pen decorations on several folios.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Main text in Ashkenazi square and semi-cursive script, punctuated; masoretic notes in Ashkenazi semi-cursive, not punctuated, of the 14th century. <name type="person" role="scribe">Ḥayim</name>, inscribed with his name (folios 313v, 358r); the word חיים is marked on folio 244v).</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov ben Mordekhai</name>: sold to <name type="person" role="owner">Yeḥiel ben Uri</name> on 28 of the month Iyyar 229 Hebrew[1469Gregorian]: inscribed in a purchase note (folio 358v). </p>
+							<p>Italian and French translation of the same purchase note on a paper leaf foliated and presently part of quire xxii (dated 1824) (folio 359v). </p>
+							<p>Italian insrciption: &apos;Questo libro .. venduto nel 28 Ijar 5229&apos; (18th-19th century) (folio 360r). </p>
+							<p>English description of the manuscript, in pencil, partially illegible (19th century?) (folio 1r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. 16th-century gold-tooled Venetian binding. </p>
+								<p>Spine: &apos;Pentateuch. Hebrew &amp; Aramaic. Brit. Mus. Additional 15,282.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1324">First quarter of 14th century.</origin>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Prince Augustus Frederick</name> (b. 1773, d. 1843), duke of Sussex: his armorial book-plate, inscribed 'VI. H. C. 2', and above the book-plate 'Sec. xiii. B.S. Vol. I, Part I, p. xiv, no. 3' (inside upper cover); his sale <date calendar="Gregorian">2 August 1844</date>, lot 313: inscribed, folio 360v, purchased by the British Museum through <name type="person" role="bookseller">Thomas Rodd the younger</name>  (b. 1796, d. 1849) for £111.
+</p>
+							<date>1844-08-02</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">74</ref>
+							</bibl>
+							<bibl>
+								<ref target="Pettigrew_1827" type="page">XIV-XVI</ref>
+							</bibl>
+							<bibl>
+								<ref target="BL_2007" type="page">150</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-13">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

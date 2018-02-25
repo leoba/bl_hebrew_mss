@@ -1,0 +1,192 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18684" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18684</idno>
+					</msIdentifier>
+					<head>Jewish law</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Collection of halakhical works: Sefer mitsṿot ḳaṭan of Isaac of Corbeil, with the additions of Moses of Zürich, and Mivḥar ha-peninim by Solomon ibn Gabirol with an anonymous commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="321v"/>
+							<title xml:lang="en">Sefer mitsṿot ḳaṭan</title>
+							<title xml:lang="he">ספר מצות קטן</title>
+							<note>
+								<p>There is a treatise on the calendar on folios 47v-52r containing a movable chart, Luaḥ ha-zahav (a golden table) (folio 52r).</p>
+							</note>
+							<author key="http://viaf.org/viaf/4009920">
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="en">Isaac ben Joseph, of Corbeil, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/4009920" xml:lang="he">יצחק בן יוסף, מקורביל </persName>
+							</author>
+							<author key="http://viaf.org/viaf/20792982">
+								<persName key="http://viaf.org/viaf/20792982" xml:lang="en">Mosheh, mi-Tsurikh, 1310-1385</persName>
+								<persName key="http://viaf.org/viaf/20792982" xml:lang="he">מצוריך, ‏משה </persName>
+							</author>
+							<filiation>Cf. Add MS 26982, <ref target="Margoliouth_1965" type="number">515</ref>.</filiation>
+							<decoNote type="paratext">14 marginal drawings in ink next to the catchwords.<locus n="8v, 16v, 24v, 32v, 40v, 53v, 61v, 69v, 77v, 85v, 93v, 101v, 109v, 117v"/>
+							</decoNote>
+							<decoNote type="initial">Inhabited initial-word panel in brown ink and red. <locus n="12r"/>
+							</decoNote>
+							<decoNote type="initial">Initial letters with gold.<locus from="12r" to="12v"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="v">
+							<locus from="322r" to="353v"/>
+							<title xml:lang="he-Latn-x-lc">Mivḥar ha-peninim</title>
+							<title xml:lang="he">מבחר הפנינים</title>
+							<author key="http://viaf.org/viaf/100186412">
+								<persName key="http://viaf.org/viaf/100186412" xml:lang="en">Ibn Gabirol, active 11th century</persName>
+								<persName key="http://viaf.org/viaf/100186412" xml:lang="he">אבן גבירול, שלמה בן יהודה, 1021-1058 </persName>
+							</author>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">יעקב בר' משה</name> הסופר./ כתבתי זה הספר. להח"ר <name type="person" role="patron">שמעון (בר' שמואל)</name> / ה' יענהו ממעון, וישלח משיח בימינו,/ ותן לנו חלקנו (טוב בג"ע) / בשנת <date when="1392" calendar="Hebrew">קנ"ב</date> לפרט: לאלף / השישי (נשרט).<locus n="321r"/>
+							</colophon>
+							<colophon xml:lang="he">נשלם זה ספר החכמים שעשו החכמים הפילוסופים והעתיקו ר' שלמה אבן טפו מלשון ערבי ללשון הקודש ושם בנו של [ר' שלמה] ר' משה אבן טפו ממרשיילא. והחבר ר' שמשון מאניי שהיה ממדינת קונפיינא יסד ועשה מחכמת לבו ומרוב שכלו והבנתו כל זה הפירוש של זה הספר ששמו מחבר הפנינים. \ בחר חכמה עלי עושר זכור ואל תשכח דבר מזכיר ומזהיר. ודע כי לא היה סכל כמשכיל. ולא יהי אנוש נמהר כמהיר. ספרך יהי תמיד כבן יקר בעין רואיך. בו תמצא רע מכסה סוד. ולקח טוב יספק לך וימצאך. סליק. <locus n="353r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>355 folios <dimensions unit="mm" type="leaf">
+										<height>325</height>
+										<width>255</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>235/230</height>
+										<width>165</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>353 folios (+ 2 unfoliated modern paper flyleaves at the beginning and 2 modern unfoliated paper flyleaves at the end); folios 354-355 are paper flyleaves.</p>
+									<p>There is foliation in Hebrew from folio 12 to folio 321 with a break between folio 226 (according to the Hebrew foliation folio 217) and folio 227 (according to the Hebrew foliation folio 264), however, there is no lacuna in the text.</p>
+								</foliation>
+								<collation>
+									<p>46 quires: i8 (folios 1-8), ii8 (folios  9-16), iii8 (folios 17-24), iv8 (folios 25-32), v8 (folios 33-40), vi8-1 (folios 41-47), vii4 (folios 48-51), viii2 (folios 52-53), ix8 (folios 54-61), x8 (folios 62-69), xi8 (folios 70-77), xii8 (folios 78-85), xiii8 (folios 86-93), xiv8 (folios 94-101), xv8 (folios 102-109), xvi8 (folios 110-117), xvii8 (folios 118-125), xviii8 (folios 126-133), xix8 (folios 134-141), xx6 (folios 142-147), xxi8 (folios 148-155), xxii8 (folios 156-163), xxiii8 (folios 164-171), xxiv8 (folios 172-179), xxv8 (folios 180-187), xxvi8 (folios 188-195), xxvii8 (folios 196-203), xxviii8 (folios 204-211), xxix8 (folios 212-219), xxx8 (folios 220-227), xxxi8 (folios 228-235), xxxii8 (folios 236-243), xxxiii8 (folios 244-251), xxxiv6 (folios 252-257), xxxv8 (folios 258-265), xxxvi8 (folios 266-273), xxxvii8 (folios 274-281), xxxviii8 (folios 282-289), xxxix8 (folios 290-297), xl8 (folios 298-305), xli8 (folios 306-313), xlii8 (folios 314-321), xliii8 (folios 322-329), xliv8 (folios 330-337), xlv8 (folios 338-345), xlvi8 (folios 346-353). Marked with catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="35" writtenLines="35">
+									<p>Uniform layout. Visible pricking and ruling with a plummet (each bifolium on both sides). </p>
+									<p>Hair-side and flesh-side of the folios indistinguishable. Fine parchment.</p>
+									<p>Last line written within the ruling.</p>
+									<p>Arranged in two columns between folios 322r-353r.</p>
+									<p>Catchwords at the end of quires.</p>
+									<p>Initial words written in large characters.</p>
+									<p>Occasional infralinear vocalization.</p>
+									<p>Maniculae on folios 87v, 88r, 281r. </p>
+									<p>
+										<watermark>Watermark</watermark>, folio 355, of a crown with a horn, similar to <ref target="Briquet_1968" type="number">5073</ref> (dated 1569-1570 to Remiremont).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi semi-cursive script, partially punctuated, of the 14th century. <name type="person" role="scribe">Ya῾aḳov bar Mosheh</name>: inscribed with his name in the colophon, <date calendar="Hebrew">5152 </date>[<date calendar="Gregorian">1392</date>] (folio 321r), mentioned in a marginal note (folio 353r). <name type="person" role="scribe">Mosheh</name>: inscribed with his name (folio 353r). </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="47v"/> and <locus from="53r" to="123r"/>written by the first scribe, Ya῾aḳov bar Mosheh, and <locus from="48r" to="52v"/> and <locus from="123r" to="321v"/>written by the second scribe, Mosheh. The marginal notes are partly contemporary to the main text and partly in two or three different and rather later hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Preface on folio 1v, an index on folio 353v (col. 1).</p>
+							<p>Formula of marriage contract 'according to the custom of the Ron communities', ('Ron' refers to Regensburg, Würzburg, Nuremberg), 'in <date calendar="Hebrew">5149 </date>[<date calendar="Gregorian">1389</date>] in the town of <name type="place">Nuremberg</name>', 'R. Mordekhai bar Yosef, the groom', 'Sherlin bat R. Ya῾aḳov ha-Leṿi' (folio 87v).
+</p>
+							<p>
+								<name type="person" role="patron">Shim῾on bar Shemu᾿el</name>: inscribed with his name in the colophon, <date calendar="Hebrew">5152 </date>[<date calendar="Gregorian">1392</date>] (folio 321r).
+</p>
+							<p>
+								<name type="person">Ele῾azar bar Natan Lieberman</name>: record of his death, <date calendar="Gregorian">1540 </date>(folio 352v).
+</p>
+							<p>Records of birth of children and death, 15th and 16th centuries (folios 352v-353r).
+</p>
+							<p>Notes on the expulsions and persecutions of Jews (e.g. Spain, Portugal, Austria) (folios 352v-353r).
+</p>
+							<p>A Yiddish note (folio 354r). </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600: leather binding that contained clasps. Boxed.</p>
+								<p>Spine title: 'Isaac of Corbeil. Sepher Mitsvoth Katan. Ibn Gabirol. Mibhar Happenninim. Hebrew. Brit. Mus. Additional 18,684.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1392"/>
+						<provenance>
+							<p>
+								<name type="place">Germany, W.</name> (Nüremberg?)</p>
+						</provenance>
+						<acquisition>
+							<date>1851-05-24</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: purchased from him on 24 May 1851: inscribed (folio <locus n="fse001v"/> [356v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">514</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2587" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2587</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052 lccn.loc.gov/sh85102543" rend="visible">
+						<summary>Portions of a collection of piyutim belonging to the Sefardi (North African) rite.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052 lccn.loc.gov/sh85102543">
+							<locus from="1r" to="60v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭim</title>
+							<title xml:lang="he">פיוטים</title>
+							<note>
+								<p>Among the authors of the Piyuṭim are: <name type="person" role="author">Eleazar Kallir</name>, <name type="person" role="author">Abraham ibn Ezra</name> and <name type="person" role="author">Yehudah ha-Levi</name>.</p>
+							</note>
+							<decoNote type="marginal">Catchwords decorated with animal and hybrid forms, in brown ink. 
+<locus n="10v, 26v, 34v, 42v, 57v"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="10v"/>
+							<title xml:lang="en">Piyuṭim for Pesaḥ</title>
+							<note>
+								<p>A fragment of series of piyuṭim (numbers 96-118 complete, and portions of 95-119).</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="11r" to="39v"/>
+							<title xml:lang="en">Piyuṭim for Sukot</title>
+							<note>
+								<p>A fragment of series of piyuṭim. Folios 11r-18v contain numbers 182-198, and portions of 181 and 199. Folios 19r-40r contain hosh῾anot and poetical pieces number 208-238.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="40r" to="60v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭim </title>
+							<note>
+								<p>A fragment of a collection of piyuṭim with and without an indication of the time of use.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>60 folios <dimensions unit="mm" type="leaf">
+										<height>190</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>85</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>60 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+								<condition>
+									<p>Lower margin of the last 20 folios damaged.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 3" ruledLines="21" writtenLines="21">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling and, occasionally, pricking.</p>
+									<p>Initial words and titles written in larger characters.</p>
+									<p>Pen and ink decorated catchwords (see e.g. folio 26v, 34v).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square and semi-cursive script, punctuated, of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>A number of notes in a different hand than the bulk of the manuscript, e.g. folios 2r, 3r, 8r, 13r, 37r, etc.).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Machzor. Hebrew. Brit. Mus. Oriental 2587.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name> (<name type="place">Egypt</name>?)</p>
+						</provenance>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased from him by the British Museum on 08 July 1882: inscribed, folio [61v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">706</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

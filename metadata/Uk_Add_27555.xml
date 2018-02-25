@@ -1,0 +1,163 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-09</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27555" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27555</idno>
+					</msIdentifier>
+					<head>Philology</head>
+					<msContents class="lccn.loc.gov/sh85100947" rend="visible">
+						<summary>Grammatical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85100947">
+							<locus from="1r" to="163v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-shorashim</title>
+							<title xml:lang="he">ספר השרשים</title>
+							<note>
+								<p>Includes an appendix on the Aramaic words in the Bible at the end. Incomplete at the beginning.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100213323">Kimhi, David, 1160-1235</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100213323">קמחי, דוד בן יוסף</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="164r" to="176v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/59230461">Kimḥi, Moses, -1190</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/59230461">קמחי, משה בן יוסף</persName>
+							</author>
+							<title xml:lang="he-Latn-x-lc">Mahalakh shevile ha-da῾at</title>
+							<title xml:lang="he">מהלך שבילי הדעת</title>
+							<note>
+								<p>Incomplete at the end.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>176 folios<dimensions type="leaf" unit="mm">
+										<height>280</height>
+										<width>200</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185</height>
+										<width>125</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>176 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>17 quires of mostly 10 leaves each, marked with catchwords and with signatures at the end. Quires no. 23, 24 are incomplete. The first 9 quires are missing entirely.</p>
+								</collation>
+								<condition>
+									<p>Tidemarks and mould spots.</p>
+									<p>Edge tears.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="32" writtenLines="32">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling and pricking.</p>
+									<p>Hair side and flesh side of folios distinguishable.</p>
+									<p>Titles and inital words in larger square characters. </p>
+									<p>Marginal notes.</p>
+									<p>Doodles in lower outer corners, folios 96r, 98r.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive scripts of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'David Kimchi. Sepher Hash-Shorashim. Hebrew. Brit. Mus. Additional 27,555.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1866-12-08</date>
+							<p>
+								<name type="person" role="bookseller">Samuel Schönblum</name> of Vienna: purchased by the British Museum from him on 08 December 1866: inscribed, folio [177v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">963</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-09">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27560" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27560</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597  lccn.loc.gov/n79115332" rend="visible">
+						<summary>A commentary on the book of Jeremiah by Yosef ben Avraham Ḥayun.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597  lccn.loc.gov/n79115332">
+							<locus from="1r" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Yirmeyahu</title>
+							<title xml:lang="he">פרוש ירמיהו</title>
+							<author key="http://viaf.org/viaf/78823237">
+								<persName key="http://viaf.org/viaf/78823237" xml:lang="en">Ḥayyun, Joseph ben Abraham, -1497</persName>
+								<persName key="http://viaf.org/viaf/78823237" xml:lang="he">חיון, יוסף בן אברהם </persName>
+							</author>
+							<note>
+								<p>The scribe copied the author's colophon, preserved on folio 231v, stating that the treatise was completed in 1466. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">231 folios <dimensions unit="mm" type="leaf">
+										<height>211</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>157</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+									<p>Has Hebrew original foliation.</p>
+									<p>Has two folios no. 190.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="39" writtenLines="39" columns="1">
+									<p>Omissions supplied in the margins.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi cursive script, unpunctuated, of the 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1866-12-08</date>
+							<p>
+								<name type="person" role="bookseller">Samuel Schönblum</name> of Vienna: purchased by the British Museum from him on 08 December 1866: inscribed, [236v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">228</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

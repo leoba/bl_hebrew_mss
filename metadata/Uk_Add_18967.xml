@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-01</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18967" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18967</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A festival prayer book with services for the special Sabbaths, Pesaḥ and Shavu῾ot according to the German rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="135v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor </title>
+							<title xml:lang="he">מחזור </title>
+							<note>
+								<p>There is a number of directions in later cursive writing.</p>
+							</note>
+							<decoNote type="initial">
+								<locus n="2r, 8v"/>2 decorated and inhabited initial-word panels, in colours.</decoNote>
+							<decoNote type="initial">1 decorated initial word in ink.<locus n="22r"/>
+							</decoNote>
+							<decoNote type="illustration">
+								<locus n="40r"/>Pen and ink drawing of a hybrid and fleur-de-lis (with the owner's inscription).</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="32v"/>
+							<title xml:lang="en">The four special Sabbaths and Purim</title>
+							<note>
+								<p>Sheḳalim, folio 1v; Parashah Zekhor, folio 8v; Purim, folio 16r; Parashah Parah, folio 22r; Parashat ha-ḥodesh, folio 26v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="32v" to="38r"/>
+							<title xml:lang="he-Latn-x-lc">Yotser le-Shabat ha-gadol</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="38r" to="88v"/>
+							<title xml:lang="en">Services for Pesaḥ</title>
+							<note>
+								<p>Ma῾ariv for the first night, folio 38r; shaḥarit, folio 39v; musaf, folio 44v; ma῾ariv for the second day, folio 53r; shaḥarit for the second day, folio 56r; yotser le-Shabat be-ḥulo shel mo῾ed, folio 63v; end of ma῾ariv for the seventh night, folio 71r; shaḥarit for the seventh day, folio 71r; ma῾ariv for the last day, folio 80v, shaḥarit for the last day, folio 81r.</p>
+							</note>
+							<filiation>Cf Add MS 10456.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="88v" to="135v"/>
+							<title xml:lang="en">Services for Shavu῾ot</title>
+							<note>
+								<p>Ma῾ariv for Shavu῾ot, folio 88v; shaḥarit for the first day, folio 89r; musaf, folio 99v; ma῾ariv for the second day (of R. Shim῾on), folio 113v; ma῾ariv for the third day of Shavu῾ot, folio 117v; the second day of Shavu῾ot, folio 119r.</p>
+								<p>The piyuṭim are the same as in Add MS 10456, only some pieces are missing in the series on the Ten Commandments.</p>
+								<p>The book of Ruth begins on folio 132r, and the pieces for musaf conclude the volume.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>135 folios <dimensions unit="mm" type="leaf">
+										<height>385</height>
+										<width>300</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>290</height>
+										<width>205</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>135 folios (+ 2 unfoliated paper flyleaves at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords at the end of the quires, mostly cut away.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folios 55, 70, 80, 88, 127.</p>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="27" writtenLines="26">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters. </p>
+									<p>Hair side and flesh side are hardly distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, punctuated, of the 14th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Anshel Humel Segal</name> of Frankfurt [am Main]: inscribed, folio 2r, 135v.</p>
+							<p>
+								<name type="person" role="owner">Shim῾on ben Eli῾ezer</name>: inscribed in a pen and ink floral design, Nisan [5]377 (1617): folio 40r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600, contemporary. Beige leather, blind tooled, with metal centrepiece, cornerpieces and clasps. Boxed.</p>
+								<p>Spine: 'Machazor. Ux[...]tum Germanicum. Hebraice.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1852-06-12</date>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: purchased from him on 12 June 1852, inscribed (folio [136v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">660</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_12209" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 12209</idno>
+					</msIdentifier>
+					<head>Perush Mishle</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Gersonides (Leṿi ben Gershom aka Ralbag) on the book of Proverbs, with the punctuated and accentuated biblical text.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="87v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Mishle</title>
+							<title xml:lang="he">פרוש משלי</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/59118174">Levi ben Gershom        </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/59118174">לוי בן גרשם</persName>
+							</author>
+							<explicit xml:lang="he">ובכאן נשלם ספר הביאור ת&apos;ל&apos;ח&apos; חזק ונתחזק ביראת חזק ולעד לא נזק אמן.<locus n="85v"/>
+							</explicit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex, Italian (Ashkenazi style) square and semi-cursive script, unpunctuated, of c15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">87 folios <dimensions unit="mm" type="leaf">
+										<height>170</height>
+										<width>130</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>120</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>87 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end; folios 1-2 and 87 are paper).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each.</p>
+									<p>Catchwords at the end of the quires.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout ruledLines="37" writtenLines="37" columns="2">
+									<p>Punctuated and accentuated biblical text is embedded.</p>
+									<p>Hard-point ruling is visible.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian (Ashkenazi style) square and semi-cursive script, unpunctuated, of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 3r to 5v contain three poetical elegies.</p>
+							<p>Folio 6v contains a list of accents of the three poetical books.</p>
+							<p>
+								<name type="person" role="scribe">Yehudah ben Shelomoh Yedidyah</name>, inscribed in the contract of sale to Eliezer ben Eliyahu of Aquila, witnessed by Menaḥem ben Eliyahu of Ascoli and Yeḳutiel ben Mosheh of Sulmona, folio 86v, with a date of 226 (1465). </p>
+							<p>A former owner&apos;s seal, folio 3r: Pandulphi de Ricasolio Baronibus Cano. Flor., dated 1654.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. brown tooled leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> (<name type="place">Ascoli</name>?)</p>
+						</provenance>
+						<acquisition>
+							<date>1841-12-04</date>
+							<p><name type="person" role="bookseller">Thomas Rodd the younger</name> (b. 1796, d. 1849), purchased through him on 04 December 1841, inscribed (folio 87v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">222</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

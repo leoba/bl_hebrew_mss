@@ -1,0 +1,159 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-18</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2356" xml:lang="ara" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2356</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Nur al-tsulm, an Arabic-Hebrew midrashic commentary on the Pentateuch by Nathanael ben Isaiah. </summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="288v"/>
+							<title xml:lang="ara-Latn-x-lc">Nur al-tzulm</title>
+							<title xml:lang="jrb">נור אלצלם</title>
+							<author>
+								<persName xml:lang="en">Nathanael ben Isaiah</persName>
+								<persName xml:lang="he">נתנאל בן ישעיהו</persName>
+							</author>
+							<incipit xml:lang="he">[תקון ספרים] בי' של בראשית גדולה מכל בי' ללמדך [שאין] דורשין במעשה בראשית בשנים.<locus n="1v"/>
+							</incipit>
+							<explicit xml:lang="he">יצא כף פשוטה מכת אלף אמר לו.<locus n="288r"/>
+							</explicit>
+							<quote xml:lang="he">ולפי חשבון זה שנה זו שאנו עומדין בה שהיא <date when="1328" calendar="Hebrew">שנת חמשת אלפים ושמנה ושמונים שנה ליצירה</date> שהיא <date calendar="AM">שנת אלף ושש מאות ותשעה ושלשים לשטרות</date> היא שנה שנייה מן השבוע הרביעי והיא שנת שלש ועשרים מן היובל שהוא ששה ועשרים יובלות אחר חרבן בית שני. <locus n="188v"/>
+							</quote>
+							<note>
+								<p>The introduction is missing in this manuscript.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Kohut_1894"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite semi-cursive script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>288 folios<dimensions type="leaf" unit="mm">
+										<height>255</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>288 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Signed with Hebrew letters on the last and first page of a quire.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Gaps after folios 29 and 48.</p>
+									<p>Stained, partly water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. </p>
+									<p>Some catchwords preserved.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script of 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Nur Uz-Zulm. Arabic. Brit. Mus. Oriental 2356.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5088" calendar="Hebrew" when="1328"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-05-28</date>
+							<p>
+								<name type="person" role="owner">Nicolas Mavrocordato</name>: purchased by the British Museum from him on <date calendar="Gregorian">28 May, 1881</date>: inscribed, <locus n="fse001v">[289v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">360</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-18">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

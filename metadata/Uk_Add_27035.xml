@@ -1,0 +1,179 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-12-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27035" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27035</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of kabbalistic works.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="">
+							<locus from="1r" to="104v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳovets be-ḳabalah</title>
+							<title xml:lang="he">קובץ בקבלה</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="61v"/>
+							<title xml:lang="he-Latn-x-lc">Hatḥalat ha-ḥokhmah</title>
+							<title xml:lang="he">התחלת החכמה</title>
+							<note>
+								<p>Anonymous, by one of the students of Isaac Luria ha-Ar"i.</p>
+								<p>See further <ref target="Avivi_2008" type="page">305-307</ref>, vol. 1.</p>
+							</note>
+							<filiation>Cf. MS JTS New York no. 1585, MS Mantua Hebr. 115 and <ref target="Steinschneider_1879" type="number">1795</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Ḥaye ha-῾olam ha-ba</title>
+							<title xml:lang="he">חיי עולם הבא</title>
+							<locus from="62r" to="97v"/>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/79054878">Abulafia, Abraham ben Samuel, 1240-1292</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/79054878">אבולעפיה, אברהם בן שמואל</persName>
+							</author>
+							<note>
+								<p>See <ref target="Idel_1976" type="page">62-65</ref>.</p>
+								<p>The spaces for ῾igulim in the last few pages have not been filled in. Folios 93v-97v contain some short passages from the Zohar and comments on Tiḳunim.</p>
+							</note>
+							<filiation>Cf. Or 4596/II (<ref target="Margoliouth_1965" type="number">757</ref>) and Harley MS 1204/II (<ref target="Margoliouth_1965" type="number">758</ref>).</filiation>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Tiḳune shabat</title>
+							<title xml:lang="he">תקוני שבת</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/38901588">Abraham ben Eliezer, ha-Levi, Berukhim, 1515-1593</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/38901588">אברהם הלוי הזקן</persName>
+							</author>
+							<locus from="98r" to="104v"/>
+							<note>
+								<p>A tract by Abraham ha-Levi, called ha-Zaken, on the laws and customs to be observed on the Sabbath. It agrees substantially with an abridgement by Jacob ben Mordecai Poggetto of Reshit ḥokhmah of Elijah da Vidas. Followed by a response on the Ten Commandments, signed by Menahem Azariah da Fano (folio 103r), and a small fragment of Perush ha-tefilot by Joseph ibn Sheraga (folio 104r).</p>
+							</note>
+							<filiation>Cf. Add MS 27014/I (<ref target="Margoliouth_1965" type="number">792</ref>) and Add MS 26934/V (<ref target="Margoliouth_1965" type="number">793</ref>).</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th to 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>104 folios<dimensions type="leaf" unit="mm">
+										<height>200</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>175</height>
+										<width>75/110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>104 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 3 to 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Slightly water-damaged.</p>
+									<p>First two leaves injured.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="24 37" writtenLines="24 37">
+									<p>Uniform layout.</p>
+									<p>Headings and initial words in larger characters.</p>
+									<p>Additions and comments in the margin.</p>
+									<p>Diagrams, folios 66r-66v, 67v-85r; space for diagrams on folios 85v-87v left blank.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Italian cursive scripts of the 16th to 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Cabbalistic Treatises. Hebrew. Brit. Mus. Additional 27,035.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 141: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [106v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">817</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-12-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

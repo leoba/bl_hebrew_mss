@@ -1,0 +1,199 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-25</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17058" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17058</idno>
+					</msIdentifier>
+					<head>Maḥzor</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Maḥzor for several festivals.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="264v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<msItem rend="v">
+								<locus from="1r" to="10v"/>
+								<title xml:lang="en">Poetical pieces</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="11r" to="18v"/>
+								<title xml:lang="en">Services for Rosh ha-shanah (fragments)</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="18v" to="119r"/>
+								<title xml:lang="en">Seder Yom ha-kipurim</title>
+								<filiation>Cf the contents of Add. 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="119r" to="155r"/>
+								<title xml:lang="en">῾Inyan Sukot</title>
+								<filiation>Cf the contents of Add. 19945, part VII, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155r" to="163r"/>
+								<title xml:lang="en">῾Inyan Ḥanukah</title>
+								<filiation>Cf the contents of Add. 19944, part V, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="163r" to="168v"/>
+								<title xml:lang="en">῾Inyan ῾asarah be-ṭeveṭ</title>
+								<filiation>Cf Add. 19944, <ref target="Margoliouth_1965" type="number">626</ref>, folio 54v.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="168v" to="175r"/>
+								<title xml:lang="en">Special fasts</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="175r" to="180v"/>
+								<title xml:lang="en">Four special sabbaths</title>
+								<filiation>Cf Harley 5686, <ref target="Margoliouth_1965" type="number">629</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="180v" to="187v"/>
+								<title xml:lang="he-Latn-x-lc">῾Inyan tsom Ester ve-Purim</title>
+								<filiation>Cf the contents of Add. 19944, part VIII, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+							</msItem>
+							<msItem rend="v">
+								<locus from="187v" to="236r"/>
+								<title xml:lang="en">Services for Pesaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="236r" to="242r"/>
+								<title xml:lang="he-Latn-x-lc">Masekhet avot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="242r" to="264v"/>
+								<title xml:lang="he-Latn-x-lc">῾Inyan Shavu᾿ot</title>
+								<note>
+									<p>Imperfect at the end.</p>
+								</note>
+								<filiation>Cf Add. 19944, part XI, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex; Italian square and semi-cursive script of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>264 folios<dimensions type="leaf" unit="mm">
+										<height>305</height>
+										<width>216</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>264 folios (+ 4 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each, marked with catchwords at the end.</p>
+									<p>Signatures in Hebrew letters on the first and last page of the quire, partially preserved.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Lacuna after folio 10.</p>
+									<p>Several leaves damaged in the upper part.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="30" writtenLines="30">
+									<p>Section titles and initial words written in larger characters.</p>
+									<p>Complete ruling by hard-point visible.</p>
+									<p>Hair side and flesh side distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive script of the 15th century, punctuated.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Some marginal notes.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Machazor Secundum Ritum Synagogae Romanea. Mus. Brit. Additional 17,058.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1847-10-23</date>
+							<p>
+								<name type="person" role="bookseller">Thomas Rodd the younger </name>(b. 1796, d. 1849): purchased from him by the British Museum on 23 October 1847: inscribed (folio [265v]): Macdonald's sale, lot 174.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">636</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-25">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

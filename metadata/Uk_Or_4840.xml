@@ -1,0 +1,152 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4840" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4840</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon-Rofe, aka Yaḥya ben Saliman.</summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="214v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-ḥefets </title>
+							<title xml:lang="he">מדרש החפץ </title>
+							<author key="http://viaf.org/viaf/19836689">
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="en">Zechariah ben Solomon-Rofe, active 15th century </persName>
+								<persName key="http://viaf.org/viaf/19836689" xml:lang="he">זכריה בן שלמה, הרופא </persName>
+							</author>
+							<filiation>Cf Or 2351, <ref target="Margoliouth_1965" type="number">363</ref>, Or 2380, <ref target="Margoliouth_1965" type="number">364</ref>, Or 2382, <ref target="Margoliouth_1965" type="number">365</ref> and Or 2381, <ref target="Margoliouth_1965" type="number">366</ref>.</filiation>
+							<listBibl>
+								<bibl>
+									<ref target="Midrash-Hefets_1990"/>
+								</bibl>
+							</listBibl>
+							<note>
+								<p>Arabic words are sometimes provided with Hebrew punctuation, showing a pecular pronunciation.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>214 folios<dimensions type="leaf" unit="mm">
+										<height>260</height>
+										<width>180</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>205</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>214 folios (+ 2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Signatures in Arabic letters at the beginning and at the end of quires, partly preserved.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Several folios more or less damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22 24" writtenLines="22 24">
+									<p>Occasional marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Two Yemenite semi-cursive scripts of 17th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash ha-Hefets. Hebrew-Arabic. Brit. Mus. Oriental 4840.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="org">Morris, Heller &amp; Weiss</name>: purchased by the British Library on <date calendar="Gregorian">14 November 1894</date>: inscribed, folio <locus n="fse002v">[216v]</locus>.</p>
+							<date>1881-05-28</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">367</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

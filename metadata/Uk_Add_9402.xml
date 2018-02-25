@@ -1,0 +1,188 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_9402" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 9402</idno>
+					</msIdentifier>
+					<head>Prophets and Hagiographa</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Prophets and Hagiographa, punctuated, accompanied with masorah magna and parva.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79066420" n="0">
+							<locus from="1r" to="229v"/>
+							<title xml:lang="he-Latn-x-lc">Neviʾim u-Khetuvim</title>
+							<title xml:lang="he">נביאים וכתובים</title>
+							<note>
+								<p>This is the second of the two uniform volumes, the first being Add MS 9401, <ref target="Margoliouth_1965" type="number">70</ref>. </p>
+								<p>This volume contains parts of Hagiographa and Prophets (parts of Jeremiah and Isaiah only).</p>
+							</note>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">יצחק בר' יהודה</name> הסופר כתבתי זה החומש כתובים ירמיה לר' <name type="person" role="patron">מרדכ</name>י בר' ... בשנת <date when="1286" calendar="Hebrew">חמשת אלפים וארבעים וששה</date> לבריאת עולם ועשרים ושנים לירח אלול ביום חמישי ה'מקו'ם' יזכהו להורישו לבניו ולבני בניו עד סוף כל הדורות אמן אמן אמן סלה: ברוך הוא הנותן ליעף כח: הוא הנקרש והנקדם ברוך אשר יצר את האדם: חזק ונתחזק הסופר לא [יזק]:  <locus n="229r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="3r" to="59v"/>
+							<title xml:lang="en">Psalms</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="60r" to="81v"/>
+							<title xml:lang="en">Job</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="82r" to="100v"/>
+							<title xml:lang="en">Proverbs</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="101r" to="116v"/>
+							<title xml:lang="en">Daniel</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="117r" to="142v"/>
+							<title xml:lang="en">Ezra</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="143r" to="206v"/>
+							<title xml:lang="en">Chronicles</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="207r" to="227v"/>
+							<title xml:lang="en">Jeremiah</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="227v" to="229r"/>
+							<title xml:lang="en">Isaiah</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>229 folios<dimensions unit="mm" type="leaf">
+										<height>386</height>
+										<width>304</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>229 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>29 quires of mostly 8 leaves.</p>
+									<p>Quires marked with catchwords on the last page.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="26" writtenLines="25">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and ruling with hard-point.</p>
+									<p>Writing in three columns, with supralinear masoretic punctuation and accents.</p>
+									<p>Initial word of each book is written in large ornamental characters.</p>
+									<p>Masorah magna in two lines at the top of the page and three lines in the lower margin.</p>
+									<p>A number of masoretic rubrics at the end of the books.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Square Ashkenazi script of the 13th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Later addition on the lower margin of folio 59v. </p>
+							<p>
+								<q>חזק</q> at the end of Chronicles, folio 206v. </p>
+						
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: &apos;Bible. Hebrew. Vol. 2. Brit. Mus. Additional 9402.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate when="1286" calendar="Hebrew" when-custom="5046">1286 (5046)</origDate>
+						<origPlace>Germany</origPlace></origin>
+						<provenance>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov ben Ya῾aḳov Sason</name>: inscribed with his name on folio 229r: לעולם יכתו&apos; אדם שמו על ספרו.</p>
+							<p>
+								<name type="person" role="owner">Wolf Leib</name>: inscribed with his name on folio 228v, dated 5378 (<date calendar="Gregorian">1588</date>). </p>
+							<p>
+								<name type="person" role="owner">Binyamin bar Yo᾿el</name>: inscribed with his name, in red ink, on folio 229r. </p>
+							<p>
+								<name type="person" role="owner">John  van der Hagen</name>; a dedication in a from of a Hebrew poem by Christian Meir on folio 2v, dated in Amsterdam, 1726.</p>
+						</provenance>
+						<acquisition>
+							<p><name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his inscription in Latin (folio 1r); manuscript acquired by him at <name type="place">Utrecht </name>in <date calendar="Gregorian">1823</date>. His bookplate with Greek inscription: <q>ho theos agape estin</q> (folio [i verso]). This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in <date calendar="Gregorian">1834</date>, once the property of the Hagen family and then bought by Adam Clarke. </p>
+							<date>1834</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">70</ref>
+							</bibl>
+							<bibl>
+								<ref target="Clarke_1835" type="page">110-117</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,604 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2015-06-19</date>
+            
+            
+            
+            <idno>Uk</idno>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <biblFull>
+               
+               
+               
+               <titleStmt>
+                  
+                  
+                  
+                  <title/>
+               
+               
+               
+               </titleStmt>
+               
+               
+               
+               <publicationStmt>
+                  
+                  
+                  
+                  <p/>
+               
+               
+               
+               </publicationStmt>
+            
+            
+            
+            </biblFull>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_14061" xml:lang="en" rend="meta">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 14061</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314169</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031723867.0x000004</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Moreh nevukhim by Maimonides</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/sh85100947" rend="visible">
+                  
+                  
+                  
+                  <summary>Philosophical writing.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem rend="visible" class="lccn.loc.gov/sh85100947">
+                     <locus from="1r" to="248v"/>
+                     <title xml:lang="he-Latn-x-lc">Moreh nevukhim</title>
+                      <title xml:lang="he">מורה נבוכים</title>
+                     
+                     <note>    
+                        <p>An introduction of Yehuda ibn Tibbon, the translator, folios 2v-8v; Maimonides' letter to Yosef ben Yehudah, folios 8v-9r. </p>                      
+                        <p>Part 3 of the work is incomplete. </p>                                                             
+                     </note>
+                     
+                     
+                     
+                     <author>
+                        
+                        
+                        
+                        <persName xml:lang="en" key="viaf.org/viaf/100185495">Maimonides, Moses</persName>
+                        
+                        
+                        
+                        <persName xml:lang="he" key="viaf.org/viaf/100185495">משה בן מימון</persName>
+                     
+                     
+                     
+                     </author>
+                     
+                     
+                     
+                     <decoNote type="initial">1 full-page decorated initial-word panel, in colours and gold. <locus n="1v"/>
+                     
+                     
+                     
+                     </decoNote>
+                     
+                     
+                     
+                     <decoNote type="miniature">1 full-page miniature of a coat of arms. <locus n="156v"/>
+                     
+                     
+                     
+                     </decoNote>
+                     
+                     
+                     
+                     <decoNote type="other">2 heraldic golden lion in panels. <locus from="4v" to="5r"/>
+                     
+                     
+                     
+                     </decoNote>
+                     
+                     
+                     
+                     <decoNote type="initial">Numerous decorated initial-word panels accompanied with foliate scrolls, in colours and gold. </decoNote>
+                     
+                     
+                     
+                     <decoNote type="initial">Numerous initial-word panels decorated with penwork and pen-flourishing.</decoNote>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the 2nd or 3rd quarter of the 14th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment codex.</support>
+                        
+                        
+                        
+                        <extent>248 folios<dimensions type="leaf" unit="mm">
+                              
+                              
+                              
+                              <height>300</height>
+                              
+                              
+                              
+                              <width>210</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>195</height>
+                              
+                              
+                              
+                              <width>140</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>248 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>22 quires: inine (folios 1-9), ii10 (folios 10-19), iii-vii12 (folios 20-79), viii12-3 (folios 80-88), ix-xiii12 (folios 89-148), xiv8 (folios 149-156), xv12 (folios 157-168), xvi10 (folios 169-178), xvii-xx12 (folios 179-226), xxi10 (folios 227-236), xxii12 (folios 237-248). </p>
+                           
+                           
+                           
+                           <p>Catchwords.</p>
+                        
+                        
+                        
+                        </collation>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2 " ruledLines="23" writtenLines="23">
+                           
+                           
+                           
+                           <p>Uniform layout.</p>
+                           
+                           
+                           
+                           <p>Titles and inital words in larger characters.</p>
+                           
+                           
+                           
+                           <p>Visible vertical hard-point ruling and pricking visible. </p>
+                           
+                           
+                           
+                           <p>Flesh and hair side are distinguishable. </p>
+                           
+                           
+                           
+                           <p>Some folios are mutilated (e.g. folios 3, 6, 56, 59, 66, 67, 84, 101, 111, 115, 132, 179, 188, 192). </p>
+                           
+                           
+                           
+                           <p>Incomplete at the end.</p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi square and semi-curive scripts of the 14th century. <name type="person" role="scribe">Leṿi ben Yitsḥaḳ ben Karo</name> of Salamanca. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="sole"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>                                                                      
+                        <p>Post-1600. Brown leather, gold tooled, manuscript number of the Sassoon collection on the spine. </p>
+                     </binding>
+                  </bindingDesc>
+                              
+               </physDesc>                                        
+               <history rend="visible">
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1325" notAfter="1374">2nd and 3rd quarter of the 14th century</origDate>
+                    
+                     <origPlace>Spain, N. E. (Catalonia)</origPlace>
+                 
+                  </origin>
+                  <provenance>
+                                                          
+                    <p>Coat of arms of the royal family of Leon and Castile: depicted (folios 1v, 4v, 5r, 156v).							</p>
+                    <p>
+                         <name type="person" role="owner">Daniyel Valentin</name> ?: inscribed with his name in a purchase note (folio 1r).
+							</p>
+                     <p>
+                         <name type="person" role="owner">Bekhor Levi</name> of Constantinople, court physician of Sultan Abd el-Hamid (d. around 1899): see Sassoon, 1932. Probably based on the note which has been partially cut off (folio 88v).
+							</p>
+                      <p>
+                        <name type="person" role="owner">David Solomon Sassoon</name> (b. 1880, d. 1942), book collector: in his collection (no. 1047); his book plate (inner front cover); his binding; his sale, Sotheby's Zurich 1975, lot 17.
+							</p>
+                                          
+                     <p>Remains of a note in Hebrew (folio 88r, partially cut off).</p>
+                  
+                  
+                  
+                  </provenance>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1982</date>
+                     
+                     
+                     
+                     <p>Acquired by the British Library in 1982.</p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>
+                        David Solomon Sassoon, <title>Ohel Dawid. Descriptive Catalogue of the Hebrew and Samaritan Manuscripts in the Sassoon Library</title>, London, 2 vols (London: Oxford University Press, 1932), II, pp. 996-98.
+                     </bibl>
+                     <bibl>Sotheby's, <title>Catalogue of thirty-eight highly important Hebrew and Samaritan manuscripts from the collection formed by the late David Solomon Sassoon </title>... : which will be sold at auction ... on Wednesday 5th November 1975 (Zu¨rich: Sotheby, 1975), p. 61 (lot 17).
+                     </bibl>
+                     <bibl>David Goldstein, <title>Hebrew Manuscripts from the Sassoon Collection: an Exhibition in the British Library</title>, 10 August-31 December 1982 (London: The British Library, 1982). [exhibition notes]
+                     </bibl>
+                     <bibl>Katrin Kogman-Appel, 'Tzurat ha-Behemot we-shear nefesh hayyah we-tzurot ha-ilanot we-deshim. Itturim be-kitvei yad sfaradiyyim shel sifrei ha-Rambam' <title>Peamim</title>, 97 (2004), 27-62 (pp. 56-57).
+                     </bibl>
+                     <bibl>Ilana Tahan, <title>Hebrew Manuscripts: The Power of Script and Image</title> (London, British Library, 2007), pp. 126-27.</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+            
+            
+            
+            <bibl/>
+            
+            
+            
+            <listBibl>
+               
+               
+               
+               <bibl/>
+            
+            
+            
+            </listBibl>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2015-06-19">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

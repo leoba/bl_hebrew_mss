@@ -1,0 +1,186 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27214" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27214</idno>
+					</msIdentifier>
+					<head>Philology</head>
+					<msContents class="lccn.loc.gov/sh85059886" rend="visible">
+						<summary>The Hebrew dictionary, with a commentary.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="132v"/>
+							<title xml:lang="en">Maḥberet </title>
+							<title xml:lang="he">מחברת </title>
+							<note>
+								<p>Incomplete at the beginning (parts missing until letter gimel). </p>
+							</note>
+							<colophon xml:lang="he">שנת תתנ"א נגמר בסיוע ברא כל במאמר.<locus n="132v"/>
+							</colophon>
+							<author>
+								<persName key="http://viaf.org/viaf/97166551" xml:lang="en">Mĕnaḥem ben Saruq</persName>
+								<persName key="http://viaf.org/viaf/97166551" xml:lang="he">אבן סרוק, מנחם בן יעקב</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="133r" to="201r"/>
+							<title xml:lang="he-Latn-x-lc">Teshuvot ῾al Maḥberet </title>
+							<title xml:lang="he">תשובות על מחברת</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/61947743">Dunash ben Labrat, active 10th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/61947743">דונש בן לברט</persName>
+							</author>
+							<note>
+								<p>The manuscript begins with a poem, which yields an acrostic 'Dunash'. The preface begins on folio 139r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="201v" to="227v"/>
+							<title xml:lang="he-Latn-x-lc">Teshuvot ῾al rabi Se῾adyah Ga᾿on</title>
+							<title xml:lang="he">תשובות על רבי סעדיה גאון</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/61947743">Dunash ben Labrat, active 10th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/61947743">דונש בן לברט</persName>
+							</author>
+							<note>
+								<p>A letter from Menahem ben Saruq to Hasdai the Prince starts on folio 226r. </p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="228r" to="237v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>A fragment, appended later to the original manuscript. Hagadah shel Pesaḥ begins on folio 233r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 11th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>237 folios<dimensions type="leaf" unit="mm">
+										<height>205</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>237 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each, marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Usage stains.</p>
+									<p>Incomplete at the beginning.</p>
+									<p>Folio 227 mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="25" writtenLines="25">
+									<p>Uniform layout.</p>
+									<p>Titles in larger square script, coloured in red. Initial words in larger square script.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side of folios distinguishable.</p>
+									<p>Red edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="7">
+							<summary>Italian square scripts of the 11th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="6v"/> and <locus from="39r" to="201v"/> written by the main scribe. Portions: <locus from="7r" to="12r"/>, <locus from="12v" to="13r"/>, <locus from="13v" to="25r"/>, <locus from="25r" to="38v"/>, <locus from="201v" to="205v"/>, <locus from="206r" to="226r"/> written by six different hands, respectively.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 228-237 are a portion of a different manuscript, forming a single quire with a catchword at the end. Written in an Italian square script of the 13th century. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Menachem ben Saruk. Hebrew Lexicon. A.D. 1091. Brit. Mus. Additional 27,214.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="4851" calendar="Hebrew" when="1091">The last portion, appended, of the 13th century.</origin>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">950</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

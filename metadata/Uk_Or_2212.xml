@@ -1,0 +1,207 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-01</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2212" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2212</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points and accents, masorah magna and parva.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים</title>
+							<locus from="1r" to="234v"/>
+							<colophon xml:lang="he">נשלם זה הכתובים בעזרת יושב הכרובים<date when="1586" calendar="Seleucid"> יום ששי דהוא תמני עשר בירח אב ייהפך לששון ולשמחה של שנת אתתצז שנין לשטרי</date> במאתא <name type="place">אלחצנין </name>יחרוב ויצדי וירושלם תתבני ותשתכלל אלהים ישימיהו טוב על מריה דאתעסק ביה <name type="person" role="patron">אברהם בן זכריה ש"צ הידוע אלמעלם אלתנעמי</name> ת'נ'צ'ב'ה' ויזכה להגות בו הוא וזרעו וזרע זרעו עד עולם כדכת' לא ימוש ספר התורה הזה מפיך והגית בו יומם ולילה וג' כי אז תצליח את דרכיך ואז תשכיל אמן ויזכה לכל מדה טובה ולזקנה ושיבה ולשמחת בית השאובה ולחיי העולם הבא כן יאמר אל נערץ בסוד קדושים רבה אמן וכן יחי רצון ספרא חלשא מסכינא <name type="person" role="scribe">זכריה בן שלמה בן משה  נע"ג הלוי אלצאהרי</name> אלהים ימחול לי על כל מה ששגיתי והוספתי וגרעתי ונעלם מעיני דכת' שגיאות מי יבין מנסתרות נקיני א'ו'י'ר' ישע יקרב ששון יערב הדן לכף זכות מן השמים ידינוהו לכף זכות צדקתך צדק לעולם ותורתך אמת ברוך ייי לעולם אמן ואמן. <locus n="224r"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="4r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="4v" to="58v"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="58v" to="80r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="80r" to="97r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="97v" to="104v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="104v" to="108r"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="108r" to="112r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112r" to="127v"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="127v" to="135v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="135v" to="159v"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 145v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="159v" to="224v"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles starts on folio 188v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="224v" to="228r"/>
+								<title xml:lang="he-Latn-x-lc">Megilat Antiochus</title>
+								<textLang mainLang="tmr" otherLangs="jrb">Aramaic, Judeo-Arabic</textLang>
+								<note>
+									<p>With superlinear punctuation and an Arabic translation in alternate verses.</p>
+									<p>Missing last verse.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="228r" to="233v"/>
+								<title xml:lang="en">Masoretic lists</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="233v" to="234v"/>
+								<title xml:lang="en">Comments</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="234v" to="234v"/>
+								<title xml:lang="en">Poetic fragments</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>234 folios<dimensions unit="mm" type="leaf">
+										<height>260</height>
+										<width>185</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>220</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>234 folios  (+ 1 unfoliated paper flyleaf at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>24 quires of 10 leaves each, quires no. 1, 8, 23 and 24 are imperfect.</p>
+									<p>The quires are signed with Hebrew letters on the first and last pages.</p>
+								</collation>
+								<condition>
+									<p>Several larger lacunae. </p>
+									<p>Some leaves are imperfectly preserved.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Masorah magna occupies one line in the upper and in the lower margin.</p>
+									<p>The number of verses and siman are stated at the end of each book.</p>
+									<p>Ruled with mastara. </p>
+									<p>Catchwords present throughout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script, punctuated, of 16th century. <name type="person" role="scribe">Zekharyah ben Shelomoh ben Mosheh ha-Leṿi</name>, and <name type="person" role="patron">Avraham ben Zekharyah</name>, inscribed in the colophon, folio 224r. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="224r"/> - another contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 1r: a doodle page.</p>
+							<p>Folio 1r, a note of ownership: לקדש כניסת יחיא אלטירי ן' אברהם מן אלנדרים אלדרי בנצר יוסף ן' סאלם אלכרנבא יצ"ו Similar inscription is found on folio 97v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1897" calendar="Seleucid" when="1586"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name> </p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">151</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

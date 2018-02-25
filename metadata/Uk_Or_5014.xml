@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-14</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5014" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5014</idno>
+					</msIdentifier>
+					<head>Shitah meḳubetset</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Glosses and commentaries on the Gemara, Rashi and Tosafot of Seder Ḳodashim and parts of Seder Nashim, entitled Shitah meḳubetset, followed by glosses on Samson ben Abraham of Sens's Commentary on Seder Zera῾im.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="261v"/>
+							<title xml:lang="en">Shitah meḳubetset </title>
+							<title xml:lang="he">שיטה מקבצת </title>
+							<note>
+								<p>The part treating on the first 21 folios and a portion of folio 22 of Zevaḥim is missing. </p>
+								<p>Menaḥot begins on folio 58r; Ḥulin on folio 110v; Bekhorot on folio 118v; ῾Eruvin on folio 156r; Temurah on folio 173v; Keritot on folio 192r; Me῾ilah on folio 213r; Tamid on folio 225v; Ḳinim on folio 238r; the tractate Nedarim begins on folio 240r; and Nazir on folio 245v.</p>
+								<p>Folio 256r-260v contain glosses on Samson ben Abraham of Sens's Commentary on Seder Zera῾im.</p>
+								<p>The last leaf of the manuscript contains Hagahot u-ferushim on the Gemara, Rashi and Tosafot of the tractate Yoma, covering folios 26-39 of the printed editions of the Talmud.</p>
+							</note>
+							<author key="http://viaf.org/viaf/8973010">
+								<persName key="http://viaf.org/viaf/8973010" xml:lang="en">Ashkenazi, Bezalel ben Abraham, active 16th century</persName>
+								<persName key="http://viaf.org/viaf/8973010" xml:lang="he">אשכנזי, בצלאל בן אברהם </persName>
+							</author>
+							<colophon xml:lang="he">סליק פרקא וסליקא לה מסכת זבחים בעזר הנותן כח ליעפים' ולהולכי דרכים ואורחים' התחלתיה ב'י'ה' לירח סיון <date when="1616" calendar="Hebrew">שנת השלום</date> וסיימתיה בט"ו באב.<locus n="58v"/>
+							</colophon>
+							<colophon xml:lang="he">שפל אנשים אני <name type="person" role="scribe">שלמה בר ישועה עדני</name> רי"ת:<locus n="256r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>261 folios <dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>155</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>261 folios (+ 1 modern paper flyleaf at the beginning and at the end).</p>
+									<p>Hebrew enumeration missing for folios 1-16.</p>
+								</foliation>
+								<collation>
+									<p>Modern restoration (all leaves stuck on paper guards).</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+									<p>Defective at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="39 55" writtenLines="39 55">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Initial words of each section written in larger characters.</p>
+									<p>Running titles.</p>
+									<p>Folio 1r is a title page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive of the 17th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<name type="person" role="scribe">Shelomoh bar Yeshu῾ah ῾Adani</name>: inscribed in the colophon, <locus n="256r"/>.</p>
+								<p>
+									<locus from="2r" to="66v"/>: written by a different but contemporary hand (larger characters).</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Shitah Mekubbeseth on Kodashim. Etc. Hebrew. Brit. Mus. Or. 5014.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5376" calendar="Hebrew" when="1616"/>
+						<acquisition>
+							<date>1896-05-13</date>
+							<p>
+								<name type="person" role="owner">G. Luzzatto</name>: purchased from him by the British Museum on 13 May 1896: inscribed, folio <locus n="fse001v">[262v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">421</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-14">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

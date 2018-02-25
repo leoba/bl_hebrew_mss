@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-01</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Add_27053" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27053</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="  lccn.loc.gov/n80008481" rend="visible">
+						<summary>Parts of the Hagiographa, provided with vowel-points and accents, with marginal notes regarding ḳeri.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="" class=" lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים </title>
+							<locus from="1r" to="248v"/>
+							<colophon xml:lang="he">ב'נ'ל'ך' ו'א'ע'י' חזק ונתחזק <name type="person" role="scribe">נתן קסאלו הסופר</name> לא יוזק לא היום ולא לעולם עד שיעלה החמור בסולם.<locus n="136v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1r" to="136v"/>
+								<title xml:lang="en">Psalms</title>
+								<note>
+									<p>Wanting chapters 1:1-end of Ps. 21.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="137r" to="197r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="197r" to="218v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="218v" to="227v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="227v" to="236r"/>
+								<title xml:lang="en">Ruth</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="236r" to="247r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="247r" to="248v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+								<note>
+									<p>Up to chapter 2:3.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment  codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>248 folios<dimensions unit="mm" type="leaf">
+										<height>133</height>
+										<width>100</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>90</height>
+										<width>55</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>248 folios  (+ 3 unfoliated paper flyleaves at the beginning and 2 at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>The quires are marked with catchwords on the lower left-hand corner of the last page and numbered with Hebrew letters both at the beginning and at the end of the quire.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>Uniform layout. </p>
+									<p>The catchwords from page to page are written in the middle of the lower margin.</p>
+									<p>The Psalms are numbered and divided into groups, separated with blank spaces from 1 to 8 lines.</p>
+									<p>Vertical ruling with pen, horizontal ruling with a sharp object.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script, punctuated, of the 15th century. <name type="person" role="scribe">Natan Casallo</name>, inscribed with his name in the colophon, folio 136v.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shelomoh Scanriani</name> and <name type="person" role="owner">Mosheh Refa’el Scanriani</name>, inscribed with names on folio 227v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in <date calendar="Gregorian">October 1865</date> for £1,000 through  <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum (<ref target="Paisey_1997" type="page">131-153</ref>: inscribed (folio [249v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">148</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-01">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

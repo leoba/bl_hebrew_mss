@@ -1,0 +1,990 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+   
+   
+   
+   <teiHeader rend="visible">
+      
+      
+      
+      <fileDesc>
+         
+         
+         
+         <titleStmt>
+            
+            
+            
+            <title>Hebrew Manuscripts Catalogue</title>
+            
+            
+            
+            <principal>Ilana Tahan</principal>
+            
+            
+            
+            <funder>BL</funder>
+            
+            
+            
+            <sponsor>The Polonsky Foundation</sponsor>
+         
+         
+         
+         </titleStmt>
+         
+         
+         
+         <publicationStmt>
+            
+            
+            
+            <publisher>British Library</publisher>
+            
+            
+            
+            <pubPlace/>
+            
+            
+            
+            <date calendar="Gregorian">2013-08-20</date>
+            
+            
+            
+            <idno>Uk</idno>
+            
+            
+            
+            <availability status="free">
+               
+               
+               
+               <p/>
+            
+            
+            
+            </availability>
+         
+         
+         
+         </publicationStmt>
+         
+         
+         
+         <sourceDesc>
+            
+            
+            
+            <msDesc xml:id="Uk_Or_6570" xml:lang="en" rend="mscontents">
+               
+               
+               
+               <msIdentifier rend="visible">
+                  
+                  
+                  
+                  <country>United Kingdom</country>
+                  
+                  
+                  
+                  <settlement>London</settlement>
+                  
+                  
+                  
+                  <institution>British Library</institution>
+                  
+                  
+                  
+                  <repository>Oriental Manuscripts</repository>
+                  
+                  
+                  
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+                  
+                  
+                  
+                  <idno>Or 6570</idno>
+                  
+                  
+                  
+                  <altIdentifier type="IAMS-ID">
+                     
+                     
+                     
+                     <idno>032-003314092</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+                  
+                  
+                  
+                  <altIdentifier type="MDARK">
+                     
+                     
+                     
+                     <idno>ark:/81055/vdc_100031724206.0x000002</idno>
+                  
+                  
+                  
+                  </altIdentifier>
+               
+               
+               
+               </msIdentifier>
+               
+               
+               
+               <head>Prophets and Hagiographa</head>
+               
+               
+               
+               <msContents class="lccn.loc.gov/n79054379" rend="visible">
+                  
+                  
+                  
+                  <summary>The Prophets and Hagiographa with masorah magna and parva.</summary>
+                  
+                  
+                  
+                  <textLang mainLang="he"/>
+                  
+                  
+                  
+                  <msItem n="0" rend="visible" class="lccn.loc.gov/n79054379">
+                     
+                     
+                     
+                     <locus from="1r" to="338v"/>
+                     
+                     
+                     
+                     <title xml:lang="he-Latn-x-lc">Nevi᾿im u-khetuvim</title>
+                     
+                     
+                     
+                     <title xml:lang="he">נביאים וכתובים</title>
+                     
+                     
+                     
+                     <textLang mainLang="he">Hebrew</textLang>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Joshua</title>
+                     
+                     
+                     
+                     <locus from="1r" to="17r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Judges</title>
+                     
+                     
+                     
+                     <locus from="17r" to="30r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Samuel</title>
+                     
+                     
+                     
+                     <locus from="30r" to="64v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Kings</title>
+                     
+                     
+                     
+                     <locus from="64v" to="98v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Isaiah</title>
+                     
+                     
+                     
+                     <locus from="99v" to="123v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Jeremiah</title>
+                     
+                     
+                     
+                     <locus from="123v" to="153v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Ezekiel</title>
+                     
+                     
+                     
+                     <locus from="153v" to="178v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Hosea</title>
+                     
+                     
+                     
+                     <locus from="178v" to="181v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Joel</title>
+                     
+                     
+                     
+                     <locus from="181v" to="183r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="183r" to="186r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Amos</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Obadiah</title>
+                     
+                     
+                     
+                     <locus from="186r" to="187r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="187r" to="189r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Micah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Nahum</title>
+                     
+                     
+                     
+                     <locus from="189r" to="190r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Habakuk</title>
+                     
+                     
+                     
+                     <locus from="190r" to="190v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Zephaniah</title>
+                     
+                     
+                     
+                     <locus from="190v" to="191v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Haggai</title>
+                     
+                     
+                     
+                     <locus from="191v" to="192v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Zechariah</title>
+                     
+                     
+                     
+                     <locus from="192v" to="196v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Kings</title>
+                     
+                     
+                     
+                     <locus from="196v" to="201r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Psalms</title>
+                     
+                     
+                     
+                     <locus from="201r" to="233r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Job</title>
+                     
+                     
+                     
+                     <locus from="233v" to="247r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Proverbs</title>
+                     
+                     
+                     
+                     <locus from="247r" to="258r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Daniel</title>
+                     
+                     
+                     
+                     <locus from="258r" to="266v"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="266v" to="280r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ezra-Nehemiah</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="280r" to="315v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Chronicles</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">Song of Songs</title>
+                     
+                     
+                     
+                     <locus from="315r" to="317r"/>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="317r" to="319r"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Lamentations</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="319r" to="322v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Ecclesiastes</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <locus from="322v" to="326v"/>
+                     
+                     
+                     
+                     <title xml:lang="en">Esther</title>
+                  
+                  
+                  
+                  </msItem>
+                  
+                  
+                  
+                  <msItem rend="">
+                     
+                     
+                     
+                     <title xml:lang="en">List of hafṭarot </title>
+                     
+                     
+                     
+                     <locus from="327v" to="338v"/>
+                  
+                  
+                  
+                  </msItem>
+               
+               
+               
+               </msContents>
+               
+               
+               
+               <physDesc rend="visible">
+                  
+                  
+                  
+                  <p>Parchment codex of the 14th century. </p>
+                  
+                  
+                  
+                  <objectDesc form="codex">
+                     
+                     
+                     
+                     <supportDesc material="perg">
+                        
+                        
+                        
+                        <support>Parchment.</support>
+                        
+                        
+                        
+                        <extent>338 folios<dimensions unit="mm" type="leaf">
+                              
+                              
+                              
+                              <height>300</height>
+                              
+                              
+                              
+                              <width>220</width>
+                           
+                           
+                           
+                           </dimensions>
+                           
+                           
+                           
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                              
+                              <height>215</height>
+                              
+                              
+                              
+                              <width>130</width>
+                           
+                           
+                           
+                           </dimensions>
+                        
+                        
+                        
+                        </extent>
+                        
+                        
+                        
+                        <foliation>
+                           
+                           
+                           
+                           <p>338 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). Two leaves cancelled at the end. </p>
+                        
+                        
+                        
+                        </foliation>
+                        
+                        
+                        
+                        <collation>
+                           
+                           
+                           
+                           <p>Quires of 8 leaves each, occasionally marked by catchwords. </p>
+                        
+                        
+                        
+                        </collation>
+                     
+                     
+                     
+                     </supportDesc>
+                     
+                     
+                     
+                     <layoutDesc>
+                        
+                        
+                        
+                        <layout columns="2" ruledLines="30" writtenLines="30">
+                           
+                           
+                           
+                           <p>Uniform layout. </p>
+                           
+                           
+                           
+                           <p>Pricking (occasionally) and complete hard-point ruling visible. </p>
+                           
+                           
+                           
+                           <p>Hair side and flesh side of folios distinguishable. </p>
+                           
+                           
+                           
+                           <p>Beginning of a weekly section marked by the word סדר in the margin. The sign פפ stands between the sections. </p>
+                           
+                           
+                           
+                           <p>Masorah magna is written in two lines in the upper margin and in three lines in the lower margin. </p>
+                        
+                        
+                        
+                        </layout>
+                     
+                     
+                     
+                     </layoutDesc>
+                  
+                  
+                  
+                  </objectDesc>
+                  
+                  
+                  
+                  <handDesc hands="1">
+                     
+                     
+                     
+                     <summary>Sefardi square script of the 14th century, punctuated and accentuated. </summary>
+                     
+                     
+                     
+                     <handNote script="Hebrew" scope="major"/>
+                  
+                  
+                  
+                  </handDesc>
+                  
+                  
+                  
+                  <bindingDesc>
+                     
+                     
+                     
+                     <binding>
+                        
+                        
+                        
+                        <p>BM/BL in-house. </p>
+                        
+                        
+                        
+                        <p>Spine: 'The Prophets and Hagiographa. Hebrew. Brit. Mus. Oriental 6570.'</p>
+                     
+                     
+                     
+                     </binding>
+                  
+                  
+                  
+                  </bindingDesc>
+               
+               
+               
+               </physDesc>
+               
+               
+               
+               <history rend="visible">
+                  
+                  
+                  
+                  <origin>
+                     
+                     
+                     
+                     <origDate notBefore="1300" notAfter="1399">14th century </origDate>
+                     
+                     
+                     
+                     <origPlace>Spain</origPlace>
+                  
+                  
+                  
+                  </origin>
+                  
+                  
+                  
+                  <provenance/>
+                  
+                  
+                  
+                  <acquisition>
+                     
+                     
+                     
+                     <date>1904-03-12</date>
+                     
+                     
+                     
+                     <p>Acquired by the British Museum from M. Dahan on 12 March 1904. </p>
+                  
+                  
+                  
+                  </acquisition>
+               
+               
+               
+               </history>
+               
+               
+               
+               <additional rend="visible">
+                  
+                  
+                  
+                  <adminInfo>
+                     
+                     
+                     
+                     <recordHist>
+                        
+                        
+                        
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+                     
+                     
+                     
+                     </recordHist>
+                     
+                     
+                     
+                     <availability status="free">
+                        
+                        
+                        
+                        <licence>text</licence>
+                        
+                        
+                        
+                        <p/>
+                     
+                     
+                     
+                     </availability>
+                     
+                     
+                     
+                     <note/>
+                  
+                  
+                  
+                  </adminInfo>
+                  
+                  
+                  
+                  <listBibl>
+                     
+                     
+                     
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 154-155. vol. IV (supplement)</bibl>
+                  
+                  
+                  
+                  </listBibl>
+               
+               
+               
+               </additional>
+            
+            
+            
+            </msDesc>
+         
+         
+         
+         </sourceDesc>
+      
+      
+      
+      </fileDesc>
+      
+      
+      
+      <encodingDesc>
+         
+         
+         
+         <classDecl>
+            
+            
+            
+            <taxonomy/>
+         
+         
+         
+         </classDecl>
+      
+      
+      
+      </encodingDesc>
+      
+      
+      
+      <profileDesc/>
+      
+      
+      
+      <revisionDesc status="draft">
+         
+         
+         
+         <change when="2013-08-20">Agata Paluch</change>
+      
+      
+      
+      </revisionDesc>
+   
+   
+   
+   </teiHeader>
+   
+   
+   
+   <text>
+      
+      
+      
+      <body>
+         
+         
+         
+         <div/>
+      
+      
+      
+      </body>
+   
+   
+   
+   </text>
+
+
+
+</TEI>

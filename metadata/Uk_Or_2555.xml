@@ -1,0 +1,140 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2555" xml:lang="jrb" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2555</idno>
+					</msIdentifier>
+					<head>Karaite commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An Arabic commentary on the book of Ecclesiastes.</summary>
+						<textLang mainLang="ara" otherLangs="he">Arabic and Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="129v"/>
+							<title xml:lang="en">Commentary on Ecclesiastes </title>
+							<note>Contains Exodus 13:17-15:1, 15:22-17:7, 18:1-21:36, 22:4-30:21, 30:33-32:29, 33:12-34:26. Pointed and accentuated Hebrew text, with a translation and short commentary in (Judeo-)Arabic.<p>The Hebrew text of Ecclesiastes, wirtten in Arabic characters, and provided with the Hebrew vowel-points, with an Arabic translation and commentary.</p>
+								<p>Chapters: 1:1-2:21; 3:3-6; 16-17; 4:17; 5:7; 11:1-4; 12:3-14 are wanting.</p>
+								<p>Text and translation are always introduced by a formula: قال قوهيلث and the comments by: قال الهغس.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Naskhi script of approximately 13th to 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>129 folios<dimensions type="leaf" unit="mm">
+										<height>175</height>
+										<width>135</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>129 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>7 complete quires, folios 42-111, marked by Arabic letters on the upper left-hand corner of the first page, and parts of a number of incomplete quires. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end. </p>
+									<p>Many folios damaged in the margins (modern restoration, stuck on paper). </p>
+									<p>Slightly worm-eaten. </p>
+									<p>Stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="11 14" writtenLines="11 14">
+									<p>Uniform layout. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Arabic Naskhi script of approximately 13th to 14th century. </summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Ecclesiastes with Commentary. Hebrew &amp; Arabic. Brit. Mus. Oriental 2555.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1399"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[130v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">339</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27205" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27205</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A daily prayer book with seliḥot (i.e. propitiatory prayers), Ashkenazi rite.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="185v"/>
+							<title xml:lang="he-Latn-x-lc">Seliḥot</title>
+							<title xml:lang="he">סליחות</title>
+							<note>
+								<p>The seliḥot are divided into two sections, folios 17v-119v contain pieces numbered 1-82 and folios 119v-174v contain pieces numbered 1-50. </p>
+								<p>Folios 175r-184v contain a calendar of Sabbaths, festivals, fasts etc., and their respective lections from the Pentateuch, with occasional lections from the Prophets. The first page contains a list of maḥzorim (cycles), from 261 to 273, accompanied by their respective rows of mnemonic letters. On folio 175v begins the list of lessons under the heading 'seder parashiyot shel kol shanah.' The date of the manuscript can be deduced from the calendar. The table of cycles begins with 261, so the earliest date the manuscript can be assumed to have been written was the last or nineteenth year of the cycle 260, which was 4939-4940 (1179-1180).</p>
+								<p>The contents of the later portions are as follows: folios 1-12 contain a series of seliḥot, folios 109-118 contain seliḥot numbered 1-81. Folios 119 to 174 contains pizmonim. The appended leaf (folio 185), written in two columns a page contains Jeremiah 1:37-51:24, with no vowels or accents. At the bottom of folio 186r there is a figure of a running dog, in crayon.</p>
+								<p>There are some marginal notes containing liturgical directions, variant readings, etc.</p>
+								<p>At the end of 12v is an index of the pieces contained in the first 12 leaves. Folio 13r contains some other lists, apportioning certain pieces to diverse occasions.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 12th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>185 folios <dimensions unit="mm" type="leaf">
+										<height>215</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>155</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>185 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each, marked with decorated catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Margins too closely cut.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="20" writtenLines="19">
+									<p>Uniform layout.</p>
+									<p>Pricking (in outer margins only) and hard-point ruling (bifolium by bifolium) is visible.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair-side and flesh-side of the folios hardly distinguishable.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Ashkenazi square script, punctuated, of the 12th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="109r" to="118v"/>and <locus from="1r" to="12v"/>-  written in a later hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 1-12 and 109-118: insertions of probably the 14th century.</p>
+							<p>Folio 185: probably of the 11th or 12th century, Sefardi origin.</p>
+							<p>Folios 179-180: a palimpsest, the underlying text being that of a Latin manuscript of the 10th century, apparently containing ecclesiastical canons.</p>
+							<p>
+								<name type="person" role="owner">Mosheh ha-Leṿi</name>: inscribed in a half-erased entry, folio 1r.</p>
+							<p>
+								<name type="person" role="owner">Uri bar Ya῾aḳov ha-Kohen</name>: inscribed at the bottom of folio 1v.</p>
+							<p>
+								<name type="person" role="owner">Menaḥem ben Uri</name> and <name type="person" role="owner">Menaḥem ben Menaḥem ha-Kohen</name>: inscribed in the margin of folio 1v.</p>
+							<p>
+								<name type="person" role="owner">Eliaḳim ben Ya῾aḳov Meshulam ha-Kohen</name>: inscribed, folio 4v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine: 'Selichoth. german Use. Hebrew. Brit. Mus. Additional 27,205.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[4]939-[5]010" calendar="Hebrew" notBefore="1179" notAfter="1250"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile his manuscript no. 319; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [186v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">677</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

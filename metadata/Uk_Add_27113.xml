@@ -1,0 +1,178 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27113" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27113</idno>
+					</msIdentifier>
+					<head>Poetry</head>
+					<msContents class="lccn.loc.gov/sh85070315" rend="visible">
+						<summary>Poetical writings.</summary>
+						<textLang mainLang="he" otherLangs="jrb"/>
+						<msItem rend="">
+							<locus from="1r" to="144r"/>
+							<title xml:lang="he-Latn-x-lc">Taḥkemoni</title>
+							<title xml:lang="he">תחכמוני</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/88896884">Harizi, Judah ben Solomon, active 12th century-13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/88896884">חריזי, יהודה בן שלמה</persName>
+							</author>
+							<note>
+								<p>Folios 1-2 contain, in a later hand, a complete index giving the subject of the fifty Makamat in Hebrew. The Arabic table of contents occupies folios 3-4, but is defective atthe beginning.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="144v" to="160v"/>
+							<title xml:lang="he-Latn-x-lc">Minḥat Yehudah śone ha-nashim</title>
+							<title xml:lang="he">מנחת יהודה שונא הנשים</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/22011154">Judah ben Isaac ibn Shabbetai, active 13th century </persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/22011154">שבתי, יהודה בן יצחק הלוי אבן</persName>
+							</author>
+							<note>
+								<p>See Hus, Kiryat Sefer 68, pp. 59 sqq.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="161r" to="168r"/>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Avraham ben Yitsḥaḳ ben Mevorakh ben Ya῾aḳov</persName>
+								<persName xml:lang="he">אברהם בן יצחק בן מבורך בן יעקב</persName>
+							</author>
+							<title xml:lang="he-Latn-x-lc">Hilkhot sheḥiṭah</title>
+							<title xml:lang="he">הלכות שחיטה</title>
+							<note>
+								<p>An Arabic poem on sheḥiṭah, preceded by a short introduction in Arabic prose.</p>
+							</note>
+							<colophon xml:lang="he">כמלת בחמד אללא פי נצף תמוז סנה ה' אלאף ומ'ב' וכתב <name type="person" role="scribe">סעדיה בר אברהם</name> נ'ע' אמן.<locus n="168r"/>
+							</colophon>
+							<textLang mainLang="he" otherLangs="jrb"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="168v" to="179v"/>
+							<title xml:lang="he-Latn-x-lc">Divre ha-yamim shel Mosheh</title>
+							<title xml:lang="he">דברי הימים של משה</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>179 folios<dimensions type="leaf" unit="mm">
+										<height>220</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>179 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of 6 to 8 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Damp at edges, mostly repaired and infilled before rebinding. </p>
+									<p>Wormed. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="26" writtenLines="26">
+									<p>Uniform layout.</p>
+									<p>Visible vertical hard-point ruling.</p>
+									<p>Titles and inital words in larger square characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive script of the 13th century. <name type="person" role="scribe">Se῾adyah ben Avraham</name>: inscribed with his name in the colophon, folio 168r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Jahudah Al-Charizi. Tachkemoni. Etc. A.D. 1282. Hebrew. Brit. Mus. Additional 27,113.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5042" calendar="Hebrew" when="1282"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 220: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin bookseller and dealer to the British Museum: inscribed, folio [181v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">926</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2015-02-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

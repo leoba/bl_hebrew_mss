@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-02-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_76" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 76</idno>
+					</msIdentifier>
+					<head>Philology</head>
+					<msContents class="lccn.loc.gov/sh85059886" rend="visible">
+						<summary>Grammatical writings.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="" class="lccn.loc.gov/sh85059886">
+							<locus from="1r" to="346v"/>
+							<title xml:lang="he-Latn-x-lc">Imre noʾash</title>
+							<title xml:lang="he">אמרי נואש</title>
+							<note>
+								<p>See <ref target="Kiryat_Sefer" type="number">1</ref> (1924), pp. 62-66, 139-141.</p>
+								<p>The work is divided into three parts, the first beginning on folio 5r, the second on folio 154v, the third on folio 167r.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/97206765">Da Piera, Salomon</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/97206765">דפירה, שלמה בן משלם</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>206 folios<dimensions type="leaf" unit="mm">
+										<height>205</height>
+										<width>145</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>95</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>206 folios (+ 1 unfoliated paper flyleaves at the beginning and at the end).  </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 8 leaves each. </p>
+								</collation>
+								<condition>
+									<p>Tidemarks at all edges, black mould stains on some leaves.</p>
+									<p>Signs of worming.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="23" writtenLines="23">
+									<p>Uniform layout.</p>
+									<p>Titles and inital words in square characters. </p>
+									<p>Considerable number of leaves missing after folio 166. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi semi-cursive scripts of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Shimshon Kohen Modon</name>: inscribed, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Solomon Da Piera. Imre Noash. Hebrew. Brit. Mus. Oriental 76.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>Unknown</p>
+						</provenance>
+						<acquisition>
+							<date>1868-04-22</date>
+							<p>
+								<name type="person" role="owner">Samuel Schönblum</name> of Vienna: purchsed from him by the British Museum on 22 April 1868: inscribed, folio [207v] (fse001v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">972</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-02-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

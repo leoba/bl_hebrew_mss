@@ -1,0 +1,192 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19787" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19787</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A collection of liturgical commentaries.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="125v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳovets</title>
+							<title xml:lang="he">קובץ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="3r"/>
+							<title xml:lang="en">The commentary on Azharot</title>
+							<note>
+								<p>An anonymous commentary on the introductory lines to Solomon ibn Gabirol's Azharot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="3r" to="63r"/>
+							<title xml:lang="en">The commentary on Azharot</title>
+							<author>
+								<persName xml:lang="en">Isaac ben Todros, active 13th century</persName>
+								<persName xml:lang="he">יצחק בן טודרוס</persName>
+							</author>
+							<filiation>Cf the contents of Paris Bibliotheque Nationale, MS hebr. 273 (no. 2).</filiation>
+							<note>
+								<p>The text comments upon Azharot of Solomon ibn Gabirol.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="63r" to="111r"/>
+							<title xml:lang="en">The commentary on Azharot</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/37714446">Duran, Simeon ben Ẓemaḥ, 1361-1444</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/37714446">דורן, שמעון בן צמח</persName>
+							</author>
+							<note>
+								<p>The text, of which only a part has been preserved, comments upon the Azharot of Solomon ibn Gabirol. The date of composition is found on folio 100v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="111r" to="114r"/>
+							<title xml:lang="he-Latn-x-lc">Yalḳut Shim῾oni</title>
+							<note>
+								<p>The text contains fragments of a recension of Yalḳut on the book of Ruth.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="114r" to="120v"/>
+							<title xml:lang="he-Latn-x-lc">Piyuṭ Natan ben Yitsḥaḳ</title>
+							<note>
+								<p>Maimonides is quoted on 114v, 119v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="120v" to="125v"/>
+							<title xml:lang="en">The commentary on Ruth</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/19684048">Rashi, 1040-1105</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/19684048">שלמה בן יצחק (רש"י)</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>125 folios <dimensions unit="mm" type="leaf">
+										<height>210</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>160</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>125 folios (+ 4 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of 15 leaves each.</p>
+								</collation>
+								<condition>
+									<p>All the folios water-damaged.</p>
+									<p>Lacunae after folios 48, 88, 92, 96, 111, 113.</p>
+									<p>Folio 125 mutilated. </p>
+									<p>Only two small pieces of folio 124 preserved.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 3" ruledLines="24 25" writtenLines="24 25">
+									<p>Uniform layout. </p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>The fragments preserved as folios 124-125 come from a different manuscript.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600, contemporary binding. Brown leather, blind-tooled. Boxed.</p>
+								<p>Spine: 'R. Salomonis Gabirol. Azaroth Cum Comment. Hebraice. Mus. Brit. Jure Emptionis. 19, 787.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<acquisition>
+							<date>1854-05-13</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>: purchased from him by the British Museum through <name type="person" role="bookseller">D. Nutt</name>  on 13 May 1854: inscribed, folio [126v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">697</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-10-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

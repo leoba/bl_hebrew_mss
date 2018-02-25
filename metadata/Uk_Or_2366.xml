@@ -1,0 +1,151 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2366" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2366</idno>
+					</msIdentifier>
+					<head>Genesis and Exodus</head>
+					<msContents class="lccn.loc.gov/n85305131" rend="visible">
+						<summary>Genesis and Exodus, with simple superlinear punctuation and accents.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="" class="lccn.loc.gov/n85305131">
+							<locus from="1r" to="118v"/>
+							<title xml:lang="he-Latn-x-lc">Bereshit u-Shemot </title>
+							<title xml:lang="he">בראשית ושמות </title>
+							<note>
+								<p>Genesis lacks chapter 1:1-9:17; Exodus lacks 7:11-8:1; 32:7-23; 33:5-34:24; 38:17-40:38.</p>
+								<p>Between Genesis and Exodus, folios 64v-67r, a later hand (16th or 17th century) has written a list of the weekly sections with the opening words of the seven subsections into which each is divided.</p>
+								<p>In the present text the subsections are only occasionally noted.</p>
+							</note>
+							<msItem rend="v">
+								<title xml:lang="en">Genesis</title>
+								<locus from="1r" to="67v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Exodus</title>
+								<locus from="67v" to="118v"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of about 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>118 folios<dimensions unit="mm" type="leaf">
+										<height>228</height>
+										<width>127</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>118 (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>24 full quires extant, mostly of 4 leaves.</p>
+									<p>The manuscript is imperfect at the beginning and at the end, also having several lacunae between various leaves of the extant portion. </p>
+								</collation>
+								<condition>
+									<p>Considerably stained and blurred in parts.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Visible pricking; ruling executed with hard-point.</p>
+									<p>Writing in one column, with superlinear masoretic punctuation.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Square Yemenite scrupt of about 15th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<decoDesc>
+							<summary>Pen-decorations.</summary>
+							<decoNote type="marginal">Pen-decorated signs marking the beginning of a new pericope.</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">23 July 1881</date>: inscribed, [119v] .</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">108</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

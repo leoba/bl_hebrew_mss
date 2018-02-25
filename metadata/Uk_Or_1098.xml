@@ -1,0 +1,171 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1098" xml:lang="he" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1098</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A commentary on the Pentateuch.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="367v"/>
+							<title xml:lang="he-Latn-x-lc">Keter Torah</title>
+							<title xml:lang="he">כתר תורה </title>
+							<author key="http://viaf.org/viaf/49113312">
+								<persName key="http://viaf.org/viaf/49113312" xml:lang="en">Aharon ben Eliyahu, approximately 1328-1369</persName>
+								<persName key="http://viaf.org/viaf/49113312" xml:lang="he">אהרן בן אליהו, מניקומדיה </persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Keter_Torah_1866"/>
+								</bibl>
+							</listBibl>
+							<colophon xml:lang="he">והיתה השלמת זה הספר ב<date when="1592" calendar="Hebrew">יום ו' כ"ט למנחם ה'ש'נ'ב' ליצירה</date> פה בכפר <name type="place">קרמרייא </name>ב'נ'ל'ך' ו'א'ע'י'.<locus n="367v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="5v" to="92v"/>
+								<title xml:lang="en">Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="92v" to="210r"/>
+								<title xml:lang="en">Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="210r" to="282r"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="282r" to="328r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="328r" to="367v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>367 folios<dimensions type="leaf" unit="mm">
+										<height>285</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>210</height>
+										<width>135/140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>367 folios (+ 2 paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 10 leaves each.</p>
+									<p>The Hebrew foliation partially cut away.</p>
+								</collation>
+								<condition>
+									<p>Last 20 pages partially stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="31" writtenLines="31">
+									<p>Running title on each recto.</p>
+									<p>Visible ruling with a hard-point.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 1r - a doodle-page.</p>
+							<p>Folio [ii recto] (modern paper flyleaf) contains a Hebrew description of the contents of this volume. A German description of the manuscript from Moritz Steinschneider&apos;s catalogue is glued to folio [ii verso].</p>
+							<p>A note of sale, recording <name type="person" role="owner">Eliyahu ben Shelomoh</name> and <name type="person" role="owner">Ḳerapula (?) bat Benyamin</name>, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Aaron ben Elijah, Kether Torah, Hebrew, Brit. Mus. Oriental 1098.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5352" calendar="Hebrew" when="1592"/>
+						<provenance>
+							<p>
+								<name type="place">Kramariya </name>near <name type="place">Constantinople </name>(Turkey)</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">320</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

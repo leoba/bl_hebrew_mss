@@ -1,0 +1,145 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-12-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1018" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1018</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597  lccn.loc.gov/n83120193" rend="visible">
+						<summary>David Kimḥi's commentary on the Psalms.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85013597  lccn.loc.gov/n83120193">
+							<locus from="1r" to="137r"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-tehilim</title>
+							<title xml:lang="he">פרוש התהלים</title>
+							<author key="http://viaf.org/viaf/100213323">
+								<persName key="http://viaf.org/viaf/100213323" xml:lang="en">Kimhi, David </persName>
+								<persName key="http://viaf.org/viaf/100213323" xml:lang="he">קמחי, דוד בן יוסף</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent rend="visible">139 folios <dimensions unit="mm" type="leaf">
+										<height>212</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>133</height>
+										<width>90</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>139 folios (+ 1 unfoliated modern paper flyleaf at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+									<p>Catchwords and signatures with Hebrew letters at the end of the quires.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="32" writtenLines="32">
+									<p>Pricking and pen ruling are visible. Characters suspended from the lines.</p>
+									<p>Hair side and flesh side are distinguishable. </p>
+									<p>The first words of the text are written in red ink and the numbering of the Psalms in the margins is also mostly in red.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script, unpunctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folio 2r contains entries of birth of two daughters of certain Yosef ben Yeḳuti᾿el, previous owner, dated <date calendar="Hebrew">298 </date>(<date calendar="Gregorian">1538</date>).</p>
+							<p>Folios 139r, 139v: a fragment of piyuṭim, on vellum, probably of 14th century.</p>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov ben Yeḳuti᾿el</name>: inscribed, folio 2r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>  Post-1600. Brown tooled leather.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">B. Luavitch</name>: purchased from him by the British Museum on 11 December 1869,  inscribed folio [140v].</p>
+							<date>1869-12-11</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">204</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-12-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

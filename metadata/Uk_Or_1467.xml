@@ -1,0 +1,180 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-08-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_1467" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1467</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class=" lccn.loc.gov/n79066420" rend="visible">
+						<summary>A large fragment of the Pentateuch with Targum Onḳelos and masorah magna and parva. </summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr ">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="121v"/>
+							<title xml:lang="he-Latn-x-lc">Torah</title>
+							<title xml:lang="he">תורה</title>
+							<textLang mainLang="he" otherLangs="tmr-Hebr ">Hebrew, Aramaic</textLang>
+							<note>
+								<p>Genesis and Exodus missing entirely.</p>
+								<p>Sublinear punctuation signs and accents added by a later hand to the original supralinear punctuation.</p>
+								<p>Short form of critical apparatus, with masorah magna rarely written in the upper margin. In many places both masorah magna and parva differ from the printed version.</p>
+							</note>
+							<decoNote type="marginal">Decorated parashah signs.<locus n="44r"/>
+							</decoNote>
+							<decoNote type="border">4 coloured borders.<locus n="117r, 117v, 118r, 118v"/>
+							</decoNote>
+							<decoNote type="vignette">Masoretic notes in decorated panel.<locus n="33r,  78r"/>
+							</decoNote>
+							<decoNote type="paratext">Masorah magna in micrographic design.<locus n="15v, 24v, 33v"/>
+							</decoNote>
+							<decoNote type="marginal">Geometric and floral motifs in the margins.</decoNote>
+							<decoNote type="illustration">Illustration of the biblical text.<locus n="43r"/>
+							</decoNote>
+							<listBibl>
+								<bibl>
+									<ref target="Narkiss_1989" type="page">74-75</ref>
+								</bibl>
+								<bibl>
+									<ref target="Narkiss_1984" type="page">25, 27</ref>
+								</bibl>
+								<bibl>
+									<ref target="Tahan_2007" type="page">21</ref>
+								</bibl>
+							</listBibl>
+							<msItem rend="visible">
+								<locus from="1r" to="33v"/>
+								<title xml:lang="en">Leviticus</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="33v" to="78r"/>
+								<title xml:lang="en">Numbers</title>
+							</msItem>
+							<msItem rend="visible">
+								<locus from="78r" to="212v"/>
+								<title xml:lang="en">Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex with additional paper folios. </p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex with an addition of 11 paper folios at the beginning.</support>
+								<extent>121  folios<dimensions unit="mm" type="leaf">
+										<height>370</height>
+										<width>295</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>270</height>
+										<width>240</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>121 folios (+ 2 unfoliated paper flyleaves at the beginning and 3 unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Originally 23 quires, of which the first 21 consisted of 10 leaves, the 22nd of 8 leaves, and the last one of 6 leaves. First 11 quires and the beginning of the 12th have been lost.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="27" writtenLines="27">
+									<p>Catchwords and numbering of the quires in Hebrew letters at the left-hand lower corner of the last page, partially preserved. Hardly discernible numbering of the quire at the right-hand upper corner of the first page of the quire.</p>
+									<p>Vertical lines bounding the text of each column.</p>
+									<p>The writing depends from the ruled line.</p>
+									<p>Flesh side and hair side are distinguishable. </p>
+									<p>Ruling is visible. </p>
+									<p>First quire (folios 1r-11r) is an addition. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script with superlinear and ordinary punctutation (<locus from="1r" to="11v"/>; Oriental square script with superlinear and ordinary punctuation (<locus from="12r" to="121v"/>
+							</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house binding.</p>
+								<p>Spine: 'Levit.-Deuter. with Targum. Hebrew. Brit. Mus. Oriental 1467.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1000" notAfter="1199">11th or 12th century. Narkiss dates the manuscript to the 14th century (see <ref target="Narkiss_1984" type="page">25</ref>).</origin>
+						<provenance>
+							<p>
+								<name type="place">Persia</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on <date calendar="Gregorian">24 November 1877</date> (123v).</p>
+							<date>1877-11-24</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">66</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-08-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

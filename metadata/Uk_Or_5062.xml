@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_5062" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 5062</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>The commentary of Japheth ben Ali on the book of Ezekiel.</summary>
+						<textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="238v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Yeḥezḳel  </title>
+							<title xml:lang="he">פרוש יחזקאל</title>
+							<note>
+								<p>Concerns Ezekiel 26:7 to the end.</p>
+								<p>Of the Hebrew text only the opening word or words of each verse are given in the body of of the pages. The full text has been added in the margins in a similar contemporary hand. </p>
+								<p>An Arabic translation is given to each verse.</p>
+								<p>A number of masoretic notes.</p>
+								<p>The manuscript ends in the middle of the remarks on the last verse of the book.</p>
+							</note>
+							<author key="http://viaf.org/viaf/54984961">
+								<persName key="http://viaf.org/viaf/2351172" xml:lang="en">Japheth ben Ali, ha-Levi,‏ active 10th century </persName>
+								<persName key="http://viaf.org/viaf/2351172" xml:lang="he">יפת בן עלי, הלוי</persName>
+							</author>
+							<colophon xml:lang="he">אלגז אלתאני יום אלאתנין אלמבארך סאדס ועשרין מן שהר די אלקעדה סנה תלתה וסתין ותמאן מאיה לקרן זער' תשבר במה' אמן: כתבתי אני העבד הצעיר<persName role="scribe" xml:lang="he">יוסף בן השר הגדול בעם האל מר' ורבי' אלעזר בן השר הגדול בעם האל מר' ורבי' יפת</persName> ירחמם צורם [...] במדינת הבחירה וצמח דויד [...] מצרים [...]<locus n="119v"/>
+							</colophon>
+							<incipit xml:lang="ara">פאן כדא קאל אלרב אללאה הא אנא מגיב אלי צר בכתנצר מלך בבל מן אלעראק מלך אלמלוך בכיל וברכב ובפוארס וגוק ושעב עטים כתיר:<locus n="1r"/>
+							</incipit>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Oriental square script of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>238 folios<dimensions type="leaf" unit="mm">
+										<height>224</height>
+										<width>147</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>190</height>
+										<width>102</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>238 folios (+ 2 paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires arranged in two groups (folios 1-119 and 120-238), originally of mostly 10 leaves each. </p>
+									<p>Signatures in Hebrew letters on the righ-hand upper corner of the first page, now wholly or partially lost. </p>
+									<p>Incomplete at the beginning and at the end, with several lacunae throughout. </p>
+								</collation>
+								<condition>
+									<p>Lacunae after folios 6, 63, 92, 119, 147, 152, 165, 176, 199, 221. </p>
+									<p>Several folios mutilated. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="21" writtenLines="21">
+									<p>Uniform layout. </p>
+									<p>Masoretic notes and large portion of text supplied in the margins. </p>
+									<p>Visible ruling with a mastara. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental square script of the 15th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Yefeth's Commentary on Ezekiel. Arabic. Brit. Mus. Oriental 5062.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="863" calendar="Hijri-qamari" when="1459"/>
+						<provenance>
+							<p>
+								<placeName>
+									<name type="place">Egypt </name>
+								</placeName>(<placeName>
+									<name type="place">Cairo</name>
+								</placeName>?) </p>
+						</provenance>
+						<acquisition>
+							<date>1896-07-16</date>
+							<p>
+								<name type="person" role="bookseller">Fischl Hirsch</name>: purchased by the British Library from him on 16 July 1896, inscribed folio <locus n="fse001v"> [239v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">286</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,183 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_42" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 42</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>Festival prayer book (maḥzor) for Rosh ha-Shanah and Yom Kipur, and beginning of Sukot, Ashkenazi rite (aka 'Dragon's Head Maḥzor').</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="163v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>See further <ref target="Davidson_1924"/> and Sarit Shalev-Eyni, 'Ashkenazi Illuminated Manuscripts in the British Isles', New Letter of the Center for Jewish Art 12 (1996), http://cja.huji.ac.il/NL12-HIMBI.htm (accessed on 26 September 2014).</p>
+							</note>
+							<decoNote type="border">Text framed by and arch inhabited by hybrids in ink. <locus n="58r"/>
+							</decoNote>
+							<decoNote type="initial">11 inhabited initial words in ink and sometimes with red. <locus n="1r, 10v, 17v, 26v, 30r, 44v, 46r, 58r, 58v, 110r, 140v"/>
+							</decoNote>
+							<decoNote type="illustration">Image of a hybrid next to an initial word in ink. <locus n="27v"/>
+							</decoNote>
+							<decoNote type="illustration">3 drawings in ink next to the catchwords.<locus n="51v, 59v, 163v"/>
+							</decoNote>
+							<decoNote type="illustration">Drawings of small dragon heads in ink decorating the first letters of lines on 12 folios.<locus n="47r, 53r, 61r, 62r, 63r, 64r, 78r, 78v, 79r, 79v, 126r, 144v"/>
+							</decoNote>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="26r"/>
+							<title xml:lang="en">Services for the first day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit begins on folio 1r, musaf starts on folio 10r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="26r" to="44v"/>
+							<title xml:lang="en">Services for the second day of Rosh ha-Shanah</title>
+							<note>
+								<p>Shaḥarit begins on folio 26r, musaf begins on folio 37r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="44v" to="163v"/>
+							<title xml:lang="en">Services for Yom Kipur</title>
+							<note>
+								<p>Ma῾ariv begins on folio 44v, shaḥarit on folio 58r, musaf on folio 110r, and minḥah on folio 143r, ne῾ilah on folio 158r.</p>
+								<p>Folio 163v contains the beginning of shaḥarit for Sukot.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the last quarter of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>163 folios <dimensions unit="mm" type="leaf">
+										<height>435</height>
+										<width>310</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>270/265</height>
+										<width>200/190</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>163 folios (+ 3 unfoliated modern paper flyleaves at the beginning and 4 unfoliated modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>20 quires: i8 (folios 1-8), ii8-1 (folios 9-15), iii8 (folios 16-23), iv8 (folios 24-31), v10 (folios 32-41), vi10 (folios 42-51), vii-xii8 (folios 52-99), xiii10 (folios 100-109), xiv8 (folios 110-117), xv8 (folios 118-125), xvi10 (folios 126-135), xvii8-1 (folios 136-142), xviii8 (folios 143-150), xix5 (folios 151-155), xx8 (folios 156-163).</p>
+								</collation>
+								<condition>
+									<p>First few leaves damaged.</p>
+									<p>Defective at the beginning and at the end.</p>
+									<p>Lower margin has been cut off numerous times (folios 56, 57, 84, 86, 87, 105, 119, 125, 126, 127, 131, 149, 152). </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="26">
+									<p>Uniform layout.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Several marginal notes in a semi-cursive script.</p>
+									<p>Erasures (e.g., folios 81v, 85r) or passages drawn across (e.g., folios 18r, 24v, 25r, 35v, 87v, 102r, 108v, 109v, 121r, 121v, 128v, 158r), entire poem drawn across (folios 96v-97r, 98r-99r, 99r-99v, 153v).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi square script, partially punctuated. <name type="person" role="scribe">Avraham</name>?: the name Avraham is marked on folio 110r.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>The word ‘Moie’ is written in Latin characters in the upper margin of folio 68v, and ‘Mojs’ in the upper margin of folio 107v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Machzor. German Use. Hebrew. Brit. Mus. Oriental 42.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1375" notAfter="1399"/>
+						<provenance>
+							<p>
+								<name type="place">Germany</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1867-05-25</date>
+							<p>
+								<name type="person" role="owner">Joseph Schönblum</name>: purchased by the British Museum on 25 May 1867 (folio [165v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">668</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

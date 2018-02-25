@@ -1,0 +1,196 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_9401" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 9401</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>Pentateuch with Hafṭarot and the Five Scrolls.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/n79066420" n="0">
+							<locus from="1r" to="297v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, hafṭarot u-megilot </title>
+							<title xml:lang="he">תורה, הפטרות ומגילות</title>
+							<note>
+								<p>This is the first of two uniform volumes, the second being Ms Add 9402 <ref target="Margoliouth_1965" type="number">70</ref>. </p>
+								<p>The first volume contains the Pentateuch, Five Scrolls and Hafṭarot.</p>
+								<p>The book of Ecclesiastes lacks chapters 9:10-12:14.</p>
+								<p>At the end of the Hafṭarot, folios 296v-297r, there is Hosea 14:2-Joel 2:27, in a different hand. </p>
+							</note>
+							<decoNote type="border">
+								<locus n="2v"/>The Ten Commandments table in a colour-decorated panel - later addition.</decoNote>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="3r" to="56r"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="56r" to="99v"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="100r" to="131v"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="132r" to="175v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="176r" to="213v"/>
+							<title xml:lang="en">Deuteronomy</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="214r" to="217v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="217v" to="221r"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="221r" to="226v"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="visible">
+							<locus from="227r" to="297r"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>297 folios<dimensions unit="mm" type="leaf">
+										<height>386</height>
+										<width>304</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p> 297 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end of the manuscript). </p>
+								</foliation>
+								<collation>
+									<p>38 quires of mostly 8 leaves each. </p>
+									<p>Quires marked with catchwords on the last page. </p>
+								</collation>
+								<condition>
+									<p>Lacuna of ca. 6 leaves after folio 226.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="3" ruledLines="26" writtenLines="25">
+									<p>Uniform layout. </p>
+									<p>Visible pricking and ruling with hard-point. </p>
+									<p>Main text in three columns, with supralinear masoretic punctuation and accents. </p>
+									<p>Leviticus, Numbers, Deuteronomy, Song of Songs and Haftarot open a new leaf. </p>
+									<p>Initial word of each book in large ornamental characters. </p>
+									<p>Beginning of a new pericope in Pentateuch indicated by three letters פ and by the first word written in larger characters. </p>
+									<p>Masorah magna in two lines at the top of the page and three lines in the lower margin. </p>
+									<p>A number of masoretic rubrics at the end of the books. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square Ashkenazi script of the 13th century. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="2, 4, 7, 9 "/> due to later hands. </p>
+							</handNote>
+						</handDesc>
+						
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine: &apos;Bible. Hebrew. Vol. I. Brit. Mus. Additional 9401.&apos; </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin><origDate when="1286" calendar="Hebrew" when-custom="5046">1286 (5046)</origDate>
+						<origPlace>Germany</origPlace></origin>
+						<provenance>
+							<p>
+								<name type="person" role="owner">Wolf Leib</name>: inscribed with his name in volume 2, folio 228v, dated 5378 (<date calendar="Gregorian">1588</date>). </p>
+							<p>
+								<name type="person" role="owner">Binyamin bar Yo᾿el</name>: inscribed with his name, in red ink, on folio 229r in volume 2. </p>
+							<p>
+								<name type="person" role="owner">John van der Hagen</name>; a dedication in a from of a Hebrew poem by Christian Meir in volume 2, folio  2v, dated in Amsterdam, 1726.</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Adam Clarke</name> (b. 1762, d. 1832), Wesleyan Methodist minister and scholar. His bookplate with Greek inscription: <q>ho theos agape estin </q> (folio [i verso]). This codex, together with nine other manuscripts (Additional 9398-9407), was acquired by the British Museum in <date calendar="Gregorian">1834</date>, once the property of the Hagen family and then bought from Adam Clarke.</p>
+							<date>1834</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">70</ref>
+							</bibl>
+							<bibl>
+								<ref target="Clarke_1835" type="page">110-117</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

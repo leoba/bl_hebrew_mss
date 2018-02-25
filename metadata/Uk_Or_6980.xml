@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6980" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6980</idno>
+					</msIdentifier>
+					<head>Prayer scroll</head>
+					<msContents class="lccn.loc.gov/sh85070857" rend="visible">
+						<summary>The Scroll of Joshua the High Priest. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="">
+							<locus from="1r" to="1v"/>
+							<title xml:lang="he-Latn-x-lc">Tefilot </title>
+							<title xml:lang="he">תפלות </title>
+							<note>
+								<p>Scripture readings and prayers by the Jews of Baghdad, to be used at the tomb of the High Priest Joshua, spoken of in the third chapter of Zechariah. </p>
+								<p>The devotions begin with the recital of Zechariah 2:14-4:7, and end with Psalms 16, 126, and 134. </p>
+							</note>
+							<colophon xml:lang="he">קודש לה&apos; לעילוי נשמת אדונינו יהושיע כהן גדול ז&apos;י&apos;ע&apos;א&apos;. הקדיש אותה עזרא יחחם בן הגביר הר&apos; יוסף עזרא אברהם ה&apos;י&apos;ו&apos; לחיי בנו ידידו הבחיר עבדאל ה&apos;י&apos;ו&apos; יזכה לתורתו ולחופתו בחיי מור&apos; זקינו ובחיי קרוביו אכי&quot;ר. על ידי המעתיק <name type="person" role="scribe">אליעזר יאודא מצליח</name> י&apos;צ&apos;ו&apos;. <locus n="1r"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Leather scroll of the 17th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="leather">
+								<support>Leather. </support>
+								<extent>3 membranes, 7 columns. <dimensions type="leaf" unit="mm">
+										<height>210</height>
+										<width>1720</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>3 membranes, leather tie. </p>
+								</collation>
+								<condition>
+									<p>A little dirt and wear at outer end.  </p>
+									<p>Slight ink abrasion. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="7" ruledLines="17" writtenLines="17">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Visible pricking. </p>
+									<p>Graphic filler at the end of a line.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Oriental square script of the 17th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Tin canister. BM in-house (boxed). </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Iraq</name> (<name type="place">Baghdad</name>)</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">1163</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-09-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

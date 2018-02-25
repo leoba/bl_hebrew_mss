@@ -1,0 +1,162 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-17</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_17745" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 17745</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>Sefer ha-zohar on the book of Genesis.</summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85018546">
+							<locus from="1r" to="183v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer ha-zohar</title>
+							<title xml:lang="he">ספר	הזוהר</title>
+							<note>
+								<p>The manuscript contains only the Zohar on Genesis. There is no standard introductory part, and there are some other discrepancies with the printed edition.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Zohar_1957"/>
+								</bibl>
+							</listBibl>
+							<decoNote type="initial">18 initial-word panels in colours decorated with penwork and accompanied with partial pen-flourished border.<locus n="1r, 1v, 13v, 22r, 32r, 35r, 47r, 49r, 60v, 65v, 79r, 87v, 97r, 112v, 126r, 140v, 153v, 160r"/>
+							</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>183 folios<dimensions type="leaf" unit="mm">
+										<height>275</height>
+										<width>195</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>185</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>183 folios (+ 1 unfoliated paper and 2 unfoliated parchment flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p> 	Quires: i-xxii8 (folios 1-176), xxiii8-1 (folios 176-183). Catchwords at the end.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="35 36" writtenLines="35 36">
+									<p>Uniform layout.</p>
+									<p>Initial words in larger square characters.</p>
+									<p>Visible pricking and hard-point ruling.</p>
+									<p>Hair side and flesh side of the folios distinguishable.</p>
+									<p>Marginal notes, e.g., folio 77v, 161v.</p>
+									<p>Omissions indicated in the margin, e.g., folio 182r, 182v.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 15th century. <name type="person" role="scribe">Shelomoh </name>(?): marked off, folio 181r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Eliyahu Anav</name>: inscribed with his name, undated (folio 1r).
+</p>
+							<p>
+								<name type="person" role="censor">Laurentius Franguellus</name> (fl. until 1596): inscribed with his name, 1575 (folio 182v); see <ref target="Popper_1969" type="page">78</ref>, appendix § 105-110.
+</p>
+							<p>
+								<name type="person" role="censor">Hippolite of Ferrara</name>, Franciscan (active 1590-1609, in Cremona?): inscribed with his name, 1601 (folio 182v), see <ref target="Popper_1969" type="number">18-19, 93</ref>.
+</p>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Vistorini</name>: inscribed 'Gio. Dom. Vistorini 1609' (folio 182v), see <ref target="Popper_1969" type="number">85-87</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather.</p>
+								<p>Spine: 'Liber Zohar. Comment. In Genesin. Hebr. Brit. Mus. Add. Or. 17,745.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+              </p>
+						</provenance>
+						<acquisition>
+							<date>1848</date>
+							<p>Acquired by the British Museum in 1848.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">762</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-11-17">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

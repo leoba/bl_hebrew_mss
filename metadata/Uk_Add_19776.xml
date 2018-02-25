@@ -1,0 +1,242 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-09-11</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19766" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19776</idno>
+					</msIdentifier>
+					<head>Pentateuch</head>
+					<msContents class="lccn.loc.gov/n79066420" rend="visible">
+						<summary>The Pentateuch, Five Scrolls, Hafṭarot accompanied by masorah magna, masorah parva and grammatical treatises (aka the 'Coburg Pentateuch').</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79066420">
+							<locus from="1r" to="252v"/>
+							<title xml:lang="he-Latn-x-lc">Torah, megilot  ṿe-hafṭarot </title>
+							<title xml:lang="he">תורה, מגילות והפטרות</title>
+							<textLang mainLang="he">Hebrew</textLang>
+							<colophon xml:lang="he">
+								<locus n="252r"/>חזק ונתחזק הסופר' ועל יוזק בעל הספר' ובעל המלאכה יזכה לביאת גואל' והנקדנים יתברכו מאת צורי אל' זה ספר חומש עברי וחמש מגילות והפטרות וספר דקדוק הקריאה ועין הקורא כתב ר'<name type="person" role="scribe"> שמחה בר שמואל הלוי</name> וגמר בעיר <name type="place">קובורק </name>ור'<name type="person" role="scribe"> שמואל בר אברהם</name> נקד ה' חומשים בעיר בעיר <name type="place">בבנבערק </name>ור' <name type="person" role="scribe">גרשם בר יהודה</name> נקד חמש מגילות והפטרות וספר הדקדוק ועין הקורא בכפר <name type="place">רוטלזי'</name> והכל נשלם ונגמר בעזרת מגן ישראל <date when="1396" calendar="Hebrew">ביום א' בראש חדש כסליו שנת חמשת אלפים ומאה וחמשים ושש שנים לפרט בשנת הכ פשוטה ביום א' לפרשת ויברכני יהוה'</date> ושלי זה הספר <name type="person" role="owner">מאיר בר עובדיה</name> המכונה הצעיר ליברטרוט ושמי ושמות יגיעי המלאכה הסופר והנקדנים רמזתי וכללתי למעלה בשיר משקלי' וכשם שזכני האל יתברך שמו להגיה לכתוב ולגמור כן יזכני ואת זרעי אחרי לשמור ולעשות כל הכתוב בו כי אז אצליח בכל דרכי ואז אשכיל' </colophon>
+							<decoNote type="initial">4 decorated initial-word panels with foliate motifs and gold letters.<locus n="1v 28v 117v 132v"/>
+							</decoNote>
+							<decoNote type="paratext">Two micrographical illustrations of masorah.<locus n="7r 28v"/>
+							</decoNote>
+							<decoNote type="initial">4 initial-word panels inhabited by dragons and hybrids.<locus n="55r, 73r, 96v, 170r"/>
+							</decoNote>
+							<decoNote type="initial">1 initial word inhabited by hybrids and animals.<locus n="190r"/>
+							</decoNote>
+							<decoNote type="initial">4 decorated initial words. <locus n="119v 121v 124r 128r"/>
+							</decoNote>
+							<decoNote type="miniature">3 miniatures at the end of the biblical books. <locus n="54v 72v, 96r"/>
+							</decoNote>
+							<decoNote type="illustration">1 decoration embedded into the body of the text.<locus n="72r"/>
+							</decoNote>
+							<decoNote type="marginal"> 1 marginal drawing depicting a deer.<locus n="55v"/>
+							</decoNote>
+							<note>
+								<p>See further <ref target="Metzger_1982" type="page">304</ref>, <ref target="Narkiss_1969" type="page">114</ref>, <ref target="Erdmann_1980" type="page">85-110</ref>, <ref target="Tahan_2007" type="page">42</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="1v" to="28v"/>
+							<title xml:lang="en">Genesis</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="28v" to="55r"/>
+							<title xml:lang="en">Exodus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="55r" to="73r"/>
+							<title xml:lang="en">Leviticus</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="73r" to="96v"/>
+							<title xml:lang="en">Numbers</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="96v" to="117v"/>
+							<title xml:lang="en">Deuteronomy</title>
+							<note>Missing chapter 12:17 (in part) to the end.</note>
+						</msItem>
+						<msItem rend="v">
+							<locus from="117v" to="119v"/>
+							<title xml:lang="en">Song of Songs</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="119v" to="121v"/>
+							<title xml:lang="en">Ruth</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="121v" to="124r"/>
+							<title xml:lang="en">Lamentations</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="124r" to="128r"/>
+							<title xml:lang="en">Ecclesiastes</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="128r" to="132v"/>
+							<title xml:lang="en">Esther</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="132v" to="170r"/>
+							<title xml:lang="en">Hafṭarot for the whole year.</title>
+						</msItem>
+						<msItem rend="v">
+							<locus from="170r" to="237v"/>
+							<title xml:lang="he-Latn-x-lc">ʻEn ha-kore</title>
+							<title xml:lang="he">עין הקורא</title>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Yeḳutiʼel ben Yitsḥaḳ Naḳdan</persName>
+								<persName xml:lang="he">יקותיאל בן יצחק נקדן</persName>
+							</author>
+							<note>
+								<p>A grammatico-masoretic treatise on the Pentateuch, Esther and Lamentations.</p>
+							</note>
+							<incipit xml:lang="he">ברוך יי' אלהי ישראל אשר נתן למשרתו יקותיאל עין רואה ואזן שומעת' לשון למודים לדעת' לעשות עבדת מלאכת הקדש' ודברים עתיקים לחדש'.</incipit>
+							<filiation>
+								<ref target="Margoliouth_1965" type="number">968</ref>
+							</filiation>
+							<textLang mainLang="he"/>
+						</msItem>
+						<msItem rend="v">
+							<locus from="237v" to="252v"/>
+							<title xml:lang="en">A collection of several pieces on masorah, punctuation and accents.</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent rend="visible">252 folios<dimensions unit="mm" type="leaf">
+										<height>290</height>
+										<width>215</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>135</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>252 folios (+3 unfoliated paper flyleaves at the beginning and at the end). </p>
+									<p>Foliation in pencil can be found also in the outer lower corner of recto sides, hardly visible.</p>
+								</foliation>
+								<collation>
+									<p>32 quires of mostly 8 leaves, apart from two consisting of 6 leaves. </p>
+									<p>Vertical catchwords at the end of quires, decorated. </p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="33" writtenLines="32">
+									<p>Uniform layout. </p>
+									<p>Double pricking for major lines, in outer and inner margins, quire by quire. </p>
+									<p>Complete ruling by plummet (each bifolium on both sides). </p>
+									<p>Last written line within ruling. </p>
+									<p>Graphic filler at the end of line. </p>
+									<p>Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and two in the lower margin.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Ashkenazi square and semi-cursive script of the 13th century; punctuation provided by two different hands. R. <name type="person" role="scribe">Simḥah bar Shemu᾿el ha-Levi</name>: mentioned in the colophon at the end of the Pentateuch, Monday 21, Adar Sheni, 1395, folio 169v; also mentioned as scribe in the colophon at the end of the codex, Coburg, 1396, folio 252r; the word שמחה is decorated several times (e.g. 17v, 112v, 126v, 131v, 132r, 154v, 184v). </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<persName role="scribe">Simhah ben Samuel ha-Levi</persName> - scribe, <persName>Samuel ben Abraham of Molerstadt</persName> - punctuator of the Pentateuch, <persName>Gershom ben Judah</persName> - punctuator of the rest of the codex.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Written by </p>
+							<p>The Pentateuch was punctuated by R. Samuel bar Abraham of Molerstadt : mentioned in a marginal note as the punctuator (folio 96r); inscribed with his name in a colophon as the punctuator who punctuated the codex &apos;until this point&apos; within six weeks, Sunday, beginning of Kislev, folio 112v; mentioned as punctuator of the Pentateuch who punctuated it in Babenberg, colophon at the end of the codex, dated 1396, folio 252r.</p>
+							<p>The Five Scrolls, the Haftarot and the grammatical treatise were punctuated by R.Gershom bar Judah in Rödelsee, colophon at the end of the codex, dated 1396, folio 252r. </p>
+							<p>Obituary entries: death of a later owner&apos;s parents (Bittingen, 1535, and Wallerstein, 1539) (folio 252r).</p>
+							<p>
+								<name type="person" role="owner">Alexander ben Solomon Zalman Kohen</name>: inscribed with his name, 1750, folio 1r. </p>
+							<p>Illegible Hebrew inscriptions, folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Dark brown leather. </p>
+								<p>Spine: &apos;Pentateuch. Hebrew. Brit. Mus. Additional 19,776.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1390" notAfter="1396"/>
+						<provenance>
+							<p>
+								<placeName>Germany</placeName> (<placeName>
+									<name type="place">Coburg</name>, Bamberg, Roedelsee</placeName>)</p>
+						</provenance>
+						<acquisition>
+							<name type="place">Coburg</name>
+							<locus n="252"/>; his name and the year  [] in acrostic <locus n="117"/>.
+								<p><name type="person" role="owner">M. Ashkenazi</name>: purchased by the British Museum from him through D. Nutt in <date calendar="Gregorian">April 1854</date>, inscribed [253v]. </p>
+							<date>1854-04</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">80</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-09-11">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

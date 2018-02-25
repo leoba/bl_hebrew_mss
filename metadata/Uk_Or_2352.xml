@@ -1,0 +1,210 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-04</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2352" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2352</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Midrash ha-gadol on Exodus, attributed to David Adani. </summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="151v"/>
+							<title xml:lang="he-Latn-x-lc">Midrash ha-gadol </title>
+							<title xml:lang="he">מדרש הגדול </title>
+							<note>
+								<p>Has many marginal notes.</p>
+							</note>
+							<author key="http://viaf.org/viaf/19572491">
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="en">Adani, David ben Amram, active 13th century-14th century </persName>
+								<persName key="http://viaf.org/viaf/19572491" xml:lang="he">העדני, דוד בן עמרם </persName>
+							</author>
+							<colophon xml:lang="he">כמל הדא אלגז אלתאני מן מדרש הגדול יום אלתלאתא <date when="1475" calendar="Seleucid">עסרין ותמני יומין בירח אב שנת אלפ[א] ושבע מאה ותמנן ושית [ ] במאתא</date>
+								<name type="place">אלכרבה </name>תחרוב וירוש[לם?] תשתכלל סימן טוב על מריה <name type="person" role="owner">מעודד [בי?]ר' חטר הידוע אבן</name>... והכותב <name type="person" role="scribe">אברהם בן שלמה בן משה הידוע אלאכל?[ו?]פי</name> לחזות בנועם יוי ול[בק?]ר
+
+אכי"ר:<locus n="147v"/>
+							</colophon>
+							<msItem rend="v">
+								<locus from="1v" to="16r"/>
+								<title xml:lang="en">Midrash on Shemot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="16r" to="24v"/>
+								<title xml:lang="en">Midrash on Ṿa-era</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="24v" to="39v"/>
+								<title xml:lang="en">Midrash on Bo᾿ </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="39v" to="59v"/>
+								<title xml:lang="en">Midrash on Be-shalakh</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="59v" to="79v"/>
+								<title xml:lang="en">Midrash on Yitro</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="79v" to="101v"/>
+								<title xml:lang="en">Midrash on Mishpatim</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="101v" to="109v"/>
+								<title xml:lang="en">Midrash on Terumah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="109v" to="116r"/>
+								<title xml:lang="en">Midrash on Tetsaṿeh</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="116r" to="132r"/>
+								<title xml:lang="en">Midrash on Ki tisa᾿</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="132r" to="140r"/>
+								<title xml:lang="en">Midrash on Ṿa-yakhel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="140r" to="147v"/>
+								<title xml:lang="en">Midrash on Peḳude</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="148r" to="151v"/>
+								<title xml:lang="en">Midrash on Terumah and Tetsaṿeh</title>
+								<note>
+									<p>Appended fargments of another manuscript of the same midrash, written in another Yemenite hand of the 15th century.</p>
+								</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Yemenite semi-cursive script of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>151 folios<dimensions type="leaf" unit="mm">
+										<height>270</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>258</height>
+										<width>150</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>151 folios (+2 modern paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each. Modern restoration (leaves stuck on paper). </p>
+									<p>Signatures in Hebrew letters and catchwords at the beginning of a quire. </p>
+								</collation>
+								<condition>
+									<p>Some folios damaged, restored on paper. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="38" writtenLines="38">
+									<p>Has some marginal notes and additions. </p>
+									<p>Mem and shin are truncated in the lines. </p>
+									<p>Beginnings of new chapters are written in larger characters. </p>
+									<p>Folio 15v should be read after 16r. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="3">
+							<summary>Yemenite semi-cursive script of 15th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus n="1v"/>due to a recent hand.</p>
+								<p>
+									<locus from="148r" to="151v"/>due to a Yemenite contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>On folio 79r are four short midrashic passages on Deuteronomy.</p>
+							<p>A note of sale, dated <date calendar="Seleucid">2028 </date> (<date calendar="Gregorian">1717</date>), between <name type="person" role="owner">Ya῾akov ben Se῾id ibn Daud</name>  and <name type="person" role="owner">Yehosaf ben Se῾adia ben Avraham ben Mosheh</name>: folio 1r. </p>
+							<p>
+								<name type="person" role="owner">Shekhar ibn Al-Sari</name>: inscribed 1r, 78v. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash Haggadol. Exodus. Hebrew. Brit. Mus. Oriental 2352.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when="1475" when-custom="1786" calendar="Seleucid"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">349</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

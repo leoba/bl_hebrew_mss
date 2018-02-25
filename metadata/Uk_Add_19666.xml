@@ -1,0 +1,222 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-15</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19666" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19666</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="281v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="3r" to="28v"/>
+							<title xml:lang="en">Services for the week-days</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="28v" to="36v"/>
+							<title xml:lang="en">Services for Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="36v" to="40r"/>
+							<title xml:lang="en">Services for Rosh ḥodesh</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="40r" to="44v"/>
+							<title xml:lang="en">Services for Ḥanukah</title>
+							<filiation>Cf the contents of Add MS 19944, part V, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="44v" to="51v"/>
+							<title xml:lang="he-Latn-x-lc">Ta῾anit</title>
+							<filiation>Cf the contents Add MS 19944, part VI, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="51v" to="63r"/>
+							<title xml:lang="he-Latn-x-lc">Arba῾ah parashiyot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="63r" to="99r"/>
+							<title xml:lang="en">Services for Pesaḥ</title>
+							<note>
+								<p>Masekhet avot begins on folio 87v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="99r" to="115v"/>
+							<title xml:lang="en">Services for Shavu῾ot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="115v" to="119v"/>
+							<title xml:lang="he-Latn-x-lc">Shiv῾ah ῾asar be-tamuz</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="119v" to="137v"/>
+							<title xml:lang="he-Latn-x-lc">Tish῾ah be-av</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="137v" to="152v"/>
+							<title xml:lang="he-Latn-x-lc">῾Aseret yeme teshuvah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="152v" to="166v"/>
+							<title xml:lang="en">Services for Rosh ha-Shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="166v" to="169v"/>
+							<title xml:lang="he-Latn-x-lc">Tsom Gedalyah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="169v" to="252r"/>
+							<title xml:lang="en">Services for Tsom Kipur</title>
+							<filiation>Cf the contents of Add MS 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="252r" to="272v"/>
+							<title xml:lang="en">Services for Sukot</title>
+							<filiation>Cf the contents of Add MS 19945, part VII, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="272v" to="281v"/>
+							<title xml:lang="en">A series of small offices</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>281 folios <dimensions unit="mm" type="leaf">
+										<height>122</height>
+										<width>85</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>85</height>
+										<width>50</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>281 folios (+ 1 unfoliated modern paper flyleaf at the beginning and 2 at the end). Folio 1 and 2 are paper flyleaves.</p>
+								</foliation>
+								<collation>
+									<p>28 quires of originally10 leaves each (folios 3-281), marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Much stained.</p>
+									<p>One leaf lost after folio 29.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are distinguishable.</p>
+									<p>Folios 250 and 251 are a later restoration.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square and semi-cursive script of the 15th century. Punctuated.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham Asher ibn Yitsḥaḳ London</name>: inscribed in a note, Sivan <date calendar="Hebrew">[5]605</date> [<date calendar="Gregorian">1845</date>]: folio 3r.</p>
+							<p>Censored by <name type="person" role="censor">Dominico Irosolomitano</name>, Italian censor (active 1585-1624): inscribed with his name (folio 278v); see <ref target="Popper_1969" type="page">61</ref>, and appendix § 62-74.
+</p>
+							<p>Censored by <name type="person" role="censor">Giovanni Domenico Carretto</name>, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 287v); see <ref target="Popper_1969" type="page">100-101</ref>, and appendix § 80-84. </p>
+							<p>Several birth entries, inscribed on the flyleaves: Colomba daughter of Shemu᾿el and Juditta Ravenna, 17 Iyar 1680 (folio 2r); Bila Viola, daughter of the same parents, 9 Siṿan 1682 (folio 2r); Shemu᾿el Barukh, son of Rivkah, daughter of Eli῾ezer of Cologna, 29 Marheshvan 1644 (folio 279r); Yosef David, son of the same parents, 22 Kisleṿ 1646; Mordekhai , son of the same parents, 12 Adar 1657 (folio 279r); Riḳah, daughter of Immanuel Pinto and Juditta, 15 Elul 1672 (folio 279r); a son of the same parents, 9 Siṿan 1674 (folio 279v); Avraham, 2 Tamuz 1676 (folio 280r); Barukh Mordekhai, son of Yosef Ravenna and Tamar, 13 Iyar 1683 (folio 281r); Cremesina, daughter of the same parents, 23 Sivan 1685 (folio 281r); Shemu᾿el, son of the same parents, 11 Kisleṿ 1688 (folio 281r); Diamanta, daughter of the same parents, 2 Siṿan [....] (folio 281v).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Red leather. Boxed.</p>
+								<p>Spine: 'Machazor. Secund Ritum. Romanum. Hebr. Mus. Brit. Jure Emptionis. 19,666.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [282v].</p>
+							<date>1853-11-12</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">632</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-15">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

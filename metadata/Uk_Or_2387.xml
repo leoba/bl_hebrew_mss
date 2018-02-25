@@ -1,0 +1,172 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-01-07</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2387" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2387</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>A Judeo-Arabic commentary on Joshua, Judges, Samuel and Kings by Avraham ben Shelomoh.</summary>
+						<textLang mainLang="jrb-Hebr"/>
+						<msItem n="0" rend="v" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="297v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-Tanakh</title>
+							<title xml:lang="he">פרוש התנ"ך</title>
+							<author>
+								<persName xml:lang="he-Latn-x-lc">Avraham ben Shelomoh</persName>
+								<persName xml:lang="he">אברהם בן שלמה</persName>
+							</author>
+							<colophon xml:lang="he">ממה שנכתב בשם החבר הטוב. הדומה לעץ רטוב. אלהים ינחילו ארץ הטוב. כן יאמר האל הטוב. סעדיה בן מעודד בן דוד ידיע באלסבאר אלהים יזכהו להגות בעניניו ולגלות כל מצפוניו הוא וזרעו וזרע זרעו כדכת' לא ימוש ספר התורה הזה מפיך והגית בו יומם ולילה. וכת' ואני זאת בריתי אתם אמ' ה' לא ימושו מפיך ומפי זרעך ומפי זרע זרעך אמ' ה' מעתה ועד עולם. והכותב <name type="person" role="scribe">מעודד בן יוסף בן סעדיה בן יוסף בן שלמה בן נתנאל ידיע באבן חסאן</name> קודשא בריך הוא ימחול לי על כל מה ששגיתי וטעיתי ונסתר מעיני כדכת' שגיאות מי יבין מנסתרות נקיני. וכתב בעיר <name type="place">אלגראגיש </name>תתקיים לישראל דבגוה עד עדן דתתבני קרתא קדישתא ירושלם אמן נצח סלה. וכאן אלפראג' מן נסכה בחדש <date when="1513" calendar="Seleucid">כסלו שלשנת אלפא ותמני מאה ועסרין וחמיש שנין לשטרות</date>. אלהים יחיש הקץ וימהר הגאולה. בקרוב בעגלא. אמן נצח סלה.<locus n="297r"/>
+							</colophon>
+							<filiation>
+								<ref target="Neubauer_1891" type="number">2488</ref>
+							</filiation>
+							<msItem rend="v">
+								<locus from="1r" to="19v"/>
+								<title xml:lang="en">Joshua</title>
+								<note>
+									<p>Missing the whole of chapters 1 to 6, patrs of chapter 7 and most of the chapters 12-14.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="19v" to="72v"/>
+								<title xml:lang="en">Judges</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="72v" to="247v"/>
+								<title xml:lang="en">Samuel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="247v" to="297r"/>
+								<title xml:lang="en">Kings</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent rend="visible">297 folios <dimensions unit="mm" type="leaf">
+										<height>249</height>
+										<width>190</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>197</height>
+										<width>127</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>297 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning. </p>
+									<p>Extensive lacuna after folio 5.</p>
+									<p>A few folios damaged at the beginning and at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27" writtenLines="27">
+									<p>Uniform layout.</p>
+									<p>Ruled with a mastara.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Yemenite semi-cursive script, unpunctuated, of the 16th century. <name type="person" role="scribe">Me῾oded ben Yosef ben Sa῾adyah ben Yosef ben Shelomoh ben Natana᾿el</name>, inscribed with his name in the colophon, folio 297r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Avraham ben Gershon</name>, his name inscribed with a date of <date calendar="Seleucid">Elul 1842</date> (<date calendar="Gregorian">1531</date>), folio 296v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: &apos;Abraham ben Shlomoh. Commentary on the Former Prophets. Arabic. Brit. Mus. Oriental 2387.&apos;</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history facs="0" rend="visible">
+						<origin when-custom="1825" calendar="Seleucid" when="1513"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen </name>(Al-garish?)</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881, folio [298v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">226</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-01-07">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,145 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-08</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_4113" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 4113</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052 lccn.loc.gov/sh85102543" rend="visible">
+						<summary>A collection of penitential prayers, to be said between the 1st of Elul and the Day of Atonement.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n79090052 lccn.loc.gov/sh85102543">
+							<locus from="1r" to="17v"/>
+							<title xml:lang="he-Latn-x-lc">Seliḥot le-lele ashmurot</title>
+							<title xml:lang="he">סליחות ללילי אשמורות</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Paper.</support>
+								<extent>17 folios <dimensions unit="mm" type="leaf">
+										<height>155</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>135</height>
+										<width>85</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>17 folios (+ 2 unfoliated paper flyleaves at the beginning and 25 at the end).</p>
+								</foliation>
+								<collation>
+									<p>3 quires of 6 leaves each (the last one being incomplete).</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="22 25" writtenLines="22 25">
+									<p>Uniform layout. </p>
+									<p>Initial words and titles written in larger characters.</p>
+									<p>Running titles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite semi-cursive script, partly punctuated, of the 17th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="16v" to="17v"/> - written in a different hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 16v and 17 contain a form of Kidush for Passover, in a different and irregular hand.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine: 'Selichoth. Hebrew. Brit. Mus. Oriental 4113.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name> ?</p>
+						</provenance>
+						<acquisition>
+							<date>1890-05-10</date>
+							<p>
+								<name type="person" role="bookseller">B. Steinhart</name>: purchased from him by the British Museum on 10 May 1890: inscribed, folio [ii recto].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">709</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-08">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

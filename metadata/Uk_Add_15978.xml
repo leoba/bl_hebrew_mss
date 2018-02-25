@@ -1,0 +1,189 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-03-26</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_15978" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 15978</idno>
+					</msIdentifier>
+					<head>Midrash</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Sefer Malmad ha-talmidim, an ethico-philosophical discourse on the passages of the Pentateuch in the order of weekly pericopes by Jacob ben Abba Mari ben Samson Anatoli.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="252v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Malmad ha-talmidim</title>
+							<title xml:lang="he">ספר מלמד התלמידים</title>
+							<author key="http://viaf.org/viaf/79259912">
+								<persName key="http://viaf.org/viaf/79259912" xml:lang="en">Anatoli, Jacob ben Abba Mari ben Samson, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/79259912" xml:lang="he">יעקב בן אבא מארי אנטולי, 1197-1256</persName>
+							</author>
+							<colophon xml:lang="he">נשלם ספר מלמד על ידי לי <name type="person" role="scribe">חיים בכמ"ר מיכאל</name> ישר"ו ב<date when="1404" calendar="Hebrew">כ"ב ימים לחדש תמוז שנת קס"ד</date> וכתבתיו לכבוד מ"ר <name type="person" role="patron">בנימן ישר"ו בכמ"ר שמואל</name> זצ"ל מ<name type="place">אנקונא</name>. השם יזכהו להגות בו ובשאר ספרי הקודש הוא וזרעו וזרע זרעו עד סוף כל הדורות ויזכה הוא וזרעו וזרע זרעו לראות ביאת הגואל ובניין אריאל וישועת יהודה וישראל. כן יאמר האל. וחלק המחוקק יהיה ספון עם מצדיקי הרבים ככוכבים לעולם ועד. חזק הכותב ואמיץ הקורא.<locus n="251r"/>
+							</colophon>
+							<listBibl>
+								<bibl>
+									<ref target="Anatoli_1866"/>
+								</bibl>
+							</listBibl>
+							<msItem rend="v">
+								<locus from="2r" to="4v"/>
+								<title xml:lang="en">Table of contents</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="5r" to="12r"/>
+								<title xml:lang="en">Introduction</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="12r" to="61v"/>
+								<title xml:lang="en">On Genesis</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="61v" to="115r"/>
+								<title xml:lang="en">On Exodus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="115r" to="141v"/>
+								<title xml:lang="en">On Leviticus</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="141v" to="192v"/>
+								<title xml:lang="en">On Numbers</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="192v" to="251r"/>
+								<title xml:lang="en">On Deuteronomy</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex.</support>
+								<extent>252 folios<dimensions type="leaf" unit="mm">
+										<height>314</height>
+										<width>219</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>207</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>252 folios (+ 2 modern paper flyleaves at the beginning and 3 at the end).</p>
+								</foliation>
+								<collation>
+									<p>25 quires: i11 (folios 2-12), ii-xxiv10 (folios 13-242), xxv9 (243-251).</p>
+									<p>Quires signed at the beginning and at the end with Hebrew letters.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="34" writtenLines="34">
+									<p>Catchwords (horizontal) on every verso.</p>
+									<p>Titles written in larger characters.</p>
+									<p>Headings on every page.</p>
+									<p>Complete ruling by hard-point (bifolium by bifolium on hair-side) and pricking (quire by quire, outer margin only) visible.</p>
+									<p>Occasional infralinear vocalization.</p>
+									<p>Frequently space left before last word, anticipating beginning of next word, truncated last letters,
+graphic filler at the end of line.</p>
+									<p>Last line written within the ruling.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian (or Byzantine?) semi-cursive script of 15th century. <name type="person" role="scribe">Ḥayim ben Mikha᾿el</name>: inscribed on folio 251r. His name occasionally marked off in the margin and in the middle of the line, e.g. folios 43v, 76r, 163r.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Benyamin ben Shemu᾿el</name> of Ancona: inscribed in the colophon, folio 251r. </p>
+							<p>
+								<name type="person" role="censor">Fra Mar. (Mon.?) Aurelio (-ius?)</name>: inscribed, folio 251r, with a date of <date calendar="Gregorian">30 April 1634</date>. </p>
+							<p>A record of sale in Italian, pasted on the first flyleaf, [i recto], with a date of <date calendar="Gregorian">25 April 1721</date>. </p>
+							<p>Folio 252 is a paper leaf, containing a homiletical note in Italian and a piece in Hebrew. Approximately 17th century. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Midrash. Hebrew. Brit. Mus. Oriental 15978.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5164" calendar="Hebrew" when="1404"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="owner">Fischl Hirsch</name>: purchased by the British Library from him on <date calendar="Gregorian">12 January 1877</date>: inscribed, folio <locus n="fse002v">[254v]</locus>.</p>
+							<date>1877-01-12</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">376</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-03-26">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

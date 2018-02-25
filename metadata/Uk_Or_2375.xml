@@ -1,0 +1,193 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-11-04</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_2375" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2375</idno>
+					</msIdentifier>
+					<head>Hagiographa</head>
+					<msContents class="  lccn.loc.gov/n80008481" rend="visible">
+						<summary>The Hagiographa, provided with vowel-points and accents, masorah magna and parva, with partial Aramaic and Arabic translation.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew</textLang>
+						<msItem n="0" rend="" class=" lccn.loc.gov/n80008481">
+							<title xml:lang="he-Latn-x-lc">Ketuvim</title>
+							<title xml:lang="he">כתובים </title>
+							<locus from="1r" to="316v"/>
+							<filiation>Probably written by the same hand as Or 2210, 2211, 2348 and 2370 (see <ref target="Margoliouth_1965" type="number">128, 138, 89, 127</ref>).</filiation>
+							<note>
+								<p>The Arabic translation of Psalms, Job, Proverbs and Song of Songs are known to be by Saadia Gaon and the other translations are also due to him.</p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="9v"/>
+								<title xml:lang="en">Ruth</title>
+								<note>
+									<p>Missing chapters 1:5-2:4, 2:14-23.</p>
+									<p>Contains a midrashic portions and expository comments on the book, in both Arabic and Hebrew.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="9v" to="87v"/>
+								<title xml:lang="en">Psalms</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="87v" to="119r"/>
+								<title xml:lang="en">Job</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="119r" to="145r"/>
+								<title xml:lang="en">Proverbs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="145r" to="168v"/>
+								<title xml:lang="en">Ecclesiastes</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="168v" to="184v"/>
+								<title xml:lang="en">Song of Songs</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="184v" to="195r"/>
+								<title xml:lang="en">Lamentations</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="195r" to="217v"/>
+								<title xml:lang="en">Daniel</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="217v" to="252v"/>
+								<title xml:lang="en">Esther</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="252v" to="269v"/>
+								<title xml:lang="en">Ezra</title>
+								<note>
+									<p>Nehemiah starts on folio 259v.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="269v" to="312r"/>
+								<title xml:lang="en">Chronicles</title>
+								<note>
+									<p>2Chronicles starts on folio 289r (wanting ch. 34:29- 36:23).</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="312r" to="315r"/>
+								<title xml:lang="en">A treatise on accents of the three poetical books in Judeo-Arabic.</title>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>316 folios<dimensions type="leaf" unit="mm">
+										<height>387</height>
+										<width>279</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>316 folios  (+ 2 unfoliated paper flyleaves at the beginning and 4 at the end).</p>
+								</foliation>
+								<condition>
+									<p>Imperfect at the end, leaves are missing after folios 1, 2, 311, 314.</p>
+									<p>Considerable amount of leaves at the beginning of the manuscript are more or less mutilated.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>Uniform layout. </p>
+									<p>The masorah magna in 1-5 lines in the upper and 1-3 lines in the lower margin.</p>
+									<p>The number of verses stated at the end of each book, except of Chronicles.</p>
+									<p>The Five Megilot have Targum with superlinear punctuation.</p>
+									<p>The beginning of sedarim indicated in the margin with an ornamental samekh.</p>
+									<p>Visible mastara ruling.</p>
+									<p>Folio 316 belongs to another manuscript: written in Yemenite hand of c. 12th or 13th century, contains Leviticus 15:19-16:8.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script, punctuated, of the 16th century.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus n="316r, 316v"/>due to later, 17th century hand. No punctuation.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1881-07-23</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio [318v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">147</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-11-04">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

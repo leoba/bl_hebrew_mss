@@ -1,0 +1,158 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-12-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27197" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27197</idno>
+					</msIdentifier>
+					<head>Compendium</head>
+					<msContents class="lccn.loc.gov/n80017842" rend="visible">
+						<summary>A halakhic commentary.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/n80017842">
+							<locus from="1r" to="158v"/>
+							<title xml:lang="he-Latn-x-lc">Perush hilkhot ha-Ri"f (῾Eruvin)</title>
+							<title xml:lang="he">פרוש הלכות הרי"ף (ערובין)</title>
+							<author key="http://viaf.org/viaf/90404354">
+								<persName key="http://viaf.org/viaf/53421753" xml:lang="en">Hananel ben Samuel, active 13th century</persName>
+								<persName key="http://viaf.org/viaf/53421753" xml:lang="he">חננאל בן שמואל</persName>
+							</author>
+							<note>
+								<p>A commentary on Alfasi's compendium of ῾Eruvin by Hananel ben Samuel.</p>
+								<p>Various readings are often mentioned, e.g., 54v, 67r.</p>
+								<p>Occasionally Arabic is used, e.g., folio 18v, 68r.</p>
+								<p>Folios 1-3 and some of the marginal notes (e.g., folios 7v, 14r, 26r) were probably written by the author himself.</p>
+								<p>The diagrams, with lettering, are apparently also autograph.</p>
+							</note>
+							<decoNote type="diagram">
+								<locus n="23r, 26v, 36r"/>Diagrams.</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 13th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>158 folios <dimensions unit="mm" type="leaf">
+										<height>245</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>158 folios (+ 3 modern paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Damaged at the beginning.</p>
+									<p>Much worm-eaten, without loss of text.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="25" writtenLines="25">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso. </p>
+									<p>Some pages left blank for diagrams.</p>
+									<p>Corrections (e.g., folio 8r, 16v).</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental square script of the 13th century. Partly an autograph of Hananel ben Samuel.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="3v"/> in a different but contemporary hand.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Fra. Luigi da Bologna</name>: inscribed with his name, 1598 (folio 158r); see <ref target="Popper_1969" type="page">104</ref>, and appendix 112-117.</p>
+							<p>
+								<name type="person" role="censor">Giovanni Domenico Vistorini</name>: inscribed with his name, 1609 (folio 158r); see <ref target="Popper_1969" type="number">85-87</ref>.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house. </p>
+								<p>Spine title: 'Chananel. Commentary on Erubin. Hebrew. Brit. Mus. Additional 27,197.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1200" notAfter="1299"/>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 311: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio ([160v]).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">479</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-12-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-07-24</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_Ch_1998" xml:lang="en" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add Ch 1998</idno>
+						<altIdentifier type="former">
+							<idno>Rot. Add. 1998</idno>
+						</altIdentifier>
+						<altIdentifier type="IAMS-ID">
+							<idno>032-003316034</idno>
+						</altIdentifier>
+						<altIdentifier type="MDARK">
+							<idno>ark:/81055/vdc_100033149777.0x000001</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Marriage contract</head>
+					<msContents class="lccn.loc.gov/sh85072105" rend="visible">
+						<summary>A marriage contract. </summary>
+						<textLang mainLang="he"/>
+						<msItem rend="visible">
+							<locus n="1r"/>
+							<title xml:lang="he-Latn-x-lc">Ketubah</title>
+							<title xml:lang="he">כתובה</title>
+							<note>
+								<p>An illuminated marriage-contract on parchment, between Israel ben Jacob Ferrares and Gimulya bat Masud bar Jacob, dated Gibraltar, 5546 (1786). Signed by two witnesses. </p>
+							</note>
+							<decoNote type="border">
+								<locus n="1r"/>One full border, inhabited and embellished, in colours. </decoNote>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment leaf of 18th century. </p>
+						<objectDesc form="leaf">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>1 folio<dimensions type="leaf" unit="mm">
+										<height>800</height>
+										<width>510</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>250</height>
+										<width>200</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>1 folio </p>
+								</foliation>
+								<collation>
+									<p>1 separate parchment leaf. </p>
+								</collation>
+								<condition>
+									<p>Some pigment losses. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="29" writtenLines="29">
+									<p>Initial word in large square characters. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi square script of the 18th century. </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p/>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin>
+							<origDate when="1786" when-custom="5546" calendar="Hebrew">1786 (5546)</origDate>
+							<origPlace>Gibraltar</origPlace>
+						</origin>
+						<provenance/>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="free">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British Museum, 1977), no. 1203.
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-07-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

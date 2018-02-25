@@ -1,0 +1,165 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-10-16</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19781" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19781</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n79090052" rend="visible">
+						<summary>A festival prayer book for Rosh ha-Shanah and Yom Kipur, according to a North African rite.</summary>
+						<textLang mainLang="he"> </textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+							<locus from="1r" to="210v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<note>
+								<p>Folios 2r-4v contain a form of hatarat gedarim relating to the past, and another relating to the future. Cf <ref target="Mahzor_Algiers_1861"/>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="83v"/>
+							<title xml:lang="en">Services for Rosh ha-Shanah</title>
+							<note>
+								<p>Services for the first day: seder tefilat minḥah, folio 1r; ma῾ariv, folio 10v; seder tefilat shaḥarit with introductory pieces, folio 17r; tefilat musaf, folio 65r.</p>
+								<p>Services for the second day: folios 71v-83v.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="84r" to="210v"/>
+							<title xml:lang="he-Latn-x-lc">Services for Yom Kipur</title>
+							<note>
+								<p>Seder tedilat minḥah, folio 84r; seder tefilat ῾arvit lel kipur, folio 85r; seder shaḥarit, folio 101r; tefilat musaf, folio 141r; seder tefilat minḥah, folio 173r (the book of Jonah begins on folio 174r); seder tefilat ne῾lah, folio 191r.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th or 17th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>210 folios <dimensions unit="mm" type="leaf">
+										<height>230</height>
+										<width>170</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>120</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>210 folios (+ 4 unfoliated paper flyleaves at the beginning and 5 at the end).</p>
+									<p>Irregular original foliation.</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Severely water-damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 4" ruledLines="22 23" writtenLines="22 23">
+									<p>Uniform layout. </p>
+									<p>Initial words written in larger characters.</p>
+									<p>Leaf catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Sefardi (North African) semi-cursive script, of the 16th or 17th century.</summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>Folios 1-4 are a later addition.</p>
+							<p>
+								<name type="person" role="owner">Ye᾿udah ha-Kohen Yeḥonatan</name>, dated <date calendar="Hebrew">[5]482</date> (<date calendar="Gregorian">1722</date>): inscribed in an owner's entry, as well as in an entry of sale to <name type="person" role="owner">Shabtai ben Molkho</name>, dated <date calendar="Hebrew">[5]494</date> (<date calendar="Gregorian">1734</date>), folio 1v.</p>
+							<p>A pencil entry beginning 'Avraham Zanun', folio 1r.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather, blind tooled. Boxed.</p>
+								<p>Spine: 'Ordo Precum In Novum Annum. Et In Die Expiationis. Hebraice. Mus. Brit. Jure Emptionis. 19,781.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1699"/>
+						<provenance>
+							<p>
+								<name type="place">Africa, N.</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1854-04-08</date>
+							<p>
+								<name type="person" role="owner">M. Aschkenazi</name>: purchased from him by the British Museum through <name type="person" role="bookseller">D. Nutt</name> on 08 April 1854: inscribed, folio [211v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">705</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-10-16">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

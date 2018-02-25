@@ -1,0 +1,157 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-04-29</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27050" xml:lang="ara" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27050</idno>
+					</msIdentifier>
+					<head>Derashot</head>
+					<msContents class="lccn.loc.gov/sh85085046  lccn.loc.gov/n97022801" rend="visible">
+						<summary>A book of mostly kabbalistic commentaries on Genesis, Exodus and parts of Leviticus by Mordekhai Dato, written in Italian in Hebrew characters (an autograph).</summary>
+						<textLang mainLang="ita" otherLangs="he">Italian, Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85085046  lccn.loc.gov/n97022801">
+							<locus from="1r" to="202v"/>
+							<title xml:lang="he-Latn-x-lc">Derashot</title>
+							<title xml:lang="he">דרשות</title>
+							<author key="http://viaf.org/viaf/53080919">
+								<persName key="http://viaf.org/viaf/53080919" xml:lang="en">Dato, Mordecai ben Judah, 1525-</persName>
+								<persName key="http://viaf.org/viaf/53080919" xml:lang="he">דאטו, מרדכי </persName>
+							</author>
+							<note>
+								<p>The language of the commentary is mostly Italian, but the script and punctuation (partial) is Hebrew.</p>
+								<p>A short introduction is given on folio 2v.</p>
+								<p>In a note on folio 3v, the date of composition is given as 5351 (1591).</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>202 folios<dimensions type="leaf" unit="mm">
+										<height>215</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>145</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>202 folios (+ 2 paper flyleaves at the beginning and 3 older and 1 modern paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Original quiring not established due to the modern restoration (leaves on guards).</p>
+								</collation>
+								<condition>
+									<p>Several folios slightly mutilated.</p>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="16 49" writtenLines="16 49">
+									<p>Uniform layout.</p>
+									<p>Nearly no side margins left by the scribe.</p>
+									<p>Many marginal notes and additions.</p>
+									<p>Scribal erasures (e.g. folio 53v).</p>
+									<p>Catchowords on most of the versos.</p>
+									<p>Folio 2r is a title-page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Italian cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="195r" to="202v"/>- some kabbalistic notes written by different hands.</p>
+								<p>
+									<locus from="62r" to="62v"/>- a few remarks on Job 1 by a different hand.</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. Black buckram. </p>
+								<p>Spine title: 'Mordekhai Dato. Derashoth. Ital. Brit. Mus. Additional 27, 050.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1590" notAfter="1592"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), Italian bibliophile: his manuscript no. 156: inscribed (<locus n="fse001v"/>[347v]); 322 Hebrew manuscripts were acquired from his library in <date calendar="Gregorian">October 1865</date> through <name type="person" role="bookseller">Adolphus Asher </name>(b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">380</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-04-29">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

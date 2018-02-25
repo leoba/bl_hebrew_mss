@@ -1,0 +1,184 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-05</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2406" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2406</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85071588" rend="visible">
+						<summary>Volume 2 of Al-Murshid, the book of precepts of Samuel ben Moses ha-Maʿarabi.</summary>
+						<textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85071588">
+							<locus from="1r" to="384v"/>
+							<title xml:lang="he-Latn-x-lc">Al-Murshid</title>
+							<title xml:lang="he">אלמרשד</title>
+							<note>
+								<p>The book is accordingly divided into 12 maḳalat spread over two volumes. Each maḳalah is divided into a number of chapters, the numbers of which are marked with Hebrew letters in the margin.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/305236993">Samuel ben Moses, al-Maghribī</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/305236993">שמואל בן משה, המערבי</persName>
+							</author>
+							<listBibl>
+								<bibl>
+									<ref target="Al_Murshid_2001"/>
+								</bibl>
+							</listBibl>
+							<filiation>Uniform with Or 2405. Cf the same handwriting of Or 2517, <ref target="Margoliouth_1965" type="number">254</ref>, folios 108-146.</filiation>
+							<colophon xml:lang="he">נשלם ביום שני בשבוע והוא יום שני מחדש תמוז יה' אב' לש' שנת אלף ושמונה מואת ואחד ושלשים שנה לשטרות והי שנת חמשת אלפים ומאתים ושמונים שנה לבריאת העולם.<locus n="384r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="96r"/>
+							<title xml:lang="en">Maḳalah 1</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="96r" to="123v"/>
+							<title xml:lang="en">Maḳalah 2</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="123v" to="200v"/>
+							<title xml:lang="en">Maḳalah 3</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="200v" to="263r"/>
+							<title xml:lang="en">Maḳalah 4</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="263r" to="308r"/>
+							<title xml:lang="en">Maḳalah 5</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="308r" to="346v"/>
+							<title xml:lang="en">Maḳalah 6</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="346v" to="384v"/>
+							<title xml:lang="en">Maḳalah 7</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>384 folios <dimensions unit="mm" type="leaf">
+										<height>190</height>
+										<width>140</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>105</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>384 folios (+ 2 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 12 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 " ruledLines="14" writtenLines="14">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Chapter numbers given in larger characters. Titles given in larger square characters.</p>
+									<p>Catchwords on every verso.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Oriental semi-cursive script of the 16th century. <name type="person" role="scribe">Daniel ben Mosheh ben Yeshayah Firuz</name>: inscribed, folio 198v.</summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="1r" to="199v"/>: supplied by a later hand, of approximately the end of 17th century or the beginning of the 18th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folios 1r, 316v of volume 1: a note of ownership of the Karaite synagogue of <name type="place">Jerusalem</name>.</p>
+							<p>
+								<name type="person" role="owner">Daniel ben Mosheh ha-Melamed</name>: inscribed, folio 1r.</p>
+							<p>A note stating that certain Shemu᾿el ben Avraham ha-Leṿi used the manuscript in <date calendar="Gregorian">1744</date>: inscribed, folio 1v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine: 'Samuel Ha-Rofe. Sefer Mitsvoth. Vol. II. Arabic. Brit. Mus. Oriental 2406.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="1831" calendar="Seleucid" when="1520"/>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed, [385v].</p>
+							<date>1881-07-23</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">602</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-05">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

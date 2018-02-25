@@ -1,0 +1,224 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2485" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2485</idno>
+					</msIdentifier>
+					<head>Muḳadimat</head>
+					<msContents class="lccn.loc.gov/sh85085046" rend="visible">
+						<summary>Volume 1 of the Muḳadimat, or introductions (in Arabic and Hebrew), to the weekly parashiyot of the Pentateuch, by Shemu᾿el ha-Rofe al-Maghribi. </summary>
+						<textLang mainLang="he" otherLangs="ara"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85085046">
+							<locus from="1r" to="206v"/>
+							<title xml:lang="he-Latn-x-lc">Muḳadimat </title>
+							<author>
+								<persName xml:lang="en">Samuel ben Moses, al-Maghribī, active 15th century </persName>
+								<persName xml:lang="he">המערבי, שמואל בן משה </persName>
+							</author>
+							<note>
+								<p>Contains Masoretic notes and lists. </p>
+							</note>
+							<msItem rend="v">
+								<locus from="1r" to="28r"/>
+								<title xml:lang="he-Latn-x-lc">Bereshit</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="28r" to="43r"/>
+								<title xml:lang="he-Latn-x-lc">Noaḥ</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="43r" to="56r"/>
+								<title xml:lang="he-Latn-x-lc">Lekh lekha</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="56r" to="71r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yera</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="71r" to="84r"/>
+								<title xml:lang="he-Latn-x-lc">Ḥaye Sarah</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="84r" to="98r"/>
+								<title xml:lang="he-Latn-x-lc">Toledot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="98r" to="112r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yetse</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="112r" to="126r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yishlaḥ</title>
+								<note>
+									<p>Imperfect at the beginning.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="126r" to="138r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yeshev</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="138r" to="155r"/>
+								<title xml:lang="he-Latn-x-lc">Mi-ḳets</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="155r" to="170r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yigash</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="170r" to="187r"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yeḥi</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="187r" to="205r"/>
+								<title xml:lang="he-Latn-x-lc">Shemot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="205r" to="206r"/>
+								<title xml:lang="he-Latn-x-lc">Ki taso</title>
+								<filiation>Cf Or 2483, <ref target="Margoliouth_1965" type="number">395</ref>, folio 14r, line 11 to folio 16r, line 5.</filiation>
+								<note>
+									<p>A fragment only.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="206r" to="206v"/>
+								<title xml:lang="he-Latn-x-lc">Ṿa-yaḳhel</title>
+								<note>
+									<p>A fragment only.</p>
+								</note>
+								<filiation>Cf Or 2483, <ref target="Margoliouth_1965" type="number">395</ref>, folio 22v line 2, to folio 23v line 2.</filiation>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 17th to 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex. </support>
+								<extent>206 folios<dimensions type="leaf" unit="mm">
+										<height>155</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>110</height>
+										<width>75</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>206 folios (+ 2 paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 6 or 8 leaves each (irregular). </p>
+								</collation>
+								<condition>
+									<p>Folio missing after folio 125. </p>
+									<p>Slightly stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="17" writtenLines="17">
+									<p>Uniform layout. Visible ruling with a mastara. </p>
+									<p>Initial words of each section written in larger characters, preceded with a title page (see e.g. folio 1r, 28r, etc). </p>
+									<p>Catchwords on every verso. </p>
+									<p>The biblical verses are given with punctuation. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Square and semi-cursive Oriental scripts of the 17th to 18th century. </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="1r" to="1v"/> and <locus from="137r" to="138v"/>due to later hands.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>Folio 205-206 belonged originally to a different manuscript. </p>
+							<p>
+								<name type="person" role="owner">Mosheh Rofe ben Mosheh ha-Melamed</name>: inscribed under the titles of most of the Muḳadimat, e.g. folio 56r. </p>
+							<p>
+								<name type="person" role="owner">Yosef ha-Rofe ben Mosheh ha-Rofe</name>: inscribed, folio 125v. </p>
+							<p>Birth entry of Avraham, dated 5603 (1842): folio 111v . </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Samuel ha-Rofe. Mukaddimat. Vol. I. Arabic &amp; Hebrew. Brit. Mus. Oriental 2485.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1600" notAfter="1799"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="owner">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882: inscribed, folio <locus n="fse001v">[207v]</locus>. </p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">397</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-05-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

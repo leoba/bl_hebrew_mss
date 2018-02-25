@@ -1,0 +1,146 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../tei_enrich_new.xsd">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2013-10-24</date>
+				<idno>Uk</idno>
+				<availability status="restricted">
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1473" xml:lang="he" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 1473</idno>
+					</msIdentifier>
+					<head>Prophets</head>
+					<msContents class="lccn.loc.gov/n79054379  lccn.loc.gov/n80008477" rend="visible">
+						<summary>Jeremiah and Ezekiel with Targum Onḳelos, provided with superlinear punctuation.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr ">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="" class="lccn.loc.gov/n80008477">
+							<title xml:lang="he-Latn-x-lc">Nevi᾿im </title>
+							<title xml:lang="he">נביאים </title>
+							<locus from="1r" to="169v"/>
+							<explicit xml:lang="he">ברוך ייי לעולם אמן אמן.<locus n="169v"/>
+							</explicit>
+							<msItem rend="v">
+								<title xml:lang="en">Jeremiah</title>
+								<locus from="1v" to="92v"/>
+							</msItem>
+							<msItem rend="v">
+								<title xml:lang="en">Ezekiel </title>
+								<locus from="93r" to="169v"/>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Vellum codex of approximately 16th century, punctuated.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment codex. </support>
+								<extent>169 folios <dimensions unit="mm" type="leaf">
+										<height>320</height>
+										<width>225</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>230</height>
+										<width>167</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>169 folios (+ 2 unfoliated paper flyleaves at the beginning and 4 at the end of the codex). </p>
+								</foliation>
+								<collation>
+									<p>Originally 18 quires: i8, ii-xi10, xii-xiii8, xiv-xvii10, xviii5. </p>
+									<p>Quires signed with Hebrew letters on the first page. </p>
+								</collation>
+								<condition>
+									<p>Several pages stained. Folio 48 mutilated. Signs of water damage at the end. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="24" writtenLines="24">
+									<p>Ezekiel begins a new leaf. </p>
+									<p>The beginnings of the Hafṭarot are indicated in the margin. </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Yemenite square script; Biblical text and Targum with simple Babylonian (superlinear) punctuation, in alternate verses. </summary>
+							<handNote script="Hebrew" scope="major">
+								<p>
+									<locus from="2" to="4"/>, <locus from="270" to="274"/>supplied in the 18th century.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>In the flyleaves at the end, three paper fragments have been added. The first contains a fragment of Judeo-Arabic letter (12th century?); the other two fragments contain Hebrew fragments with superlinear punctuation.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<provenance>
+							<p>
+								<name type="place">Yemen</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1877-11-24</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira </name>(b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 24 November 1877 (folio <locus n="fse003v">[172v]</locus>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<licence>text</licence>
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">140</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2013-10-24">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

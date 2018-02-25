@@ -1,0 +1,160 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-08-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27081" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27081</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Liḳutim, a compilation of halakhic works, by <name type="person" role="compiler">Immanuel Sonnino</name> (<name type="person" role="compiler">עמנואל סונינו</name>).</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="2v" to="159v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer Derekh ha-melekh</title>
+							<note>
+								<p>Opens with Hilkhot tsitsit, and ends with Hilkhot avelot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="159v" to="165r"/>
+							<title xml:lang="he-Latn-x-lc">Even ha-῾ezer</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="165r" to="182r"/>
+							<title xml:lang="he-Latn-x-lc">Ḥoshen mishpaṭ</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="182r" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Kelalim u-segulot</title>
+							<note>
+								<p>Short extracts on diverse subjects, explanation of words, etc.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 18th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<extent>231 folios <dimensions unit="mm" type="leaf">
+										<height>155</height>
+										<width>105</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>70</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+ 3 unfoliated paper flyleaves at the beginning and 4 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 16 leaves each.</p>
+								</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="14 18" writtenLines="14 18">
+									<p>Uniform layout. </p>
+									<p>Visible hard-point ruling.</p>
+									<p>Horizontal catchwords on every page. </p>
+									<p>Initial words given in larger characters.</p>
+									<p>Running titles.</p>
+									<p>Original foliation in the upper left-hand margin of each recto.</p>
+									<p>Folio 1 is a title page.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian cursive script of the 18th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>Folios 208r-210r: a short account of the siege of <name type="place">Reggio di Emilia</name>, first by the French (<date calendar="Gregorian">1702</date>), and afterwards by the Germans (<date calendar="Gregorian">1706</date>).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: 'Rabbi Sonino. Likkutim. Hebrew. Brit. Mus. Additional 27,081.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi </name>(b. 1801, d. 1860), Italian bibliophile: his manuscript no. 187: 322 Hebrew manuscripts were acquired from his library in October 1865 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, [233v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">559</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-08-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

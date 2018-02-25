@@ -1,0 +1,195 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-11-27</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_27014" xml:lang="he" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 27014</idno>
+					</msIdentifier>
+					<head>Kabbalah</head>
+					<msContents class="lccn.loc.gov/sh85018546" rend="visible">
+						<summary>A collection of kabbalistic treatises.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="">
+							<title xml:lang="he-Latn-x-lc">Ḳovets be-ḳabalah</title>
+							<title xml:lang="he">קובץ בקבלה</title>
+							<locus from="1r" to="219v"/>
+							<filiation>Cf. the manuscripts written by the same scribe, e.g., MS New York JTS 1892.</filiation>
+							<colophon xml:lang="he">אני <name type="person" role="scribe">שמואל</name>[?] בן לא"א החכם השלם [יחיאל נסים] מפיסה יצ"ו כתבתי זה הספר לבקשת אהובי היקר אשר נפשי קשורה בנפשו ואהבת עולם אהבתיהו האלוף כבוד בכמה"ר <name type="person" role="patron">יעקב</name>[?] יצ"ו המיוחס לבית אבותיו החסידים ואנשי מעשה בני [...] יצו' היום יום א ב' ימי' לחדש טבת שנת <date calendar="Hebrew">ש"ח</date> פ' ואזכור את בריתי פה <name type="place">פיסה</name> הקדומה היושבת בגליל טוסקאנה.<locus n="209r"/>
+							</colophon>
+						</msItem>
+						<msItem rend="">
+							<title xml:lang="he-Latn-x-lc">Perush ha-tefilot</title>
+							<title xml:lang="he">פרוש התפלות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/308275868">Joseph ibn Sheraga</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/308275868">שרגא, יוסף אבן</persName>
+							</author>
+							<note>
+								<p>Contains Perush ha-berakhot, folios 33v-56v, Sod ha-miḳveh, folios 57r-60v, ῾Inyan ha-malḳut, folios 60v-63r, ῾Inyan ha-tsedaḳah, folios 63r-65v, ῾Inyan ha-keritot, folios 65v-66v, all by the same author.</p>
+							</note>
+							<locus from="2r" to="66v"/>
+						</msItem>
+						<msItem rend="">
+							<locus from="67r" to="166r"/>
+							<title xml:lang="he-Latn-x-lc">Ta῾ame ha-mitsṿot</title>
+							<title xml:lang="he">טעמי המצוות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/101087390">Recanati, Menahem ben Benjamin</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/101087390">ריקנטי, מנחם בן בנימין</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus to="210r" from="166v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-tefilot</title>
+							<title xml:lang="he">פרוש התפלות</title>
+							<author>
+								<persName key="http://viaf.org/viaf/101087390" xml:lang="en">Recanati, Menahem ben Benjamin</persName>
+								<persName key="http://viaf.org/viaf/101087390" xml:lang="he">ריקנטי, מנחם בן בנימין</persName>
+							</author>
+						</msItem>
+						<msItem rend="">
+							<locus from="211r" to="218v"/>
+							<title xml:lang="he-Latn-x-lc">Perush ha-tefilot</title>
+							<title xml:lang="he">פרוש התפלות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/308275868">Joseph ibn Sheraga</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/308275868">שרגא, יוסף אבן</persName>
+							</author>
+							<note>
+								<p>Folio 218v: contains the beginning of Perush ha-berakhot of the same author.</p>
+								<p>Folio 219r: a piece on the meaning of letters.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper.</support>
+								<extent>219 folios<dimensions type="leaf" unit="mm">
+										<height>215</height>
+										<width>160</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>140</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>219 folios (+ 2 unfoliated paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>Quires of mostly 10 leaves each.</p>
+								</collation>
+								<condition>
+									<p>Stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="22 29" writtenLines="22 29">
+									<p>Uniform layout.</p>
+									<p>Catchwords on every verso.</p>
+									<p>Initial words given in larger square characters. </p>
+									<p>Additions and corrections given in the margin.</p>
+									<p>Gilt edges.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="2">
+							<summary>Italian cursive script of the 16th century. <name type="person" role="scribe">Shemu᾿el [ben Yeḥiel Nisim]</name>: inscribed, folio 209r (the name in the colophon has been erased and reconstituted on the basis of MS New York JTS 1892).  </summary>
+							<handNote script="Hebrew" scope="sole">
+								<p>
+									<locus from="2r" to="33r"/> written in a different smaller, but contemporary Italian cursive.</p>
+							</handNote>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="patron">Ya῾aḳov</name>: inscribed, folio 209r (the name in the colophon has been erased and reconstituted on the basis of MS New York JTS 1892).</p>
+							<p>A small part of a parchment folio written in Latin stuck to the inner cover (perhaps more than one folio has been put inside the cover to secure the binding).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. Dark brown leather, blind- and gold-tooled. </p>
+								<p>Spine: 'Joseph Ibn Sheraga. Perush Hat-Tephilloth, Etc. Hebrew. Brit. Mus. Additional 27,014.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="[5]308" calendar="Hebrew" when="1548"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name> (<name type="place">Pisa</name>)</p>
+						</provenance>
+						<acquisition>
+							<date>1865-10</date>
+							<p>
+								<name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860), bibliophile; his manuscript no. 124: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>): inscribed, folio [221v] (fse002v).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">792</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-11-27">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

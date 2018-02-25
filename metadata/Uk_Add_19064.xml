@@ -1,0 +1,246 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-09-10</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_19064" xml:lang="en" rend="history">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 19064</idno>
+					</msIdentifier>
+					<head>Liturgy</head>
+					<msContents class="lccn.loc.gov/n80040114" rend="visible">
+						<summary>A festival prayer book.</summary>
+						<textLang mainLang="he"/>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/n80040114">
+							<locus from="1r" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Maḥzor</title>
+							<title xml:lang="he">מחזור</title>
+							<decoNote type="initial">
+								<locus n="6r, 37v, 72v"/> 	3 decorated initial-word panels with partial border, in colours and gold or silver.  </decoNote>
+							<decoNote type="initial">1 initial word in gold.<locus n="17v"/>
+							</decoNote>
+							<decoNote type="other">Micrography.<locus n="7v"/>
+							</decoNote>
+							<note>
+								<p>See further <ref target="Tahan_2007" type="page">79</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="1r" to="8v"/>
+							<title xml:lang="he-Latn-x-lc">Keter malkhut</title>
+							<title xml:lang="he">כתר מלכות</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/100186412">Ibn Gabirol, active 11th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/100186412">אבן גבירול, שלמה בן יהודה, 1021-1058</persName>
+							</author>
+							<filiation>Cf Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="8v" to="16r"/>
+							<title xml:lang="en">Services for week-days</title>
+							<filiation>Cf Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="16r" to="24r"/>
+							<title xml:lang="he-Latn-x-lc">Seder Shabat</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="24r" to="26r"/>
+							<title xml:lang="he-Latn-x-lc">Seder Rosh ḥodesh</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="26r" to="27v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Ḥanukah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="27v" to="29v"/>
+							<title xml:lang="he-Latn-x-lc">Seder ῾Asarah be-ṭevet</title>
+							<filiation>Cf Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="29v" to="37v"/>
+							<title xml:lang="he-Latn-x-lc">Seder arba῾ parashiyot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="37v" to="54v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Pesaḥ</title>
+							<filiation>Cf Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="54v" to="70r"/>
+							<title xml:lang="he-Latn-x-lc">Seder Shavu῾ot</title>
+							<note>
+								<p>The book of Ruth, folio 69r.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="70r" to="72v"/>
+							<title xml:lang="he-Latn-x-lc">Seder shiv῾ah ῾asar be-tamuz</title>
+							<filiation>Cf the contents of Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="72v" to="88v"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot ta῾anit ṿe-seder ṭeṭ be-av</title>
+							<filiation>Cf the contents of Add MS 19944, <ref target="Margoliouth_1965" type="number">626</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="88v" to="106r"/>
+							<title xml:lang="he-Latn-x-lc">Seder ma῾amadot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="106r" to="119v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Rosh ha-shanah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="119v" to="122v"/>
+							<title xml:lang="he-Latn-x-lc">Tsom Gedalyah</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="122v" to="182v"/>
+							<title xml:lang="he-Latn-x-lc">Seder Yom Kipur</title>
+							<filiation>Cf the contents of Add MS 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="182v" to="209r"/>
+							<title xml:lang="he-Latn-x-lc">Seder Sukot</title>
+							<note>
+								<p>Cf the contents of Add. 19945, <ref target="Margoliouth_1965" type="number">627</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="209v" to="231v"/>
+							<title xml:lang="he-Latn-x-lc">Dinim</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>Parchment.</support>
+								<extent>231 folios <dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>210</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>180</height>
+										<width>130</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>231 folios (+ 3 unfoliated paper flyleaves at the beginning and 1 unfoliated parchment and 3 paper flyleaves at the end).</p>
+								</foliation>
+								<collation>
+									<p>24 quires: ithree (folios 1-3), ii-xi10 (folios 4-103), xii10 (folios 104-105, 105a-112), xiii-xxi10 (folios 113-202), xxii10 (folios 203-208, 208a-211), xxiii-xxiv10 (folios 212-231). </p>
+									<p>Catchwords at the end of the quires, sometimes decorated.</p>
+								</collation>
+								<condition>
+									<p>Defective at the end.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="38" writtenLines="38">
+									<p>Uniform layout.</p>
+									<p>Visible hard-point ruling.</p>
+									<p>Initial words written in larger characters.</p>
+									<p>Hair side and flesh side are indistinguishable.</p>
+									<p>Erasures presumably by the censor (e. g. folios 15r, 116v, 224v, 227r).
+</p>
+									<p>Unfoliated blank leaf after folios 105, 208.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian square script of the 15th century, punctuated. <name type="person" role="scribe">Micha᾿el</name> (?): the name Michael is decorated (folio 168r). </summary>
+							<handNote script="Hebrew" scope="major"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="censor">Camillo Jaghel</name>: inscribed with his name, <date calendar="Gregorian">1619 </date>(folio 231v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 50-56.
+</p>
+							<p>Owner's inscription in Italian, partially illegible: 'Questo lib[ro] .. David a Samuel .. Moise Borghi (?) (folio 1r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Pre-1600. Brown leather, gold tooled, with remains of clasps.</p>
+								<p>Spine: 'Machazor. Ritus Italici. Hebraice. Mus. Brit. Jure Emptionis 19,064.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1400" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<p>
+								<name type="person" role="bookseller">Adolphus Asher</name> (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see <ref target="Paisey_1997" type="page">131-153</ref>: inscribed, [232v].</p>
+							<date>1852-11-18</date>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">633</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-09-10">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

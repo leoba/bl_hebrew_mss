@@ -1,0 +1,145 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-02-20</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+						<sponsor>The Polonsky Foundation</sponsor>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2567" xml:lang="jrb" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2567</idno>
+					</msIdentifier>
+					<head>Karaite commentary</head>
+					<msContents class="lccn.loc.gov/sh85013597" rend="visible">
+						<summary>An Arabic commentary on the book of Proverbs.</summary>
+						<textLang mainLang="ara" otherLangs="he"/>
+						<msItem rend="visible" class="lccn.loc.gov/sh85013597">
+							<locus from="1r" to="95v"/>
+							<title xml:lang="en">Commentary on Proverbs</title>
+							<note>Contains Exodus 13:17-15:1, 15:22-17:7, 18:1-21:36, 22:4-30:21, 30:33-32:29, 33:12-34:26. Pointed and accentuated Hebrew text, with a translation and short commentary in (Judeo-)Arabic.<p>An anonymous Arabic commentary on Proverbs, chapters 1:22-8:34, 24:28-25:11.</p>
+								<p>The Hebrew text is quoted in part and written in square characters.</p>
+								<p>There is an Arabix translation arranged in the following sections: chapter 2; 3:1-18; 3:19-35; 4:1-19; 4:20-27; 5; 6:1-5; 6:6-11; 6:12-19; 6:20-35; 7; 8:1-21; 8:22-36; 25:1-13. The beginning of each section is marked by the word נץ in the margin.</p>
+								<p>Scant masoretic notes.</p>
+							</note>
+							<filiation>Partially agrees with Or 2508, <ref target="Margoliouth_1965" type="number">338</ref>.</filiation>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex of approximately 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex</support>
+								<extent>95 folios<dimensions type="leaf" unit="mm">
+										<height>165</height>
+										<width>122</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>145</height>
+										<width>100</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>95 folios (+2 modern paper flyleaves at the beginning and at the end).</p>
+								</foliation>
+								<collation>
+									<p>10 quires, nos. 2-10, and folios 88-95, the numeration of which is uncertain.</p>
+									<p>Nos. 2, 10 and the last one are imperfect.</p>
+									<p>Signatures in Arabic words on the upper margin of the first folio, and the four following folios are numbered with Arabic numerals. </p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end. Leaves missing after folios 8 and 87.</p>
+									<p>Folios 1, 2, 15, 53, 54, 62, 65, 71, 76, 79, 80, 88, 90, 91 are damaged.</p>
+									<p>Greater part of folio 87 is lost.</p>
+									<p>Many folios worm-eaten.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="15" writtenLines="15">
+									<p>Uniform layout.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Hebrew square and Arabic Naskhi script of approximately 14th century.</summary>
+							<handNote script="Arabic" scope="major">
+								<p/>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house.</p>
+								<p>Spine title: 'Comm. on Proverbs. Arabic. Brit. Mus. Or. 2567.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1399"/>
+						<acquisition>
+							<date>1882-07-08</date>
+							<p>
+								<name type="person" role="bookseller">Moses Wilhelm Shapira</name> (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio <locus n="fse001v">[96v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">337</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-02-20">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,153 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-12</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2891" xml:lang="en" rend="meta">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2891</idno>
+					</msIdentifier>
+					<head>Commentary</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>The commentary of Rashi on Ḳidushin.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="130v"/>
+							<title xml:lang="he-Latn-x-lc">Perush Rashi </title>
+							<title xml:lang="he">פירוש רש"י</title>
+							<author key="http://viaf.org/viaf/19684048">
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="en">Rashi, 1040-1105</persName>
+								<persName key="http://viaf.org/viaf/19684048" xml:lang="he">שלמה בן יצחק (רש"י), 1040-1105 </persName>
+							</author>
+							<note>
+								<p>Folio 129r contains Din ῾eruv u-birkato, the formula of which differs from the usual wording, with a special for ῾eruve batim. </p>
+							</note>
+							<colophon xml:lang="he">סליק פ' קדושין ב<date calendar="Hebrew">יום ד' ג' ימים למנחם שנת ה'ק'מ'ה' ליצירה</date> על יד לי פרוטו הקטן בן כ"ר עלי בוקי נ'ת'צ'ב'ה' השם יזכנו להגות בו אני ובני ובני בני עד סוף כל הדורות כדכת' לא ימושו מפיך ומפי זרעך ומפי זרע זרעך:<locus n="128v"/>
+							</colophon>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment and paper codex; Italian semi-cursive script of the 14th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="mixed">
+								<support>Parchment and paper codex.</support>
+								<extent>130 folios <dimensions unit="mm" type="leaf">
+										<height>212</height>
+										<width>150</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>130</height>
+										<width>80</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>130 folios (+ 4 modern paper flyleaves at the beginning and 3 at the end). </p>
+								</foliation>
+								<collation>
+									<p>Originally quires of 12 leaves each.  </p>
+								</collation>
+								<condition>
+									<p>Slightly stained. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="27 29" writtenLines="27 29">
+									<p>Uniform layout. </p>
+									<p>Catchwords on every verso, partly cut away. </p>
+									<p>Many marginal notes.  </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Italian semi-cursive script of the 14th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>A note in a Spanish dialect, folio 130v. </p>
+							<p>
+								<name type="person" role="owner">Ya῾aḳov ben Eliya</name>: inscribed, folio 12r. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM/BL in-house. </p>
+								<p>Spine title: 'Rashi on Kiddushin. Hebrew. Brit. Mus. Oriental 2891.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin when-custom="5145" calendar="Hebrew" when="1385"/>
+						<provenance>
+							<p>
+								<name type="place">Italy</name>
+							</p>
+						</provenance>
+						<acquisition>
+							<date>1885-06-11</date>
+							<p>
+								<name type="person" role="owner">J. Sassoon</name>: purchased from him by the British Museum on 11 June 1885: inscribed, folio <locus n="fse002v "/>[132v].</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">410</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-12">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

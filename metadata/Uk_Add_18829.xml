@@ -1,0 +1,164 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-28</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_18829" xml:lang="en" rend="msident">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 18829</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Sefer ῾avodat ha-ḳodesh by Solomon ben Abraham ibn Adret.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="47v"/>
+							<title xml:lang="en">Sefer ῾avodat ha-ḳodesh</title>
+							<title n="0" xml:lang="he">ספר עבודת הקדש</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/27494766">Adret, Solomon ben Abraham, 1235-1310</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/27494766">אדרת, שלמה בן אברהם אבן (רשב"א), 1235-1310</persName>
+							</author>
+							<note>
+								<p>The recension does not contain the author's poem, which is prefixed to some printed editions of the work.</p>
+								<p>The cursive notes on the margin of the manuscript contain additions to the text, in agreement with the printed edition of Venice 1602.</p>
+							</note>
+							<listBibl>
+								<bibl>
+									<ref target="Avodat_hakodesh_1820"/>
+								</bibl>
+							</listBibl>
+						</msItem>
+						<msItem rend="">
+							<locus from="2r" to="37r"/>
+							<title xml:lang="he-Latn-x-lc">Bet netivot</title>
+						</msItem>
+						<msItem rend="">
+							<locus from="37r" to="47v"/>
+							<title xml:lang="he-Latn-x-lc">Bet mo῾ed</title>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>47 folios <dimensions unit="mm" type="leaf">
+										<height>232</height>
+										<width>165</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>195</height>
+										<width>110</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>47 folios (+ 3 unfoliated paper flyleaves at the beginning and at the end). </p>
+								</foliation>
+								<collation>
+									<p>Indeterminable.</p>
+								</collation>
+								<condition>
+									<p>Slightly stained.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" ruledLines="41" writtenLines="40">
+									<p>Uniform layout. </p>
+									<p>Visible plummet ruling and pricking.</p>
+									<p>Initials written in larger square characters.</p>
+									<p>Last line written within the ruling.</p>
+									<p>Many marginal notes in semi-cursive and cursive script.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script of the 14th to 15th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Hirsh L"ḳ᾿av</name>, i.e. of the house of the Katsnellebogens: inscribed (folio 1r).</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house.</p>
+								<p>Spine title: ''Abhodhath Hak-Kodesh. Hebrew. Brit. Mus. Additional Ms. 18829..'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1499"/>
+						<provenance>
+							<p>
+								<name type="place">France</name>(?)</p>
+						</provenance>
+						<acquisition>
+							<date>1854-08-12</date>
+							<p>Rev. <name type="person" role="owner">A. Löwy</name>: purchased from him by the British Museum on 10 January 1852 (folio <locus n="fse001">([48v])</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">536</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2014-07-28">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

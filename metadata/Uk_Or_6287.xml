@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation</sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2015-09-02</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_6287" xml:lang="he" rend="all">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 6287</idno>
+					</msIdentifier>
+					<head>Esther scroll</head>
+					<msContents class="lccn.loc.gov/n79053644" rend="visible">
+						<summary>The Book of Esther, in Spanish.</summary>
+						<textLang mainLang="es"/>
+						<msItem rend="">
+							<locus from="1r" to="2v"/>
+							<title xml:lang="he-Latn-x-lc">Megilat Ester </title>
+							<title xml:lang="he">מגלת אסתר</title>
+							<note>
+								<p>Agrees wiht &quot;Biblia en lengua Espanola&quot; (Amsterdam, 1726). </p>
+								<p>The separate strip contains a Spanish translation of the benedictions used at the ritual reading of the book on the feast of Purim. </p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment scroll of the 18th century. </p>
+						<objectDesc form="scroll ">
+							<supportDesc material="perg">
+								<support>Parchment. </support>
+								<extent>7 membranes + 1 separate membrane, 28 columns. <dimensions type="leaf" unit="mm">
+										<height>215/400</height>
+										<width>5450</width>
+									</dimensions>
+								</extent>
+								<collation>
+									<p>7 membranes, with wooden roller. </p>
+								</collation>
+								<condition>
+									<p>Dirt at edges. </p>
+									<p>Mould-spotting where parchment lies against roller at inner end.  </p>
+									<p>A few usage stains.
+</p>
+									<p>Slight burn-through of ink in a few places.
+</p>
+									<p>Small splits in silk tie. </p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="28" ruledLines="15" writtenLines="15">
+									<p>Uniform layout. </p>
+									<p>Ruling by hard point,
+membrane by membrane.</p>
+									<p>Larger initial words. </p>
+									<p>Most of outermost membrane backed with olive silk, sewn at edges, with ties. </p>
+									<p>The names of the sons of Haman arranged in 11 lines, in accordance with the rule. </p>
+									<p>Wooden roller (400mm high). </p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Latin script of the 18th century. </summary>
+							<handNote script="other" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>One strip (212mm x 191mm) containing one column is rolled up with the manuscript. </p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>BM in-house (boxed). </p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1700" notAfter="1799"/>
+						<provenance>
+							<p>
+								<name type="place">Spain</name>
+							</p>
+						</provenance>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">1143</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2015-09-02">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

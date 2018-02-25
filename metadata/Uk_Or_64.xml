@@ -1,0 +1,560 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+   <teiHeader rend="visible">
+
+
+
+      <fileDesc>
+
+
+
+         <titleStmt>
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+            <funder>BL</funder>
+
+
+
+            <sponsor>The Polonsky Foundation </sponsor>
+
+
+
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+            <pubPlace/>
+
+
+
+            <date calendar="Gregorian">2015-04-24</date>
+
+
+
+            <idno>Uk</idno>
+
+
+
+         </publicationStmt>
+
+
+
+         <sourceDesc>
+
+
+
+            <biblFull>
+
+
+
+               <titleStmt>
+
+
+
+                  <title/>
+
+
+
+               </titleStmt>
+
+
+
+               <publicationStmt>
+
+
+
+                  <p/>
+
+
+
+               </publicationStmt>
+
+
+
+            </biblFull>
+
+
+
+            <msDesc xml:id="Uk_Or_64" xml:lang="en" rend="meta">
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+                  <settlement>London</settlement>
+
+
+
+                  <institution>British Library</institution>
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+                  <idno>Or 64</idno>
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+                     <idno>032-003313952</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+                     <idno>ark:/81055/vdc_100031723407.0x000007</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+               </msIdentifier>
+
+
+
+               <head>Two works on alchemy, Judeo-Arabic</head>
+
+
+
+               <msContents class="lccn.loc.gov/sh85003265" rend="visible">
+
+
+
+                  <summary>Two works on alchemy, in Arabic in Hebrew characters. </summary>
+
+
+
+                  <textLang mainLang="jrb-Hebr"/>
+
+
+
+                  <msItem rend="">
+                     <locus from="1r" to="27v"/>
+                     <author>
+                        <persName xml:lang="en">Abū ‘Abdullāh ibn Umayl al-Tamīmī</persName>
+                        <persName xml:lang="he">אבן אמיל, אבו עבדאללה</persName>
+                     </author>
+
+                     <title xml:lang="he-Latn-x-lc">al-Mā’ al-waraqī wa-al-arḍ al-najmīyah</title>
+                     <title xml:lang="he">אלמא אלורקי ואלארץ אלנג'מיה</title>
+
+                     <note>
+                        <p>The work consists of the following sections: an introductory portion
+                           (describing the winged creatures of the ceiling and walls of the Temple
+                           at Busir), folio 2r; the pictured winged creatures, with brief
+                           explanations, folio 3v-4v; a commentary by the author of the original
+                           work, folio 4v; a set of comments on the same subject, folio 21v. There
+                           are three additional portions starting with folio 27r. </p>
+                     </note>
+
+                     <decoNote type="illustration">
+                        <locus n="3v, 4r"/>An illustration of winged creatures, in red and black
+                        ink. </decoNote>
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <author>
+                        <persName xml:lang="en">Al-Yamani, Ismail</persName>
+                        <persName xml:lang="he">אסמאעיל אלימני</persName>
+                     </author>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Al-tadbir</title>
+
+
+
+                     <title xml:lang="he">אלתדביר </title>
+
+
+
+                     <locus from="28r" to="43v"/>
+
+
+
+                     <note>
+                        <p>The heading is followed by a table of chapters, with titles in red. The
+                           first chapter begins on folio 30v, the second on folio 35r, the third on
+                           folio 37r, chapters four to six are omitted, and the seventh on folio
+                           40v. </p>
+                     </note>
+
+
+
+                  </msItem>
+
+
+
+               </msContents>
+
+
+
+               <physDesc rend="visible">
+
+
+
+                  <p>Paper codex of the 17th century. </p>
+
+
+
+                  <objectDesc form="codex">
+
+
+
+                     <supportDesc material="chart">
+
+
+
+                        <support>Paper. </support>
+
+
+
+                        <extent>43 folios<dimensions type="leaf" unit="mm">
+
+
+
+                              <height>215</height>
+
+
+
+                              <width>155</width>
+
+
+
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+
+
+
+                              <height>170</height>
+
+
+
+                              <width>100</width>
+
+
+
+                           </dimensions>
+                        </extent>
+
+
+
+                        <foliation>
+                           <p>43 folios (+ 3 unfoliated paper flyleaves at the beginning and 1 at
+                              the end). </p>
+                        </foliation>
+
+
+
+                        <collation>
+                           <p>Quires of mostly 6 to 8 leaves. </p>
+                        </collation>
+
+
+
+                        <condition>
+                           <p>Tidemarks at head and gutter. </p>
+                        </condition>
+
+
+
+                     </supportDesc>
+
+
+
+                     <layoutDesc>
+
+
+
+                        <layout columns="1" ruledLines="21" writtenLines="21">
+                           <p>Uniform layout. </p>
+                           <p>Visible mastara ruling. </p>
+                           <p>Larger initial words in red ink. </p>
+                           <p>Catchwords on every page. </p>
+                           <p>Folio 1r is a title page. </p>
+                           <p>Folio 3v-4r contain illustrations in black and red ink. </p>
+                        </layout>
+
+
+
+                     </layoutDesc>
+
+
+
+                  </objectDesc>
+
+
+
+                  <handDesc hands="1">
+
+
+
+                     <summary>Oriental semi-cursive script of the 17th century. </summary>
+
+
+
+                     <handNote script="Hebrew" scope="major"/>
+
+
+
+                  </handDesc>
+
+
+
+                  <bindingDesc>
+
+
+
+                     <binding>
+
+
+
+                        <p>BM in-house. </p>
+
+
+
+                        <p>Spine: 'Al-Ma Al-Waraki and Tuhpah Al-Tadbir. Arabic. Brit. Mus. Oriental
+                           64.'</p>
+
+
+
+                     </binding>
+
+
+
+                  </bindingDesc>
+
+
+
+               </physDesc>
+
+
+
+               <history rend="visible">
+
+
+
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699">17th century </origDate>
+                     <origPlace>Egypt or Palestine</origPlace>
+                  </origin>
+
+
+
+                  <provenance>
+                     <p/>
+                  </provenance>
+
+
+
+                  <acquisition>
+                     <p>
+                        <name type="person" role="owner">A. C. Reichardt</name>: purchased from him
+                        by the British Museum on 08 June 1867: inscribed, folio [44v] (fse001v). </p>
+                     <date>1867-05-25</date>
+                  </acquisition>
+
+
+
+               </history>
+
+
+
+               <additional rend="visible">
+
+
+
+                  <adminInfo>
+
+
+
+                     <recordHist>
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+                     </recordHist>
+
+
+
+                     <availability status="free">
+
+
+
+                        <p/>
+
+
+
+                     </availability>
+
+
+
+                     <note/>
+
+
+
+                  </adminInfo>
+
+
+
+                  <listBibl>
+
+
+
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 1093.</bibl>
+
+
+
+                  </listBibl>
+
+
+
+               </additional>
+
+
+
+            </msDesc>
+
+
+
+            <bibl/>
+
+
+
+            <listBibl>
+
+
+
+               <bibl/>
+
+
+
+            </listBibl>
+
+
+
+         </sourceDesc>
+
+
+
+      </fileDesc>
+
+
+
+      <encodingDesc>
+
+
+
+         <classDecl>
+
+
+
+            <taxonomy/>
+
+
+
+         </classDecl>
+
+
+
+      </encodingDesc>
+
+
+
+      <profileDesc/>
+
+
+
+      <revisionDesc status="draft">
+
+
+
+         <change when="2016-10-05">Agata Paluch</change>
+
+
+
+      </revisionDesc>
+
+
+
+   </teiHeader>
+
+
+
+   <text>
+
+
+
+      <body>
+
+
+
+         <div/>
+
+
+
+      </body>
+
+
+
+   </text>
+
+
+
+</TEI>

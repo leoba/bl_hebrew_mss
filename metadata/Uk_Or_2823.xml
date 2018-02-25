@@ -1,0 +1,194 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+				<sponsor>The Polonsky Foundation </sponsor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-05-06</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					</titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Or_2823" xml:lang="en" rend="physdesc">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Or 2823</idno>
+					</msIdentifier>
+					<head>Talmud Yerushalmi</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>Volume 2 of a portion of the Palestinian Talmud, with a commentary by Solomon ben Joseph Sirillo.</summary>
+						<textLang mainLang="he" otherLangs="tmr-Hebr">Aramaic, Hebrew</textLang>
+						<msItem n="0" rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="367v"/>
+							<title xml:lang="he-Latn-x-lc">Talmud yerushalmi</title>
+							<title xml:lang="he">תלמוד ירושלמי</title>
+							<listBibl>
+								<bibl>
+									<ref target="Lehmann_1875"/>
+								</bibl>
+							</listBibl>
+							<filiation>Uniform with Or 2822 and Or 2824, <ref target="Margoliouth_1965" type="number">403</ref>  and <ref target="Margoliouth_1965" type="number">405</ref> (volume 1 and 3 of this manuscript, respectively).</filiation>
+							<msItem rend="v">
+								<locus from="1r" to="106v"/>
+								<title xml:lang="he-Latn-x-lc">Sheviʿit </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="106v" to="201r"/>
+								<title xml:lang="he-Latn-x-lc">Terumot</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="201r" to="238r"/>
+								<title xml:lang="he-Latn-x-lc">Maʿaserot </title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="238r" to="291v"/>
+								<title xml:lang="he-Latn-x-lc">Maʿaser sheni</title>
+							</msItem>
+							<msItem rend="v">
+								<locus from="292r" to="293r"/>
+								<title xml:lang="en">Notes</title>
+								<note>
+									<p>Some verses and notes in different hands of apparently the 17th century. Folios 292r-293r contain some poetical pieces. The name Yisra᾿el is marked off as an acrostic.</p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="294r" to="311r"/>
+								<title xml:lang="he-Latn-x-lc">Masekhet Sheviʿit (ha-῾oteḳ ha-sheni)</title>
+								<note>
+									<p>Partly written in an Oriental hand. </p>
+									<p>Contains the entire first chapter, and a fragment of the second chapter. </p>
+								</note>
+							</msItem>
+							<msItem rend="v">
+								<locus from="311r" to="367v"/>
+								<title xml:lang="he-Latn-x-lc">Masekhet Demaʾi (ha-῾oteḳ ha-sheni)</title>
+								<note>
+									<p>The last chapter is imperfect at the end.</p>
+									<p>There is a lacuna after folio 367.</p>
+									<p>In the margin of folios 316r-317v there are several poetical pieces, in which the name Yisra᾿el is marked off as an acrostic.</p>
+								</note>
+							</msItem>
+							<note>
+								<p>See also <ref target="FJB" type="number">16</ref> (1988), pp. 53-73.</p>
+							</note>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/33429759">Sirillo, Solomon ben Joseph, approximately 1558</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/33429759">סיריליאו, שלמה בן יוסף</persName>
+							</author>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Paper codex; Sefardi square and semi-cursive script of the 16th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Paper codex.</support>
+								<extent>367  folios <dimensions unit="mm" type="leaf">
+										<height>300</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>215</height>
+										<width>140</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>367 folios (+ 2 modern paper flyleaves at the beginning and at the end).</p>
+									<p>Hebrew foliation added in a later cursive hand in the upper left-hand corner of each recto.</p>
+								</foliation>
+								<collation>
+									<p>Quires of originally 8 leaves each.</p>
+									<p>No catchwords.</p>
+								</collation>
+								<condition>
+									<p>Leaves missing after folio 367.</p>
+									<p>A number of pages stained or damaged.</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1 2" ruledLines="40" writtenLines="40">
+									<p>The number of the semi-cursive writing is usually 40, but that of the square writing (on the inner part of the page) varies considerably.</p>
+									<p>Many marginal notes and comments supplied in various cursive hands.</p>
+									<p>Running titles.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="4">
+							<summary>Sefardi square and semi-cursive script of the 16th century.</summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<additions>
+							<p>
+								<name type="person" role="owner">Ye᾿udah Zeraḥyah Azula᾿i</name>: inscribed in a purchase note, folio 1r, and in the lower margin of folio 368v.</p>
+						</additions>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Black leather.</p>
+								<p>Spine title: 'Talmud Jerushalmi. Hebrew. Vol. II. Brit. Mus. Oriental 2823.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1500" notAfter="1599"/>
+						<acquisition>
+							<date>1885-01-17</date>
+							<p>
+								<name type="person" role="bookseller">J. J. Leep</name> (al. Bril): purchased from him by the British Museum on 17 January 1885: inscribed, folio <locus n="fse001v">[368v]</locus>.</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">404</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-05-06">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

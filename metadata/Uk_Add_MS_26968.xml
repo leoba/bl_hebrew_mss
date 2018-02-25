@@ -1,0 +1,907 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+
+   <teiHeader rend="visible">
+
+
+
+      <fileDesc>
+
+
+
+         <titleStmt>
+
+
+
+            <title>Hebrew Manuscripts Catalogue</title>
+
+
+
+            <principal>Ilana Tahan</principal>
+
+
+
+            <funder>BL</funder>
+
+
+
+            <sponsor>The Polonsky Foundation</sponsor>
+
+
+
+         </titleStmt>
+
+
+
+         <publicationStmt>
+
+
+
+            <publisher>British Library</publisher>
+
+
+
+            <pubPlace/>
+
+
+
+            <date calendar="Gregorian">2015-06-19</date>
+
+
+
+            <idno>Uk</idno>
+
+
+
+         </publicationStmt>
+
+
+
+         <sourceDesc>
+
+
+
+            <biblFull>
+
+
+
+               <titleStmt>
+
+
+
+                  <title/>
+
+
+
+                  <sponsor>The Polonsky Foundation</sponsor>
+
+
+
+               </titleStmt>
+
+
+
+               <publicationStmt>
+
+
+
+                  <p/>
+
+
+
+               </publicationStmt>
+
+
+
+            </biblFull>
+
+
+
+            <msDesc xml:id="Uk_Add_26968" xml:lang="en" rend="meta">
+
+
+
+               <msIdentifier rend="visible">
+
+
+
+                  <country>United Kingdom</country>
+
+
+
+                  <settlement>London</settlement>
+
+
+
+                  <institution>British Library</institution>
+
+
+
+                  <repository>Oriental Manuscripts</repository>
+
+
+
+                  <collection>Hebrew Manuscripts Digitisation Project</collection>
+
+
+
+                  <idno>Add MS 26968</idno>
+
+
+
+                  <altIdentifier type="IAMS-ID">
+
+
+
+                     <idno>032-003313866</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+                  <altIdentifier type="MDARK">
+
+
+
+                     <idno>ark:/81055/vdc_100031719787.0x000001</idno>
+
+
+
+                  </altIdentifier>
+
+
+
+               </msIdentifier>
+
+
+
+               <head>Sidur, Italian rite ('Forli Sidur')</head>
+
+
+
+               <msContents class="lccn.loc.gov/n79090052" rend="visible">
+
+
+
+                  <summary>A prayer book ('Forli Sidur') for the entire year, according to the
+                     Italian rite. </summary>
+
+
+
+                  <textLang mainLang="he"/>
+
+
+
+                  <msItem n="0" rend="visible" class="lccn.loc.gov/n79090052">
+
+
+
+                     <locus from="1r" to="343v"/>
+
+
+
+                     <title xml:lang="en">Sidur</title>
+
+
+
+                     <title xml:lang="he">סדור</title>
+
+
+
+                     <decoNote type="illustration">32 marginal illustrations in colours. <locus
+                           n="167v, 168r, 207r, 207v, 209v, 210r, 238r, 244r, 248, 251v, 253r, 290r, 298v, 301r, 303v, 304r, 304v, 305r, 305v, 306r, 306v, 307r, 307v, 308r, 308v, 316v, 325v, 326r, 329v, 338v, 339r, 339v, 340r"
+                        />
+                     </decoNote>
+
+
+
+                     <decoNote type="miniature">1 full-page miniature of a coat of arms. <locus
+                           n="340v"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="border">Numerous partial foliate borders inhabited by birds and
+                        animals, in colours. <locus n="205v"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="initial">4 initial-word panels accompanied by animals and
+                        hybrids. <locus n="262v, 270v, 271r, 271v"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="initial">1 initial-word panel included into a depiction of a
+                        sukkah. <locus n="295r"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="illustration">6 marginal illustrations of coats of arms. <locus
+                           n="230r, 259v, 294v, 324r, 325r, 336r"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="marginal">Maniculae. <locus n="153r, 154r, 212v, 305v, 324r"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="illustration">12 added textual illustrations in panels in the
+                        margins in colours and gold, added in the 15th century. <locus
+                           n="101r, 110v, 111v, 112r, 112v, 118r, 118v, 119r, 119v, 139v, 145r"/>
+                     </decoNote>
+
+
+
+                     <decoNote type="initial">Numerous decorated initial-word panels with elaborated
+                        pen-flourishing in the margin, in red and blue ink (until folio 163r), added
+                        in the 15th century. <locus n="163r"/>
+                     </decoNote>
+
+
+
+                     <note>
+                        <p>See further: <ref target="Davidson_1924"/> [on the text]; <ref
+                              target="Freimann_1950" type="page">231-342 </ref>, <ref
+                              target="Narkiss_1984" type="page">59, 192 </ref>, <ref
+                              target="Metzger_1982" type="page">304</ref>, pp. 28-29; <ref
+                              target="Ebenbauer_1991" type="page">131-150</ref>, <ref
+                              target="Goldstein_1985" type="page">54-55</ref>, <ref
+                              target="Tahan_2007" type="page">74</ref>. </p>
+                     </note>
+
+
+
+                     <colophon xml:lang="he">נשלם סדר תפילות כל השנה בעזרת שוכן מעונה על ידי <name
+                           type="person" role="scribe">משה בכמ"ר יקותיאל חפץ ממשפחת הצפרוני</name>
+                        וכתבתיו לכמ"ר <name type="person" role="patron">דניאל מו"ח בכמ"ר שמואל
+                           הרופא</name> יש"ר בכמ"ר דניאל זלה"ה דיי"ן והשלמתיו בראש חדש שבט שנת <date
+                           when="1383" calendar="Hebrew">קמ"ג</date> לפרט לאלף הששי פה בעיר <name
+                           type="place">פורלי</name> היושבת בגליל רומאנייא ה' יזכיהו להגות בו הוא
+                        וזרעו וזרע זרעו עד סוף כל הדורות. ויקיים עליו מקרא דכתיב לא ימוש ספר התורה
+                        הזה מפיך והגית בו יומם ולילה למען תשמור לעשות ככל הכתוב בו כי אז תצליח את
+                        דרכיך ואז תשכיל אמן וחלק המחוקק יהיה ספון עם מצדיקי הרבים ככוכבים לעולם ועד.
+                        אמן כבודך השם. <locus n="323v"/>
+                     </colophon>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="1r" to="46v"/>
+
+
+
+                     <title xml:lang="en">Services for week-days</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="46v" to="91v"/>
+
+
+
+                     <title xml:lang="en">Services for Shabat</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="91v" to="107r"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Berakhot se῾udah</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="107r" to="137v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">῾Inyan Pesaḥ </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="137v" to="144v"/>
+
+
+
+                     <title xml:lang="en">Poetical pieces</title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Masekhet avot </title>
+
+
+
+                     <locus from="145r" to="157v"/>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="157v" to="167r"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Seder ῾inyan Shavu῾ot </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="167r" to="230v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">῾Inyan ta῾aniyot </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="230v" to="259v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Seder ῾inyan Rosh ha-shanah </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="259v" to="295r"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Seder ῾inyan Yom Kipur </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="295r" to="317r"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">῾Inyan ḥag Sukot </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="317r" to="324v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">῾Inyan Shemini ῾atseret </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="324v" to="329v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">῾Eruvin </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="329v" to="336v"/>
+
+
+
+                     <title xml:lang="en">Poetical pieces </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="336v" to="339v"/>
+
+
+
+                     <title xml:lang="he-Latn-x-lc">Seder ḥatanim u-birkat erusin </title>
+
+
+
+                  </msItem>
+
+
+
+                  <msItem rend="">
+
+
+
+                     <locus from="339v" to="342r"/>
+
+
+
+                     <title xml:lang="en">Additional pieces </title>
+
+
+
+                  </msItem>
+
+
+
+               </msContents>
+
+
+
+               <physDesc rend="visible">
+
+
+
+                  <p>Parchment codex of the 14th century.</p>
+
+
+
+                  <objectDesc form="codex">
+
+
+
+                     <supportDesc material="chart">
+
+
+
+                        <support>Parchment.</support>
+
+
+
+                        <extent>342 folios <dimensions unit="mm" type="leaf">
+
+
+
+                              <height>140</height>
+
+
+
+                              <width>95</width>
+
+
+
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+
+
+
+                              <height>90/85</height>
+
+
+
+                              <width>55</width>
+
+
+
+                           </dimensions>
+                        </extent>
+
+
+
+                        <foliation>
+                           <p>342 folios (+ 3 unfoliated modern paper flyleaves at the beginning and
+                              1 older and 3 modern unfoliated paper flyleaves at the end).</p>
+                        </foliation>
+
+
+
+                        <collation>
+                           <p>35 quires: i10 (folios 1-10), ii10 (folios 11-20), iii12 (folios
+                              21-32), iv-xvii10 (folios 33-172), xviii8 (folios 173-180), xix8-1
+                              (folios 181-187), xx-xxxiv10 (folios 188-337), xxxv8 (folios 338-343),
+                              after folio 342 - 2 unfoliated leaves.</p>
+                        </collation>
+
+
+
+                     </supportDesc>
+
+
+
+                     <layoutDesc>
+
+
+
+                        <layout columns="1" ruledLines="19" writtenLines="19">
+                           <p>Uniform layout.</p>
+                           <p>Initial words written in larger characters.</p>
+                           <p>Catchwords (decorated) at the end of the quires.</p>
+                           <p>Hair side and flesh side are distinguishable. </p>
+                           <p>The manuscript is imperfect at the beginning, and there is a gap after
+                              folio 152. </p>
+                           <p>Erased text (folio 26v). </p>
+                           <p>Ruling by hard point (bifolium by bifolium) and pricking (in outer
+                              margins only) are visible.</p>
+                        </layout>
+
+
+
+                     </layoutDesc>
+
+
+
+                  </objectDesc>
+
+
+
+                  <handDesc hands="1">
+
+
+
+                     <summary> Italian square and semi-cursive script, partially punctuated. <name
+                           type="person" role="scribe">Mosheh ben Yeḳutiel Ḥefets Tsifroni</name>:
+                        inscribed with his name in the colophon, <name type="place">Forli</name>,
+                        [5]143 [<date calendar="Gregorian">1383</date>] (folio 323v); probably his
+                        arms (folio 259v, 325).</summary>
+
+
+
+                     <handNote script="Hebrew" scope="major"/>
+
+
+
+                  </handDesc>
+
+
+
+                  <additions>
+                     <p>12 illustrations were added in 2nd or 3rd quarter of the fifteenth century,
+                        produced in Veneto, Italy.</p>
+                  </additions>
+
+
+
+                  <bindingDesc>
+
+
+
+                     <binding>
+
+
+
+                        <p>BM in-house.</p>
+
+
+
+                        <p>Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 26,968.'</p>
+
+
+
+                     </binding>
+
+
+
+                  </bindingDesc>
+
+
+
+               </physDesc>
+
+
+
+               <history rend="visible">
+
+
+
+                  <origin>
+                     <origDate when-custom="5143" calendar="Hebrew" when="1383">1383 (5143) and
+                        2nd-3rd quarter of the 15th century</origDate>
+                     <origPlace> Italy, C. (Romagna, Forli) and Italy, N. (Veneto)</origPlace>
+                  </origin>
+
+
+
+                  <provenance>
+                     <p>
+                        <name type="person" role="patron">Daniyel ben Shemuel ha-Rofe</name>:
+                        inscribed with his name in the colophon, Forli, 1 Shvat [5]143 [1393] (folio
+                        323v); his arms (folios 230r, 294v, 336r, 340v); three other manuscripts are
+                        linked to the same person: British Library, Or 2736; Oxford, Bodleian
+                        Library, MS Can. Or. 81; Venice, Jewish Museum, MS 85. See Bezalel Narkiss,
+                        Kitve-Yad ʿIvriyim Metsuyarim / Me-et Betsalʾel Narḳis; Mavo Me-et Sesil
+                        Rot; [ʿIvrit, Daliyah Shaḥaḳ; ʿarikhah, Daliyah Ṭesler]. Mahad. ʿIvrit
+                        ḥadashah u-Metuḳenet. Yerushalayim: Keter, 1984. </p>
+                     <p>
+                        <name type="person" role="owner">Avraham ben Shelomoh</name>: inscribed with
+                        his name in a purchase note, mostly illegible, Bologna, [5]193 [<date
+                           calendar="Gregorian">1433</date>] (folio 343v). </p>
+                     <p>
+                        <name type="person" role="censor">Laurentius Franguellus</name> (fl. until
+                        1596): inscribed with his name, 1575 (folio 342r); see <ref
+                           target="Popper_1969" type="page">78</ref>, appendix § 105-110. </p>
+                     <p>Note of birth: inscribed [5]349 [<date calendar="Gregorian">1589</date>]
+                        (folio 342v). </p>
+                     <p>
+                        <name type="person" role="censor">Hippolite of Ferrara</name>, Franciscan
+                        censor (active 1590-1609, in Cremona?): inscribed with his name (folio
+                        343v); see <ref target="Popper_1969" type="number">18-19, 93</ref>. </p>
+                     <p>
+                        <name type="person" role="owner">D’Angelo Levi quem Amadeo di Lodovo</name>:
+                        inscribed with his name in Latin characters, undated (folio 1r).</p>
+                  </provenance>
+
+
+
+                  <acquisition>
+                     <p>
+                        <name type="person" role="owner">Giuseppe Almanzi</name> (b. 1801, d. 1860),
+                        bibliophile; his manuscript no. 79: his library including 322 medieval
+                        Hebrew manuscripts were purchased en bloc by the British Museum in October
+                        1865 for £1,000 through <name type="org">Asher &amp; Co.</name>, Berlin
+                        dealer to the British Museum (see <ref target="Paisey_1997" type="page"
+                           >131-153</ref>): inscribed, [345v].</p>
+                     <date>1865-10</date>
+                  </acquisition>
+
+
+
+               </history>
+
+
+
+               <additional rend="visible">
+
+
+
+                  <adminInfo>
+
+
+
+                     <recordHist>
+
+
+
+                        <source>Manuscript description based on Margoliouth, G.: Catalogue of the
+                           Hebrew and Samaritan Manuscripts in the British Museum, London
+                           1965.</source>
+
+
+
+                     </recordHist>
+
+
+
+                     <availability status="free">
+
+
+
+                        <p/>
+
+
+
+                     </availability>
+
+
+
+                     <note/>
+
+
+
+                  </adminInfo>
+
+
+
+                  <listBibl>
+
+
+
+                     <bibl>George Margoliouth, Catalogue of the Hebrew and Samaritan Manuscripts in
+                        the British Museum, 4 vols (London: British Museum, 1899-1935; vols I-III
+                        repr. 1965); IV, Introduction, Indexes, ed. by Jacob Leveen (London: British
+                        Museum, 1977), no. 616.</bibl>
+
+
+
+                     <bibl>אלמנצי, יוסף, and Giuseppe Almanzi. Yad Yosef: ... Ṿe-Hi Reshimat Sifre
+                        Ha-Bibliʾoṭeḳ / ... Asaf Ṿe-Ḳibets ... Yosef Almantsi Melekhet Yedido
+                        Shemuʾel Daṿid Lutsaṭo. (Padoue, 1864), p. 16. </bibl>
+
+
+
+                  </listBibl>
+
+
+
+               </additional>
+
+
+
+            </msDesc>
+
+
+
+            <bibl/>
+
+
+
+            <listBibl>
+
+
+
+               <bibl/>
+
+
+
+            </listBibl>
+
+
+
+         </sourceDesc>
+
+
+
+      </fileDesc>
+
+
+
+      <encodingDesc>
+
+
+
+         <classDecl>
+
+
+
+            <taxonomy/>
+
+
+
+         </classDecl>
+
+
+
+      </encodingDesc>
+
+
+
+      <profileDesc/>
+
+
+
+      <revisionDesc status="draft">
+
+
+
+         <change when="2015-06-19">Agata Paluch</change>
+
+
+
+      </revisionDesc>
+
+
+
+   </teiHeader>
+
+
+
+   <text>
+
+
+
+      <body>
+
+
+
+         <div/>
+
+
+
+      </body>
+
+
+
+   </text>
+
+
+
+</TEI>

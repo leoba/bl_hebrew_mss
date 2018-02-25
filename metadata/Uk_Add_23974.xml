@@ -1,0 +1,204 @@
+<?altova_sps ..\Enrich_new.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title>Hebrew Manuscripts Catalogue</title>
+				<principal>Ilana Tahan</principal>
+				<funder>BL</funder>
+			<sponsor>The Polonsky Foundation</sponsor>
+      </titleStmt>
+			<publicationStmt>
+				<publisher>British Library</publisher>
+				<pubPlace/>
+				<date calendar="Gregorian">2014-07-03</date>
+				<idno>Uk</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title/>
+					<sponsor>The Polonsky Foundation</sponsor>
+          </titleStmt>
+					<publicationStmt>
+						<p/>
+					</publicationStmt>
+				</biblFull>
+				<msDesc xml:id="Uk_Add_23974" xml:lang="en" rend="mscontents">
+					<msIdentifier rend="visible">
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>Oriental Manuscripts</repository>
+						<collection>Hebrew Manuscripts Digitisation Project</collection>
+						<idno>Add MS 23974</idno>
+					</msIdentifier>
+					<head>Halakhah</head>
+					<msContents class="lccn.loc.gov/sh85070287" rend="visible">
+						<summary>A fragment of a prayer book and a collection of halakhical works: Sefer mitsṿot ḳaṭan of Isaac of Corbeil, Hilkhot nidah of Isaac of Dueren, a compendium of Isur ve-heter of Isaac of Dueren by Susman of Regensburg, a compendium of the Or zaru'a of Isaac ben Moses of Vienna and Ḳitsur pisḳe ha-Rosh of Jacob ben Asher.</summary>
+						<textLang mainLang="he">Hebrew</textLang>
+						<msItem rend="visible" class="lccn.loc.gov/sh85070287">
+							<locus from="1r" to="10v"/>
+							<title xml:lang="he-Latn-x-lc">Sidur</title>
+							<title xml:lang="he">סידור</title>
+							<note>
+								<p>A fragment of a prayer book, giving the principal portions of the services for the sabbath and  festivals, and also embodying a series of hosh῾anot.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="10v" to="83v"/>
+							<title xml:lang="he-Latn-x-lc">Sefer mitsṿot ḳaṭan</title>
+							<title xml:lang="he">ספר מצות קטן</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/4009920">Isaac ben Joseph, of Corbeil, active 13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/4009920">יצחק בן יוסף, מקורביל</persName>
+							</author>
+							<note>
+								<p>Preceded by a list of the sections, which number 288.</p>
+								<p>The appended geṭ is dated <date calendar="Hebrew">5098 </date>(<date calendar="Gregorian">1338</date>), which might correspond to the date of the manuscript, but it is more likely that the date is copied from an older codex, and that the present copy belongs to the end of the 14th century or the beginning of the 15th century.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="83v" to="86r"/>
+							<title xml:lang="he-Latn-x-lc">Hilkhot nidah</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/9742647">Dueren, Isaac ben Meir, active 13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/9742647">יצחק בן מאיר, מדורא</persName>
+							</author>
+							<filiation>Cf Add. 18685 part IV, <ref target="Margoliouth_1965" type="number">513</ref>.</filiation>
+						</msItem>
+						<msItem rend="">
+							<locus from="86r" to="90r"/>
+							<title xml:lang="he-Latn-x-lc">Isur ṿe-heter</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/9742647">Dueren, Isaac ben Meir, active 13th century</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/9742647">יצחק בן מאיר, מדורא</persName>
+							</author>
+							<author>
+								<persName xml:lang="en">Sussman, of Regensburg</persName>
+							</author>
+							<note>
+								<p>A compendium in 36 paragraphs redacted by Sussman of Regensburg.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="90r" to="222r"/>
+							<title xml:lang="he-Latn-x-lc">Or zaru῾a</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/35380120">Isaac ben Moses, of Vienna, approximately 1200-approximately 1270</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/35380120">יצחק בן משה, מוינה</persName>
+							</author>
+							<note>
+								<p>Identical with Simane or zaru῾a in Add. 27297, <ref target="Margoliouth_1965" type="number">532</ref>.</p>
+							</note>
+						</msItem>
+						<msItem rend="">
+							<locus from="222r" to="366v"/>
+							<title xml:lang="he-Latn-x-lc">Ḳitsur pisḳe ha-Rosh</title>
+							<author>
+								<persName xml:lang="en" key="http://viaf.org/viaf/314808179">Jacob ben Asher, 1269-1340</persName>
+								<persName xml:lang="he" key="http://viaf.org/viaf/314808179">יעקב בן אשר</persName>
+							</author>
+							<note>
+								<p>Breaks off very near the end of Simane nidah.</p>
+							</note>
+						</msItem>
+					</msContents>
+					<physDesc rend="visible">
+						<p>Parchment codex of the 14th to 15th century.</p>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<extent>366 folios <dimensions unit="mm" type="leaf">
+										<height>306</height>
+										<width>230</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>225</height>
+										<width>152</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>366 folios (+ 1 unfoliated modern paper flyleaves at the beginning and at the end).</p>
+									<p>Original Hebrew foliation, partially trimmed away.</p>
+								</foliation>
+								<collation>
+									<p>Quires of 8 leaves each, marked with catchwords at the end.</p>
+								</collation>
+								<condition>
+									<p>Imperfect at the beginning and at the end.</p>
+									<p>Stained (especially first 7 leaves).</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="2" ruledLines="39" writtenLines="38">
+									<p>Uniform layout. Visible pricking and ruling with a plummet (each bifolium on both sides). </p>
+									<p>Hair-side and flesh-side of the folios indistinguishable. Fine parchment.</p>
+									<p>Last line written within the ruling.</p>
+									<p>Catchwords at the end of the quires.</p>
+									<p>Initial words in large characters, some of the letters written in red ink.</p>
+									<p>Occasional marginal notes.</p>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<summary>Ashkenazi semi-cursive script, partially punctuated, of the 14th to 15th century. </summary>
+							<handNote script="Hebrew" scope="sole"/>
+						</handDesc>
+						<bindingDesc>
+							<binding>
+								<p>Post-1600. Brown leather binding, blind tooled, with clasps. Boxed.</p>
+								<p>Spine title: 'R. Isaaci de Korbeil. Liber Siman. R. Isaaci fil. Mosis Viennensis. Liber or Sarca. Etc. Hebraice. Brit. Mus. Iure Emptionis. 23,974.'</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history rend="visible">
+						<origin notBefore="1300" notAfter="1409"/>
+						<provenance>
+							<p>
+								<name type="place">France</name> (?)</p>
+						</provenance>
+						<acquisition>
+							<date>1860-10-13</date>
+							<p>
+								<name type="person" role="owner">J. Leves</name>: purchased from him by the British Museum on 13 October 1860: inscribed (folio <locus n="fse001v">[367v]</locus>).</p>
+						</acquisition>
+					</history>
+					<additional rend="visible">
+						<adminInfo>
+							<recordHist>
+								<source>Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.</source>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+						<listBibl>
+							<bibl>
+								<ref target="Margoliouth_1965" type="number">516</ref>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<bibl/>
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy/>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="submitted">
+			<change when="2014-07-03">Agata Paluch</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>
