@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 4842: Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,92 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Marks of damp damage. Margins slightly injured.</note><note>
-								Asher (?) ben ῾Ovadyah: inscribed, folio 186v. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Marks of damp damage. Margins slightly injured.</note>
+            <note>
+								Asher (?) ben ῾Ovadyah: inscribed, folio 186v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 4842</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4842</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic.</summary><textLang mainLang="jrb-Hebr"/><msItem n="1r"><locus from="1r" to="186v">1r-186v</locus><title>Perush Seder nashim  פרוש סדר נשים </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>186 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 4842</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4842</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Maimonides' Commentary on the Mishnah of Seder Nashim, in Judeo-Arabic.</summary>
+                  <textLang mainLang="jrb-Hebr">Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="186v">1r-186v</locus>
+                     <title>Perush Seder nashim  פרוש סדר נשים </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>186 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 10 leaves leaves each, with the exception of the first and the last, of 9 and 7 folios respectively.
 									Signatures in Hebrew letters at the end of each quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 24;
-                                                  written lines: 24; Uniform layout. Visible mastara ruling.Chapter numbers given in large characters.Catchwords on every verso, partly cut away.A few marginal notes.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive script of the 15th century. Maḥpots ibn Ma῾ots[?]: inscribed, folio 186v, with a date of 1713[1401]. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'Maimonides' Commentary Seder Nashim. Hebrew. Brit. Mus. Oriental 4842.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1401"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Morris, Heller &amp; Weiss: purchased by the British Museum on 14 November 1894: inscribed, [188v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24; Uniform layout. Visible mastara ruling.Chapter numbers given in large characters.Catchwords on every verso, partly cut away.A few marginal notes.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive script of the 15th century. Maḥpots ibn Ma῾ots[?]: inscribed, folio 186v, with a date of 1713[1401]. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'Maimonides' Commentary Seder Nashim. Hebrew. Brit. Mus. Oriental 4842.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1401"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Morris, Heller &amp; Weiss: purchased by the British Museum on 14 November 1894: inscribed, [188v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

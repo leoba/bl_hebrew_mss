@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im (נביאים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im (נביאים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5774: Nevi᾿im  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,174 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Hebrew inscriptions (folios 1r, 24r, 169r, 323r); Narkiss reads them as the following: Avraham, Makhluf, Obadyah ha-Leṿi Yoshuʿa (see 115). 
-								John Covel (b. 1638, d. 1722), chaplain to the Levant Company at Constantinople: in his collection (no. IX.): inscribed (folio fse003r). His manuscripts were acquired for the Harley Collection for £300 in 1716. Edward Harley: bought by him, together with John Covel's other manuscripts, for £300 on 27 Feb. 1715/6 (see ). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Hebrew inscriptions (folios 1r, 24r, 169r, 323r); Narkiss reads them as the following: Avraham, Makhluf, Obadyah ha-Leṿi Yoshuʿa (see 115). 
+								John Covel (b. 1638, d. 1722), chaplain to the Levant Company at Constantinople: in his collection (no. IX.): inscribed (folio fse003r). His manuscripts were acquired for the Harley Collection for £300 in 1716. Edward Harley: bought by him, together with John Covel's other manuscripts, for £300 on 27 Feb. 1715/6 (see ). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5774</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5774</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Former and Latter Prophets.</summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="323v">1v-323v</locus><title>Nevi᾿im  נביאים </title></msItem><msItem n="1v"><locus from="1v" to="24r">1v-24r</locus><title>Joshua </title></msItem><msItem n="24r"><locus from="24r" to="46v">24r-46v</locus><title>Judges </title></msItem><msItem n="46v"><locus from="46v" to="101r">46v-101r</locus><title>Samuel</title></msItem><msItem n="101r"><locus from="101r" to="158v">101r-158v</locus><title>Kings</title></msItem><msItem n="158v"><locus from="158v" to="196v">158v-196v</locus><title>Isaiah</title></msItem><msItem n="196v"><locus from="196v" to="245r">196v-245r</locus><title>Jeremiah</title></msItem><msItem n="245r"><locus from="245r" to="288v">245r-288v</locus><title>Ezekiel</title></msItem><msItem n="288v"><locus from="288v" to="294r">288v-294r</locus><title>Hosea</title></msItem><msItem n="294r"><locus from="294r" to="296r">294r-296r</locus><title>Joel</title></msItem><msItem n="296v"><locus from="296v" to="301r">296v-301r</locus><title>Amos</title></msItem><msItem n="301r"><locus from="301r" to="302r">301r-302r</locus><title>Obadiah</title></msItem><msItem n="302r"><locus from="302r" to="303v">302r-303v</locus><title>Jonah</title></msItem><msItem n="303v"><locus from="303v" to="306v">303v-306v</locus><title>Micah</title></msItem><msItem n="306v"><locus from="306v" to="308r">306v-308r</locus><title>Nahum</title></msItem><msItem n="308r"><locus from="308r" to="309v">308r-309v</locus><title>Habakuk</title></msItem><msItem n="309v"><locus from="309v" to="311v">309v-311v</locus><title>Zephaniah</title></msItem><msItem n="311v"><locus from="311v" to="312v">311v-312v</locus><title>Haggai</title></msItem><msItem n="312v"><locus from="312v" to="320r">312v-320r</locus><title>Zechariah</title></msItem><msItem n="320r"><locus from="320r" to="322r">320r-322r</locus><title>Malachi</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>323 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5774</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5774</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Former and Latter Prophets.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="323v">1v-323v</locus>
+                     <title>Nevi᾿im  נביאים </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="24r">1v-24r</locus>
+                     <title>Joshua </title>
+                  </msItem>
+                  <msItem n="24r">
+                     <locus from="24r" to="46v">24r-46v</locus>
+                     <title>Judges </title>
+                  </msItem>
+                  <msItem n="46v">
+                     <locus from="46v" to="101r">46v-101r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="101r">
+                     <locus from="101r" to="158v">101r-158v</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="158v">
+                     <locus from="158v" to="196v">158v-196v</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="196v">
+                     <locus from="196v" to="245r">196v-245r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="245r">
+                     <locus from="245r" to="288v">245r-288v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="288v">
+                     <locus from="288v" to="294r">288v-294r</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="294r">
+                     <locus from="294r" to="296r">294r-296r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="296v">
+                     <locus from="296v" to="301r">296v-301r</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="301r">
+                     <locus from="301r" to="302r">301r-302r</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="302r">
+                     <locus from="302r" to="303v">302r-303v</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="303v">
+                     <locus from="303v" to="306v">303v-306v</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="306v">
+                     <locus from="306v" to="308r">306v-308r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="308r">
+                     <locus from="308r" to="309v">308r-309v</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="309v">
+                     <locus from="309v" to="311v">309v-311v</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="311v">
+                     <locus from="311v" to="312v">311v-312v</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="312v">
+                     <locus from="312v" to="320r">312v-320r</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="320r">
+                     <locus from="320r" to="322r">320r-322r</locus>
+                     <title>Malachi</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>323 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									41 quires: i-xl8 (folios 1-320), xli4 (folios 321-322, 322a, 323).  
 									Remains of catchwords and Hebrew quire numeration. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 25;
                                                   written lines: 25; The beginning of Hafṭarot are indicated in the margin of the prophetical books. Masorah, frequently written in the form of ornamental designs, occupies two lines in the upper margin and three lines in lower margin of the page. Several masoretic rubrics at the end of most of the books. Flesh side and hair side are distinguishable.
  Parallel Hebrew foliation on the verso side.
- Unfoliated blank leaf after folio 322. Watermark, folio [fs003], of a of a crowned coat of arms (presumably with a fleur-de-lis and with the monogram 'WR'), similar to 1784 . Watermark, folios [fse004], [fse005], of the monogram 'IHS' with a cross, similar to  1785a. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, punctuated. ʿEzra ben Yaʿaḳov ben Aderet: inscribed with his name in the colophon, Castellon d’Ampurias, Elul 5156 (see volume II, Harley MS 5775, 217v, 121).  </scriptNote></scriptDesc><decoDesc><decoNote>Numerous micrographical designs. </decoNote><decoNote type="marginal">Numerous micrographical designs.</decoNote><decoNote type="initial">Numerous micrographical designs.</decoNote></decoDesc><bindingDesc><binding><p>  	Post-1600. Harleian binding. Black buckram.  Spine: 'Biblia Hebraica. Tom II. Brit. Mus. Harley 5774.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1396"/><origPlace>Spain, N. Castellon d'Ampurias</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
-Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+ Unfoliated blank leaf after folio 322. Watermark, folio [fs003], of a of a crowned coat of arms (presumably with a fleur-de-lis and with the monogram 'WR'), similar to 1784 . Watermark, folios [fse004], [fse005], of the monogram 'IHS' with a cross, similar to  1785a. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, punctuated. ʿEzra ben Yaʿaḳov ben Aderet: inscribed with his name in the colophon, Castellon d’Ampurias, Elul 5156 (see volume II, Harley MS 5775, 217v, 121).  </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Numerous micrographical designs. </decoNote>
+                     <decoNote type="marginal">Numerous micrographical designs.</decoNote>
+                     <decoNote type="initial">Numerous micrographical designs.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	Post-1600. Harleian binding. Black buckram.  Spine: 'Biblia Hebraica. Tom II. Brit. Mus. Harley 5774.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1396"/>
+                     <origPlace>Spain, N. Castellon d'Ampurias</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

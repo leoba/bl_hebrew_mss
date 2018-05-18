@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sidur(סדור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sidur(סדור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1480: Sidur are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Lacunae after folio 135, 146. Defective at the beginning.  </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Lacunae after folio 135, 146. Defective at the beginning.  </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,124 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1480</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1480</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A service book, according to the Yemenite rite. </summary><textLang mainLang="he" otherLangs="jrb-Hebr"/><msItem n="1r"><locus from="1r" to="153v">1r-153v</locus><title>Sidur סדור</title></msItem><msItem n="1r"><locus from="1r" to="11r">1r-11r</locus><title>Services for week-days</title></msItem><msItem n="11r"><locus from="11r" to="24v">11r-24v</locus><title>Services for the Sabbath</title></msItem><msItem n="24v"><locus from="24v" to="27r">24v-27r</locus><title>Services for rosh ḥodesh</title></msItem><msItem n="27r"><locus from="27r" to="38v">27r-38v</locus><title>Services for Pesaḥ </title></msItem><msItem n="38v"><locus from="38v" to="45r">38v-45r</locus><title>Services for Shavu῾ot</title></msItem><msItem n="45r"><locus from="45r" to="45v">45r-45v</locus><title>Ta῾aniyot</title></msItem><msItem n="45v"><locus from="45v" to="50r">45v-50r</locus><title>Services for Tish῾ah be-av</title></msItem><msItem n="50r"><locus from="50r" to="56v">50r-56v</locus><title>Services for Rosh ha-Shanah</title></msItem><msItem n="57r"><locus from="57r" to="64r">57r-64r</locus><title>Services for Yom Kipur</title></msItem><msItem n="64r"><locus from="64r" to="76r">64r-76r</locus><title>Services for Sukot</title></msItem><msItem n="76v"><locus from="76v" to="81r">76v-81r</locus><title>Services for Ḥanukah</title></msItem><msItem n="81r"><locus from="81r" to="86r">81r-86r</locus><title>Services for Purim</title></msItem><msItem n="86r"><locus from="86r" to="87r">86r-87r</locus><title>Tefilat ha-met</title></msItem><msItem n="87v"><locus from="87v" to="99r">87v-99r</locus><title>Seder seliḥot le-lele ashmurot</title></msItem><msItem n="99r"><locus from="99r" to="124v">99r-124v</locus><title>Seliḥot le-El raḥamim</title></msItem><msItem n="124v"><locus from="124v" to="128r">124v-128r</locus><title>Seder ῾avodah</title></msItem><msItem n="128r"><locus from="128r" to="135v">128r-135v</locus><title>Berakhot</title></msItem><msItem n="135v"><locus from="135v" to="140r">135v-140r</locus><title>῾Ibur ha-shanim</title></msItem><msItem n="140r"><locus from="140r" to="144r">140r-144r</locus><title>Nusaḥ ha-ketubot ṿeha-giṭin ṿeha-sheṭarot</title></msItem><msItem n="144r"><locus from="144r" to="146v">144r-146v</locus><title>Tokhaḥot u-vaḳashot</title></msItem><msItem n="147r"><locus from="147r" to="153v">147r-153v</locus><title>Masekhet Yoma</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>153 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1480</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1480</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A service book, according to the Yemenite rite. </summary>
+                  <textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="153v">1r-153v</locus>
+                     <title>Sidur סדור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="11r">1r-11r</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="11r">
+                     <locus from="11r" to="24v">11r-24v</locus>
+                     <title>Services for the Sabbath</title>
+                  </msItem>
+                  <msItem n="24v">
+                     <locus from="24v" to="27r">24v-27r</locus>
+                     <title>Services for rosh ḥodesh</title>
+                  </msItem>
+                  <msItem n="27r">
+                     <locus from="27r" to="38v">27r-38v</locus>
+                     <title>Services for Pesaḥ </title>
+                  </msItem>
+                  <msItem n="38v">
+                     <locus from="38v" to="45r">38v-45r</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="45r">
+                     <locus from="45r" to="45v">45r-45v</locus>
+                     <title>Ta῾aniyot</title>
+                  </msItem>
+                  <msItem n="45v">
+                     <locus from="45v" to="50r">45v-50r</locus>
+                     <title>Services for Tish῾ah be-av</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="56v">50r-56v</locus>
+                     <title>Services for Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="57r">
+                     <locus from="57r" to="64r">57r-64r</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="76r">64r-76r</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="76v">
+                     <locus from="76v" to="81r">76v-81r</locus>
+                     <title>Services for Ḥanukah</title>
+                  </msItem>
+                  <msItem n="81r">
+                     <locus from="81r" to="86r">81r-86r</locus>
+                     <title>Services for Purim</title>
+                  </msItem>
+                  <msItem n="86r">
+                     <locus from="86r" to="87r">86r-87r</locus>
+                     <title>Tefilat ha-met</title>
+                  </msItem>
+                  <msItem n="87v">
+                     <locus from="87v" to="99r">87v-99r</locus>
+                     <title>Seder seliḥot le-lele ashmurot</title>
+                  </msItem>
+                  <msItem n="99r">
+                     <locus from="99r" to="124v">99r-124v</locus>
+                     <title>Seliḥot le-El raḥamim</title>
+                  </msItem>
+                  <msItem n="124v">
+                     <locus from="124v" to="128r">124v-128r</locus>
+                     <title>Seder ῾avodah</title>
+                  </msItem>
+                  <msItem n="128r">
+                     <locus from="128r" to="135v">128r-135v</locus>
+                     <title>Berakhot</title>
+                  </msItem>
+                  <msItem n="135v">
+                     <locus from="135v" to="140r">135v-140r</locus>
+                     <title>῾Ibur ha-shanim</title>
+                  </msItem>
+                  <msItem n="140r">
+                     <locus from="140r" to="144r">140r-144r</locus>
+                     <title>Nusaḥ ha-ketubot ṿeha-giṭin ṿeha-sheṭarot</title>
+                  </msItem>
+                  <msItem n="144r">
+                     <locus from="144r" to="146v">144r-146v</locus>
+                     <title>Tokhaḥot u-vaḳashot</title>
+                  </msItem>
+                  <msItem n="147r">
+                     <locus from="147r" to="153v">147r-153v</locus>
+                     <title>Masekhet Yoma</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>153 folios 
                            
                            
                            
@@ -33,7 +178,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +188,48 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 33 35;
-                                                  written lines: 33 35; Visible mastara ruling.Initial words written in larger square characters.Numerous marginal notes and additions. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive scripts of the 17th to 18th century, punctuated. </scriptNote></scriptDesc><decoDesc><decoNote>Decorative panels around  the initial words on folio 58v, decorated initial words (e.g. folios 27r,  50r, 98r).</decoNote></decoDesc><bindingDesc><binding><p> BM in-house. Spine: 'Prayerbook. Hebrew. Brit. Mus. Oriental 1480.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1799"/></origin><provenance>Acquisition: 
+                                                  written lines: 33 35; Visible mastara ruling.Initial words written in larger square characters.Numerous marginal notes and additions. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive scripts of the 17th to 18th century, punctuated. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Decorative panels around  the initial words on folio 58v, decorated initial words (e.g. folios 27r,  50r, 98r).</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine: 'Prayerbook. Hebrew. Brit. Mus. Oriental 1480.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1799"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 October 1883: numbering 'No 29' (corrected to 30) probably by him on folio 1r.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 October 1883: numbering 'No 29' (corrected to 30) probably by him on folio 1r.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

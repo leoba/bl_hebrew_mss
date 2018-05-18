@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5686: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,12 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 
 
 
@@ -26,12 +54,122 @@
 
 
 
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5686</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5686</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book, with miscellaneous works in the margins. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="449v">1r-449v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="384v">1r-384v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1v"><locus from="1v" to="28v">1v-28v</locus><title>Services for week-days</title></msItem><msItem n="28v"><locus from="28v" to="47r">28v-47r</locus><title>Services for Shabat</title></msItem><msItem n="47r"><locus from="47r" to="61v">47r-61v</locus><title>Services for Rosh ḥodesh</title></msItem><msItem n="61v"><locus from="61v" to="90r">61v-90r</locus><title>Services for Pesaḥ</title></msItem><msItem n="90r"><locus from="90r" to="96r">90r-96r</locus><title>Shevaḥot</title></msItem><msItem n="96r"><locus from="96r" to="112r">96r-112r</locus><title>Services for Shavu῾ot</title></msItem><msItem n="112r"><locus from="112r" to="156r">112r-156r</locus><title>Seder Ta῾anit</title></msItem><msItem n="156r"><locus from="156r" to="177v">156r-177v</locus><title>Seder ha-ma῾amadot</title></msItem><msItem n="177v"><locus from="177v" to="195v">177v-195v</locus><title>Services for Rosh ha-shanah</title></msItem><msItem n="195v"><locus from="195v" to="285v">195v-285v</locus><title>Services for Yom Kipur</title></msItem><msItem n="285v"><locus from="285v" to="293v">285v-293v</locus><title>Piyuṭim for Ta῾anit</title></msItem><msItem n="293v"><locus from="293v" to="325v">293v-325v</locus><title>Services for Sukot</title></msItem><msItem n="325v"><locus from="325v" to="332r">325v-332r</locus><title>Poetical pieces</title></msItem><msItem n="332r"><locus from="332r" to="375r">332r-375r</locus><title>The Five Scrolls</title></msItem><msItem n="375r"><locus from="375r" to="377v">375r-377v</locus><title>Pirḳe avot</title></msItem><msItem n="377v"><locus from="377v" to="385r">377v-385r</locus><title>The benedictions for hafṭarot</title></msItem><msItem n="385r"><locus from="385r" to="418v">385r-418v</locus><title>Sefer Tahanunim ספר תחנונים</title></msItem><msItem n="419v"><locus from="419v" to="449v">419v-449v</locus><title>Psalms and various litugical texts</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>449 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5686</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5686</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book, with miscellaneous works in the margins. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="449v">1r-449v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="384v">1r-384v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="28v">1v-28v</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="47r">28v-47r</locus>
+                     <title>Services for Shabat</title>
+                  </msItem>
+                  <msItem n="47r">
+                     <locus from="47r" to="61v">47r-61v</locus>
+                     <title>Services for Rosh ḥodesh</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="90r">61v-90r</locus>
+                     <title>Services for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="90r">
+                     <locus from="90r" to="96r">90r-96r</locus>
+                     <title>Shevaḥot</title>
+                  </msItem>
+                  <msItem n="96r">
+                     <locus from="96r" to="112r">96r-112r</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="112r">
+                     <locus from="112r" to="156r">112r-156r</locus>
+                     <title>Seder Ta῾anit</title>
+                  </msItem>
+                  <msItem n="156r">
+                     <locus from="156r" to="177v">156r-177v</locus>
+                     <title>Seder ha-ma῾amadot</title>
+                  </msItem>
+                  <msItem n="177v">
+                     <locus from="177v" to="195v">177v-195v</locus>
+                     <title>Services for Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="195v">
+                     <locus from="195v" to="285v">195v-285v</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="285v">
+                     <locus from="285v" to="293v">285v-293v</locus>
+                     <title>Piyuṭim for Ta῾anit</title>
+                  </msItem>
+                  <msItem n="293v">
+                     <locus from="293v" to="325v">293v-325v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="325v">
+                     <locus from="325v" to="332r">325v-332r</locus>
+                     <title>Poetical pieces</title>
+                  </msItem>
+                  <msItem n="332r">
+                     <locus from="332r" to="375r">332r-375r</locus>
+                     <title>The Five Scrolls</title>
+                  </msItem>
+                  <msItem n="375r">
+                     <locus from="375r" to="377v">375r-377v</locus>
+                     <title>Pirḳe avot</title>
+                  </msItem>
+                  <msItem n="377v">
+                     <locus from="377v" to="385r">377v-385r</locus>
+                     <title>The benedictions for hafṭarot</title>
+                  </msItem>
+                  <msItem n="385r">
+                     <locus from="385r" to="418v">385r-418v</locus>
+                     <title>Sefer Tahanunim ספר תחנונים</title>
+                  </msItem>
+                  <msItem n="419v">
+                     <locus from="419v" to="449v">419v-449v</locus>
+                     <title>Psalms and various litugical texts</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>449 folios
                         384 folios
                            33 folios
                            30 folios
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                            48 quires: i2 (folios 1a-2a), ii8-1 (folios 1-7), iii-x10 (folios
                               8-187), xi8 (folios 88-95), xii-xxx10 (folios 96-285), xxxi8 (folios
                               286-293), xxxii-xxxvi10 (folios 294-343), xxxvii6 (folios 344-351),
@@ -40,39 +178,98 @@
                               415-422), xlvinine (folios 423-431), xlvii10 (folios 432-441), xlviii8
                               (folios 442-449). 
                            Catchwords at the end of the quires. 
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 26 59;
-                                                  written lines: 26 59; Uniform layout. Visible hard-point ruling. Pricking is visible in quire xlv. Initial words written in larger characters. Hebrew foliation from folio 8. Erasures (e.g., folios 78r, 179v, 187v, 331v, 380r, 436r). </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive and Ashkenazi square script, partially
+                                                  written lines: 26 59; Uniform layout. Visible hard-point ruling. Pricking is visible in quire xlv. Initial words written in larger characters. Hebrew foliation from folio 8. Erasures (e.g., folios 78r, 179v, 187v, 331v, 380r, 436r). </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive and Ashkenazi square script, partially
                            punctuated. Leon ben Yoshu῾ah de Rossi
                               of Cesena inscribed with his name in a colophon, Reggio di
                            Emilia, [5]226 (or [5]224?) [1466 or 1464] (folio 377v). The workshop of
                            one of the artists of Duke Borso d'Este, probably Giorgio d'Alemagna. Ashkenazi square and Italian semi-cursive script, partially
                            punctuated. Yitsḥaḳ ben Obadiah ben
-                              Daṿid of Forli: inscribed in the colophon, Bologna, 23 Elul, [5]187 [1427], folio 418v. Italian semi-cursive, partially punctuated.</scriptNote></scriptDesc><decoDesc><decoNote type="miniature"><locus>27v</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="miniature"><locus>28r</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="miniature"><locus>60r</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="miniature"><locus>60v</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="miniature"><locus>61r</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="miniature"><locus>61v</locus>6 miniatures in colours and gold. 
-                        </decoNote><decoNote type="border"><locus>8r</locus>Decorated initial-word panels with floral border
+                              Daṿid of Forli: inscribed in the colophon, Bologna, 23 Elul, [5]187 [1427], folio 418v. Italian semi-cursive, partially punctuated.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="miniature">
+                        <locus>27v</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="miniature">
+                        <locus>28r</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="miniature">
+                        <locus>60r</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="miniature">
+                        <locus>60v</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="miniature">
+                        <locus>61r</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="miniature">
+                        <locus>61v</locus>6 miniatures in colours and gold. 
+                        </decoNote>
+                     <decoNote type="border">
+                        <locus>8r</locus>Decorated initial-word panels with floral border
                            inhabited by birds, in colours and gold. 
-                        </decoNote><decoNote type="border"><locus>156r</locus>Decorated initial-word panels with floral border
+                        </decoNote>
+                     <decoNote type="border">
+                        <locus>156r</locus>Decorated initial-word panels with floral border
                            inhabited by birds, in colours and gold. 
-                        </decoNote><decoNote type="initial"><locus>12v</locus>2 initial-word panels with penwork decoration, in
+                        </decoNote>
+                     <decoNote type="initial">
+                        <locus>12v</locus>2 initial-word panels with penwork decoration, in
                            blue and red ink. 
-                        </decoNote><decoNote type="initial"><locus>14v</locus>2 initial-word panels with penwork decoration, in
+                        </decoNote>
+                     <decoNote type="initial">
+                        <locus>14v</locus>2 initial-word panels with penwork decoration, in
                            blue and red ink. 
-                        </decoNote><decoNote type="initial">Numerous initial-word panels decorated with
-                           pen-flourishing, in red ink. </decoNote><decoNote type="other"><locus>45r</locus>Maniculae.
-                        </decoNote><decoNote type="other"><locus>111r</locus>Maniculae.
-                        </decoNote><decoNote type="initial"><locus>385r</locus>1 decorated initial-word panel, in colours and
+                        </decoNote>
+                     <decoNote type="initial">Numerous initial-word panels decorated with
+                           pen-flourishing, in red ink. </decoNote>
+                     <decoNote type="other">
+                        <locus>45r</locus>Maniculae.
+                        </decoNote>
+                     <decoNote type="other">
+                        <locus>111r</locus>Maniculae.
+                        </decoNote>
+                     <decoNote type="initial">
+                        <locus>385r</locus>1 decorated initial-word panel, in colours and
                               gold.
-                        </decoNote><decoNote type="other"><locus>440r</locus>1 carmina figurata, in colours.
-                        </decoNote></decoDesc><bindingDesc><binding><p> Post-1600. 'Harleian' binding of gold-tooled red leather. Spine: 'Liturgia Hebraica. Cum Commentariis. Libri Ruth. Cantis. Eccles.
+                        </decoNote>
+                     <decoNote type="other">
+                        <locus>440r</locus>1 carmina figurata, in colours.
+                        </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. 'Harleian' binding of gold-tooled red leather. Spine: 'Liturgia Hebraica. Cum Commentariis. Libri Ruth. Cantis. Eccles.
                            Thren. Et Esther. Maimonides De Anima. Etc. Preces. Psalmi et Hymni.
-                           Hebraice. Mus. Brit. Bibl. Harl. 5686 Plut. XXVIII B.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1427" notAfter="1499"/><origPlace>Bologna Bologna Reggio di Emilia Cremona</origPlace></origin><provenance>Yitsḥaḳ ben Obadiah ben Daṿid of
-                           Forli</provenance><provenance>Yosef Kohen ben Shelomoh Kohen</provenance><provenance>Leon ben Yoshu῾ah de Rossi of
-                           Cesena</provenance><provenance>Yo᾿av Emanu᾿el Finzi</provenance><provenance>Hippolite of Ferrara</provenance><provenance>Acquisition: The Harley Collection, formed by Robert
+                           Hebraice. Mus. Brit. Bibl. Harl. 5686 Plut. XXVIII B.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1427" notAfter="1499"/>
+                     <origPlace>Bologna Bologna Reggio di Emilia Cremona</origPlace>
+                  </origin>
+                  <provenance>Yitsḥaḳ ben Obadiah ben Daṿid of
+                           Forli</provenance>
+                  <provenance>Yosef Kohen ben Shelomoh Kohen</provenance>
+                  <provenance>Leon ben Yoshu῾ah de Rossi of
+                           Cesena</provenance>
+                  <provenance>Yo᾿av Emanu᾿el Finzi</provenance>
+                  <provenance>Hippolite of Ferrara</provenance>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert
                            Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer,
                         politician, and Edward Harley (b.
                         1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron
@@ -83,4 +280,17 @@
                         Duchess in 1753 to the nation for £10,000
                         (a fraction of their contemporary value) under the Act of Parliament that
                         also established the British Museum; the Harley manuscripts form one of the
-                        foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

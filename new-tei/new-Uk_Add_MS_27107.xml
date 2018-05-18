@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of mathematical, astronomical and philosophical works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of mathematical, astronomical and philosophical works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27107: A collection of mathematical, astronomical and philosophical works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Tidemarks at edges and gutter.  Losses infilled. Liquid spills.  Usage stains. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Tidemarks at edges and gutter.  Losses infilled. Liquid spills.  Usage stains. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,92 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27107</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27107</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of mathematical, astronomical and philosophical works. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="174v">1r-174v</locus><title>Ḳovets קובץ</title></msItem><msItem n="1r"><locus from="1r" to="10v">1r-10v</locus><title>Tsurat ha-yesodot  צורת היסודות</title></msItem><msItem n="13r"><locus from="13r" to="22v">13r-22v</locus><title>Be᾿ur milot ha-higayon  באור מלות ההגיון</title></msItem><msItem n="23r"><locus from="23r" to="31r">23r-31r</locus><title>Be᾿ur keli ha-ofeḳ באור כלי האפקי</title></msItem><msItem n="23r"><locus from="23r" to="31r">23r-31r</locus><title>Lada῾at midat kol davar לדעת מדת כל דבר</title></msItem><msItem n="32v"><locus from="32v" to="43v">32v-43v</locus><title>Ḳitsur sefer ha-mispar  קצור ספר המספר</title></msItem><msItem n="44r"><locus from="44r" to="80v">44r-80v</locus><title>Ḥokhmat ha-midot  חכמת המדות</title></msItem><msItem n="81r"><locus from="81r" to="83r">81r-83r</locus><title>Be᾿ur yetsi᾿at shene kaṿim באור יציאת שני קוים</title></msItem><msItem n="84r"><locus from="84r" to="89r">84r-89r</locus><title>Be᾿ur ῾inyan shene kaṿim באור ענין שני קוים</title></msItem><msItem n="91r"><locus from="91r" to="100r">91r-100r</locus><title>Toledot ha-shamayim ṿeha-arets  תולדות השמים והארץ</title></msItem><msItem n="101r"><locus from="101r" to="117r">101r-117r</locus><title>Ma᾿amar bi-teshuvat she᾿elot nish᾿al bahem  מאמר בתשובת שאלות נשאל בהם</title></msItem><msItem n="119r"><locus from="119r" to="134v">119r-134v</locus><title>Ma῾aseh ha-kadur  מעשה הכדור</title></msItem><msItem n="135r"><locus from="135r" to="161r">135r-161r</locus><title>Sefer al-Farghānī  ספר אלפרגאני</title></msItem><msItem n="162r"><locus from="162r" to="174v">162r-174v</locus><title>Ḳitsur sefer ha-mispar  קצור ספר המספר</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>174 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27107</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27107</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of mathematical, astronomical and philosophical works. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="174v">1r-174v</locus>
+                     <title>Ḳovets קובץ</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="10v">1r-10v</locus>
+                     <title>Tsurat ha-yesodot  צורת היסודות</title>
+                  </msItem>
+                  <msItem n="13r">
+                     <locus from="13r" to="22v">13r-22v</locus>
+                     <title>Be᾿ur milot ha-higayon  באור מלות ההגיון</title>
+                  </msItem>
+                  <msItem n="23r">
+                     <locus from="23r" to="31r">23r-31r</locus>
+                     <title>Be᾿ur keli ha-ofeḳ באור כלי האפקי</title>
+                  </msItem>
+                  <msItem n="23r">
+                     <locus from="23r" to="31r">23r-31r</locus>
+                     <title>Lada῾at midat kol davar לדעת מדת כל דבר</title>
+                  </msItem>
+                  <msItem n="32v">
+                     <locus from="32v" to="43v">32v-43v</locus>
+                     <title>Ḳitsur sefer ha-mispar  קצור ספר המספר</title>
+                  </msItem>
+                  <msItem n="44r">
+                     <locus from="44r" to="80v">44r-80v</locus>
+                     <title>Ḥokhmat ha-midot  חכמת המדות</title>
+                  </msItem>
+                  <msItem n="81r">
+                     <locus from="81r" to="83r">81r-83r</locus>
+                     <title>Be᾿ur yetsi᾿at shene kaṿim באור יציאת שני קוים</title>
+                  </msItem>
+                  <msItem n="84r">
+                     <locus from="84r" to="89r">84r-89r</locus>
+                     <title>Be᾿ur ῾inyan shene kaṿim באור ענין שני קוים</title>
+                  </msItem>
+                  <msItem n="91r">
+                     <locus from="91r" to="100r">91r-100r</locus>
+                     <title>Toledot ha-shamayim ṿeha-arets  תולדות השמים והארץ</title>
+                  </msItem>
+                  <msItem n="101r">
+                     <locus from="101r" to="117r">101r-117r</locus>
+                     <title>Ma᾿amar bi-teshuvat she᾿elot nish᾿al bahem  מאמר בתשובת שאלות נשאל בהם</title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="134v">119r-134v</locus>
+                     <title>Ma῾aseh ha-kadur  מעשה הכדור</title>
+                  </msItem>
+                  <msItem n="135r">
+                     <locus from="135r" to="161r">135r-161r</locus>
+                     <title>Sefer al-Farghānī  ספר אלפרגאני</title>
+                  </msItem>
+                  <msItem n="162r">
+                     <locus from="162r" to="174v">162r-174v</locus>
+                     <title>Ḳitsur sefer ha-mispar  קצור ספר המספר</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>174 folios
                            
                            
                            
@@ -121,7 +234,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -153,10 +268,45 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1 1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 22 30 29 25 35 36 29 30 28 24 28 28 30 25;
-                                                  written lines: 22 30 29 25 35 36 29 30 28 24 28 28 30 25; Uniform layout. Decorated leaf catchwords. Larger initial words. Uniform layout. Larger square heading and initial words. Uniform layout. Daigrams in the margin. Leaf catchwords on every verso. Uniform layout. Leaf catchwords on every verso. Diagrams. Uniform layout. Larger square intial words. Diagrams. Uniform layout. Larger initial words. Marginal notes. Diagrams. Uniform layout. Diagrams. Marginal notes. Larger initial words. Leaf catchwowrds (mostly trimmed). Uniform layout. Quire catchwords. Uniform layout. Larger square initial words. Leaf catchwords on every verso. Enumeration of sections in the margin. Uniform layout. Larger bold initial words. Leaf catchwords on every verso. Diagrams (some not filled in). Uniform layout. Leaf catchwords on every verso. Large initial words. Some marginal notes. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Sefardi semi-cursive script of the 15th to 16th century.  Oriental semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century (perhaps an autograph).  Sefardi semi-cursive script of the 15th to 16th century.  Sefardi semi-cursive script of  the 15th century.  Sefardi semi-cursive script of the 15th to 16th century.  Sefardi semi-cursive script of the 16th to 17th century.  Sefardi semi-cursive script of the 16th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Mathematical Treatises. Hebrew. Brit. Mus. Additional 27,107.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1699"/></origin><provenance>Acquisition: 
+                                                  written lines: 22 30 29 25 35 36 29 30 28 24 28 28 30 25; Uniform layout. Decorated leaf catchwords. Larger initial words. Uniform layout. Larger square heading and initial words. Uniform layout. Daigrams in the margin. Leaf catchwords on every verso. Uniform layout. Leaf catchwords on every verso. Diagrams. Uniform layout. Larger square intial words. Diagrams. Uniform layout. Larger initial words. Marginal notes. Diagrams. Uniform layout. Diagrams. Marginal notes. Larger initial words. Leaf catchwowrds (mostly trimmed). Uniform layout. Quire catchwords. Uniform layout. Larger square initial words. Leaf catchwords on every verso. Enumeration of sections in the margin. Uniform layout. Larger bold initial words. Leaf catchwords on every verso. Diagrams (some not filled in). Uniform layout. Leaf catchwords on every verso. Large initial words. Some marginal notes. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Sefardi semi-cursive script of the 15th to 16th century.  Oriental semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century (perhaps an autograph).  Sefardi semi-cursive script of the 15th to 16th century.  Sefardi semi-cursive script of  the 15th century.  Sefardi semi-cursive script of the 15th to 16th century.  Sefardi semi-cursive script of the 16th to 17th century.  Sefardi semi-cursive script of the 16th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Mathematical Treatises. Hebrew. Brit. Mus. Additional 27,107.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 213: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [175v] (fse005v). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 213: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [175v] (fse005v). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

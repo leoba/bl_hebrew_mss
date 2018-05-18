@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ethical writings.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ethical writings.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19948: Ethical writings. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,123 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>First and last few leaves very dark and stained, with worming and loss of text. Incomplete at the end.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>First and last few leaves very dark and stained, with worming and loss of text. Incomplete at the end.</note>
+            <note>
 								Shelomoh ben Avraham: inscribed, folio 1v.
-								Eli῾ezer ben Shelomoh, Ya῾aḳov ben Avraham, Elḥanan: inscribed, folio 2v.An incomplete table of context: folio 2v.Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name (folio 159v); see 61, and appendix § 62-74. </note><note type="relatedResource">
+								Eli῾ezer ben Shelomoh, Ya῾aḳov ben Avraham, Elḥanan: inscribed, folio 2v.An incomplete table of context: folio 2v.Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name (folio 159v); see 61, and appendix § 62-74. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19948</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19948</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Ethical writings.</summary><textLang mainLang="he"/><msItem n="3r"><locus from="3r" to="49v">3r-49v</locus><title>Even boḥan אבן בחן</title></msItem><msItem n="50r"><locus from="50r" to="75v">50r-75v</locus><title>Beḥinat ῾olam בחינת עולם</title></msItem><msItem n="76v"><locus from="76v" to="82r">76v-82r</locus><title>Baḳashat ha-memin בקשת הממין</title></msItem><msItem n="82r"><locus from="82r" to="84r">82r-84r</locus><title>Baḳashat ha-lomdin בקשת הלמדין</title></msItem><msItem n="84r"><locus from="84r" to="87v">84r-87v</locus><title>Alef alpin אלף אלפין</title></msItem><msItem n="90v"><locus from="90v" to="97r">90v-97r</locus><title>Ḳe῾arat kesef קערת כסף</title></msItem><msItem n="98v"><locus from="98v" to="98r">98v-98r</locus><title>Eshorer shir be-milḥamah ῾arukah אשורר שיר במלחמה ערוכה</title></msItem><msItem n="98v"><locus from="98v" to="100v">98v-100v</locus><title>Bereshit mamlakhat ha-ḥayalim בראשית ממלכת החילים</title></msItem><msItem n="102r"><locus from="102r" to="159v">102r-159v</locus><title>Ketav hitnatslut כתב התנצלות</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>159 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19948</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19948</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Ethical writings.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="3r">
+                     <locus from="3r" to="49v">3r-49v</locus>
+                     <title>Even boḥan אבן בחן</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="75v">50r-75v</locus>
+                     <title>Beḥinat ῾olam בחינת עולם</title>
+                  </msItem>
+                  <msItem n="76v">
+                     <locus from="76v" to="82r">76v-82r</locus>
+                     <title>Baḳashat ha-memin בקשת הממין</title>
+                  </msItem>
+                  <msItem n="82r">
+                     <locus from="82r" to="84r">82r-84r</locus>
+                     <title>Baḳashat ha-lomdin בקשת הלמדין</title>
+                  </msItem>
+                  <msItem n="84r">
+                     <locus from="84r" to="87v">84r-87v</locus>
+                     <title>Alef alpin אלף אלפין</title>
+                  </msItem>
+                  <msItem n="90v">
+                     <locus from="90v" to="97r">90v-97r</locus>
+                     <title>Ḳe῾arat kesef קערת כסף</title>
+                  </msItem>
+                  <msItem n="98v">
+                     <locus from="98v" to="98r">98v-98r</locus>
+                     <title>Eshorer shir be-milḥamah ῾arukah אשורר שיר במלחמה ערוכה</title>
+                  </msItem>
+                  <msItem n="98v">
+                     <locus from="98v" to="100v">98v-100v</locus>
+                     <title>Bereshit mamlakhat ha-ḥayalim בראשית ממלכת החילים</title>
+                  </msItem>
+                  <msItem n="102r">
+                     <locus from="102r" to="159v">102r-159v</locus>
+                     <title>Ketav hitnatslut כתב התנצלות</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>159 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each, marked with catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 18;
-                                                  written lines: 18; Uniform layout.Initial words in larger square characters.Marginal notes.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BL in-house. Spine: 'Tractatus Var. II. Hebraice. Brit. Lib. Additional 19,948.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: Purchased by the British Museum through Asher &amp; Co., Berlin dealer to the British Museum: inscribed [160v] (fse001v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 18; Uniform layout.Initial words in larger square characters.Marginal notes.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BL in-house. Spine: 'Tractatus Var. II. Hebraice. Brit. Lib. Additional 19,948.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum through Asher &amp; Co., Berlin dealer to the British Museum: inscribed [160v] (fse001v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

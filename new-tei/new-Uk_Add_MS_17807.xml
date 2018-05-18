@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Kabbalistic writings. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Kabbalistic writings. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 17807: Kabbalistic writings.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>First 70 leaves missing, and about 52 other leaves wanting after folio 8. </note><note>Folios 44v-45v: a number of 16th century birth records, in some cases accompanied by a horoscope. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>First 70 leaves missing, and about 52 other leaves wanting after folio 8. </note>
+            <note>Folios 44v-45v: a number of 16th century birth records, in some cases accompanied by a horoscope. </note>
+            <note type="relatedResource">
 								
                         
                         
@@ -26,8 +55,68 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 17807</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_17807</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Kabbalistic writings. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="12v">1r-12v</locus><title>Sha῾are orah שערי אורה</title></msItem><msItem n="13r"><locus from="13r" to="23v">13r-23v</locus><title>Igeret ha-ḳodesh אגרת הקדש</title></msItem><msItem n="24r"><locus from="24r" to="27v">24r-27v</locus><title>Ma᾿amarim be-ḳabalah מאמרים בקבלה</title></msItem><msItem n="27v"><locus from="27v" to="31v">27v-31v</locus><title>Perush shem ben arba῾ otiyot פרוש שם בן ארבע אותיות</title></msItem><msItem n="31v"><locus from="31v" to="33v">31v-33v</locus><title>Midrash ha-ne῾elam  מדרש הנעלם</title></msItem><msItem n="33v"><locus from="33v" to="40v">33v-40v</locus><title>Perush ῾eser sefirot  פרוש עשר ספירות</title></msItem><msItem n="40v"><locus from="40v" to="43r">40v-43r</locus><title>She᾿elot u-teshuvot be-ḳabalah  שאלות ותשובות בקבלה</title></msItem><msItem n="43r"><locus from="43r" to="44r">43r-44r</locus><title>Perush ῾eser sefirot  פרוש עשר ספירות</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>45 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 17807</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_17807</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kabbalistic writings. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="12v">1r-12v</locus>
+                     <title>Sha῾are orah שערי אורה</title>
+                  </msItem>
+                  <msItem n="13r">
+                     <locus from="13r" to="23v">13r-23v</locus>
+                     <title>Igeret ha-ḳodesh אגרת הקדש</title>
+                  </msItem>
+                  <msItem n="24r">
+                     <locus from="24r" to="27v">24r-27v</locus>
+                     <title>Ma᾿amarim be-ḳabalah מאמרים בקבלה</title>
+                  </msItem>
+                  <msItem n="27v">
+                     <locus from="27v" to="31v">27v-31v</locus>
+                     <title>Perush shem ben arba῾ otiyot פרוש שם בן ארבע אותיות</title>
+                  </msItem>
+                  <msItem n="31v">
+                     <locus from="31v" to="33v">31v-33v</locus>
+                     <title>Midrash ha-ne῾elam  מדרש הנעלם</title>
+                  </msItem>
+                  <msItem n="33v">
+                     <locus from="33v" to="40v">33v-40v</locus>
+                     <title>Perush ῾eser sefirot  פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="40v">
+                     <locus from="40v" to="43r">40v-43r</locus>
+                     <title>She᾿elot u-teshuvot be-ḳabalah  שאלות ותשובות בקבלה</title>
+                  </msItem>
+                  <msItem n="43r">
+                     <locus from="43r" to="44r">43r-44r</locus>
+                     <title>Perush ῾eser sefirot  פרוש עשר ספירות</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>45 folios
 									
                            
                            
@@ -37,7 +126,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
 									
                            
                            
@@ -47,11 +138,46 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 33;
-                                                  written lines: 33; Uniform layout. Complete hard-point ruling visible. Hair side and flesh side of folios distinguishable. Square initial words.  Graphic fillers at the end of line. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 14th to 15th century. Yitsḥaḳ: inscribed, folio 44r. </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Black leather.  Spine: 'Joseph Gikatilla. Sha'are Orah. Etc. Hebrew. Brit. Mus. Add. Or. 17,807.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1499"/></origin><provenance>Acquisition: 
+                                                  written lines: 33; Uniform layout. Complete hard-point ruling visible. Hair side and flesh side of folios distinguishable. Square initial words.  Graphic fillers at the end of line. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 14th to 15th century. Yitsḥaḳ: inscribed, folio 44r. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Black leather.  Spine: 'Joseph Gikatilla. Sha'are Orah. Etc. Hebrew. Brit. Mus. Add. Or. 17,807.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1499"/>
+                  </origin>
+                  <provenance>Acquisition: 
 								
                         
                         
                         
-                        Adolphus Asher: (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853, purchased from him on 30 June 1849: inscribed, folio [46v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Adolphus Asher: (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853, purchased from him on 30 June 1849: inscribed, folio [46v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

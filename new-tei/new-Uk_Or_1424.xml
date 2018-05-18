@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1424: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,29 +39,142 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Inscription in pencil: '129 Mahzorfragment' (folio 1v).</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Inscription in pencil: '129 Mahzorfragment' (folio 1v).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1424</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1424</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Biblical readings and liturgical poems for Passover.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="30v">1r-30v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1v"><locus from="1v" to="16v">1v-16v</locus><title>Fragments of parashayot and hafṭarot for Pesaḥ</title></msItem><msItem n="16v"><locus from="16v" to="30v">16v-30v</locus><title>Piyuṭim for Pesaḥ</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>30 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1424</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1424</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Biblical readings and liturgical poems for Passover.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="30v">1r-30v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="16v">1v-16v</locus>
+                     <title>Fragments of parashayot and hafṭarot for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="16v">
+                     <locus from="16v" to="30v">16v-30v</locus>
+                     <title>Piyuṭim for Pesaḥ</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>30 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									7 quires: i4 (folios 1-4), ii8 (folios 5-12), iii3 (folios 13-15), iv8 (folios 16-23), v4 (folios 24-27), vi2 (folios 28-29), vii2 (30-[31]). 
 									No catchwords.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 17;
-                                                  written lines: 17; Uniform layout.Visible pricking and hard-point ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.The decoration is closely related to the Kaufmann Haggadah, according to .</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square and semi cursive script, partially punctuated.</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>1v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>2r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>3v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>4v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>6v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>7v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>8r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>9v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>11r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>12v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
-							</decoNote><decoNote type="initial"><locus>16v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>19v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>22v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
-							</decoNote><decoNote type="border"><locus>1v</locus>One partial foliate border inhabited by animals and a human figure.
-							</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Oriental style, tooled. Spine: 'Haggadah. Pesach. Hebrew. Brit. Mus. Oriental 1424.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1350" notAfter="1374"/><origPlace>Spain, N. E. Catalonia</origPlace></origin><provenance>Acquisition: 
-								Fischl Hirsch: purchased by the British Museum from him on 12 January 1877.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 17; Uniform layout.Visible pricking and hard-point ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.The decoration is closely related to the Kaufmann Haggadah, according to .</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square and semi cursive script, partially punctuated.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>1v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>2r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>3v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>4v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>6v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>7v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>8r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>9v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>11r</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>12v</locus>10 decorated initial-word panels with gold letters and foliate spreading to the margins sometimes inhabited by animals, birds, human figures, hybrids. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>16v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>19v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>22v</locus>3 decorated initial-word panels with gold letters and pen-flourishing. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>1v</locus>One partial foliate border inhabited by animals and a human figure.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Oriental style, tooled. Spine: 'Haggadah. Pesach. Hebrew. Brit. Mus. Oriental 1424.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1350" notAfter="1374"/>
+                     <origPlace>Spain, N. E. Catalonia</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Fischl Hirsch: purchased by the British Museum from him on 12 January 1877.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Mordekhai(מרדכי)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Mordekhai(מרדכי)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19972: Mordekhai are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,196 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained. </note><note>Folio 459r: a responsum of R. Yosef of Orleans on the subject of a divorce document.
-								Natan Leṿi Adilkint (?): inscribed, folio 2r.A description of the manuscript with a statement on the value of the text: folio 1v (paper flyleaf).</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained. </note>
+            <note>Folio 459r: a responsum of R. Yosef of Orleans on the subject of a divorce document.
+								Natan Leṿi Adilkint (?): inscribed, folio 2r.A description of the manuscript with a statement on the value of the text: folio 1v (paper flyleaf).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19972</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19972</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Mordekhai, i.e. the Talmudic expositions and decisions of Mordecai ben Hillel ha-Kohen Ashkenazi.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="459v">1r-459v</locus><title>Mordekhai מרדכי</title></msItem><msItem n="2r"><locus from="2r" to="29v">2r-29v</locus><title>Bava ḳama</title></msItem><msItem n="29v"><locus from="29v" to="64v">29v-64v</locus><title>Bava metsi῾a</title></msItem><msItem n="64v"><locus from="64v" to="116r">64v-116r</locus><title>Bava batra</title></msItem><msItem n="116r"><locus from="116r" to="126v">116r-126v</locus><title>Sanhedrin</title></msItem><msItem n="126v"><locus from="126v" to="147r">126v-147r</locus><title>Shevu῾ot</title></msItem><msItem n="147r"><locus from="147r" to="149v">147r-149v</locus><title>Nedarim</title></msItem><msItem n="149v"><locus from="149v" to="151r">149v-151r</locus><title>Makot</title></msItem><msItem n="151r"><locus from="151r" to="171r">151r-171r</locus><title>῾Avodah zarah</title></msItem><msItem n="171r"><locus from="171r" to="207v">171r-207v</locus><title>Ḥulin</title></msItem><msItem n="207v"><locus from="207v" to="236r">207v-236r</locus><title>Shabat</title></msItem><msItem n="236r"><locus from="236r" to="246r">236r-246r</locus><title>Pesaḥim</title></msItem><msItem n="246r"><locus from="246r" to="261r">246r-261r</locus><title>῾Eruvin</title></msItem><msItem n="261r"><locus from="261r" to="270r">261r-270r</locus><title>Yom ṭov</title></msItem><msItem n="270r"><locus from="270r" to="275v">270r-275v</locus><title>Rosh ha-shanah</title></msItem><msItem n="275v"><locus from="275v" to="280v">275v-280v</locus><title>Yoma</title></msItem><msItem n="280v"><locus from="280v" to="286r">280v-286r</locus><title>Sukah</title></msItem><msItem n="286r"><locus from="286r" to="297v">286r-297v</locus><title>Megilah</title></msItem><msItem n="297v"><locus from="297v" to="300v">297v-300v</locus><title>Ta῾anit</title></msItem><msItem n="300v"><locus from="300v" to="304v">300v-304v</locus><title>Mo῾ed ḳaṭan</title></msItem><msItem n="304v"><locus from="304v" to="318v">304v-318v</locus><title>Semahot</title></msItem><msItem n="318v"><locus from="318v" to="335r">318v-335r</locus><title>Berakhot</title></msItem><msItem n="335r"><locus from="335r" to="360r">335r-360r</locus><title>Yevamot</title></msItem><msItem n="360r"><locus from="360r" to="391r">360r-391r</locus><title>Ketubot</title></msItem><msItem n="391r"><locus from="391r" to="412r">391r-412r</locus><title>Ḳidushin</title></msItem><msItem n="412r"><locus from="412r" to="427r">412r-427r</locus><title>Nidah</title></msItem><msItem n="427r"><locus from="427r" to="459v">427r-459v</locus><title>Giṭin</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>459 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19972</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19972</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Mordekhai, i.e. the Talmudic expositions and decisions of Mordecai ben Hillel ha-Kohen Ashkenazi.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="459v">1r-459v</locus>
+                     <title>Mordekhai מרדכי</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="29v">2r-29v</locus>
+                     <title>Bava ḳama</title>
+                  </msItem>
+                  <msItem n="29v">
+                     <locus from="29v" to="64v">29v-64v</locus>
+                     <title>Bava metsi῾a</title>
+                  </msItem>
+                  <msItem n="64v">
+                     <locus from="64v" to="116r">64v-116r</locus>
+                     <title>Bava batra</title>
+                  </msItem>
+                  <msItem n="116r">
+                     <locus from="116r" to="126v">116r-126v</locus>
+                     <title>Sanhedrin</title>
+                  </msItem>
+                  <msItem n="126v">
+                     <locus from="126v" to="147r">126v-147r</locus>
+                     <title>Shevu῾ot</title>
+                  </msItem>
+                  <msItem n="147r">
+                     <locus from="147r" to="149v">147r-149v</locus>
+                     <title>Nedarim</title>
+                  </msItem>
+                  <msItem n="149v">
+                     <locus from="149v" to="151r">149v-151r</locus>
+                     <title>Makot</title>
+                  </msItem>
+                  <msItem n="151r">
+                     <locus from="151r" to="171r">151r-171r</locus>
+                     <title>῾Avodah zarah</title>
+                  </msItem>
+                  <msItem n="171r">
+                     <locus from="171r" to="207v">171r-207v</locus>
+                     <title>Ḥulin</title>
+                  </msItem>
+                  <msItem n="207v">
+                     <locus from="207v" to="236r">207v-236r</locus>
+                     <title>Shabat</title>
+                  </msItem>
+                  <msItem n="236r">
+                     <locus from="236r" to="246r">236r-246r</locus>
+                     <title>Pesaḥim</title>
+                  </msItem>
+                  <msItem n="246r">
+                     <locus from="246r" to="261r">246r-261r</locus>
+                     <title>῾Eruvin</title>
+                  </msItem>
+                  <msItem n="261r">
+                     <locus from="261r" to="270r">261r-270r</locus>
+                     <title>Yom ṭov</title>
+                  </msItem>
+                  <msItem n="270r">
+                     <locus from="270r" to="275v">270r-275v</locus>
+                     <title>Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="275v">
+                     <locus from="275v" to="280v">275v-280v</locus>
+                     <title>Yoma</title>
+                  </msItem>
+                  <msItem n="280v">
+                     <locus from="280v" to="286r">280v-286r</locus>
+                     <title>Sukah</title>
+                  </msItem>
+                  <msItem n="286r">
+                     <locus from="286r" to="297v">286r-297v</locus>
+                     <title>Megilah</title>
+                  </msItem>
+                  <msItem n="297v">
+                     <locus from="297v" to="300v">297v-300v</locus>
+                     <title>Ta῾anit</title>
+                  </msItem>
+                  <msItem n="300v">
+                     <locus from="300v" to="304v">300v-304v</locus>
+                     <title>Mo῾ed ḳaṭan</title>
+                  </msItem>
+                  <msItem n="304v">
+                     <locus from="304v" to="318v">304v-318v</locus>
+                     <title>Semahot</title>
+                  </msItem>
+                  <msItem n="318v">
+                     <locus from="318v" to="335r">318v-335r</locus>
+                     <title>Berakhot</title>
+                  </msItem>
+                  <msItem n="335r">
+                     <locus from="335r" to="360r">335r-360r</locus>
+                     <title>Yevamot</title>
+                  </msItem>
+                  <msItem n="360r">
+                     <locus from="360r" to="391r">360r-391r</locus>
+                     <title>Ketubot</title>
+                  </msItem>
+                  <msItem n="391r">
+                     <locus from="391r" to="412r">391r-412r</locus>
+                     <title>Ḳidushin</title>
+                  </msItem>
+                  <msItem n="412r">
+                     <locus from="412r" to="427r">412r-427r</locus>
+                     <title>Nidah</title>
+                  </msItem>
+                  <msItem n="427r">
+                     <locus from="427r" to="459v">427r-459v</locus>
+                     <title>Giṭin</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>459 folios 
 									
-								</extent><foliation>Hebrew foliation in the upper left-hand corner of each recto.</foliation><collation><p>
+								</extent>
+                        <foliation>Hebrew foliation in the upper left-hand corner of each recto.</foliation>
+                        <collation>
+                           <p>
 									Indeterminable.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 37;
-                                                  written lines: 36; Uniform layout. Division into paragraphs (by a later hand) until no. 285 (folio 63r).Visible plummet ruling (each bifolium on both sides) and pricking.Last line written within ruling.Chapter initials given in larger square characters. Running headings.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script of the 14th century. Ya῾aḳov ben Yosef Blan: inscribed in the colophon (folio 459v).</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Black thick leather. Spine title: 'Mordecai Ben Hillel. Talmudic Expositions &amp; Decisions. Hebrew. Brit. Mus. Additional 19,972.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1393"/><origPlace>France</origPlace></origin><provenance>Acquisition: 
-								Solomon Netter of Tiberias: bought from him by the British Museum on 14 October 1854: inscribed (folio [460v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 36; Uniform layout. Division into paragraphs (by a later hand) until no. 285 (folio 63r).Visible plummet ruling (each bifolium on both sides) and pricking.Last line written within ruling.Chapter initials given in larger square characters. Running headings.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script of the 14th century. Ya῾aḳov ben Yosef Blan: inscribed in the colophon (folio 459v).</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Black thick leather. Spine title: 'Mordecai Ben Hillel. Talmudic Expositions &amp; Decisions. Hebrew. Brit. Mus. Additional 19,972.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1393"/>
+                     <origPlace>France</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Solomon Netter of Tiberias: bought from him by the British Museum on 14 October 1854: inscribed (folio [460v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

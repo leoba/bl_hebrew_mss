@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A grammatical treatise. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A grammatical treatise. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5502: A grammatical treatise.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Tidemarks and dirt at head.  Small areas soft, weak and tearing.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Tidemarks and dirt at head.  Small areas soft, weak and tearing.
  Folio 1 and front endpaper foxed.
-</note><note>Folio 39 is a small parchment leaf inserted into the codex and it contains a get delivered by Eliezer ben Isaac Ashkenazi to his wife Fiorita bat Yehoshua, dated 5330 (1570). Folio 56 is a small paper leaf inserted into the codex and it contains on one side the record of some derushim, and on the other side part of a piece on Yom Kipur. </note><note type="relatedResource">
+</note>
+            <note>Folio 39 is a small parchment leaf inserted into the codex and it contains a get delivered by Eliezer ben Isaac Ashkenazi to his wife Fiorita bat Yehoshua, dated 5330 (1570). Folio 56 is a small paper leaf inserted into the codex and it contains on one side the record of some derushim, and on the other side part of a piece on Yom Kipur. </note>
+            <note type="relatedResource">
                         
                         
                         
@@ -26,8 +55,40 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5502</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5502</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A grammatical treatise. </summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="173v">2r-173v</locus><title>Baʻal ha-lashon by Joseph Zarka בעל הלשון</title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>174 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5502</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5502</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A grammatical treatise. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="173v">2r-173v</locus>
+                     <title>Baʻal ha-lashon by Joseph Zarka בעל הלשון</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>174 folios
                            
                            
                            
@@ -35,7 +96,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -43,7 +106,42 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 25;
-                                                  written lines: 25; Uniform layout. Ruling by hard point, leaf by leaf on verso. Last line written outside ruling. Larger square initials. Marginal notes and additions. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script (at variance with production area) of the 15th century. Avraham ben Shelomoh: inscribed, folio 173r. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Joseph Zarḳ. Ba'al hallashon. Hebrew. Brit. Mus. Harley 5502.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1457"/></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
-Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25; Uniform layout. Ruling by hard point, leaf by leaf on verso. Last line written outside ruling. Larger square initials. Marginal notes and additions. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script (at variance with production area) of the 15th century. Avraham ben Shelomoh: inscribed, folio 173r. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Joseph Zarḳ. Ba'al hallashon. Hebrew. Brit. Mus. Harley 5502.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1457"/>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Minhagim(מנהגים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Minhagim(מנהגים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 4607: Minhagim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,178 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Water-damaged.</note><note>Folio 1v: notices of two deaths, dated 1653 and 1655.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Water-damaged.</note>
+            <note>Folio 1v: notices of two deaths, dated 1653 and 1655.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 4607</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4607</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A recension of Minhagim of Jacob ben Moses ha-Levi Molin (Maharil).</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="193v">1r-193v</locus><title>Minhagim מנהגים</title></msItem><msItem n="3r"><locus from="3r" to="60v">3r-60v</locus><title>Hilkhot Pesaḥ</title></msItem><msItem n="60v"><locus from="60v" to="61v">60v-61v</locus><title>Din sefirat ha-῾omer</title></msItem><msItem n="61v"><locus from="61v" to="62v">61v-62v</locus><title>Hilkhot shevu῾ot</title></msItem><msItem n="62v"><locus from="62v" to="76r">62v-76r</locus><title>Hilkhot yom ṭov</title></msItem><msItem n="76r"><locus from="76r" to="80v">76r-80v</locus><title>Hilkhot ḥol ha-mo῾ed</title></msItem><msItem n="80v"><locus from="80v" to="86v">80v-86v</locus><title>Hilkhot tish῾ah be-Av</title></msItem><msItem n="86v"><locus from="86v" to="98v">86v-98v</locus><title>Hilkhot Shabat</title></msItem><msItem n="98v"><locus from="98v" to="108v">98v-108v</locus><title>῾Inyene tefilah</title></msItem><msItem n="108v"><locus from="108v" to="109v">108v-109v</locus><title>῾Inyene se῾udah</title></msItem><msItem n="109v"><locus from="109v" to="110r">109v-110r</locus><title>Dine tsitsit</title></msItem><msItem n="110r"><locus from="110r" to="111r">110r-111r</locus><title>Dine tefilin</title></msItem><msItem n="111r"><locus from="111r" to="113r">111r-113r</locus><title>Dine mezuzah</title></msItem><msItem n="113r"><locus from="113r" to="119v">113r-119v</locus><title>Hilkhot semaḥot</title></msItem><msItem n="119v"><locus from="119v" to="125r">119v-125r</locus><title>Hilkhot nisu᾿in</title></msItem><msItem n="125r"><locus from="125r" to="133v">125r-133v</locus><title>Dine ha-geṭ</title></msItem><msItem n="133v"><locus from="133v" to="137v">133v-137v</locus><title>Hilkhot rosh ha-shanah</title></msItem><msItem n="137v"><locus from="137v" to="160r">137v-160r</locus><title>Hilkhot ta῾anit</title></msItem><msItem n="160r"><locus from="160r" to="175r">160r-175r</locus><title>Yom kipur</title></msItem><msItem n="175r"><locus from="175r" to="188r">175r-188r</locus><title>Hilkhot sukot</title></msItem><msItem n="188r"><locus from="188r" to="189v">188r-189v</locus><title>Hilkhot ḥanukah</title></msItem><msItem n="189v"><locus from="189v" to="190v">189v-190v</locus><title>Hilkhot arba῾ parashiyot</title></msItem><msItem n="190v"><locus from="190v" to="193v">190v-193v</locus><title>Hilkhot Purim</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>193 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 4607</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4607</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A recension of Minhagim of Jacob ben Moses ha-Levi Molin (Maharil).</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="193v">1r-193v</locus>
+                     <title>Minhagim מנהגים</title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="60v">3r-60v</locus>
+                     <title>Hilkhot Pesaḥ</title>
+                  </msItem>
+                  <msItem n="60v">
+                     <locus from="60v" to="61v">60v-61v</locus>
+                     <title>Din sefirat ha-῾omer</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="62v">61v-62v</locus>
+                     <title>Hilkhot shevu῾ot</title>
+                  </msItem>
+                  <msItem n="62v">
+                     <locus from="62v" to="76r">62v-76r</locus>
+                     <title>Hilkhot yom ṭov</title>
+                  </msItem>
+                  <msItem n="76r">
+                     <locus from="76r" to="80v">76r-80v</locus>
+                     <title>Hilkhot ḥol ha-mo῾ed</title>
+                  </msItem>
+                  <msItem n="80v">
+                     <locus from="80v" to="86v">80v-86v</locus>
+                     <title>Hilkhot tish῾ah be-Av</title>
+                  </msItem>
+                  <msItem n="86v">
+                     <locus from="86v" to="98v">86v-98v</locus>
+                     <title>Hilkhot Shabat</title>
+                  </msItem>
+                  <msItem n="98v">
+                     <locus from="98v" to="108v">98v-108v</locus>
+                     <title>῾Inyene tefilah</title>
+                  </msItem>
+                  <msItem n="108v">
+                     <locus from="108v" to="109v">108v-109v</locus>
+                     <title>῾Inyene se῾udah</title>
+                  </msItem>
+                  <msItem n="109v">
+                     <locus from="109v" to="110r">109v-110r</locus>
+                     <title>Dine tsitsit</title>
+                  </msItem>
+                  <msItem n="110r">
+                     <locus from="110r" to="111r">110r-111r</locus>
+                     <title>Dine tefilin</title>
+                  </msItem>
+                  <msItem n="111r">
+                     <locus from="111r" to="113r">111r-113r</locus>
+                     <title>Dine mezuzah</title>
+                  </msItem>
+                  <msItem n="113r">
+                     <locus from="113r" to="119v">113r-119v</locus>
+                     <title>Hilkhot semaḥot</title>
+                  </msItem>
+                  <msItem n="119v">
+                     <locus from="119v" to="125r">119v-125r</locus>
+                     <title>Hilkhot nisu᾿in</title>
+                  </msItem>
+                  <msItem n="125r">
+                     <locus from="125r" to="133v">125r-133v</locus>
+                     <title>Dine ha-geṭ</title>
+                  </msItem>
+                  <msItem n="133v">
+                     <locus from="133v" to="137v">133v-137v</locus>
+                     <title>Hilkhot rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="137v">
+                     <locus from="137v" to="160r">137v-160r</locus>
+                     <title>Hilkhot ta῾anit</title>
+                  </msItem>
+                  <msItem n="160r">
+                     <locus from="160r" to="175r">160r-175r</locus>
+                     <title>Yom kipur</title>
+                  </msItem>
+                  <msItem n="175r">
+                     <locus from="175r" to="188r">175r-188r</locus>
+                     <title>Hilkhot sukot</title>
+                  </msItem>
+                  <msItem n="188r">
+                     <locus from="188r" to="189v">188r-189v</locus>
+                     <title>Hilkhot ḥanukah</title>
+                  </msItem>
+                  <msItem n="189v">
+                     <locus from="189v" to="190v">189v-190v</locus>
+                     <title>Hilkhot arba῾ parashiyot</title>
+                  </msItem>
+                  <msItem n="190v">
+                     <locus from="190v" to="193v">190v-193v</locus>
+                     <title>Hilkhot Purim</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>193 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of irregular number of leaves, mostly 8 and 10.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 19 23;
-                                                  written lines: 19 23; Uniform layout. Chapter numbers given in larger characters.Horizontal catchwords on every verso. Running headings.Visible frame ruling (leaf by leaf on recto) and pricking for frame or verticals only.Last line written outside and occasionally within the ruling.Initial words given in larger characters.Scant infralinear vocalization.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script of the 16th century. Ḳalonymus ben Yitsḥaḳ Shalit: inscribed in the colophon, folio 193v.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Maharil. Hebrew. Brit. Mus. Or. 4607.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1540"/><origPlace>Germany  Erfurt</origPlace></origin><provenance>Acquisition: 
-								J. W. Van der Velde : purchased from him by the British Museum on 18 January 1893: inscribed, folio [195v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 19 23; Uniform layout. Chapter numbers given in larger characters.Horizontal catchwords on every verso. Running headings.Visible frame ruling (leaf by leaf on recto) and pricking for frame or verticals only.Last line written outside and occasionally within the ruling.Initial words given in larger characters.Scant infralinear vocalization.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script of the 16th century. Ḳalonymus ben Yitsḥaḳ Shalit: inscribed in the colophon, folio 193v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Maharil. Hebrew. Brit. Mus. Or. 4607.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1540"/>
+                     <origPlace>Germany  Erfurt</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								J. W. Van der Velde : purchased from him by the British Museum on 18 January 1893: inscribed, folio [195v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

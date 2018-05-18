@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tana"kh(תנ"ך)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tana"kh(תנ"ך)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5956: Tana"kh are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Usage stains. Dirt entries at places. </note><note>Folio 1r: a short list of books in late cursive hand.  </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Usage stains. Dirt entries at places. </note>
+            <note>Folio 1r: a short list of books in late cursive hand.  </note>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,136 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5956</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5956</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Bible, with vowel-points and accents, accompanied with masorah parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="415v">1r-415v</locus><title>Tana"kh תנ"ך</title></msItem><msItem n="1v"><locus from="1v" to="27r">1v-27r</locus><title>Genesis</title></msItem><msItem n="27r"><locus from="27r" to="48v">27r-48v</locus><title>Exodus</title></msItem><msItem n="48v"><locus from="48v" to="63v">48v-63v</locus><title>Leviticus</title></msItem><msItem n="63v"><locus from="63v" to="85v">63v-85v</locus><title>Numbers</title></msItem><msItem n="85v"><locus from="85v" to="105r">85v-105r</locus><title>Deuteronomy</title></msItem><msItem n="106r"><locus from="106r" to="118v">106r-118v</locus><title>Joshua</title></msItem><msItem n="118v"><locus from="118v" to="131v">118v-131v</locus><title>Judges</title></msItem><msItem n="131v"><locus from="131v" to="161r">131v-161r</locus><title>Samuel</title></msItem><msItem n="161r"><locus from="161r" to="192r">161r-192r</locus><title>Kings</title></msItem><msItem n="192r"><locus from="192r" to="214r">192r-214r</locus><title>Isaiah</title></msItem><msItem n="214r"><locus from="214r" to="242v">214r-242v</locus><title>Jeremiah</title></msItem><msItem n="242v"><locus from="242v" to="266v">242v-266v</locus><title>Ezekiel</title></msItem><msItem n="266v"><locus from="266v" to="286r">266v-286r</locus><title>Minor Prophets</title></msItem><msItem n="286r"><locus from="286r" to="288r">286r-288r</locus><title>Ruth</title></msItem><msItem n="288r"><locus from="288r" to="322r">288r-322r</locus><title>Psalms</title></msItem><msItem n="322r"><locus from="322r" to="337v">322r-337v</locus><title>Job</title></msItem><msItem n="337v"><locus from="337v" to="351v">337v-351v</locus><title>Proverbs</title></msItem><msItem n="351v"><locus from="351v" to="355r">351v-355r</locus><title>Ecclesiastes</title></msItem><msItem n="355r"><locus from="355r" to="357r">355r-357r</locus><title>Song of Songs</title></msItem><msItem n="357r"><locus from="357r" to="359r">357r-359r</locus><title>Lamentations</title></msItem><msItem n="359r"><locus from="359r" to="367r">359r-367r</locus><title>Daniel</title></msItem><msItem n="367r"><locus from="367r" to="379r">367r-379r</locus><title>Ezra-Nehemiah</title></msItem><msItem n="379r"><locus from="379r" to="383r">379r-383r</locus><title>Esther</title></msItem><msItem n="383r"><locus from="383r" to="415v">383r-415v</locus><title>Chronicles</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>415 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5956</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5956</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Bible, with vowel-points and accents, accompanied with masorah parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="415v">1r-415v</locus>
+                     <title>Tana"kh תנ"ך</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="27r">1v-27r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="27r">
+                     <locus from="27r" to="48v">27r-48v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="48v">
+                     <locus from="48v" to="63v">48v-63v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="85v">63v-85v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="85v">
+                     <locus from="85v" to="105r">85v-105r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="106r">
+                     <locus from="106r" to="118v">106r-118v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="118v">
+                     <locus from="118v" to="131v">118v-131v</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="131v">
+                     <locus from="131v" to="161r">131v-161r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="161r">
+                     <locus from="161r" to="192r">161r-192r</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="192r">
+                     <locus from="192r" to="214r">192r-214r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="214r">
+                     <locus from="214r" to="242v">214r-242v</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="242v">
+                     <locus from="242v" to="266v">242v-266v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="266v">
+                     <locus from="266v" to="286r">266v-286r</locus>
+                     <title>Minor Prophets</title>
+                  </msItem>
+                  <msItem n="286r">
+                     <locus from="286r" to="288r">286r-288r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="288r">
+                     <locus from="288r" to="322r">288r-322r</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="322r">
+                     <locus from="322r" to="337v">322r-337v</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="337v">
+                     <locus from="337v" to="351v">337v-351v</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="351v">
+                     <locus from="351v" to="355r">351v-355r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="355r">
+                     <locus from="355r" to="357r">355r-357r</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="357r">
+                     <locus from="357r" to="359r">357r-359r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="359r">
+                     <locus from="359r" to="367r">359r-367r</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="367r">
+                     <locus from="367r" to="379r">367r-379r</locus>
+                     <title>Ezra-Nehemiah</title>
+                  </msItem>
+                  <msItem n="379r">
+                     <locus from="379r" to="383r">379r-383r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="383r">
+                     <locus from="383r" to="415v">383r-415v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>415 folios
                            
                            
                            
@@ -33,7 +190,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,6 +200,42 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 32;
-                                                  written lines: 32; Uniform layout. Complete hard-point ruling. Hair side and flesh side of folios distinguishable. Masorah parva given in the outer margin. The masoretic rubric registering the number of verses placed at the end of most books.Running titles. Gilt edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script, with vowel-points and accents, of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> Pre-1600. Black leather, gold tooled ('Joseph Simpson, New York, America'). Boxed.  Spine: 'Old Testament. Hebrew. Kennicott 144. Brit. Mus. Oriental 5956.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>Benjamin Kennicott</provenance><provenance>Acquisition: Purchased by the British Museum through M. Levy on 17 April 1901: inscribed, folio [418r] (fse003r). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 32; Uniform layout. Complete hard-point ruling. Hair side and flesh side of folios distinguishable. Masorah parva given in the outer margin. The masoretic rubric registering the number of verses placed at the end of most books.Running titles. Gilt edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script, with vowel-points and accents, of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Black leather, gold tooled ('Joseph Simpson, New York, America'). Boxed.  Spine: 'Old Testament. Hebrew. Kennicott 144. Brit. Mus. Oriental 5956.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>Benjamin Kennicott</provenance>
+                  <provenance>Acquisition: Purchased by the British Museum through M. Levy on 17 April 1901: inscribed, folio [418r] (fse003r). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

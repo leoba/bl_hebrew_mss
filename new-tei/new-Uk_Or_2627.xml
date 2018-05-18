@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im(נביאים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im(נביאים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2627: Nevi᾿im are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,65 +39,315 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
-								Yosef ben Yudah called Elhakhim: inscribed with his name in the colophon (see volume 3, Or 2628, folio 185v). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+								Yosef ben Yudah called Elhakhim: inscribed with his name in the colophon (see volume 3, Or 2628, folio 185v). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2627</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2627</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The second volume of the Bible, with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="273v">1v-273v</locus><title>Nevi᾿im נביאים</title></msItem><msItem n="1v"><locus from="1v" to="21r">1v-21r</locus><title>Joshua</title></msItem><msItem n="21r"><locus from="21r" to="40r">21r-40r</locus><title>Judges</title></msItem><msItem n="40r"><locus from="40r" to="85v">40r-85v</locus><title>Samuel</title></msItem><msItem n="85v"><locus from="85v" to="136v">85v-136v</locus><title>Kings</title></msItem><msItem n="136v"><locus from="136v" to="168r">136v-168r</locus><title>Isaiah</title></msItem><msItem n="168r"><locus from="168r" to="210r">168r-210r</locus><title>Jeremiah</title></msItem><msItem n="210r"><locus from="210r" to="246r">210r-246r</locus><title>Ezekiel</title></msItem><msItem n="246r"><locus from="246r" to="250v">246r-250v</locus><title>Hosea</title></msItem><msItem n="250v"><locus from="250v" to="252r">250v-252r</locus><title>Joel</title></msItem><msItem n="252r"><locus from="252r" to="256r">252r-256r</locus><title>Amos</title></msItem><msItem n="256r"><locus from="256r" to="256v">256r-256v</locus><title>Obadiah</title></msItem><msItem n="256v"><locus from="256v" to="258r">256v-258r</locus><title>Jonah</title></msItem><msItem n="258r"><locus from="258r" to="260v">258r-260v</locus><title>Micah</title></msItem><msItem n="260v"><locus from="260v" to="261v">260v-261v</locus><title>Nahum</title></msItem><msItem n="261v"><locus from="261v" to="263r">261v-263r</locus><title>Habakuk</title></msItem><msItem n="263r"><locus from="263r" to="264v">263r-264v</locus><title>Zephaniah</title></msItem><msItem n="264v"><locus from="264v" to="265v">264v-265v</locus><title>Haggai</title></msItem><msItem n="265v"><locus from="265v" to="271v">265v-271v</locus><title>Zechariah</title></msItem><msItem n="271v"><locus from="271v" to="273v">271v-273v</locus><title>Malachi</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>273 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2627</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2627</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The second volume of the Bible, with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="273v">1v-273v</locus>
+                     <title>Nevi᾿im נביאים</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="21r">1v-21r</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="21r">
+                     <locus from="21r" to="40r">21r-40r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="85v">40r-85v</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="85v">
+                     <locus from="85v" to="136v">85v-136v</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="136v">
+                     <locus from="136v" to="168r">136v-168r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="168r">
+                     <locus from="168r" to="210r">168r-210r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="210r">
+                     <locus from="210r" to="246r">210r-246r</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="246r">
+                     <locus from="246r" to="250v">246r-250v</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="250v">
+                     <locus from="250v" to="252r">250v-252r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="252r">
+                     <locus from="252r" to="256r">252r-256r</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="256r">
+                     <locus from="256r" to="256v">256r-256v</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="256v">
+                     <locus from="256v" to="258r">256v-258r</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="258r">
+                     <locus from="258r" to="260v">258r-260v</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="260v">
+                     <locus from="260v" to="261v">260v-261v</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="261v">
+                     <locus from="261v" to="263r">261v-263r</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="263r">
+                     <locus from="263r" to="264v">263r-264v</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="264v">
+                     <locus from="264v" to="265v">264v-265v</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="265v">
+                     <locus from="265v" to="271v">265v-271v</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="271v">
+                     <locus from="271v" to="273v">271v-273v</locus>
+                     <title>Malachi</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>273 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									34 quires: i-xvi8 (folios 1-128), xvii8-1 (folios 129-135), xviii-xxv8 (folios 136-199), xxvi10 (folios 200-209), xxvii-xxxiv8 (folios 210-273). 
 									Catchwords. 
 									On guards.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 26;
-                                                  written lines: 26; Uniform layout. Masorah magna in usually two lines of the upper and three lines of the lower margin. Hair side and flesh side distinguishable. Ruling with hard-point visible.The Former and the Latter Prophets separated by two leaves containing a masoretic list.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, partially punctuated, of the 15th century. Shemu᾿el ben Shemu᾿el ibn Musa: inscribed with his name in the colophon, Lisbon, 5243 [1483] (see volume 3, Or 2628, folio 185v). </scriptNote></scriptDesc><decoDesc><decoNote>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 4 decorated initial-word panels.</decoNote><decoNote type="border"><locus>1v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>134r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>134v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>135r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>135v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>136v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>168r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>210r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>246r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>250v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>252r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>256r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>256v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>258r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>260v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>261v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>263r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>264v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>265v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>271v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="initial"><locus>1v</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>21r</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>40r</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>85v</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="border"><locus>1v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>134r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>134v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>135r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>135v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>136v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>168r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>210r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>246r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>250v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>252r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>256r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>256v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>258r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>260v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>261v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>263r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>264v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>265v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>271v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
-							</decoNote><decoNote type="initial"><locus>1v</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>21r</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>40r</locus>4 decorated initial-word panels.
-							</decoNote><decoNote type="initial"><locus>85v</locus>4 decorated initial-word panels.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM in-house. Green leather, gold-tooled Star of David on the inner and outer cover. Spine title: 'Hebrew Bible. Lisbon 1484-53. Former and Latter Prophets. Brit. Mus. Oriental 2627.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1483"/><origPlace>Portugal Lisbon</origPlace></origin><provenance>Acquisition: 
-								Benjamin Cohen of Bukhara: purchased by the British Museum from him on 17 November 1882 .</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 26; Uniform layout. Masorah magna in usually two lines of the upper and three lines of the lower margin. Hair side and flesh side distinguishable. Ruling with hard-point visible.The Former and the Latter Prophets separated by two leaves containing a masoretic list.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, partially punctuated, of the 15th century. Shemu᾿el ben Shemu᾿el ibn Musa: inscribed with his name in the colophon, Lisbon, 5243 [1483] (see volume 3, Or 2628, folio 185v). </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 4 decorated initial-word panels.</decoNote>
+                     <decoNote type="border">
+                        <locus>1v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>134r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>134v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>135r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>135v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>136v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>168r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>210r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>246r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>250v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>252r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>256r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>256v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>258r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>260v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>261v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>263r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>264v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>265v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>271v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>1v</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>21r</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>40r</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>85v</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>1v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>134r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>134v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>135r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>135v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>136v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>168r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>210r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>246r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>250v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>252r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>256r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>256v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>258r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>260v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>261v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>263r</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>264v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>265v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>271v</locus>20 full borders sometimes accompanied with decorated initial-word panels, in colours and gold. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>1v</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>21r</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>40r</locus>4 decorated initial-word panels.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>85v</locus>4 decorated initial-word panels.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Green leather, gold-tooled Star of David on the inner and outer cover. Spine title: 'Hebrew Bible. Lisbon 1484-53. Former and Latter Prophets. Brit. Mus. Oriental 2627.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1483"/>
+                     <origPlace>Portugal Lisbon</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Benjamin Cohen of Bukhara: purchased by the British Museum from him on 17 November 1882 .</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

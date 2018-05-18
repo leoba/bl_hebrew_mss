@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27150: Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,17 +39,93 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained.</note>
+            <note>
 								Refa᾿el ben Daniyel, Shemu᾿el ben Daniyel, Yitsḥaḳ ben Daniyel: inscribed in the colophon, folio .Censored by Dominico Irosolomitano, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1597 (folio 274v); see 61, and appendix § 62-74.
 Censored by Giovanni Domenico Carretto, Italian censor (active in the first quarter of the 17th century): inscribed with his name, 'Revisto per me Gio. Domenico Caretto 1609' (folio 273r); see 100-101, and appendix § 80-84. 
-								Luigi da Bologna, a converted Jew working for the Inquisition as censor (active at the end of the sixteenth, beginning of seventeenth century): inscribed with his name, 'Revisto per mi Fra Luigi da Bologna, 1597' (folio 274v), see 104, and appendix § 112-117. Folio 1r: several ownership notes: inheritants of Shelomoh of Cologne (Cremona), below this: Azri᾿el of Cologne, and afterwards: sons of Cologne.</note><note type="relatedResource">
+								Luigi da Bologna, a converted Jew working for the Inquisition as censor (active at the end of the sixteenth, beginning of seventeenth century): inscribed with his name, 'Revisto per mi Fra Luigi da Bologna, 1597' (folio 274v), see 104, and appendix § 112-117. Folio 1r: several ownership notes: inheritants of Shelomoh of Cologne (Cremona), below this: Azri᾿el of Cologne, and afterwards: sons of Cologne.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27150</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27150</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="274v">1r-274v</locus><title>Arba῾ah Ṭurim ארבעה טורים</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>274 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27150</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27150</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Book 1 and 2 of Arba'ah Ṭurim of Jacob ben Asher.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="274v">1r-274v</locus>
+                     <title>Arba῾ah Ṭurim ארבעה טורים</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>274 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									i7 (folios 1-7), ii-xv10 (folios 8-147), xvi4 (folios 148-151), xvii-xxviii10 (folios 152-271), xxix3 (folios 272-274).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 43;
-                                                  written lines: 43; Uniform layout. Visible pricking and horizontal ruling in ink, page by page, and vertical ruling with plummet, also page by page. Hair side and flesh side of the folios distinguishable.Last line written within ruling.Initial words in larger square script. Catchword at the end of each quire.Contains marginal annotations.  Many censorial erasures, e.g., folio 41v, 55r, 58v, 146r, etc.Marginal drawings, e.g., folio 86v, 87v.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive and square script, unpunctuated, of the 15th century. Mordekhai mi-Suliano: inscribed with his name in the colophon (folio ). </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Jacob ben Asher. Tur Orach Chayim And Tur Yoreh De'ah. Hebrew. Brit. Mus. Bibl. Additional 27,150.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1492"/><origPlace>Italy, N. Carpi</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 258: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed (folio [276v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 43; Uniform layout. Visible pricking and horizontal ruling in ink, page by page, and vertical ruling with plummet, also page by page. Hair side and flesh side of the folios distinguishable.Last line written within ruling.Initial words in larger square script. Catchword at the end of each quire.Contains marginal annotations.  Many censorial erasures, e.g., folio 41v, 55r, 58v, 146r, etc.Marginal drawings, e.g., folio 86v, 87v.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive and square script, unpunctuated, of the 15th century. Mordekhai mi-Suliano: inscribed with his name in the colophon (folio ). </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Jacob ben Asher. Tur Orach Chayim And Tur Yoreh De'ah. Hebrew. Brit. Mus. Bibl. Additional 27,150.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1492"/>
+                     <origPlace>Italy, N. Carpi</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 258: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed (folio [276v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

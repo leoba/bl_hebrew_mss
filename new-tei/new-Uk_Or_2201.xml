@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tana"kh (תנ"ך)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tana"kh (תנ"ך)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2201: Tana"kh  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,35 +39,286 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Yosef ben Yudah ben Merwas: inscribed with his name in the colophon, Toledo, Iyyar 5060 [1300] (folio 184r). Erased inscription (folio 4r). 
 								Sulaiman ben Shemu᾿el (?) ben Ḥayim: inscribed with his name as the seller in an Arabic purchase note, 1450 (folio 99v). Judeo-Arabic note, partially obliterated (folio 368v). 
 								Shalom ben Yosef Ḥayim [ .. ]  Levi: inscribed with his name in an owner's inscription, 18th century (folio 184r). 
 								Musi 'n Salem al-Gamal: inscribed with his name in an owner's inscription, 18th century (folio 184r). 
 								Judah 'n Musi: inscribed with his name in an unclear purchase note, undated (folio 186v). 
-								Yudah Kamal: inscribed with his name in an owner's inscription, undated (folio 5r).</note><note type="relatedResource">
+								Yudah Kamal: inscribed with his name in an owner's inscription, undated (folio 5r).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2201</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2201</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Bible with masorah ('First Ibn Merwas Bible').</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="368v">1r-368v</locus><title>Tana"kh  תנ"ך  </title></msItem><msItem n="1v"><locus from="1v" to="3v">1v-3v</locus><title>Masoretic lists</title></msItem><msItem n="4v"><locus from="4v" to="27v">4v-27v</locus><title>Genesis</title></msItem><msItem n="27v"><locus from="27v" to="48v">27v-48v</locus><title>Exodus</title></msItem><msItem n="48v"><locus from="48v" to="62v">48v-62v</locus><title>Leviticus</title></msItem><msItem n="62v"><locus from="62v" to="82r">62v-82r</locus><title>Numbers</title></msItem><msItem n="82r"><locus from="82r" to="104v">82r-104v</locus><title>Deuteronomy</title></msItem><msItem n="104v"><locus from="104v" to="116r">104v-116r</locus><title>Joshua</title></msItem><msItem n="116r"><locus from="116r" to="127v">116r-127v</locus><title>Judges</title></msItem><msItem n="127v"><locus from="127v" to="155r">127v-155r</locus><title>Samuel</title></msItem><msItem n="155r"><locus from="155r" to="189v">155r-189v</locus><title>Kings</title></msItem><msItem n="189v"><locus from="189v" to="208v">189v-208v</locus><title>Isaiah</title></msItem><msItem n="208v"><locus from="208v" to="227r">208v-227r</locus><title>Jeremiah</title></msItem><msItem n="227r"><locus from="227r" to="248v">227r-248v</locus><title>Ezekiel</title></msItem><msItem n="248v"><locus from="248v" to="251r">248v-251r</locus><title>Hosea</title></msItem><msItem n="251r"><locus from="251r" to="252r">251r-252r</locus><title>Joel</title></msItem><msItem n="252r"><locus from="252r" to="254v">252r-254v</locus><title>Amos</title></msItem><msItem n="254v"><locus from="254v" to="255r">254v-255r</locus><title>Obadiah</title></msItem><msItem n="255r"><locus from="255r" to="255v">255r-255v</locus><title>Jonah</title></msItem><msItem n="255v"><locus from="255v" to="257v">255v-257v</locus><title>Micah</title></msItem><msItem n="257v"><locus from="257v" to="258r">257v-258r</locus><title>Nahum</title></msItem><msItem n="258r"><locus from="258r" to="259r">258r-259r</locus><title>Habakkuk</title></msItem><msItem n="259r"><locus from="259r" to="259v">259r-259v</locus><title>Zephaniah</title></msItem><msItem n="259v"><locus from="259v" to="260v">259v-260v</locus><title>Haggai</title></msItem><msItem n="260v"><locus from="260v" to="254r">260v-254r</locus><title>Zechariah</title></msItem><msItem n="264r"><locus from="264r" to="265r">264r-265r</locus><title>Malachi</title></msItem><msItem n="265r"><locus from="265r" to="290r">265r-290r</locus><title>Psalms</title></msItem><msItem n="290r"><locus from="290r" to="299v">290r-299v</locus><title>Job</title></msItem><msItem n="299v"><locus from="299v" to="307v">299v-307v</locus><title>Proverbs</title></msItem><msItem n="307v"><locus from="307v" to="309r">307v-309r</locus><title>Ruth</title></msItem><msItem n="309r"><locus from="309r" to="310v">309r-310v</locus><title>Song of Songs</title></msItem><msItem n="310v"><locus from="310v" to="314r">310v-314r</locus><title>Ecclesiastes</title></msItem><msItem n="314r"><locus from="314r" to="316r">314r-316r</locus><title>Lamentations</title></msItem><msItem n="316r"><locus from="316r" to="319v">316r-319v</locus><title>Esther</title></msItem><msItem n="319v"><locus from="319v" to="326v">319v-326v</locus><title>Daniel</title></msItem><msItem n="326v"><locus from="326v" to="337v">326v-337v</locus><title>Ezra</title></msItem><msItem n="338r"><locus n="338r">338r</locus><title>Masoretic list</title></msItem><msItem n="338v"><locus from="338v" to="368v">338v-368v</locus><title>Chronicles</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>368 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2201</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2201</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Bible with masorah ('First Ibn Merwas Bible').</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="368v">1r-368v</locus>
+                     <title>Tana"kh  תנ"ך  </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="3v">1v-3v</locus>
+                     <title>Masoretic lists</title>
+                  </msItem>
+                  <msItem n="4v">
+                     <locus from="4v" to="27v">4v-27v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="27v">
+                     <locus from="27v" to="48v">27v-48v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="48v">
+                     <locus from="48v" to="62v">48v-62v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="62v">
+                     <locus from="62v" to="82r">62v-82r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="82r">
+                     <locus from="82r" to="104v">82r-104v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="104v">
+                     <locus from="104v" to="116r">104v-116r</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="116r">
+                     <locus from="116r" to="127v">116r-127v</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="127v">
+                     <locus from="127v" to="155r">127v-155r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="155r">
+                     <locus from="155r" to="189v">155r-189v</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="189v">
+                     <locus from="189v" to="208v">189v-208v</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="208v">
+                     <locus from="208v" to="227r">208v-227r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="227r">
+                     <locus from="227r" to="248v">227r-248v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="248v">
+                     <locus from="248v" to="251r">248v-251r</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="251r">
+                     <locus from="251r" to="252r">251r-252r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="252r">
+                     <locus from="252r" to="254v">252r-254v</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="254v">
+                     <locus from="254v" to="255r">254v-255r</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="255r">
+                     <locus from="255r" to="255v">255r-255v</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="255v">
+                     <locus from="255v" to="257v">255v-257v</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="257v">
+                     <locus from="257v" to="258r">257v-258r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="258r">
+                     <locus from="258r" to="259r">258r-259r</locus>
+                     <title>Habakkuk</title>
+                  </msItem>
+                  <msItem n="259r">
+                     <locus from="259r" to="259v">259r-259v</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="259v">
+                     <locus from="259v" to="260v">259v-260v</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="260v">
+                     <locus from="260v" to="254r">260v-254r</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="264r">
+                     <locus from="264r" to="265r">264r-265r</locus>
+                     <title>Malachi</title>
+                  </msItem>
+                  <msItem n="265r">
+                     <locus from="265r" to="290r">265r-290r</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="290r">
+                     <locus from="290r" to="299v">290r-299v</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="299v">
+                     <locus from="299v" to="307v">299v-307v</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="307v">
+                     <locus from="307v" to="309r">307v-309r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="309r">
+                     <locus from="309r" to="310v">309r-310v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="310v">
+                     <locus from="310v" to="314r">310v-314r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="314r">
+                     <locus from="314r" to="316r">314r-316r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="316r">
+                     <locus from="316r" to="319v">316r-319v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="319v">
+                     <locus from="319v" to="326v">319v-326v</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="326v">
+                     <locus from="326v" to="337v">326v-337v</locus>
+                     <title>Ezra</title>
+                  </msItem>
+                  <msItem n="338r">
+                     <locus n="338r">338r</locus>
+                     <title>Masoretic list</title>
+                  </msItem>
+                  <msItem n="338v">
+                     <locus from="338v" to="368v">338v-368v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>368 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Originally quires of 6 leaves, but at a later re-binding the quires have been rendered indeterminate. 
 									Catchwords at the end of quires. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 32;
                                                   written lines: 32; Folio 1 is cut off most part. Folios 1 and 4 are later additions.
  Complete ruling with hard-point. Pricking in outer and inner margins, quire by quire, on recto. Uniform layout, last line of text written ouside ruling. Heading on each leaf. Hebrew foliation from folio 5, starting with 2 until the end of the Pentateuch (folio 99).
  In the colophon (folio 184), the name of the patron has been erased. The original date 5060 [1300] has been erased and overwritten as 5006 [1246].
-The same scribe copied two other bibles in Toledo: Sassoon Collection (MS 508 dated 1307, MS 1208 dated 1334). Numerous decorations: full-page miniature of the Temple implements, 5 full borders of geometric design, masorah in the margins written in microghraphical form, 6 full-page panels of masorah magna in micrographical design, numerous decorated parashah signs. Masorah magna occupies two lines at the top and three lines at the bottom of each page.  Joshua, Isaiah, Psalms, and Chronicles begin a new leaf, and Jeremiah begins a new column. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script of the beginning of 14th century, punctuated. </scriptNote></scriptDesc><decoDesc><decoNote type="miniature"><locus>2r</locus>Full-page miniature of the Temple implements, with colours and gold. 
-							</decoNote><decoNote type="border"><locus>34v</locus>5 full borders of geometric design, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>35r</locus>5 full borders of geometric design, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>97v</locus>5 full borders of geometric design, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>98r</locus>5 full borders of geometric design, in colours and gold. 
-							</decoNote><decoNote type="border"><locus>98v</locus>5 full borders of geometric design, in colours and gold. 
-							</decoNote><decoNote type="marginal">Masorah in the margins written in microghraphical form. </decoNote><decoNote type="paratext"><locus>187r</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="paratext"><locus>187v</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="paratext"><locus>188r</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="paratext"><locus>188v</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="paratext"><locus>189r</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="paratext"><locus>338r</locus>6 full-page panels of masorah magna in micrographical design. 
-							</decoNote><decoNote type="marginal">Numerous decorated parashah signs, in ink.</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. White parchment binding, black tooled. Spine: 'Bible. Hebrew. Brit. Mus. Oriental 2201.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1300"/><origPlace>Spain Castile Toledo</origPlace></origin><provenance>Acquisition: Purchased by the British Museum in 1879. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+The same scribe copied two other bibles in Toledo: Sassoon Collection (MS 508 dated 1307, MS 1208 dated 1334). Numerous decorations: full-page miniature of the Temple implements, 5 full borders of geometric design, masorah in the margins written in microghraphical form, 6 full-page panels of masorah magna in micrographical design, numerous decorated parashah signs. Masorah magna occupies two lines at the top and three lines at the bottom of each page.  Joshua, Isaiah, Psalms, and Chronicles begin a new leaf, and Jeremiah begins a new column. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script of the beginning of 14th century, punctuated. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="miniature">
+                        <locus>2r</locus>Full-page miniature of the Temple implements, with colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>34v</locus>5 full borders of geometric design, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>35r</locus>5 full borders of geometric design, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>97v</locus>5 full borders of geometric design, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>98r</locus>5 full borders of geometric design, in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>98v</locus>5 full borders of geometric design, in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">Masorah in the margins written in microghraphical form. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>187r</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>187v</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>188r</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>188v</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>189r</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>338r</locus>6 full-page panels of masorah magna in micrographical design. 
+							</decoNote>
+                     <decoNote type="marginal">Numerous decorated parashah signs, in ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. White parchment binding, black tooled. Spine: 'Bible. Hebrew. Brit. Mus. Oriental 2201.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1300"/>
+                     <origPlace>Spain Castile Toledo</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum in 1879. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of הגדה של פסח(Hagadah for Passover)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of הגדה של פסח(Hagadah for Passover)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1404: הגדה של פסח are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,72 +39,255 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Me᾿ir ben Malakhi᾿el Ashkenazi: sold to his brother-in-law, Mosheh ibn Keves in the month of Sivan 5162 (3 May to 1 June 1402): inscribed (on a strip of vellum stuck on a paper strip pasted on folio 1r).
 
 								Avraham Ḥen, son of the nobleman R. Ya'udah, physician, son of Emanuel Ḥen the physician of the house of Shealti᾿el: inscribed with his name (folio 50v).
-Pencil note in English: "Spanish mss. Of this age are so rare that the Brit. Mus. has not one like this." (folio [i verso]).</note><note type="relatedResource">
+Pencil note in English: "Spanish mss. Of this age are so rare that the Brit. Mus. has not one like this." (folio [i verso]).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1404</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1404</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Hagadah for Passover according to the Spanish rite (the 'Brother Hagadah').</summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="50v">1v-50v</locus><title>הגדה של פסח Hagadah for Passover </title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>51 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1404</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1404</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hagadah for Passover according to the Spanish rite (the 'Brother Hagadah').</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="50v">1v-50v</locus>
+                     <title>הגדה של פסח Hagadah for Passover </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>51 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									7 quires: i8 (folios 1-8v), ii8 (folios 9-16v), iii8 (folios 17-24v), iv8 (folios 25-32), v8 (folios 33-40), vi8 (folios 41-48), vii4-1 (folios 49-51).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 15 28;
                                                   written lines: 15 28; Ruling is visible. Hair-side and flesh-side of the folios are distinguishable.
-</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, partially punctuated (certain sections of the main text as well as the captions and texts on the upper and lower margins not punctuated).</scriptNote></scriptDesc><decoDesc><decoNote type="miniature">13 full-page miniatures in geometrical frames.
-							</decoNote><decoNote type="illustration"><locus>8r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>9r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>9v</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>10r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>10v</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>14v</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>15r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>17r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>17v</locus>10 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>18r</locus>10 textual illustrations. 
-							</decoNote><decoNote type="initial"><locus>8r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>8v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>9r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>9v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>10r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>10v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>11r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>11v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>12r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>12v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>13r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>13v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>14r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>16v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>17r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>17v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>18r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>18v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>19r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>19v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>20r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>20v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>21r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>21v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>22r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>27v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>29v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="initial"><locus>30r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
-							</decoNote><decoNote type="illustration"><locus>8r</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
-							</decoNote><decoNote type="illustration"><locus>15v</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
-							</decoNote><decoNote type="illustration"><locus>16r</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
-							</decoNote><decoNote type="illustration"><locus>18r)</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
-							</decoNote><decoNote type="initial">Numerous initial words with penwork decoration. 
-							</decoNote><decoNote type="vignette"><locus>23v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>24r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>24v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>25v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>28r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>28v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>29r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>29v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
-							</decoNote><decoNote type="vignette"><locus>15v</locus>Embellished vertical bands with white vine motifs and golden keywords of the text included.
-							</decoNote><decoNote type="vignette"><locus>16r</locus>Embellished vertical bands with white vine motifs and golden keywords of the text included.
-							</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600. Italian white parchment, tooled. Spine: 'Haggadah. Pesach. Hebrew. Brit. Mus. Oriental 1404.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1350" notAfter="1374"/><origPlace>Spain, N. E. Catalonia</origPlace></origin><provenance>Acquisition: Purchased by the British Museum at Bragge's sale on 7-10 June 1876: inscribed (folio [i verso]); perhaps William Bragge (b. 1823, d. 1884), civil engineer and steel manufacturer.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, partially punctuated (certain sections of the main text as well as the captions and texts on the upper and lower margins not punctuated).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="miniature">13 full-page miniatures in geometrical frames.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>8r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>9r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>9v</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>10r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>10v</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>14v</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>15r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>17r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>17v</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>18r</locus>10 textual illustrations. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>8r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>8v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>9r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>9v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>10r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>10v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>11r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>11v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>12r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>12v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>13r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>13v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>14r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>16v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>17r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>17v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>18r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>18v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>19r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>19v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>20r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>20v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>21r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>21v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>22r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>27v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>29v</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>30r</locus>28 decorated initial-word panels with gold letters with foliate spreading to the margin. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>8r</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>15v</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>16r</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>18r)</locus>4 marginal illustrations with foliate, animals, hybrids, hunting scene.
+							</decoNote>
+                     <decoNote type="initial">Numerous initial words with penwork decoration. 
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>23v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>24r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>24v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>25v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>28r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>28v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>29r</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>29v</locus>8 embellished vertical bands with keywords of texts, penwork and pen-flourishing.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>15v</locus>Embellished vertical bands with white vine motifs and golden keywords of the text included.
+							</decoNote>
+                     <decoNote type="vignette">
+                        <locus>16r</locus>Embellished vertical bands with white vine motifs and golden keywords of the text included.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Italian white parchment, tooled. Spine: 'Haggadah. Pesach. Hebrew. Brit. Mus. Oriental 1404.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1350" notAfter="1374"/>
+                     <origPlace>Spain, N. E. Catalonia</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum at Bragge's sale on 7-10 June 1876: inscribed (folio [i verso]); perhaps William Bragge (b. 1823, d. 1884), civil engineer and steel manufacturer.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

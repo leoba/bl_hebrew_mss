@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Hagadah for Passover according to the Spanish rite (the 'Hispano-Moresque Hagadah').</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Hagadah for Passover according to the Spanish rite (the 'Hispano-Moresque Hagadah').</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2737: Hagadah for Passover according to the Spanish rite (the 'Hispano-Moresque Hagadah'). are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,25 +39,131 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2737</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2737</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Hagadah for Passover according to the Spanish rite (the 'Hispano-Moresque Hagadah').</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="93v">1r-93v</locus><title>הגדה של פסח Hagadah shel Pesaḥ </title></msItem><msItem n="1v"><locus from="1v" to="6r">1v-6r</locus><title>Introduction</title></msItem><msItem n="6r"><locus from="6r" to="46v">6r-46v</locus><title>Hagadah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>93 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2737</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2737</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hagadah for Passover according to the Spanish rite (the 'Hispano-Moresque Hagadah').</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="93v">1r-93v</locus>
+                     <title>הגדה של פסח Hagadah shel Pesaḥ </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="6r">1v-6r</locus>
+                     <title>Introduction</title>
+                  </msItem>
+                  <msItem n="6r">
+                     <locus from="6r" to="46v">6r-46v</locus>
+                     <title>Hagadah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>93 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									13 quires: i4 (folios 1-3*), ii8 (folios 4-11), iii8 (folios 12-19), iv6 (folios 20-25), v8 (folios 26-33), vi8 (folios 34-41), vii8 (folios 42-49), viii8 (folios 50-57), ix6 (folios 58-63), x6 (folios 64-69), xi8 (folios 70-77), xii8-1 (folios 78-84), xiii10-1 (folios 85-93).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 12;
                                                   written lines: 12; Hard-point ruling is visible. Hair-side and flesh-side of the folios are distinguishable.
-Has many illuminations and illustrations, which consist mainly of gold and coloured letters and designs.Some parts of the text are written in red ink.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sephardi square script, punctuated, of the last quarter of the 13th century or 1st quarter of the 14th century, c. 1300.</scriptNote></scriptDesc><decoDesc><decoNote type="illustration">Picture cycle of 63 full-page miniatures with coloured washes.
-							</decoNote><decoNote type="miniature"><locus>1r</locus>2 full-page miniatures at the beginning and at the end of the text of the Haggadah. 
-							</decoNote><decoNote type="miniature"><locus>35v</locus>2 full-page miniatures at the beginning and at the end of the text of the Haggadah. 
-							</decoNote><decoNote type="illustration"><locus>9v</locus>5 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>20v</locus>5 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>21r</locus>5 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>22r</locus>5 textual illustrations. 
-							</decoNote><decoNote type="illustration"><locus>22v</locus>5 textual illustrations. 
-							</decoNote><decoNote type="initial">Numerous decorated initial-word panels with gold letters. </decoNote><decoNote type="border"><locus>18v</locus>Embellished vertical band with keywords of texts on two folios. 
-							</decoNote><decoNote type="border"><locus>19r</locus>Embellished vertical band with keywords of texts on two folios. 
-							</decoNote><decoNote type="paratext">Numerous rubrics.</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Black leather. Spine: 'Haggada. Hebrew. Brit. Mus. Oriental 2737.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1275" notAfter="1324"/><origPlace>Spain Castile</origPlace></origin><provenance>Acquisition: 
-								Hayim Horowitz: purchased by the British Museum from him on 26 January 1884 (paper flyleaf of the back binding).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Has many illuminations and illustrations, which consist mainly of gold and coloured letters and designs.Some parts of the text are written in red ink.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sephardi square script, punctuated, of the last quarter of the 13th century or 1st quarter of the 14th century, c. 1300.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">Picture cycle of 63 full-page miniatures with coloured washes.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>1r</locus>2 full-page miniatures at the beginning and at the end of the text of the Haggadah. 
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>35v</locus>2 full-page miniatures at the beginning and at the end of the text of the Haggadah. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>9v</locus>5 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>20v</locus>5 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>21r</locus>5 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>22r</locus>5 textual illustrations. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>22v</locus>5 textual illustrations. 
+							</decoNote>
+                     <decoNote type="initial">Numerous decorated initial-word panels with gold letters. </decoNote>
+                     <decoNote type="border">
+                        <locus>18v</locus>Embellished vertical band with keywords of texts on two folios. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>19r</locus>Embellished vertical band with keywords of texts on two folios. 
+							</decoNote>
+                     <decoNote type="paratext">Numerous rubrics.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Black leather. Spine: 'Haggada. Hebrew. Brit. Mus. Oriental 2737.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1275" notAfter="1324"/>
+                     <origPlace>Spain Castile</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Hayim Horowitz: purchased by the British Museum from him on 26 January 1884 (paper flyleaf of the back binding).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

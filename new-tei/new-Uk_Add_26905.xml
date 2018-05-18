@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Giv῾at Pinḥas, the responses of Pinḥas Ḥai Anav in nine volumes.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Giv῾at Pinḥas, the responses of Pinḥas Ḥai Anav in nine volumes.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26905: Giv῾at Pinḥas, the responses of Pinḥas Ḥai Anav in nine volumes. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,91 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Shemu᾿el Ḥai Kohen of Riviera: dated 5560 (1800), folio 1r.
-								Avraham Shelomoh Mal᾿akh of Cassale, dated 5560 (1800), folio 1r.</note><note type="relatedResource">
+								Avraham Shelomoh Mal᾿akh of Cassale, dated 5560 (1800), folio 1r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26905</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26905</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Giv῾at Pinḥas, the responses of Pinḥas Ḥai Anav in nine volumes.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="246v">1r-246v</locus><title>Giv῾at Pinḥas גבעת פנחס</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>246 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26905</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26905</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Giv῾at Pinḥas, the responses of Pinḥas Ḥai Anav in nine volumes.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="246v">1r-246v</locus>
+                     <title>Giv῾at Pinḥas גבעת פנחס</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>246 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 23;
-                                                  written lines: 23; Uniform layout. Hard-point ruling is visible at times.Initial words in each section are given in larger square characters.Catchwords appear on every page.Some marginal notes and additions are present.Original Hebrew foliation is presereved in the upper left-hand corner of every recto.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the 18th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Pinchas Chai Anav. Teshuboth. Hebrew. Vol. I. Part I. Brit. Mus. Additional 26,905.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1760" notAfter="1766"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 14:his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, folio [247v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 23; Uniform layout. Hard-point ruling is visible at times.Initial words in each section are given in larger square characters.Catchwords appear on every page.Some marginal notes and additions are present.Original Hebrew foliation is presereved in the upper left-hand corner of every recto.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the 18th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Pinchas Chai Anav. Teshuboth. Hebrew. Vol. I. Part I. Brit. Mus. Additional 26,905.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1760" notAfter="1766"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 14:his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, folio [247v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

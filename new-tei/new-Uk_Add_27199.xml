@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of mystical and kabbalistic texts.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of mystical and kabbalistic texts.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27199: A collection of mystical and kabbalistic texts. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,54 +39,233 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>First leaves slightly damaged by water. </note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>First leaves slightly damaged by water. </note>
+            <note>
 								Elijah Levita (Eliyah ha-Baḥur ben Asher ha-Leṿi Ashkenazi, ha-Medaḳdeḳ), (b. 1468, d. 1549): inscribed in the colophon, folios 600v-601r.
-								Egidio da Viterbo, cardinal (b. 1469, d. 1532): inscribed in the colophon, folios 600v-601r.</note><note type="relatedResource">
+								Egidio da Viterbo, cardinal (b. 1469, d. 1532): inscribed in the colophon, folios 600v-601r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27199</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27199</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of mystical and kabbalistic texts.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="379v">1r-379v</locus><title>Sode razaya סודי רזייא</title></msItem><msItem n="379v"><locus from="379v" to="388v">379v-388v</locus><title>Sefer yetsirah ספר יצירה</title></msItem><msItem n="388v"><locus from="388v" to="470v">388v-470v</locus><title>Perush sefer yetsirah פירוש ספר יצירה</title></msItem><msItem n="470v"><locus from="470v" to="485v">470v-485v</locus><title>סגולות Segulot</title></msItem><msItem n="485v"><locus from="485v" to="522v">485v-522v</locus><title>Sefer ḥokhmat ha-nefesh ספר חכמת הנפש</title></msItem><msItem n="522v"><locus from="522v" to="526r">522v-526r</locus><title>She᾿elat teshuvah שאלת תשובה</title></msItem><msItem n="526r"><locus from="526r" to="600v">526r-600v</locus><title>Sefer ḥokhmat ha-nefesh ספר חכמת הנפש</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>601 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27199</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27199</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of mystical and kabbalistic texts.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="379v">1r-379v</locus>
+                     <title>Sode razaya סודי רזייא</title>
+                  </msItem>
+                  <msItem n="379v">
+                     <locus from="379v" to="388v">379v-388v</locus>
+                     <title>Sefer yetsirah ספר יצירה</title>
+                  </msItem>
+                  <msItem n="388v">
+                     <locus from="388v" to="470v">388v-470v</locus>
+                     <title>Perush sefer yetsirah פירוש ספר יצירה</title>
+                  </msItem>
+                  <msItem n="470v">
+                     <locus from="470v" to="485v">470v-485v</locus>
+                     <title>סגולות Segulot</title>
+                  </msItem>
+                  <msItem n="485v">
+                     <locus from="485v" to="522v">485v-522v</locus>
+                     <title>Sefer ḥokhmat ha-nefesh ספר חכמת הנפש</title>
+                  </msItem>
+                  <msItem n="522v">
+                     <locus from="522v" to="526r">522v-526r</locus>
+                     <title>She᾿elat teshuvah שאלת תשובה</title>
+                  </msItem>
+                  <msItem n="526r">
+                     <locus from="526r" to="600v">526r-600v</locus>
+                     <title>Sefer ḥokhmat ha-nefesh ספר חכמת הנפש</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>601 folios
 									
-								</extent><foliation>The original foliation is preserved in the left-hand upper corner of each recto and the right-hand upper corner of each verso. </foliation><collation><p>
+								</extent>
+                        <foliation>The original foliation is preserved in the left-hand upper corner of each recto and the right-hand upper corner of each verso. </foliation>
+                        <collation>
+                           <p>
 									60 quires of 10 leaves each. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 22 36;
-                                                  written lines: 22 36; Uniform layout. Regular layout with ruling by black plummet. Last written line outside ruling. Titles and initial words given in large characters. Catchwords on every verso, in smaller letters, often highlighted with pen and ink. Occasional infralinear vocalization. Red ink marginal notes in Latin (not by the scribe). Last line written outside ruling. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script of 16th century (at variance with production area).</scriptNote></scriptDesc><decoDesc><decoNote type="diagram"><locus>32r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>32v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>37v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>88v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>90r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>150r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>151r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>228v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>271v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>272r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>272v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>369v</locus>
-								Diagrams (ink).</decoNote><decoNote type="vignette"><locus>152r</locus>
-								Maniculae.</decoNote><decoNote type="vignette"><locus>168v</locus>
-								Maniculae.</decoNote><decoNote type="vignette"><locus>290r</locus>
-								Maniculae.</decoNote><decoNote type="diagram"><locus>437r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>437v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>439r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>439v</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>440r</locus>
-								Diagrams (ink).</decoNote><decoNote type="diagram"><locus>442r</locus>
-								Diagrams (ink).</decoNote><decoNote type="marginal"><locus>393r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>397v</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>400r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>401r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>413v</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>424r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>426v</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>428r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>438r</locus>
-								Maniculae.</decoNote><decoNote type="illustration"><locus>484v</locus>
-								A pen and ink drawing of a snake.</decoNote><decoNote type="marginal"><locus>498r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>498v</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>499r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>503r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>503v</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>507r</locus>
-								Maniculae.</decoNote><decoNote type="marginal"><locus>etc.</locus>
-								Maniculae.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Brown. Spine: 'Kabbalistic Works by Eleazar of Worms. Hebrew. Brit. Mus. Additional 27199.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1516"/><origPlace>Italy, C. Rome</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 313: inscribed (); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [602v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22 36; Uniform layout. Regular layout with ruling by black plummet. Last written line outside ruling. Titles and initial words given in large characters. Catchwords on every verso, in smaller letters, often highlighted with pen and ink. Occasional infralinear vocalization. Red ink marginal notes in Latin (not by the scribe). Last line written outside ruling. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script of 16th century (at variance with production area).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="diagram">
+                        <locus>32r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>32v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>37v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>88v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>90r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>150r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>151r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>228v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>271v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>272r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>272v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>369v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="vignette">
+                        <locus>152r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="vignette">
+                        <locus>168v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="vignette">
+                        <locus>290r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>437r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>437v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>439r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>439v</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>440r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="diagram">
+                        <locus>442r</locus>
+								Diagrams (ink).</decoNote>
+                     <decoNote type="marginal">
+                        <locus>393r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>397v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>400r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>401r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>413v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>424r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>426v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>428r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>438r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>484v</locus>
+								A pen and ink drawing of a snake.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>498r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>498v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>499r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>503r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>503v</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>507r</locus>
+								Maniculae.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>etc.</locus>
+								Maniculae.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Brown. Spine: 'Kabbalistic Works by Eleazar of Worms. Hebrew. Brit. Mus. Additional 27199.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1516"/>
+                     <origPlace>Italy, C. Rome</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 313: inscribed (); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [602v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

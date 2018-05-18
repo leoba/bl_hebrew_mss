@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of תורה(Torah)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of תורה(Torah)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 4445: תורה are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,112 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A considerable number of leaves are mutilated. Some folios are more or less damaged (e.g. folios 122r, 122v, 123r, 123v, 124r, 124v, 126r, 126v, 127r, 127v).</note><note>Folios 1r-28v, 125r-125v , 128r-128v and 159r-186v, which are paper, were added in 1540. An illegible owner's note in Persian (in Hebrew characters), folio 186v.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A considerable number of leaves are mutilated. Some folios are more or less damaged (e.g. folios 122r, 122v, 123r, 123v, 124r, 124v, 126r, 126v, 127r, 127v).</note>
+            <note>Folios 1r-28v, 125r-125v , 128r-128v and 159r-186v, which are paper, were added in 1540. An illegible owner's note in Persian (in Hebrew characters), folio 186v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 4445</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4445</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with vowel-points and accents, masorah magna and parva, aka London Codex. </summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="186v">1v-186v</locus><title>תורה Torah Pentateuch</title></msItem><msItem n="1v"><locus from="1v" to="42r">1v-42r</locus><title>Genesis</title></msItem><msItem n="42r"><locus from="42r" to="85r">42r-85r</locus><title>Exodus</title></msItem><msItem n="85r"><locus from="85r" to="115r">85r-115r</locus><title>Leviticus</title></msItem><msItem n="115r"><locus from="115r" to="158v">115r-158v</locus><title>Numbers</title></msItem><msItem n="158v"><locus from="158v" to="186v">158v-186v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>186 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 4445</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4445</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with vowel-points and accents, masorah magna and parva, aka London Codex. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="186v">1v-186v</locus>
+                     <title>תורה Torah Pentateuch</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="42r">1v-42r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="42r">
+                     <locus from="42r" to="85r">42r-85r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="85r">
+                     <locus from="85r" to="115r">85r-115r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="115r">
+                     <locus from="115r" to="158v">115r-158v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="158v">
+                     <locus from="158v" to="186v">158v-186v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>186 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									The original arrangement of quires is uncertain.
 									Leaves have been cancelled in different parts.
 									Many of the extant folios are irregularly joined together.
 									Signatures are found on some of the folios, marking the beginning of quires, with Arabic letters on the upper left-hand corner and with Hebrew letters on the right-hand corner.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 21;
-                                                  written lines: 21; Ruling is visible. Several lacunae.Each pericope divided into sections.The upper perpendicular stroke of the letter lamed is considerably lengthened out in the first line of a page. Parts of letter aleph are generally used to fill up the lineThe left side of the columns is irregular, the scribed not having used the elongated letters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental square script of probably 10th century, with more recent paper additions with Yemenite square script of the 16th century. Nissi ben Daniel, probably also the punctuator of the manuscript (see  141-145): inscribed in the masoretic notes, folios 40r, 113v, 139r.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="0920" notAfter="0950"/><origPlace>Egypt Palestine</origPlace></origin><provenance>Acquisition: Mrs C. D. Sassoon &amp; Co. : purchased by the British Museum on 09 May 1891, inscribed folio .</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 21; Ruling is visible. Several lacunae.Each pericope divided into sections.The upper perpendicular stroke of the letter lamed is considerably lengthened out in the first line of a page. Parts of letter aleph are generally used to fill up the lineThe left side of the columns is irregular, the scribed not having used the elongated letters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental square script of probably 10th century, with more recent paper additions with Yemenite square script of the 16th century. Nissi ben Daniel, probably also the punctuator of the manuscript (see  141-145): inscribed in the masoretic notes, folios 40r, 113v, 139r.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="0920" notAfter="0950"/>
+                     <origPlace>Egypt Palestine</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Mrs C. D. Sassoon &amp; Co. : purchased by the British Museum on 09 May 1891, inscribed folio .</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

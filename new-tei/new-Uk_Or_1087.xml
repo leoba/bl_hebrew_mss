@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of The book of Esther. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of The book of Esther. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1087: The book of Esther.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,12 +39,86 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>From the collection of Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: inscribed, folio 1v. Folio 1v (paper flyleaf at the beginning of the manuscript): a note of ownership of J. Noble Coleman: his bookplate with Latin inscription: recte sed suaviter (inner upper cover). The manuscript was given to him by George Pope, having been bought from a bookseller in Bristol.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>From the collection of Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: inscribed, folio 1v. Folio 1v (paper flyleaf at the beginning of the manuscript): a note of ownership of J. Noble Coleman: his bookplate with Latin inscription: recte sed suaviter (inner upper cover). The manuscript was given to him by George Pope, having been bought from a bookseller in Bristol.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1087</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1087</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The book of Esther. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="20v">1r-20v</locus><title>Megilat Ester  מגלת אסתר</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>20 folios 
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1087</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1087</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The book of Esther. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="20v">1r-20v</locus>
+                     <title>Megilat Ester  מגלת אסתר</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>20 folios 
+								</extent>
+                        <collation>
+                           <p>
 									Previously in the form of scroll, now in book-form. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 21;
-                                                  written lines: 21; Uniform layout. 19 columns, first four with vowel-points.The letters of שעטנזגץ provided with three tagin. One tag placed on the letters בדהחיק.Majuscular letters in verses: 1:6, 9:9, 9:29; minuscular letters in verses: 9:7, 9:9.The names of the sons of Haman arranged according to the rule.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi aquare script of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown leather. Gold tooled. Spine title: 'Esther. Hebrew. Oriental 1087.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>Acquisition: Rev. John Noble Coleman (b. 1793, d.1872), Methodist missionary and scholar: bequeathed by him to the British Museum on 25 May 1872.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 21; Uniform layout. 19 columns, first four with vowel-points.The letters of שעטנזגץ provided with three tagin. One tag placed on the letters בדהחיק.Majuscular letters in verses: 1:6, 9:9, 9:29; minuscular letters in verses: 9:7, 9:9.The names of the sons of Haman arranged according to the rule.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi aquare script of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather. Gold tooled. Spine title: 'Esther. Hebrew. Oriental 1087.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>Acquisition: Rev. John Noble Coleman (b. 1793, d.1872), Methodist missionary and scholar: bequeathed by him to the British Museum on 25 May 1872.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

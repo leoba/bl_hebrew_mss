@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of biblical and legal commentaries, and letters. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of biblical and legal commentaries, and letters. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27131: A collection of biblical and legal commentaries, and letters.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Foxing at edges.   Usage stains.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Foxing at edges.   Usage stains.
  A few losses infilled.
-</note><note/><note type="relatedResource">
+</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -26,8 +55,96 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27131</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27131</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of biblical and legal commentaries, and letters. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="19r">1r-19r</locus><title>Yesod mora ṿe-sod Torah יסוד מורא וסוד תורה</title></msItem><msItem n="19v"><locus from="19v" to="24v">19v-24v</locus><title>Sefer ha-shem ספר השם</title></msItem><msItem n="25r"><locus from="25r" to="55r">25r-55r</locus><title>Perush ῾esrim ṿe-ḥamishah haḳdamot shebe-Moreh nevukhim פרוש עשרים וחמשה הקדמות שבמורה נבוכים</title></msItem><msItem n="55r"><locus from="55r" to="56v">55r-56v</locus><title>Igeret ᾿el Shemu᾿el ibn Tibon אגרת אל שמואל אבן תבון</title></msItem><msItem n="56v"><locus from="56v" to="59v">56v-59v</locus><title>Igeret ᾿el ha-yehudim be-Roma  אגרת אל היהודים ברומא</title></msItem><msItem n="60r"><locus from="60r" to="60v">60r-60v</locus><title>Derashah ῾al ḥalom Ya῾aḳov  דרשה על חלום יעקב</title></msItem><msItem n="60v"><locus from="60v" to="61r">60v-61r</locus><title>Ketav ḥerem  כתב חרם </title></msItem><msItem n="61r"><locus from="61r" to="68v">61r-68v</locus><title>Igeret ha-ḥemdah  אגרת החמדה</title></msItem><msItem n="68v"><locus from="68v" to="69r">68v-69r</locus><title>Derushim  דרושים</title></msItem><msItem n="69r"><locus from="69r" to="72v">69r-72v</locus><title>Tefilah תפלה</title></msItem><msItem n="72v"><locus from="72v" to="74v">72v-74v</locus><title>Perush ῾al perush ha-Torah פרוש על פרוש התורה</title></msItem><msItem n="76r"><locus from="76r" to="84v">76r-84v</locus><title>Sefer ha-nefesh ספר הנפש</title></msItem><msItem n="85r"><locus from="85r" to="90r">85r-90r</locus><title>Igeret ᾿el ḥokhme Monpeshler  אגרת אל חכמי מונפישליר</title></msItem><msItem n="90r"><locus from="90r" to="94v">90r-94v</locus><title>Milḥamot ha-Shem מלחמות השם</title></msItem><msItem n="95r"><locus from="95r" to="151v">95r-151v</locus><title>Igron ῾ivri אגרון עברי</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>151 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27131</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27131</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of biblical and legal commentaries, and letters. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="19r">1r-19r</locus>
+                     <title>Yesod mora ṿe-sod Torah יסוד מורא וסוד תורה</title>
+                  </msItem>
+                  <msItem n="19v">
+                     <locus from="19v" to="24v">19v-24v</locus>
+                     <title>Sefer ha-shem ספר השם</title>
+                  </msItem>
+                  <msItem n="25r">
+                     <locus from="25r" to="55r">25r-55r</locus>
+                     <title>Perush ῾esrim ṿe-ḥamishah haḳdamot shebe-Moreh nevukhim פרוש עשרים וחמשה הקדמות שבמורה נבוכים</title>
+                  </msItem>
+                  <msItem n="55r">
+                     <locus from="55r" to="56v">55r-56v</locus>
+                     <title>Igeret ᾿el Shemu᾿el ibn Tibon אגרת אל שמואל אבן תבון</title>
+                  </msItem>
+                  <msItem n="56v">
+                     <locus from="56v" to="59v">56v-59v</locus>
+                     <title>Igeret ᾿el ha-yehudim be-Roma  אגרת אל היהודים ברומא</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="60v">60r-60v</locus>
+                     <title>Derashah ῾al ḥalom Ya῾aḳov  דרשה על חלום יעקב</title>
+                  </msItem>
+                  <msItem n="60v">
+                     <locus from="60v" to="61r">60v-61r</locus>
+                     <title>Ketav ḥerem  כתב חרם </title>
+                  </msItem>
+                  <msItem n="61r">
+                     <locus from="61r" to="68v">61r-68v</locus>
+                     <title>Igeret ha-ḥemdah  אגרת החמדה</title>
+                  </msItem>
+                  <msItem n="68v">
+                     <locus from="68v" to="69r">68v-69r</locus>
+                     <title>Derushim  דרושים</title>
+                  </msItem>
+                  <msItem n="69r">
+                     <locus from="69r" to="72v">69r-72v</locus>
+                     <title>Tefilah תפלה</title>
+                  </msItem>
+                  <msItem n="72v">
+                     <locus from="72v" to="74v">72v-74v</locus>
+                     <title>Perush ῾al perush ha-Torah פרוש על פרוש התורה</title>
+                  </msItem>
+                  <msItem n="76r">
+                     <locus from="76r" to="84v">76r-84v</locus>
+                     <title>Sefer ha-nefesh ספר הנפש</title>
+                  </msItem>
+                  <msItem n="85r">
+                     <locus from="85r" to="90r">85r-90r</locus>
+                     <title>Igeret ᾿el ḥokhme Monpeshler  אגרת אל חכמי מונפישליר</title>
+                  </msItem>
+                  <msItem n="90r">
+                     <locus from="90r" to="94v">90r-94v</locus>
+                     <title>Milḥamot ha-Shem מלחמות השם</title>
+                  </msItem>
+                  <msItem n="95r">
+                     <locus from="95r" to="151v">95r-151v</locus>
+                     <title>Igron ῾ivri אגרון עברי</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>151 folios
                            
                            
                            
@@ -35,7 +152,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -43,10 +162,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 25 27;
-                                                  written lines: 25 27; Non-uniform layout. Hard-point ruling, partly visible. Titles and inital words in larger characters. Marginal notes throughout. Some catchwords preserved. Red edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive and Italian cursive script of the 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Hebrew. Brit. Mus. Additional 27,131.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/></origin><provenance>Acquisition: 
+                                                  written lines: 25 27; Non-uniform layout. Hard-point ruling, partly visible. Titles and inital words in larger characters. Marginal notes throughout. Some catchwords preserved. Red edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive and Italian cursive script of the 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Hebrew. Brit. Mus. Additional 27,131.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 238: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [106v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 238: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [106v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

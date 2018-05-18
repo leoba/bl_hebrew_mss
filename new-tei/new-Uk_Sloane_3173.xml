@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Sloane MS 3173: Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah'). are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,48 +39,191 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Sloane MS 3173</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_3173</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</summary><textLang mainLang="he" otherLangs="yi-Hebr"/><msItem n="1r"><locus from="1r" to="40v">1r-40v</locus><title>Hagadah shel Pesaḥ  הגדה של פסח</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>40 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Sloane MS 3173</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Sloane_MS_3173</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hagadah for Passover with the commentaries of Isaac Abravanel ('Leipnik Haggadah').</summary>
+                  <textLang mainLang="he" otherLangs="yi-Hebr">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="40v">1r-40v</locus>
+                     <title>Hagadah shel Pesaḥ  הגדה של פסח</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>40 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									11 quires: i-ii4-1 (folios 1-6), iii2 (folios 7-8), iv-xi4 (folios 9-40).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 10 60;
-                                                  written lines: 10 60; Ruling and sometimes pricking are visible. Watermark, folio [41v], of a fleur-de-lis, unidentified. The square and semi-cursive scripts are imitations of the Amsterdam letters and Rashi script respectively used in printing.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi punctuated square and unpunctuated semi-cursive script.</scriptNote></scriptDesc><decoDesc><decoNote type="illustration"><locus>1r</locus>Illustrated title page in colours and gold.
-							</decoNote><decoNote type="marginal"><locus>3r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>5v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>6v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>7v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>8v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>9v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>10v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>11v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>12v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>14r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>14v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>15r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>16r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>17v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>27r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>34r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>35r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>35v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>36r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>36v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>37r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>37v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>38r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>38v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>39r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>39v</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="marginal"><locus>40r</locus>Numerous miniatures in colours and gold. 
-							</decoNote><decoNote type="border"><locus>4r</locus>4 decorated initial words and initial-word panels in colours.
-							</decoNote><decoNote type="border"><locus>10r</locus>4 decorated initial words and initial-word panels in colours.
-							</decoNote><decoNote type="border"><locus>21r</locus>4 decorated initial words and initial-word panels in colours.
-							</decoNote><decoNote type="border"><locus>25v</locus>4 decorated initial words and initial-word panels in colours.
-							</decoNote></decoDesc><bindingDesc><binding><p>  	Post-1600. Brown leather, gold tooled.</p></binding></bindingDesc></physDesc><history><origin><origDate when="1740"/><origPlace>Hamburg-Altona</origPlace></origin><provenance>Yosef ben David of Leipnik</provenance><provenance>Acquisition: 
+                                                  written lines: 10 60; Ruling and sometimes pricking are visible. Watermark, folio [41v], of a fleur-de-lis, unidentified. The square and semi-cursive scripts are imitations of the Amsterdam letters and Rashi script respectively used in printing.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi punctuated square and unpunctuated semi-cursive script.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <locus>1r</locus>Illustrated title page in colours and gold.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>3r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>5v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>6v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>7v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>8v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>9v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>10v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>11v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>12v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>14r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>14v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>15r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>16r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>17v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>27r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>34r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>35r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>35v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>36r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>36v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>37r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>37v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>38r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>38v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>39r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>39v</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>40r</locus>Numerous miniatures in colours and gold. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>4r</locus>4 decorated initial words and initial-word panels in colours.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>10r</locus>4 decorated initial words and initial-word panels in colours.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>21r</locus>4 decorated initial words and initial-word panels in colours.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>25v</locus>4 decorated initial words and initial-word panels in colours.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	Post-1600. Brown leather, gold tooled.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1740"/>
+                     <origPlace>Hamburg-Altona</origPlace>
+                  </origin>
+                  <provenance>Yosef ben David of Leipnik</provenance>
+                  <provenance>Acquisition: 
 								Sir Hans Sloane: baronet, physician and collector (b. 1660, d. 1753): in his collection; acquired by the British Museum in 1753.
 English inscription citing the Catalogue of the Sloane Manuscripts (on a paper slip glued to folio [41v]).
-</provenance><provenance>Acquisition: Note by Frederic Madden: "See another copy of this work, similarly written and ornamented, MS Add. 18724. F.M." (folio [41v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+</provenance>
+                  <provenance>Acquisition: Note by Frederic Madden: "See another copy of this work, similarly written and ornamented, MS Add. 18724. F.M." (folio [41v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

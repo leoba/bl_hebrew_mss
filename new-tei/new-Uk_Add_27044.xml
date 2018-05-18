@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sefer sheḳel ha-ḳodesh.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sefer sheḳel ha-ḳodesh.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27044: Sefer sheḳel ha-ḳodesh. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,92 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained.</note><note>Censored by Clemente Renatto, Italian censor: inscribed with his name (folio 97v).
-Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 97r); see 100-101, and appendix § 80-84. Partially illegible ownership entries, folio 2r. Yom Ṭov, folio 3r; Ḥayim, folio 4r.Bibliographical remarks of Joseph Almanzi: 1r (i.e. recto of the first flyleaf). There are some additional lines by Yoel Almanzi, dated Padua 1846, on the verso of the same leaf.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained.</note>
+            <note>Censored by Clemente Renatto, Italian censor: inscribed with his name (folio 97v).
+Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 97r); see 100-101, and appendix § 80-84. Partially illegible ownership entries, folio 2r. Yom Ṭov, folio 3r; Ḥayim, folio 4r.Bibliographical remarks of Joseph Almanzi: 1r (i.e. recto of the first flyleaf). There are some additional lines by Yoel Almanzi, dated Padua 1846, on the verso of the same leaf.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27044</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27044</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Sefer sheḳel ha-ḳodesh.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="97v">1r-97v</locus><title>Sefer sheḳel ha-ḳodesh ספר	שקל הקדש</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>97 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27044</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27044</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Sefer sheḳel ha-ḳodesh.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="97v">1r-97v</locus>
+                     <title>Sefer sheḳel ha-ḳodesh ספר	שקל הקדש</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>97 folios
 									
-								</extent><foliation>There is a later pagination in Italian cursive in the left-hand upper corner of each recto and the right-hand upper corner of each verso.</foliation><collation><p>
+								</extent>
+                        <foliation>There is a later pagination in Italian cursive in the left-hand upper corner of each recto and the right-hand upper corner of each verso.</foliation>
+                        <collation>
+                           <p>
 									Quires of mostly 5 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 19;
-                                                  written lines: 19; Uniform layout.Initial words in much larger square characters.Visible pricking and hard-point ruling.Catchwords on every verso.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script of the 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Blue hard cover. Spine: 'Moses ben Shemtob. Shekel Hak-Kodesh. Hebrew. Brit. Mus. Additional 27,044.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile his manuscript no. 150; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153); inscribed, folio [98v] (fse001v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 19; Uniform layout.Initial words in much larger square characters.Visible pricking and hard-point ruling.Catchwords on every verso.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script of the 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Blue hard cover. Spine: 'Moses ben Shemtob. Shekel Hak-Kodesh. Hebrew. Brit. Mus. Additional 27,044.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile his manuscript no. 150; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153); inscribed, folio [98v] (fse001v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

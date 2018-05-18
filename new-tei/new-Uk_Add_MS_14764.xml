@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of philosophical works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of philosophical works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 14764: A collection of philosophical works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Dirt entry at head.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Dirt entry at head.
  Damp entry at corners, repaired before rebinding.  Slight tidemarks.
-</note><note/><note type="relatedResource">
+</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -26,8 +55,48 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 14764</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14764</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of philosophical works. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="246r">1r-246r</locus><title>Moreh nevukhim מורה נבוכים</title></msItem><msItem n="247v"><locus from="247v" to="263r">247v-263r</locus><title>Ruaḥ ḥen רוח חן</title></msItem><msItem n="263v"><locus from="263v" to="283v">263v-283v</locus><title>Perush ha-milot ha-zarot be-Moreh nevukhim פרוש המלות הזרות במורה נבוכים </title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>283 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 14764</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14764</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of philosophical works. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="246r">1r-246r</locus>
+                     <title>Moreh nevukhim מורה נבוכים</title>
+                  </msItem>
+                  <msItem n="247v">
+                     <locus from="247v" to="263r">247v-263r</locus>
+                     <title>Ruaḥ ḥen רוח חן</title>
+                  </msItem>
+                  <msItem n="263v">
+                     <locus from="263v" to="283v">263v-283v</locus>
+                     <title>Perush ha-milot ha-zarot be-Moreh nevukhim פרוש המלות הזרות במורה נבוכים </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>283 folios
                            
                            
                            
@@ -35,7 +104,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -43,86 +114,164 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 24;
-                                                  written lines: 24; Uniform layout. Visible pricking in outer margins and complete hard-point ruling. Imperfect at the end. Hair side and flesh side of folios distinguishable. The last word of a folio usually repeated at the beginning of the next. Initial verses written occasionally in red ink. Gilt edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi (North African) square and semi-cursive script of the 14th century</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>1v</locus>
+                                                  written lines: 24; Uniform layout. Visible pricking in outer margins and complete hard-point ruling. Imperfect at the end. Hair side and flesh side of folios distinguishable. The last word of a folio usually repeated at the beginning of the next. Initial verses written occasionally in red ink. Gilt edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi (North African) square and semi-cursive script of the 14th century</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>1v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>2r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>2r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>10r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>10r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>11v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>11v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>12r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>12r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>15v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>15v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>19v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>19v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>26r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>26r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>52r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>52r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>79v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>79v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>82r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>82r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>85v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>85v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>134v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>134v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>152r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>152r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>152v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>152v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>153v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>153v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>161v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>161v</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>174r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>174r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>214r</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>214r</locus>
                         
                         
                         
-                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote><decoNote type="initial"><locus>247v</locus>
+                        19 initial-word panels with penwork decoration and pen-flourishing, in mauve, blue and red. </decoNote>
+                     <decoNote type="initial">
+                        <locus>247v</locus>
                         
                         
                         
-                        1 initial-word panel with penwork decoration and pen-flourishing, in red.</decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Tractatus Varii. Hebraice. Mus. Brit. Jure Emptionis. 14,764. Plut.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/></origin><provenance>Avraham bar Yosef Hakim</provenance><provenance>Acquisition: Purchased by the British Museum from Payne &amp; Foss: inscribed (folio [284v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        1 initial-word panel with penwork decoration and pen-flourishing, in red.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Tractatus Varii. Hebraice. Mus. Brit. Jure Emptionis. 14,764. Plut.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                  </origin>
+                  <provenance>Avraham bar Yosef Hakim</provenance>
+                  <provenance>Acquisition: Purchased by the British Museum from Payne &amp; Foss: inscribed (folio [284v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

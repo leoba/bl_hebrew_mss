@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, hafṭarot u-megilot (תורה,הפטרות ומגילות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, hafṭarot u-megilot (תורה,הפטרות ומגילות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27167: Torah, hafṭarot u-megilot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,23 +39,168 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note> Italian inscription, 1518  (folio 10v).</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note> Italian inscription, 1518  (folio 10v).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27167</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27167</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch (aka the 'Almanzi Pentateuch') with Hafṭarot and Five Scrolls.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="464v">1r-464v</locus><title>Torah, hafṭarot u-megilot  תורה,הפטרות  ומגילות </title></msItem><msItem n="1v"><locus from="1v" to="10v">1v-10v</locus><title>Masoretic lists</title></msItem><msItem n="11v"><locus from="11v" to="86r">11v-86r</locus><title>Genesis</title></msItem><msItem n="86r"><locus from="86r" to="148v">86r-148v</locus><title>Exodus</title></msItem><msItem n="148v"><locus from="148v" to="192v">148v-192v</locus><title>Leviticus</title></msItem><msItem n="192v"><locus from="192v" to="256r">192v-256r</locus><title>Numbers</title></msItem><msItem n="256r"><locus from="256r" to="311r">256r-311r</locus><title>Deuteronomy</title></msItem><msItem n="311r"><locus from="311r" to="407v">311r-407v</locus><title>Hafṭarot </title></msItem><msItem n="407v"><locus from="407v" to="413v">407v-413v</locus><title>Song of Songs</title></msItem><msItem n="413v"><locus from="413v" to="419v">413v-419v</locus><title>Ruth</title></msItem><msItem n="419v"><locus from="419v" to="427v">419v-427v</locus><title>Lamentations</title></msItem><msItem n="427v"><locus from="427v" to="441r">427v-441r</locus><title>Ecclesiastes</title></msItem><msItem n="441r"><locus from="441r" to="454r">441r-454r</locus><title>Esther</title></msItem><msItem n="455r"><locus from="455r" to="464v">455r-464v</locus><title>Masoretic lists</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>464 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27167</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27167</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch (aka the 'Almanzi Pentateuch') with Hafṭarot and Five Scrolls.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="464v">1r-464v</locus>
+                     <title>Torah, hafṭarot u-megilot  תורה,הפטרות  ומגילות </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="10v">1v-10v</locus>
+                     <title>Masoretic lists</title>
+                  </msItem>
+                  <msItem n="11v">
+                     <locus from="11v" to="86r">11v-86r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="86r">
+                     <locus from="86r" to="148v">86r-148v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="148v">
+                     <locus from="148v" to="192v">148v-192v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="192v">
+                     <locus from="192v" to="256r">192v-256r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="256r">
+                     <locus from="256r" to="311r">256r-311r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="311r">
+                     <locus from="311r" to="407v">311r-407v</locus>
+                     <title>Hafṭarot </title>
+                  </msItem>
+                  <msItem n="407v">
+                     <locus from="407v" to="413v">407v-413v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="413v">
+                     <locus from="413v" to="419v">413v-419v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="419v">
+                     <locus from="419v" to="427v">419v-427v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="427v">
+                     <locus from="427v" to="441r">427v-441r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="441r">
+                     <locus from="441r" to="454r">441r-454r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="455r">
+                     <locus from="455r" to="464v">455r-464v</locus>
+                     <title>Masoretic lists</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>464 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									60 quires: i10 (folios 1-10), ii-xii8 (folios 11-98), xiii6 (folios 99-104), xiv-xv8 (folios 105-120), xvi6 (folios 121-126), xvii4 (folios 127-130), xviii-xxxv8 (folios 131-274), xxxvi6 (folios 275-280), xxxvii-xlii8 (folios 281-328), xliii6 (folios 329-334), xliv-lix8 (folios 335-462), lx2 (folios 463-464). 
 									Catchwords at the end of the quires, probably added later.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 20;
-                                                  written lines: 20; Uniform layout. Visible ruling.Numerous decorations:  parashah signs decorated with pen-flourishing, initial-word panels with penwork and pen-flourishing, frontispieces with initial-word panels and full floral border, masoretic lists decorated with penwork and full pen-flourished border.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, third quarter of 15th century, punctuated. </scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>11v</locus>
-								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote><decoNote type="initial"><locus>86r</locus>
-								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote><decoNote type="initial"><locus>149v</locus>
-								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote><decoNote type="initial"><locus>192v</locus>
-								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote><decoNote type="initial"><locus>256r</locus>
-								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote><decoNote type="border"><locus>1v-8v</locus>30 masoretic lists decorated with penwork and full pen-flourished border, in mauve ink. 
-							</decoNote><decoNote type="border"><locus>455r-462r</locus>30 masoretic lists decorated with penwork and full pen-flourished border, in mauve ink. 
-							</decoNote><decoNote type="paratext">
-								Numerous parashah signs decorated with pen-flourishing, in mauve, blue and red ink. </decoNote><decoNote type="initial">Numerous initial-word panels with penwork and pen-flourishing, in mauve and black ink.</decoNote></decoDesc><bindingDesc><binding><p> Post-1660. Dark green leather binding, tooled in gold, centrepiece. Spine: 'The Pentateuch, Hafṭaroth, and Five Megilloth. Hebrew. Brit. Mus. Additional 27, 167.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1450" notAfter="1474"/><origPlace>Portugal  Lisbon</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 277 (folio [465r]); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed (folio [465r]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 20; Uniform layout. Visible ruling.Numerous decorations:  parashah signs decorated with pen-flourishing, initial-word panels with penwork and pen-flourishing, frontispieces with initial-word panels and full floral border, masoretic lists decorated with penwork and full pen-flourished border.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, third quarter of 15th century, punctuated. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>11v</locus>
+								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote>
+                     <decoNote type="initial">
+                        <locus>86r</locus>
+								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote>
+                     <decoNote type="initial">
+                        <locus>149v</locus>
+								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote>
+                     <decoNote type="initial">
+                        <locus>192v</locus>
+								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote>
+                     <decoNote type="initial">
+                        <locus>256r</locus>
+								5 frontispieces with initial-word panels and full floral border, in colours and gold. </decoNote>
+                     <decoNote type="border">
+                        <locus>1v-8v</locus>30 masoretic lists decorated with penwork and full pen-flourished border, in mauve ink. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>455r-462r</locus>30 masoretic lists decorated with penwork and full pen-flourished border, in mauve ink. 
+							</decoNote>
+                     <decoNote type="paratext">
+								Numerous parashah signs decorated with pen-flourishing, in mauve, blue and red ink. </decoNote>
+                     <decoNote type="initial">Numerous initial-word panels with penwork and pen-flourishing, in mauve and black ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1660. Dark green leather binding, tooled in gold, centrepiece. Spine: 'The Pentateuch, Hafṭaroth, and Five Megilloth. Hebrew. Brit. Mus. Additional 27, 167.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1450" notAfter="1474"/>
+                     <origPlace>Portugal  Lisbon</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 277 (folio [465r]); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed (folio [465r]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

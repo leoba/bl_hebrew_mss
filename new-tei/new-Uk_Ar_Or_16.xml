@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im u-Khetuvim(נביאים וכתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im u-Khetuvim(נביאים וכתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Arundel MS Or 16: Nevi᾿im u-Khetuvim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,13 +39,213 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Lacuna after folios 174 and 372.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Lacuna after folios 174 and 372.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Arundel MS Or 16</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_Or_16</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Prophets and the Hagiographa, provided with vowel-points and accents, and accompanied by the masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="389v">1r-389v</locus><title>Nevi᾿im u-Khetuvim נביאים וכתובים </title></msItem><msItem n="1v"><locus from="1v" to="18v">1v-18v</locus><title>Joshua</title></msItem><msItem n="18v"><locus from="18v" to="35r">18v-35r</locus><title>Judges</title></msItem><msItem n="35r"><locus from="35r" to="75v">35r-75v</locus><title>Samuel</title></msItem><msItem n="75v"><locus from="75v" to="119r">75v-119r</locus><title>Kings</title></msItem><msItem n="119r"><locus from="119r" to="147v">119r-147v</locus><title>Isaiah</title></msItem><msItem n="147v"><locus from="147v" to="175r">147v-175r</locus><title>Jeremiah</title></msItem><msItem n="175r"><locus from="175r" to="199v">175r-199v</locus><title>Ezekiel</title></msItem><msItem n="199v"><locus from="199v" to="203v">199v-203v</locus><title>Hosea</title></msItem><msItem n="203v"><locus from="203v" to="205r">203v-205r</locus><title>Joel</title></msItem><msItem n="205r"><locus from="205r" to="208v">205r-208v</locus><title>Amos</title></msItem><msItem n="208v"><locus from="208v" to="209r">208v-209r</locus><title>Obadiah</title></msItem><msItem n="209r"><locus from="209r" to="210r">209r-210r</locus><title>Jonah</title></msItem><msItem n="210r"><locus from="210r" to="212v">210r-212v</locus><title>Micah</title></msItem><msItem n="212v"><locus from="212v" to="213v">212v-213v</locus><title>Nahum</title></msItem><msItem n="213v"><locus from="213v" to="214v">213v-214v</locus><title>Habakuk</title></msItem><msItem n="214v"><locus from="214v" to="216r">214v-216r</locus><title>Zephaniah</title></msItem><msItem n="216r"><locus from="216r" to="217r">216r-217r</locus><title>Haggai</title></msItem><msItem n="217r"><locus from="217r" to="222r">217r-222r</locus><title>Zechariah</title></msItem><msItem n="222r"><locus from="222r" to="224r">222r-224r</locus><title>Malachi</title></msItem><msItem n="224r"><locus from="224r" to="236r">224r-236r</locus><title>Masoretic lists</title></msItem><msItem n="237v"><locus from="237v" to="282v">237v-282v</locus><title>Chronicles</title></msItem><msItem n="282v"><locus from="282v" to="284v">282v-284v</locus><title>Ruth</title></msItem><msItem n="284v"><locus from="284v" to="321v">284v-321v</locus><title>Psalms</title></msItem><msItem n="321v"><locus from="321v" to="336r">321v-336r</locus><title>Job</title></msItem><msItem n="336r"><locus from="336r" to="348v">336r-348v</locus><title>Proverbs</title></msItem><msItem n="348v"><locus from="348v" to="351r">348v-351r</locus><title>Song of Songs</title></msItem><msItem n="351r"><locus from="351r" to="355v">351r-355v</locus><title>Ecclesiastes</title></msItem><msItem n="355v"><locus from="355v" to="358r">355v-358r</locus><title>Lamentations</title></msItem><msItem n="358r"><locus from="358r" to="363v">358r-363v</locus><title>Esther</title></msItem><msItem n="363v"><locus from="363v" to="373r">363v-373r</locus><title>Daniel</title></msItem><msItem n="373r"><locus from="373r" to="389v">373r-389v</locus><title>Ezra</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>389 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Arundel MS Or 16</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_Or_16</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Prophets and the Hagiographa, provided with vowel-points and accents, and accompanied by the masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="389v">1r-389v</locus>
+                     <title>Nevi᾿im u-Khetuvim נביאים וכתובים </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="18v">1v-18v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="18v">
+                     <locus from="18v" to="35r">18v-35r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="35r">
+                     <locus from="35r" to="75v">35r-75v</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="75v">
+                     <locus from="75v" to="119r">75v-119r</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="147v">119r-147v</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="147v">
+                     <locus from="147v" to="175r">147v-175r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="175r">
+                     <locus from="175r" to="199v">175r-199v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="199v">
+                     <locus from="199v" to="203v">199v-203v</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="203v">
+                     <locus from="203v" to="205r">203v-205r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="205r">
+                     <locus from="205r" to="208v">205r-208v</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="208v">
+                     <locus from="208v" to="209r">208v-209r</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="209r">
+                     <locus from="209r" to="210r">209r-210r</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="210r">
+                     <locus from="210r" to="212v">210r-212v</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="212v">
+                     <locus from="212v" to="213v">212v-213v</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="213v">
+                     <locus from="213v" to="214v">213v-214v</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="214v">
+                     <locus from="214v" to="216r">214v-216r</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="216r">
+                     <locus from="216r" to="217r">216r-217r</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="217r">
+                     <locus from="217r" to="222r">217r-222r</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="222r">
+                     <locus from="222r" to="224r">222r-224r</locus>
+                     <title>Malachi</title>
+                  </msItem>
+                  <msItem n="224r">
+                     <locus from="224r" to="236r">224r-236r</locus>
+                     <title>Masoretic lists</title>
+                  </msItem>
+                  <msItem n="237v">
+                     <locus from="237v" to="282v">237v-282v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+                  <msItem n="282v">
+                     <locus from="282v" to="284v">282v-284v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="284v">
+                     <locus from="284v" to="321v">284v-321v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="321v">
+                     <locus from="321v" to="336r">321v-336r</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="336r">
+                     <locus from="336r" to="348v">336r-348v</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="348v">
+                     <locus from="348v" to="351r">348v-351r</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="351r">
+                     <locus from="351r" to="355v">351r-355v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="355v">
+                     <locus from="355v" to="358r">355v-358r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="358r">
+                     <locus from="358r" to="363v">358r-363v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="363v">
+                     <locus from="363v" to="373r">363v-373r</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="373r">
+                     <locus from="373r" to="389v">373r-389v</locus>
+                     <title>Ezra</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>389 folios
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each. 
 									Quires originally marked with catchwords on the last page of a quire (most of them have been cut out).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 31;
-                                                  written lines: 30; Uniform layout. Kings, Jonah, Ruth, Psalms and Song of Songs commence a new column; Isaiah and Chronicles open a new leaf.The chapters are numbered with Hebrew letters, and the titles of the books have been added in Hebrew in the upper margin by a later hand.The Psalms have been numbered by the hand of the original scribe.A very full masorah is provided, the masorah magna occupying four lines at the top and seven at the bottom of each page.Sedarim are marked in the margin by the word 'seder' in the Prophets, and by the same word or the letter samekh in the Hagiographa. Not marked in the book of Esther.The centre-mark is placed in the margin in all the books, except in Proverbs.Pricking and ruling (with hard-point on the hair side of the folio) are visible.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script, punctuated and accentuated, of the 13th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine title: 'Biblia Hebraica. Brit. Mus. Ar. Or. 16.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: Purchased by the British Museum from the Royal Society together with 549 other Arundel manuscripts in 1831.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Uniform layout. Kings, Jonah, Ruth, Psalms and Song of Songs commence a new column; Isaiah and Chronicles open a new leaf.The chapters are numbered with Hebrew letters, and the titles of the books have been added in Hebrew in the upper margin by a later hand.The Psalms have been numbered by the hand of the original scribe.A very full masorah is provided, the masorah magna occupying four lines at the top and seven at the bottom of each page.Sedarim are marked in the margin by the word 'seder' in the Prophets, and by the same word or the letter samekh in the Hagiographa. Not marked in the book of Esther.The centre-mark is placed in the margin in all the books, except in Proverbs.Pricking and ruling (with hard-point on the hair side of the folio) are visible.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script, punctuated and accentuated, of the 13th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine title: 'Biblia Hebraica. Brit. Mus. Ar. Or. 16.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum from the Royal Society together with 549 other Arundel manuscripts in 1831.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, megilot ṿe-hafṭarot(תורה, מגילות והפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, megilot ṿe-hafṭarot(תורה, מגילות והפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 10455: Torah, megilot ṿe-hafṭarot are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Many pages have trimmed margins.  Water damage at edges.  Finger grease, stains, wax, etc.  A few areas of mould mottling. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Many pages have trimmed margins.  Water damage at edges.  Finger grease, stains, wax, etc.  A few areas of mould mottling. </note>
+            <note/>
+            <note type="relatedResource">
 
 
 
@@ -26,21 +55,147 @@
 
 
 
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 10455</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_10455</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with Targum Onḳelos, the Five Scrolls, the Hafṭarot and
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 10455</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_10455</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Targum Onḳelos, the Five Scrolls, the Hafṭarot and
                      parts of the Prophets, with punctuation and accents, provided with masorah
-                     magna and parva.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="460v">1r-460v</locus><title>Torah, megilot ṿe-hafṭarot תורה, מגילות והפטרות </title></msItem><msItem n="1v"><locus from="1v" to="86r">1v-86r</locus><title>Genesis</title></msItem><msItem n="86v"><locus from="86v" to="161v">86v-161v</locus><title>Exodus</title></msItem><msItem n="162r"><locus from="162r" to="211r">162r-211r</locus><title>Leviticus</title></msItem><msItem n="211v"><locus from="211v" to="284v">211v-284v</locus><title>Numbers</title></msItem><msItem n="284v"><locus from="284v" to="348v">284v-348v</locus><title>Deuteronomy</title></msItem><msItem n="349r"><locus from="349r" to="351v">349r-351v</locus><title>Song of Songs</title></msItem><msItem n="352v"><locus from="352v" to="354v">352v-354v</locus><title>Ruth</title></msItem><msItem n="355r"><locus from="355r" to="358r">355r-358r</locus><title>Lamentations</title></msItem><msItem n="358v"><locus from="358v" to="364v">358v-364v</locus><title>Ecclesiastes</title></msItem><msItem n="365r"><locus from="365r" to="372r">365r-372r</locus><title>Esther</title></msItem><msItem n="372v"><locus from="372v" to="422v">372v-422v</locus><title>Hafṭarot of the weekly pericopes, of the feasts and
-                        fasts.</title></msItem><msItem n="423r"><locus from="423r" to="441r">423r-441r</locus><title>Job</title></msItem><msItem n="441r"><locus from="441r" to="441v">441r-441v</locus><title>Jeremiah</title></msItem><msItem n="441v"><locus from="441v" to="460v">441v-460v</locus><title>Isaiah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>460 folios (ii+460+i)
+                     magna and parva.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="460v">1r-460v</locus>
+                     <title>Torah, megilot ṿe-hafṭarot תורה, מגילות והפטרות </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="86r">1v-86r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="86v">
+                     <locus from="86v" to="161v">86v-161v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="162r">
+                     <locus from="162r" to="211r">162r-211r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="211v">
+                     <locus from="211v" to="284v">211v-284v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="284v">
+                     <locus from="284v" to="348v">284v-348v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="349r">
+                     <locus from="349r" to="351v">349r-351v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="352v">
+                     <locus from="352v" to="354v">352v-354v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="355r">
+                     <locus from="355r" to="358r">355r-358r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="358v">
+                     <locus from="358v" to="364v">358v-364v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="365r">
+                     <locus from="365r" to="372r">365r-372r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="372v">
+                     <locus from="372v" to="422v">372v-422v</locus>
+                     <title>Hafṭarot of the weekly pericopes, of the feasts and
+                        fasts.</title>
+                  </msItem>
+                  <msItem n="423r">
+                     <locus from="423r" to="441r">423r-441r</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="441r">
+                     <locus from="441r" to="441v">441r-441v</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="441v">
+                     <locus from="441v" to="460v">441v-460v</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>460 folios (ii+460+i)
                            
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            Extant quires are mostly of 8 leaves each.
                            Quires marked by decorative catchwords on the last page, but only few
                               of them have been preserved. 
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 29;
                                                   written lines: 28; Uniform layout. Visible pricking and page by page plummet ruling. Graphic fillers at the end of the lines. Large square initial words. Last line of text written within ruling. Each of the books of the Pentateuch commences a new leaf and Hafṭarot
-                              begin a new column.The beginning of each pericope marked by פ פ פ. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script of the 14th century. Shimshon ben Ya῾aḳov Vivant: inscribed as the main
+                              begin a new column.The beginning of each pericope marked by פ פ פ. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script of the 14th century. Shimshon ben Ya῾aḳov Vivant: inscribed as the main
                         scribe in the colophon, folio 460v. Shelomoh ha-Naḳdan: inscribed as the punctuator in the colophon
-                        on folio 460v. </scriptNote></scriptDesc><bindingDesc><binding><p> Pre-1600. Thick brown leather, blind tooled boards, with bosses.
-                           Embroidered velour doublures. Boxed.  Spine: Biblia Hebraica. Mus. Brit. Jure Emptionis. 10,455. Plut.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1310" notAfter="1311"/></origin><provenance>Shimshon ben Ya῾aḳov, 'Vivant'</provenance><provenance>Acquisition: Purchased of Rodd (?), May 1836 (inner front cover); perhaps Thomas Rodd the younger (b. 1796,
-                        d. 1849).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        on folio 460v. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Thick brown leather, blind tooled boards, with bosses.
+                           Embroidered velour doublures. Boxed.  Spine: Biblia Hebraica. Mus. Brit. Jure Emptionis. 10,455. Plut.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1310" notAfter="1311"/>
+                  </origin>
+                  <provenance>Shimshon ben Ya῾aḳov, 'Vivant'</provenance>
+                  <provenance>Acquisition: Purchased of Rodd (?), May 1836 (inner front cover); perhaps Thomas Rodd the younger (b. 1796,
+                        d. 1849).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

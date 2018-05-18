@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tiḳune ha-Ri"f (תיקני הרי"ף)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tiḳune ha-Ri"f (תיקני הרי"ף)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27134: Tiḳune ha-Ri"f  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,110 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly stained.</note><note>Folio 1r contains some doodles.A child's hand scribbling on folio 134r.In the left-hand lower corner of fse002v ([219v]) 'Masekhet bava ḳama' is written, showing that the contents of Add MS 26991 II followed those of Add MS 27134.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly stained.</note>
+            <note>Folio 1r contains some doodles.A child's hand scribbling on folio 134r.In the left-hand lower corner of fse002v ([219v]) 'Masekhet bava ḳama' is written, showing that the contents of Add MS 26991 II followed those of Add MS 27134.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27134</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27134</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Abraham del Vecchio's Tiḳune ha-Rif on Seder Nashim and Masekhet Ḥulin.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="217v">1r-217v</locus><title>Tiḳune ha-Ri"f  תיקני הרי"ף</title></msItem><msItem n="10r"><locus from="10r" to="36r">10r-36r</locus><title>Yevamot</title></msItem><msItem n="36r"><locus from="36r" to="80r">36r-80r</locus><title>Ketubot</title></msItem><msItem n="80r"><locus from="80r" to="152r">80r-152r</locus><title>Giṭin</title></msItem><msItem n="152r"><locus from="152r" to="182r">152r-182r</locus><title>Ḳidushin</title></msItem><msItem n="182r"><locus from="182r" to="217v">182r-217v</locus><title>Ḥulin</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>217 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27134</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27134</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abraham del Vecchio's Tiḳune ha-Rif on Seder Nashim and Masekhet Ḥulin.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="217v">1r-217v</locus>
+                     <title>Tiḳune ha-Ri"f  תיקני הרי"ף</title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="36r">10r-36r</locus>
+                     <title>Yevamot</title>
+                  </msItem>
+                  <msItem n="36r">
+                     <locus from="36r" to="80r">36r-80r</locus>
+                     <title>Ketubot</title>
+                  </msItem>
+                  <msItem n="80r">
+                     <locus from="80r" to="152r">80r-152r</locus>
+                     <title>Giṭin</title>
+                  </msItem>
+                  <msItem n="152r">
+                     <locus from="152r" to="182r">152r-182r</locus>
+                     <title>Ḳidushin</title>
+                  </msItem>
+                  <msItem n="182r">
+                     <locus from="182r" to="217v">182r-217v</locus>
+                     <title>Ḥulin</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>217 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 30 40;
-                                                  written lines: 30 40; Catchwords on every page. Running titles.Hard-point vertical ruling visible.Extensive marginal notes. Some erasures. Folios 6r-9v, 121r-151v, 177r-180v are blank. No lacunae in the text.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the 17th century, probably of Solomon Portaleone.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'Del Vecchio. Tikkune ha-Riph. Part II. Hebrew. Brit. Mus. Additional 27,134.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 241: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, folio [220v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30 40; Catchwords on every page. Running titles.Hard-point vertical ruling visible.Extensive marginal notes. Some erasures. Folios 6r-9v, 121r-151v, 177r-180v are blank. No lacunae in the text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the 17th century, probably of Solomon Portaleone.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'Del Vecchio. Tikkune ha-Riph. Part II. Hebrew. Brit. Mus. Additional 27,134.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 241: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, folio [220v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

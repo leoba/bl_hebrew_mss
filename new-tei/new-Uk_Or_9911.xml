@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A Yiddish paraphrase of Genesis and Exodus (1-21)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A Yiddish paraphrase of Genesis and Exodus (1-21)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 9911: A Yiddish paraphrase of Genesis and Exodus (1-21) are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,36 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 9911</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_9911</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A Yiddish paraphrase of Genesis and Exodus (1-21)</summary><textLang mainLang="yi-Hebr"/></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>49 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 9911</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_9911</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A Yiddish paraphrase of Genesis and Exodus (1-21)</summary>
+                  <textLang mainLang="yi-Hebr">Yiddish</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>49 folios
                            
                            
                            
@@ -33,7 +90,10 @@
                         
                         
                         
-                        </extent><foliation>Folios 47v and 48r are blank.</foliation><collation><p>
+                        </extent>
+                        <foliation>Folios 47v and 48r are blank.</foliation>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +101,49 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: ;
-                                                  written lines: ; No ruling,  lines are curved or misaligned.Very narrow margins left.Scribbles and a citation on folio 48v.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi cursive script of the 19th century.</scriptNote></scriptDesc><decoDesc><decoNote><locus>48v</locus>Doodle of a man .</decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Or. 9911. Brit. Mus. Genesis &amp; Exodus. Hebrew &amp; German.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1831" notAfter="1903"/></origin><provenance>Acquisition: 
+                                                  written lines: ; No ruling,  lines are curved or misaligned.Very narrow margins left.Scribbles and a citation on folio 48v.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi cursive script of the 19th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>
+                        <locus>48v</locus>Doodle of a man .</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Or. 9911. Brit. Mus. Genesis &amp; Exodus. Hebrew &amp; German.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1831" notAfter="1903"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 584: inscribed with his name (folio 1r); purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [iv]v). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 584: inscribed with his name (folio 1r); purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [iv]v). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

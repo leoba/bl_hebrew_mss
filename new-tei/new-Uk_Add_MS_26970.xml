@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A festival prayer book, with additional pieces by Isaac ben Meir of Dueren. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A festival prayer book, with additional pieces by Isaac ben Meir of Dueren. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26970: A festival prayer book, with additional pieces by Isaac ben Meir of Dueren.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,12 +39,18 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Damp entry at edges and ends, tidemarks and mould darkening.  Losses at ends have been infilled. </note><note>Date 74 [1314] in an inscription written by the scribe (folio 167v).
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Damp entry at edges and ends, tidemarks and mould darkening.  Losses at ends have been infilled. </note>
+            <note>Date 74 [1314] in an inscription written by the scribe (folio 167v).
 Includes a chart of the nineteen-year cycles starting from 1307 (folio 182r).
 Teḳufot (equinoxes and solstices) in the calendar for the period 1308-1335 (folios 182v-183r).
 A later addition to the calendar for the period 1352-1370 (folio 178v).
 Illegible Hebrew inscriptions (folio 197v).
-Inscription with the title (folio 1r). </note><note type="relatedResource">
+Inscription with the title (folio 1r). </note>
+            <note type="relatedResource">
                         
                         
                         
@@ -29,8 +58,60 @@ Inscription with the title (folio 1r). </note><note type="relatedResource">
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26970</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26970</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book, with additional pieces by Isaac ben Meir of Dueren. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="167v">1r-167v</locus><title>Maḥzor  מחזור </title></msItem><msItem n="167v"><locus from="167v" to="177v">167v-177v</locus><title>Sha῾are Dura שערי דורא</title></msItem><msItem n="179r"><locus from="179r" to="181v">179r-181v</locus><title>῾Igul rav Naḥshon Ga᾿on עגול רב נחשון גאון</title></msItem><msItem n="182v"><locus from="182v" to="183r">182v-183r</locus><title>Luaḥ teḳufot לוח</title></msItem><msItem n="183v"><locus from="183v" to="183v">183v-183v</locus><title>Seder ha-parashiyot  סדר הפרשיות</title></msItem><msItem n="183v"><locus from="183v" to="196v">183v-196v</locus><title>Minhagim  מנהגים</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>197 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26970</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26970</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book, with additional pieces by Isaac ben Meir of Dueren. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="167v">1r-167v</locus>
+                     <title>Maḥzor  מחזור </title>
+                  </msItem>
+                  <msItem n="167v">
+                     <locus from="167v" to="177v">167v-177v</locus>
+                     <title>Sha῾are Dura שערי דורא</title>
+                  </msItem>
+                  <msItem n="179r">
+                     <locus from="179r" to="181v">179r-181v</locus>
+                     <title>῾Igul rav Naḥshon Ga᾿on עגול רב נחשון גאון</title>
+                  </msItem>
+                  <msItem n="182v">
+                     <locus from="182v" to="183r">182v-183r</locus>
+                     <title>Luaḥ teḳufot לוח</title>
+                  </msItem>
+                  <msItem n="183v">
+                     <locus from="183v" to="183v">183v-183v</locus>
+                     <title>Seder ha-parashiyot  סדר הפרשיות</title>
+                  </msItem>
+                  <msItem n="183v">
+                     <locus from="183v" to="196v">183v-196v</locus>
+                     <title>Minhagim  מנהגים</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>197 folios
                            
                            
                            
@@ -38,7 +119,9 @@ Inscription with the title (folio 1r). </note><note type="relatedResource">
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -50,98 +133,179 @@ Inscription with the title (folio 1r). </note><note type="relatedResource">
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 23;
-                                                  written lines: 22; Uniform layout. Visible hard-point ruling. Initial words in large square characters. Numerous erasures, presumably by a censor (e.g., folios 15v, 16r, 20r, 59v, 75v, 78r, 79r, 84r, 131r, 155r; entire pages folios 140v-141r). </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square and semi-cursive script, partially punctuated, of 14th century. </scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>50r</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
+                                                  written lines: 22; Uniform layout. Visible hard-point ruling. Initial words in large square characters. Numerous erasures, presumably by a censor (e.g., folios 15v, 16r, 20r, 59v, 75v, 78r, 79r, 84r, 131r, 155r; entire pages folios 140v-141r). </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square and semi-cursive script, partially punctuated, of 14th century. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>50r</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>87r</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>87r</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>106v</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>106v</locus>3 inhabited initial words/initial-word panels, in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>55r</locus>4 decorated initial words, in ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>55r</locus>4 decorated initial words, in ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>60v</locus>4 decorated initial words, in ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>60v</locus>4 decorated initial words, in ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>118r</locus>4 decorated initial words, in ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>118r</locus>4 decorated initial words, in ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>118v</locus>4 decorated initial words, in ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>118v</locus>4 decorated initial words, in ink. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>6v</locus>3 figural drawings in dark brown ink. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>6v</locus>3 figural drawings in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>81v</locus>3 figural drawings in dark brown ink. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>81v</locus>3 figural drawings in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>82r</locus>3 figural drawings in dark brown ink. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>82r</locus>3 figural drawings in dark brown ink. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>14v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>14v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>22v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>22v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>30v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>30v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>38v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>38v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>46v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>46v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>54v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>54v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>62v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>62v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>82v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>82v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>90v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>90v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>146v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>146v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="paratext"><locus>162v</locus>Drawings at the catchwords. 
+                     </decoNote>
+                     <decoNote type="paratext">
+                        <locus>162v</locus>Drawings at the catchwords. 
                      
                      
                      
-                     </decoNote><decoNote type="other"><locus>74r</locus>1 carmina figurata. 
+                     </decoNote>
+                     <decoNote type="other">
+                        <locus>74r</locus>1 carmina figurata. 
                      
                      
                      
-                     </decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Machzor. German Use. Hebrew. Brit. Mus. Additional 26,970.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1308" notAfter="1314"/></origin><provenance>Acquisition: 
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Machzor. German Use. Hebrew. Brit. Mus. Additional 26,970.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1308" notAfter="1314"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript: inscribed (f. [198v]); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co. (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript: inscribed (f. [198v]); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co. (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

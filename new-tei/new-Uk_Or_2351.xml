@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash ha-ḥefets (מדרש החפץ)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash ha-ḥefets (מדרש החפץ)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2351: Midrash ha-ḥefets  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,311 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the beginning and at the end.  Gaps after folios 3, 63, 92.  Several leaves inlaid with tracing paper for preservation. </note><note>Folios [i recto], 357r, 357v contain a fragment of Maimonides' Commentary on the Mishnah Midot 2:4-3:1.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the beginning and at the end.  Gaps after folios 3, 63, 92.  Several leaves inlaid with tracing paper for preservation. </note>
+            <note>Folios [i recto], 357r, 357v contain a fragment of Maimonides' Commentary on the Mishnah Midot 2:4-3:1.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2351</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2351</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon-Rofe, aka Yaḥya ben Saliman.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="357v">1r-357v</locus><title>Midrash ha-ḥefets  מדרש החפץ</title></msItem><msItem n="1r"><locus from="1r" to="3r">1r-3r</locus><title>Introduction</title></msItem><msItem n="3r"><locus from="3r" to="26r">3r-26r</locus><title>Homily on Be-reshit</title></msItem><msItem n="26r"><locus from="26r" to="34v">26r-34v</locus><title>Homily on Noaḥ</title></msItem><msItem n="34v"><locus from="34v" to="41v">34v-41v</locus><title>Homily on Lekh lekha</title></msItem><msItem n="41v"><locus from="41v" to="50r">41v-50r</locus><title>Homily on Ṿa-yera</title></msItem><msItem n="50r"><locus from="50r" to="55r">50r-55r</locus><title>Homily on Ḥaye Sarah</title></msItem><msItem n="55r"><locus from="55r" to="61r">55r-61r</locus><title>Homily on Toledot</title></msItem><msItem n="61r"><locus from="61r" to="67v">61r-67v</locus><title>Homily on Ṿa-yetse</title></msItem><msItem n="67v"><locus from="67v" to="72r">67v-72r</locus><title>Homily on Ṿa-yishlaḥ</title></msItem><msItem n="72r"><locus from="72r" to="76r">72r-76r</locus><title>Homily on Ṿa-yeshev</title></msItem><msItem n="76r"><locus from="76r" to="81r">76r-81r</locus><title>Homily on Mi-kets</title></msItem><msItem n="81r"><locus from="81r" to="84v">81r-84v</locus><title>Homily Ṿa-yigash</title></msItem><msItem n="84v"><locus from="84v" to="90v">84v-90v</locus><title>Homily on Ṿa-yeḥi</title></msItem><msItem n="90v"><locus from="90v" to="97r">90v-97r</locus><title>Homily on Shemot</title></msItem><msItem n="97r"><locus from="97r" to="102r">97r-102r</locus><title>Homily on Ṿa-᾿era</title></msItem><msItem n="102r"><locus from="102r" to="110r">102r-110r</locus><title>Homily on Bo</title></msItem><msItem n="110r"><locus from="110r" to="122r">110r-122r</locus><title>Homily on Be-shalaḥ</title></msItem><msItem n="122r"><locus from="122r" to="132r">122r-132r</locus><title>Homily on Yitro</title></msItem><msItem n="132r"><locus from="132r" to="141v">132r-141v</locus><title>Homily on Mishpaṭim</title></msItem><msItem n="141v"><locus from="141v" to="147v">141v-147v</locus><title>Homily on Terumah</title></msItem><msItem n="147v"><locus from="147v" to="151v">147v-151v</locus><title>Homily on Tetsaveh</title></msItem><msItem n="151v"><locus from="151v" to="160r">151v-160r</locus><title>Homily on Ki tisa</title></msItem><msItem n="160r"><locus from="160r" to="163r">160r-163r</locus><title>Homily on Ṿa-yaḳhel</title></msItem><msItem n="163r"><locus from="163r" to="165v">163r-165v</locus><title>Homily on Peḳude</title></msItem><msItem n="165v"><locus from="165v" to="174v">165v-174v</locus><title>Homily on Ṿa-yiḳra</title></msItem><msItem n="174v"><locus from="174v" to="181r">174v-181r</locus><title>Homily on Tsaṿ</title></msItem><msItem n="181r"><locus from="181r" to="187v">181r-187v</locus><title>Homily on Shemini</title></msItem><msItem n="187v"><locus from="187v" to="192v">187v-192v</locus><title>Homily on Tazri῾a</title></msItem><msItem n="192v"><locus from="192v" to="198r">192v-198r</locus><title>Homily on Metsora῾</title></msItem><msItem n="198r"><locus from="198r" to="204v">198r-204v</locus><title>Homily on Aḥare mot</title></msItem><msItem n="204r"><locus from="204r" to="211v">204r-211v</locus><title>Homily on Ḳedoshim</title></msItem><msItem n="211v"><locus from="211v" to="220r">211v-220r</locus><title>Homily on Emor</title></msItem><msItem n="220r"><locus from="220r" to="223v">220r-223v</locus><title>Homily on Be-har</title></msItem><msItem n="223v"><locus from="223v" to="228r">223v-228r</locus><title>Homily on Be-ḥuḳotai</title></msItem><msItem n="228r"><locus from="228r" to="231r">228r-231r</locus><title>Homily on Be-midbar</title></msItem><msItem n="231r"><locus from="231r" to="238v">231r-238v</locus><title>Homily on Naso</title></msItem><msItem n="238v"><locus from="238v" to="244r">238v-244r</locus><title>Homily on Be-ha᾿alotekha</title></msItem><msItem n="244r"><locus from="244r" to="251r">244r-251r</locus><title>Homily on Shalaḥ lekha</title></msItem><msItem n="251r"><locus from="251r" to="257r">251r-257r</locus><title>Homily on Ḳoraḥ</title></msItem><msItem n="257r"><locus from="257r" to="262r">257r-262r</locus><title>Homily on Ḥuḳat</title></msItem><msItem n="262r"><locus from="262r" to="266r">262r-266r</locus><title>Homily on Balaḳ</title></msItem><msItem n="266r"><locus from="266r" to="271v">266r-271v</locus><title>Homily on Pinḥas</title></msItem><msItem n="271v"><locus from="271v" to="274r">271v-274r</locus><title>Homily on Maṭot</title></msItem><msItem n="274r"><locus from="274r" to="277v">274r-277v</locus><title>Homily on Mas῾e</title></msItem><msItem n="277v"><locus from="277v" to="281v">277v-281v</locus><title>Homily on Eleh ha-devarim</title></msItem><msItem n="281v"><locus from="281v" to="290v">281v-290v</locus><title>Homily on Ṿa-etḥanan</title></msItem><msItem n="291v"><locus from="291v" to="296r">291v-296r</locus><title>Homily on ῾Eḳev</title></msItem><msItem n="296r"><locus from="296r" to="303r">296r-303r</locus><title>Homily on Re᾿eh</title></msItem><msItem n="303r"><locus from="303r" to="310r">303r-310r</locus><title>Homily on Shofṭim</title></msItem><msItem n="310r"><locus from="310r" to="317r">310r-317r</locus><title>Homily on Ki tetse</title></msItem><msItem n="317r"><locus from="317r" to="321r">317r-321r</locus><title>Homily on Ki tavo</title></msItem><msItem n="321r"><locus from="321r" to="326v">321r-326v</locus><title>Homily on Netsavim</title></msItem><msItem n="326v"><locus from="326v" to="329v">326v-329v</locus><title>Homily on Ha᾿azinu</title></msItem><msItem n="329v"><locus from="329v" to="340v">329v-340v</locus><title>Homily on Zot ha-berakhah</title></msItem><msItem n="341r"><locus from="341r" to="356v">341r-356v</locus><title>Mishneh Torah  משנה תורה</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>357 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2351</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2351</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Midrash ha-ḥefets, a philosophical midrash on the Pentateuch by Zechariah ben Solomon-Rofe, aka Yaḥya ben Saliman.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="357v">1r-357v</locus>
+                     <title>Midrash ha-ḥefets  מדרש החפץ</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="3r">1r-3r</locus>
+                     <title>Introduction</title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="26r">3r-26r</locus>
+                     <title>Homily on Be-reshit</title>
+                  </msItem>
+                  <msItem n="26r">
+                     <locus from="26r" to="34v">26r-34v</locus>
+                     <title>Homily on Noaḥ</title>
+                  </msItem>
+                  <msItem n="34v">
+                     <locus from="34v" to="41v">34v-41v</locus>
+                     <title>Homily on Lekh lekha</title>
+                  </msItem>
+                  <msItem n="41v">
+                     <locus from="41v" to="50r">41v-50r</locus>
+                     <title>Homily on Ṿa-yera</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="55r">50r-55r</locus>
+                     <title>Homily on Ḥaye Sarah</title>
+                  </msItem>
+                  <msItem n="55r">
+                     <locus from="55r" to="61r">55r-61r</locus>
+                     <title>Homily on Toledot</title>
+                  </msItem>
+                  <msItem n="61r">
+                     <locus from="61r" to="67v">61r-67v</locus>
+                     <title>Homily on Ṿa-yetse</title>
+                  </msItem>
+                  <msItem n="67v">
+                     <locus from="67v" to="72r">67v-72r</locus>
+                     <title>Homily on Ṿa-yishlaḥ</title>
+                  </msItem>
+                  <msItem n="72r">
+                     <locus from="72r" to="76r">72r-76r</locus>
+                     <title>Homily on Ṿa-yeshev</title>
+                  </msItem>
+                  <msItem n="76r">
+                     <locus from="76r" to="81r">76r-81r</locus>
+                     <title>Homily on Mi-kets</title>
+                  </msItem>
+                  <msItem n="81r">
+                     <locus from="81r" to="84v">81r-84v</locus>
+                     <title>Homily Ṿa-yigash</title>
+                  </msItem>
+                  <msItem n="84v">
+                     <locus from="84v" to="90v">84v-90v</locus>
+                     <title>Homily on Ṿa-yeḥi</title>
+                  </msItem>
+                  <msItem n="90v">
+                     <locus from="90v" to="97r">90v-97r</locus>
+                     <title>Homily on Shemot</title>
+                  </msItem>
+                  <msItem n="97r">
+                     <locus from="97r" to="102r">97r-102r</locus>
+                     <title>Homily on Ṿa-᾿era</title>
+                  </msItem>
+                  <msItem n="102r">
+                     <locus from="102r" to="110r">102r-110r</locus>
+                     <title>Homily on Bo</title>
+                  </msItem>
+                  <msItem n="110r">
+                     <locus from="110r" to="122r">110r-122r</locus>
+                     <title>Homily on Be-shalaḥ</title>
+                  </msItem>
+                  <msItem n="122r">
+                     <locus from="122r" to="132r">122r-132r</locus>
+                     <title>Homily on Yitro</title>
+                  </msItem>
+                  <msItem n="132r">
+                     <locus from="132r" to="141v">132r-141v</locus>
+                     <title>Homily on Mishpaṭim</title>
+                  </msItem>
+                  <msItem n="141v">
+                     <locus from="141v" to="147v">141v-147v</locus>
+                     <title>Homily on Terumah</title>
+                  </msItem>
+                  <msItem n="147v">
+                     <locus from="147v" to="151v">147v-151v</locus>
+                     <title>Homily on Tetsaveh</title>
+                  </msItem>
+                  <msItem n="151v">
+                     <locus from="151v" to="160r">151v-160r</locus>
+                     <title>Homily on Ki tisa</title>
+                  </msItem>
+                  <msItem n="160r">
+                     <locus from="160r" to="163r">160r-163r</locus>
+                     <title>Homily on Ṿa-yaḳhel</title>
+                  </msItem>
+                  <msItem n="163r">
+                     <locus from="163r" to="165v">163r-165v</locus>
+                     <title>Homily on Peḳude</title>
+                  </msItem>
+                  <msItem n="165v">
+                     <locus from="165v" to="174v">165v-174v</locus>
+                     <title>Homily on Ṿa-yiḳra</title>
+                  </msItem>
+                  <msItem n="174v">
+                     <locus from="174v" to="181r">174v-181r</locus>
+                     <title>Homily on Tsaṿ</title>
+                  </msItem>
+                  <msItem n="181r">
+                     <locus from="181r" to="187v">181r-187v</locus>
+                     <title>Homily on Shemini</title>
+                  </msItem>
+                  <msItem n="187v">
+                     <locus from="187v" to="192v">187v-192v</locus>
+                     <title>Homily on Tazri῾a</title>
+                  </msItem>
+                  <msItem n="192v">
+                     <locus from="192v" to="198r">192v-198r</locus>
+                     <title>Homily on Metsora῾</title>
+                  </msItem>
+                  <msItem n="198r">
+                     <locus from="198r" to="204v">198r-204v</locus>
+                     <title>Homily on Aḥare mot</title>
+                  </msItem>
+                  <msItem n="204r">
+                     <locus from="204r" to="211v">204r-211v</locus>
+                     <title>Homily on Ḳedoshim</title>
+                  </msItem>
+                  <msItem n="211v">
+                     <locus from="211v" to="220r">211v-220r</locus>
+                     <title>Homily on Emor</title>
+                  </msItem>
+                  <msItem n="220r">
+                     <locus from="220r" to="223v">220r-223v</locus>
+                     <title>Homily on Be-har</title>
+                  </msItem>
+                  <msItem n="223v">
+                     <locus from="223v" to="228r">223v-228r</locus>
+                     <title>Homily on Be-ḥuḳotai</title>
+                  </msItem>
+                  <msItem n="228r">
+                     <locus from="228r" to="231r">228r-231r</locus>
+                     <title>Homily on Be-midbar</title>
+                  </msItem>
+                  <msItem n="231r">
+                     <locus from="231r" to="238v">231r-238v</locus>
+                     <title>Homily on Naso</title>
+                  </msItem>
+                  <msItem n="238v">
+                     <locus from="238v" to="244r">238v-244r</locus>
+                     <title>Homily on Be-ha᾿alotekha</title>
+                  </msItem>
+                  <msItem n="244r">
+                     <locus from="244r" to="251r">244r-251r</locus>
+                     <title>Homily on Shalaḥ lekha</title>
+                  </msItem>
+                  <msItem n="251r">
+                     <locus from="251r" to="257r">251r-257r</locus>
+                     <title>Homily on Ḳoraḥ</title>
+                  </msItem>
+                  <msItem n="257r">
+                     <locus from="257r" to="262r">257r-262r</locus>
+                     <title>Homily on Ḥuḳat</title>
+                  </msItem>
+                  <msItem n="262r">
+                     <locus from="262r" to="266r">262r-266r</locus>
+                     <title>Homily on Balaḳ</title>
+                  </msItem>
+                  <msItem n="266r">
+                     <locus from="266r" to="271v">266r-271v</locus>
+                     <title>Homily on Pinḥas</title>
+                  </msItem>
+                  <msItem n="271v">
+                     <locus from="271v" to="274r">271v-274r</locus>
+                     <title>Homily on Maṭot</title>
+                  </msItem>
+                  <msItem n="274r">
+                     <locus from="274r" to="277v">274r-277v</locus>
+                     <title>Homily on Mas῾e</title>
+                  </msItem>
+                  <msItem n="277v">
+                     <locus from="277v" to="281v">277v-281v</locus>
+                     <title>Homily on Eleh ha-devarim</title>
+                  </msItem>
+                  <msItem n="281v">
+                     <locus from="281v" to="290v">281v-290v</locus>
+                     <title>Homily on Ṿa-etḥanan</title>
+                  </msItem>
+                  <msItem n="291v">
+                     <locus from="291v" to="296r">291v-296r</locus>
+                     <title>Homily on ῾Eḳev</title>
+                  </msItem>
+                  <msItem n="296r">
+                     <locus from="296r" to="303r">296r-303r</locus>
+                     <title>Homily on Re᾿eh</title>
+                  </msItem>
+                  <msItem n="303r">
+                     <locus from="303r" to="310r">303r-310r</locus>
+                     <title>Homily on Shofṭim</title>
+                  </msItem>
+                  <msItem n="310r">
+                     <locus from="310r" to="317r">310r-317r</locus>
+                     <title>Homily on Ki tetse</title>
+                  </msItem>
+                  <msItem n="317r">
+                     <locus from="317r" to="321r">317r-321r</locus>
+                     <title>Homily on Ki tavo</title>
+                  </msItem>
+                  <msItem n="321r">
+                     <locus from="321r" to="326v">321r-326v</locus>
+                     <title>Homily on Netsavim</title>
+                  </msItem>
+                  <msItem n="326v">
+                     <locus from="326v" to="329v">326v-329v</locus>
+                     <title>Homily on Ha᾿azinu</title>
+                  </msItem>
+                  <msItem n="329v">
+                     <locus from="329v" to="340v">329v-340v</locus>
+                     <title>Homily on Zot ha-berakhah</title>
+                  </msItem>
+                  <msItem n="341r">
+                     <locus from="341r" to="356v">341r-356v</locus>
+                     <title>Mishneh Torah  משנה תורה</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>357 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
 									Damaged. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 27;
-                                                  written lines: 27; Titles of chapters and beginning of sections highlighted with red ink. Catchwords on every verso. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive script of 15 to 16th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Midrash Ha-Chefets. Hebrew and Arabic. Brit. Mus. Oriental 2351.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1430" notAfter="1599"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 28 May 1881, inscribed, folio [358v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 27; Titles of chapters and beginning of sections highlighted with red ink. Catchwords on every verso. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive script of 15 to 16th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Midrash Ha-Chefets. Hebrew and Arabic. Brit. Mus. Oriental 2351.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1430" notAfter="1599"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 28 May 1881, inscribed, folio [358v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Philosophical writings.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Philosophical writings.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 14763: Philosophical writings. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,12 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly stained.</note><note>Censored by Dominico Irosolomitano, Italian censor (active 1575-1624): inscribed with his name, 1597 (folio 214v); see 61, and appendix § 62-74.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly stained.</note>
+            <note>Censored by Dominico Irosolomitano, Italian censor (active 1575-1624): inscribed with his name, 1597 (folio 214v); see 61, and appendix § 62-74.
 Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name, 1628 (folio 214v); see 100-101, and appendix § 80-84.
 
 								Mordekhai of Camerino: sold to him in 1506 (folio 2r).
@@ -25,30 +53,190 @@ Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscr
 
 								Yosef Rafael of Treviso: inscribed with his name, undated (folio 2r).
 
-								Absalom: his letter and notes in Italian on four Hebrew manuscripts including Add 14763 on four paper leaves prefixed to the beginning of the manuscript, addressed to Rev. Abate Antonio Marsand, Padua, 1827.</note><note type="relatedResource">
+								Absalom: his letter and notes in Italian on four Hebrew manuscripts including Add 14763 on four paper leaves prefixed to the beginning of the manuscript, addressed to Rev. Abate Antonio Marsand, Padua, 1827.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 14763</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14763</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Philosophical writings.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="117r">1r-117r</locus><title>More nevukhim מורה נבוכים</title></msItem><msItem n="117v"><locus from="117v" to="138r">117v-138r</locus><title>Perush Avot פרוש אבות</title></msItem><msItem n="139r"><locus from="139r" to="143v">139r-143v</locus><title>Perush ha-Mishnah (perek Ḥeleḳ) פרוש המשנה (פרק חלק)</title></msItem><msItem n="143v"><locus from="143v" to="148r">143v-148r</locus><title>Igeret teḥiyat ha-metim אגרת תחית המתים</title></msItem><msItem n="148v"><locus from="148v" to="160r">148v-160r</locus><title>Perush ha-milot ha-zarot shebe-Moreh nevukhim le-Ramba"m פרוש המלות הזרות שבמורה נבוכים לרמב"ם</title></msItem><msItem n="160v"><locus from="160v" to="162r">160v-162r</locus><title>Igeret le-ḥakhme Marsiliya  אגרת אל חכמי מרסיליא</title></msItem><msItem n="162r"><locus from="162r" to="162v">162r-162v</locus><title>Igeret ᾿el Yehonatan ha-Kohen mi-Lunel אגרת אל יהונתן הכהן מלוניל</title></msItem><msItem n="163r"><locus from="163r" to="166r">163r-166r</locus><title>Keter malkhut כתר מלכות</title></msItem><msItem n="166v"><locus from="166v" to="174r">166v-174r</locus><title>Mesharet Mosheh משרת משה</title></msItem><msItem n="174r"><locus from="174r" to="181r">174r-181r</locus><title>Ruaḥ ḥen רוח חן</title></msItem><msItem n="182v"><locus from="182v" to="198r">182v-198r</locus><title>Otot ha-shamayim אותות השמים</title></msItem><msItem n="198v"><locus from="198v" to="211v">198v-211v</locus><title>Hatḥalat ha-nimtsa᾿ot התחלת הנמצאות</title></msItem><msItem n="212r"><locus from="212r" to="214r">212r-214r</locus><title>Sefer ha-tapuaḥ ספר התפוח</title></msItem><msItem n="214r"><locus from="214r" to="214v">214r-214v</locus><title>Taḥkemoni תחכמוני</title></msItem><msItem n="215r"><locus from="215r" to="216v">215r-216v</locus><title>Mishpaṭ shiv῾ah ha-aklimim משפט שבעה האקלימים</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>216 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 14763</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14763</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Philosophical writings.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="117r">1r-117r</locus>
+                     <title>More nevukhim מורה נבוכים</title>
+                  </msItem>
+                  <msItem n="117v">
+                     <locus from="117v" to="138r">117v-138r</locus>
+                     <title>Perush Avot פרוש אבות</title>
+                  </msItem>
+                  <msItem n="139r">
+                     <locus from="139r" to="143v">139r-143v</locus>
+                     <title>Perush ha-Mishnah (perek Ḥeleḳ) פרוש המשנה (פרק חלק)</title>
+                  </msItem>
+                  <msItem n="143v">
+                     <locus from="143v" to="148r">143v-148r</locus>
+                     <title>Igeret teḥiyat ha-metim אגרת תחית המתים</title>
+                  </msItem>
+                  <msItem n="148v">
+                     <locus from="148v" to="160r">148v-160r</locus>
+                     <title>Perush ha-milot ha-zarot shebe-Moreh nevukhim le-Ramba"m פרוש המלות הזרות שבמורה נבוכים לרמב"ם</title>
+                  </msItem>
+                  <msItem n="160v">
+                     <locus from="160v" to="162r">160v-162r</locus>
+                     <title>Igeret le-ḥakhme Marsiliya  אגרת אל חכמי מרסיליא</title>
+                  </msItem>
+                  <msItem n="162r">
+                     <locus from="162r" to="162v">162r-162v</locus>
+                     <title>Igeret ᾿el Yehonatan ha-Kohen mi-Lunel אגרת אל יהונתן הכהן מלוניל</title>
+                  </msItem>
+                  <msItem n="163r">
+                     <locus from="163r" to="166r">163r-166r</locus>
+                     <title>Keter malkhut כתר מלכות</title>
+                  </msItem>
+                  <msItem n="166v">
+                     <locus from="166v" to="174r">166v-174r</locus>
+                     <title>Mesharet Mosheh משרת משה</title>
+                  </msItem>
+                  <msItem n="174r">
+                     <locus from="174r" to="181r">174r-181r</locus>
+                     <title>Ruaḥ ḥen רוח חן</title>
+                  </msItem>
+                  <msItem n="182v">
+                     <locus from="182v" to="198r">182v-198r</locus>
+                     <title>Otot ha-shamayim אותות השמים</title>
+                  </msItem>
+                  <msItem n="198v">
+                     <locus from="198v" to="211v">198v-211v</locus>
+                     <title>Hatḥalat ha-nimtsa᾿ot התחלת הנמצאות</title>
+                  </msItem>
+                  <msItem n="212r">
+                     <locus from="212r" to="214r">212r-214r</locus>
+                     <title>Sefer ha-tapuaḥ ספר התפוח</title>
+                  </msItem>
+                  <msItem n="214r">
+                     <locus from="214r" to="214v">214r-214v</locus>
+                     <title>Taḥkemoni תחכמוני</title>
+                  </msItem>
+                  <msItem n="215r">
+                     <locus from="215r" to="216v">215r-216v</locus>
+                     <title>Mishpaṭ shiv῾ah ha-aklimim משפט שבעה האקלימים</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>216 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									26 quires: i2 (folios 2-3), ii4 (folios 4-7), iii-v10 (folios 8-37), vi10-1 (folios 38-46), vii10-1 (folios 47-55), viii-xix10 (folios 56-175), xx4 (folios 176-179), xxi2 (folios 180-181), xxii-xxiv10 (folios 182-211), xxv2 (folios 212-213), xxvi2 (folios 214-215) + folio 216. 
 									Catchwords at the end of the quires. Leaves on guards.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2 ;
                                                   ruled lines: 40;
                                                   written lines: 40; Uniform layout.Visible pricking and hard-point ruling.Hair side and flesh side distinguishable.Titles and inital words in larger characters. Gilt egdes. Blank folios (folios 80v, 81r, 138v, 166r). There is quire numbering in Roman numbers from quire iv.
-Censors' erasures (e.g., on folios 141v, 142r). Maniculae in numerous folios (e.g., folios 19r, 26r, 27r, 28r, 31v, 53r, 57r, 92r, 184v, 214r).</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script, unpunctuated; folios 3v-7v: Italian cursive script, unpunctuated. Shelomoh Yedidyah ben Mosheh of Rome: inscribed with his name in the colophons, Viterbo, 1272 (folios 117r, 148r, 160r).</scriptNote></scriptDesc><decoDesc><decoNote type="initial">Numerous decorated panels in colours and gold. </decoNote><decoNote type="illustration">1 drawing in colours. </decoNote><decoNote type="border">1 partial foliate border in colours and gold.</decoNote><decoNote type="border"><locus>117v</locus>Numerous decorated initial words decorated in blue and red flourishing. 
-							</decoNote><decoNote type="border"><locus>163r</locus>1 partial foliate border in colours and gold.
-							</decoNote><decoNote type="border"><locus>166v</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>167r</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>168r</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>168v</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>171v</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>172v</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>174r</locus>7 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="diagram"><locus>190v</locus>Diagram of the four main winds illustrating Aristotle's Meterology.
-							</decoNote><decoNote type="border"><locus>198v</locus>3 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>201v</locus>3 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>202v</locus>3 partial foliate borders in colours and gold.
-							</decoNote><decoNote type="border"><locus>212r</locus>1 partial foliate border in colours and gold.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Philosophical Miscellany. Hebrew. Brit. Mus. Additional  Ms. 14,763.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1273"/><origPlace>Italy, Central Viterbo</origPlace></origin><provenance>Acquisition: 
-								Payne &amp; Foss: purchased by the British Museum from them in 1844: inscribed (folio [217v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Censors' erasures (e.g., on folios 141v, 142r). Maniculae in numerous folios (e.g., folios 19r, 26r, 27r, 28r, 31v, 53r, 57r, 92r, 184v, 214r).</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script, unpunctuated; folios 3v-7v: Italian cursive script, unpunctuated. Shelomoh Yedidyah ben Mosheh of Rome: inscribed with his name in the colophons, Viterbo, 1272 (folios 117r, 148r, 160r).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Numerous decorated panels in colours and gold. </decoNote>
+                     <decoNote type="illustration">1 drawing in colours. </decoNote>
+                     <decoNote type="border">1 partial foliate border in colours and gold.</decoNote>
+                     <decoNote type="border">
+                        <locus>117v</locus>Numerous decorated initial words decorated in blue and red flourishing. 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>163r</locus>1 partial foliate border in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>166v</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>167r</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>168r</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>168v</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>171v</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>172v</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>174r</locus>7 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="diagram">
+                        <locus>190v</locus>Diagram of the four main winds illustrating Aristotle's Meterology.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>198v</locus>3 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>201v</locus>3 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>202v</locus>3 partial foliate borders in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>212r</locus>1 partial foliate border in colours and gold.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Philosophical Miscellany. Hebrew. Brit. Mus. Additional  Ms. 14,763.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1273"/>
+                     <origPlace>Italy, Central Viterbo</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Payne &amp; Foss: purchased by the British Museum from them in 1844: inscribed (folio [217v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

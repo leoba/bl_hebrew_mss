@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of kabbalistic texts.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of kabbalistic texts.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1055: A collection of kabbalistic texts. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,147 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Incomplete.</note><note>Front inner cover: a stamp of the India Office Library, OIC 232 Microfilm.
-								Mosheh: marked off on folio 4r, 8v, 9v: perhaps a name of a former owner.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Incomplete.</note>
+            <note>Front inner cover: a stamp of the India Office Library, OIC 232 Microfilm.
+								Mosheh: marked off on folio 4r, 8v, 9v: perhaps a name of a former owner.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1055</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1055</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of kabbalistic texts.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="90v">1r-90v</locus><title>Perush ha-Torah le-Ramban פרוש התורה לרמב"ן </title></msItem><msItem n="90v"><locus from="90v" to="99v">90v-99v</locus><title>Sodot ha-niḳud סודות הנקוד</title></msItem><msItem n="99v"><locus from="99v" to="102v">99v-102v</locus><title>Sod neḳudat ha-shem ha-meyuḥad סוד נקודת השם המיוחד</title></msItem><msItem n="103r"><locus from="103r" to="106r">103r-106r</locus><title>῾Esrim u-shetayim otiyot shel Meṭaṭron עשרים ושתים אותיות של מטטרון</title></msItem><msItem n="106r"><locus from="106r" to="107v">106r-107v</locus><title>Tefilat ha-yiḥud le-R. Neḥuniah ben ha-Ḳanah תפלת היחוד לר' נחוניה בן הקנה</title></msItem><msItem n="107v"><locus from="107v" to="108r">107v-108r</locus><title>Perush ῾eser sefirot פרוש עשר ספירות</title></msItem><msItem n="108r"><locus from="108r" to="109v">108r-109v</locus><title>Sefer ha-yiḥud (Perush shalosh ῾esreh midot) ספר היחוד (פרוש שלש עשרה מדות)</title></msItem><msItem n="110r"><locus from="110r" to="112v">110r-112v</locus><title>Divre Menaḥem : Perush ῾eser sefirot דברי מנחם : פרוש עשר ספירות</title></msItem><msItem n="112v"><locus from="112v" to="121v">112v-121v</locus><title>Sodot u-te῾amim be-ḳabalah סודות וטעמים בקבלה</title></msItem><msItem n="121v"><locus from="121v" to="126v">121v-126v</locus><title>Keter shem ṭov כתר שם טוב</title></msItem><msItem n="126v"><locus from="126v" to="127v">126v-127v</locus><title>Tefilat ha-yiḥud le-R. Neḥuniah ben ha-Ḳanah תפלת היחוד לר' נחוניה בן הקנה</title></msItem><msItem n="127v"><locus from="127v" to="128r">127v-128r</locus><title>Perush ῾eser sefirot פרוש עשר ספירות</title></msItem><msItem n="128r"><locus from="128r" to="132r">128r-132r</locus><title>Sefer ha-yiḥud ספר היחוד</title></msItem><msItem n="132r"><locus from="132r" to="140r">132r-140r</locus><title>Perush sha῾ar ha-sho᾿el פרוש שער השואל</title></msItem><msItem n="141v"><locus from="141v" to="178v">141v-178v</locus><title>Sefer ha-ḥayim ספר החיים</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>178 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1055</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1055</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of kabbalistic texts.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="90v">1r-90v</locus>
+                     <title>Perush ha-Torah le-Ramban פרוש התורה לרמב"ן </title>
+                  </msItem>
+                  <msItem n="90v">
+                     <locus from="90v" to="99v">90v-99v</locus>
+                     <title>Sodot ha-niḳud סודות הנקוד</title>
+                  </msItem>
+                  <msItem n="99v">
+                     <locus from="99v" to="102v">99v-102v</locus>
+                     <title>Sod neḳudat ha-shem ha-meyuḥad סוד נקודת השם המיוחד</title>
+                  </msItem>
+                  <msItem n="103r">
+                     <locus from="103r" to="106r">103r-106r</locus>
+                     <title>῾Esrim u-shetayim otiyot shel Meṭaṭron עשרים ושתים אותיות של מטטרון</title>
+                  </msItem>
+                  <msItem n="106r">
+                     <locus from="106r" to="107v">106r-107v</locus>
+                     <title>Tefilat ha-yiḥud le-R. Neḥuniah ben ha-Ḳanah תפלת היחוד לר' נחוניה בן הקנה</title>
+                  </msItem>
+                  <msItem n="107v">
+                     <locus from="107v" to="108r">107v-108r</locus>
+                     <title>Perush ῾eser sefirot פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="108r">
+                     <locus from="108r" to="109v">108r-109v</locus>
+                     <title>Sefer ha-yiḥud (Perush shalosh ῾esreh midot) ספר היחוד (פרוש שלש עשרה מדות)</title>
+                  </msItem>
+                  <msItem n="110r">
+                     <locus from="110r" to="112v">110r-112v</locus>
+                     <title>Divre Menaḥem : Perush ῾eser sefirot דברי מנחם : פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="112v">
+                     <locus from="112v" to="121v">112v-121v</locus>
+                     <title>Sodot u-te῾amim be-ḳabalah סודות וטעמים בקבלה</title>
+                  </msItem>
+                  <msItem n="121v">
+                     <locus from="121v" to="126v">121v-126v</locus>
+                     <title>Keter shem ṭov כתר שם טוב</title>
+                  </msItem>
+                  <msItem n="126v">
+                     <locus from="126v" to="127v">126v-127v</locus>
+                     <title>Tefilat ha-yiḥud le-R. Neḥuniah ben ha-Ḳanah תפלת היחוד לר' נחוניה בן הקנה</title>
+                  </msItem>
+                  <msItem n="127v">
+                     <locus from="127v" to="128r">127v-128r</locus>
+                     <title>Perush ῾eser sefirot פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="128r">
+                     <locus from="128r" to="132r">128r-132r</locus>
+                     <title>Sefer ha-yiḥud ספר היחוד</title>
+                  </msItem>
+                  <msItem n="132r">
+                     <locus from="132r" to="140r">132r-140r</locus>
+                     <title>Perush sha῾ar ha-sho᾿el פרוש שער השואל</title>
+                  </msItem>
+                  <msItem n="141v">
+                     <locus from="141v" to="178v">141v-178v</locus>
+                     <title>Sefer ha-ḥayim ספר החיים</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>178 folios
 									
-								</extent><foliation>Irregular original folation.</foliation><collation><p>
+								</extent>
+                        <foliation>Irregular original folation.</foliation>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each, marked by catchwords at the end and signed at the beginning.
 									The first quire is missing entirely, and leaves are also missing throughout.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 28 31;
-                                                  written lines: 28 31; Uniform layout.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.Some additions and notes in the margin.Catchwords occasionally enclosed in a simple pen and ink design, e.g., folio 150v, 160v.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 14th century. Yitsḥaḳ ha-Sofer: inscribed, folio 106r. Yehonatan [ben Avi῾ezer] ha-Kohen [of Ferara]: inscribed in the colophon, folio 178v.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine: 'Kabbalistic treatises and tracts by Moses ben Nahman, Eleazar of Worms and others. Hebrew. Brit. Mus. Oriental 1055.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/><origPlace>Italy Rome</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 28 31; Uniform layout.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.Some additions and notes in the margin.Catchwords occasionally enclosed in a simple pen and ink design, e.g., folio 150v, 160v.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 14th century. Yitsḥaḳ ha-Sofer: inscribed, folio 106r. Yehonatan [ben Avi῾ezer] ha-Kohen [of Ferara]: inscribed in the colophon, folio 178v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine: 'Kabbalistic treatises and tracts by Moses ben Nahman, Eleazar of Worms and others. Hebrew. Brit. Mus. Oriental 1055.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                     <origPlace>Italy Rome</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tana"kh(תנ"ך)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tana"kh(תנ"ך)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 15451: Tana"kh are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,12 +39,204 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 15451</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_15451</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Bible with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="508v">1r-508v</locus><title>Tana"kh תנ"ך</title></msItem><msItem n="2v"><locus from="2v" to="37v">2v-37v</locus><title>Genesis</title></msItem><msItem n="37v"><locus from="37v" to="69r">37v-69r</locus><title>Exodus</title></msItem><msItem n="69r"><locus from="69r" to="89v">69r-89v</locus><title>Leviticus</title></msItem><msItem n="89v"><locus from="89v" to="119r">89v-119r</locus><title>Numbers</title></msItem><msItem n="119r"><locus from="119r" to="145v">119r-145v</locus><title>Deuteronomy</title></msItem><msItem n="145v"><locus from="145v" to="162v">145v-162v</locus><title>Joshua</title></msItem><msItem n="162v"><locus from="162v" to="179v">162v-179v</locus><title>Judges</title></msItem><msItem n="179v"><locus from="179v" to="223r">179v-223r</locus><title>Samuel</title></msItem><msItem n="223r"><locus from="223r" to="267r">223r-267r</locus><title>Kings</title></msItem><msItem n="267r"><locus from="267r" to="306r">267r-306r</locus><title>Jeremiah</title></msItem><msItem n="306r"><locus from="306r" to="341r">306r-341r</locus><title>Ezekiel</title></msItem><msItem n="341r"><locus from="341r" to="371r">341r-371r</locus><title>Isaiah</title></msItem><msItem n="371r"><locus from="371r" to="375v">371r-375v</locus><title>Hosea</title></msItem><msItem n="375v"><locus from="375v" to="377r">375v-377r</locus><title>Joel</title></msItem><msItem n="377r"><locus from="377r" to="381r">377r-381r</locus><title>Amos</title></msItem><msItem n="381r"><locus from="381r" to="381v">381r-381v</locus><title>Obadiah</title></msItem><msItem n="381v"><locus from="381v" to="382v">381v-382v</locus><title>Jonah</title></msItem><msItem n="382v"><locus from="382v" to="385r">382v-385r</locus><title>Micah</title></msItem><msItem n="385r"><locus from="385r" to="386r">385r-386r</locus><title>Nahum</title></msItem><msItem n="386r"><locus from="386r" to="387r">386r-387r</locus><title>Habakuk</title></msItem><msItem n="387r"><locus from="387r" to="389r">387r-389r</locus><title>Zephaniah</title></msItem><msItem n="389r"><locus from="389r" to="390r">389r-390r</locus><title>Haggai</title></msItem><msItem n="390r"><locus from="390r" to="395v">390r-395v</locus><title>Zechariah</title></msItem><msItem n="395v"><locus from="395v" to="397v">395v-397v</locus><title>Malachi</title></msItem><msItem n="397v"><locus from="397v" to="436v">397v-436v</locus><title>Psalms</title></msItem><msItem n="436v"><locus from="436v" to="437r">436v-437r</locus><title>Job (only until 1:10)</title></msItem><msItem n="437r"><locus from="437r" to="447v">437r-447v</locus><title>Daniel</title></msItem><msItem n="447v"><locus from="447v" to="465r">447v-465r</locus><title>Ezra</title></msItem><msItem n="465r"><locus from="465r" to="508v">465r-508v</locus><title>Chronicles</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>508 folios
-								</extent><foliation>Original Hebrew foliation not visible. Quires are marked by catchwords at the end, the mark בי being written in the upper right-hand corner at the beginning of the quires. </foliation><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 15451</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_15451</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Bible with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="508v">1r-508v</locus>
+                     <title>Tana"kh תנ"ך</title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="37v">2v-37v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="37v">
+                     <locus from="37v" to="69r">37v-69r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="69r">
+                     <locus from="69r" to="89v">69r-89v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="89v">
+                     <locus from="89v" to="119r">89v-119r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="145v">119r-145v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="145v">
+                     <locus from="145v" to="162v">145v-162v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="162v">
+                     <locus from="162v" to="179v">162v-179v</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="179v">
+                     <locus from="179v" to="223r">179v-223r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="223r">
+                     <locus from="223r" to="267r">223r-267r</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="267r">
+                     <locus from="267r" to="306r">267r-306r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="306r">
+                     <locus from="306r" to="341r">306r-341r</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="341r">
+                     <locus from="341r" to="371r">341r-371r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="371r">
+                     <locus from="371r" to="375v">371r-375v</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="375v">
+                     <locus from="375v" to="377r">375v-377r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="377r">
+                     <locus from="377r" to="381r">377r-381r</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="381r">
+                     <locus from="381r" to="381v">381r-381v</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="381v">
+                     <locus from="381v" to="382v">381v-382v</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="382v">
+                     <locus from="382v" to="385r">382v-385r</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="385r">
+                     <locus from="385r" to="386r">385r-386r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="386r">
+                     <locus from="386r" to="387r">386r-387r</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="387r">
+                     <locus from="387r" to="389r">387r-389r</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="389r">
+                     <locus from="389r" to="390r">389r-390r</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="390r">
+                     <locus from="390r" to="395v">390r-395v</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="395v">
+                     <locus from="395v" to="397v">395v-397v</locus>
+                     <title>Malachi</title>
+                  </msItem>
+                  <msItem n="397v">
+                     <locus from="397v" to="436v">397v-436v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="436v">
+                     <locus from="436v" to="437r">436v-437r</locus>
+                     <title>Job (only until 1:10)</title>
+                  </msItem>
+                  <msItem n="437r">
+                     <locus from="437r" to="447v">437r-447v</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="447v">
+                     <locus from="447v" to="465r">447v-465r</locus>
+                     <title>Ezra</title>
+                  </msItem>
+                  <msItem n="465r">
+                     <locus from="465r" to="508v">465r-508v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>508 folios
+								</extent>
+                        <foliation>Original Hebrew foliation not visible. Quires are marked by catchwords at the end, the mark בי being written in the upper right-hand corner at the beginning of the quires. </foliation>
+                        <collation>
+                           <p>
 									65 quires, mostly of 8 leaves each, marked by catchwords at the end. Several quires are missing after folio 436 (parts of Job, Proverbs and all the Five Scrolls). 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 31;
-                                                  written lines: 30; Uniform layout. Pricking and ruling visible. Ruled with a pencil (both main text and masoretic notes). Leviticus, Joshua, Kings and Isaiah begin a new leaf, and Psalms open a new page. Beginning of a weekly section marked by the word סדר in the margin. The sign פפ stands between the sections. Beginning and end of the Torah lessons for feasts and fasts marked in red (folio 14r,  45v, 46v). Masorah magna is written in two lines in the upper margin and in three lines in the lower margin. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script for the main text and semi-cursive for masorah. One folio with masoretic lists written with a Greek hand (Syracuse).</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>Germany Syracuse</origPlace></origin><provenance>Acquisition: Acquired by the British Museum on 12 December 1844. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Uniform layout. Pricking and ruling visible. Ruled with a pencil (both main text and masoretic notes). Leviticus, Joshua, Kings and Isaiah begin a new leaf, and Psalms open a new page. Beginning of a weekly section marked by the word סדר in the margin. The sign פפ stands between the sections. Beginning and end of the Torah lessons for feasts and fasts marked in red (folio 14r,  45v, 46v). Masorah magna is written in two lines in the upper margin and in three lines in the lower margin. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script for the main text and semi-cursive for masorah. One folio with masoretic lists written with a Greek hand (Syracuse).</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>Germany Syracuse</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Acquired by the British Museum on 12 December 1844. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

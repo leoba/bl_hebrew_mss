@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush ῾al hafṭarot (פרוש על הפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush ῾al hafṭarot (פרוש על הפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2584: Perush ῾al hafṭarot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,130 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the end.  A number of pages partially damaged (restored on modern paper); large signs of worming.  There are lacunae after folio 1 and 2. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the end.  A number of pages partially damaged (restored on modern paper); large signs of worming.  There are lacunae after folio 1 and 2. </note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2584</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2584</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A Judeo-Arabic commentary on the Hafṭarot of Numbers.</summary><textLang mainLang="he" otherLangs="jrb"/><msItem n="2r"><locus from="2r" to="130v">2r-130v</locus><title>Perush ῾al hafṭarot  פרוש על הפטרות </title></msItem><msItem n="2r"><locus from="2r" to="22v">2r-22v</locus><title>Hosea 2:1-22</title></msItem><msItem n="22v"><locus from="22v" to="32r">22v-32r</locus><title>Judges 13:2-25</title></msItem><msItem n="32r"><locus from="32r" to="50r">32r-50r</locus><title>Zechariah 2:14-4:9</title></msItem><msItem n="50r"><locus from="50r" to="60r">50r-60r</locus><title>Joshua 2</title></msItem><msItem n="60r"><locus from="60r" to="73r">60r-73r</locus><title>1 Samuel 11:14-12:22</title></msItem><msItem n="73r"><locus from="73r" to="89v">73r-89v</locus><title>Judges 11</title></msItem><msItem n="89v"><locus from="89v" to="102r">89v-102r</locus><title>Micah 5:6-6:8</title></msItem><msItem n="102r"><locus from="102r" to="114r">102r-114r</locus><title>1 Kings 18:46-19:21</title></msItem><msItem n="114r"><locus from="114r" to="122r">114r-122r</locus><title>Jeremiah 1</title></msItem><msItem n="122r"><locus from="122r" to="129v">122r-129v</locus><title>Jeremiah 2:5</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>130 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2584</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2584</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A Judeo-Arabic commentary on the Hafṭarot of Numbers.</summary>
+                  <textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="130v">2r-130v</locus>
+                     <title>Perush ῾al hafṭarot  פרוש על הפטרות </title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="22v">2r-22v</locus>
+                     <title>Hosea 2:1-22</title>
+                  </msItem>
+                  <msItem n="22v">
+                     <locus from="22v" to="32r">22v-32r</locus>
+                     <title>Judges 13:2-25</title>
+                  </msItem>
+                  <msItem n="32r">
+                     <locus from="32r" to="50r">32r-50r</locus>
+                     <title>Zechariah 2:14-4:9</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="60r">50r-60r</locus>
+                     <title>Joshua 2</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="73r">60r-73r</locus>
+                     <title>1 Samuel 11:14-12:22</title>
+                  </msItem>
+                  <msItem n="73r">
+                     <locus from="73r" to="89v">73r-89v</locus>
+                     <title>Judges 11</title>
+                  </msItem>
+                  <msItem n="89v">
+                     <locus from="89v" to="102r">89v-102r</locus>
+                     <title>Micah 5:6-6:8</title>
+                  </msItem>
+                  <msItem n="102r">
+                     <locus from="102r" to="114r">102r-114r</locus>
+                     <title>1 Kings 18:46-19:21</title>
+                  </msItem>
+                  <msItem n="114r">
+                     <locus from="114r" to="122r">114r-122r</locus>
+                     <title>Jeremiah 1</title>
+                  </msItem>
+                  <msItem n="122r">
+                     <locus from="122r" to="129v">122r-129v</locus>
+                     <title>Jeremiah 2:5</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>130 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									12 quires of mostly 10 leaves. 
 									Quires signed originally with Arabic words on the first page and with Hebrew letters on the last page; most of the signatures are now lost. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 15 17;
-                                                  written lines: 15 17; Uniform layout. Text written in one column a page, of 15 to 17 lines each. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental square and semi-cursive script, unpunctuated, of 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine: 'Hafṭaroth with Commentary. Hebrew &amp; Arabic. Brit. Mus. Oriental 2584.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1399"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio [131v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 15 17; Uniform layout. Text written in one column a page, of 15 to 17 lines each. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental square and semi-cursive script, unpunctuated, of 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine: 'Hafṭaroth with Commentary. Hebrew &amp; Arabic. Brit. Mus. Oriental 2584.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1399"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio [131v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

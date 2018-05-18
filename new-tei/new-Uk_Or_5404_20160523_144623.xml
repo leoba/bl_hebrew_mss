@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah(תורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah(תורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5404: Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Edge losses to damp/mould throughout, but repaired before rebinding.  Damp/mould stains at edges; usage stains.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Edge losses to damp/mould throughout, but repaired before rebinding.  Damp/mould stains at edges; usage stains.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,64 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5404</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5404</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva in the margins and between columns. Prefixed is Mahberet ha-tigan. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="144v">1r-144v</locus><title>Torah תורה</title></msItem><msItem n="3v"><locus from="3v" to="28v">3v-28v</locus><title>Maḥberet ha-tigan מחברת התיג'אן</title></msItem><msItem n="28v"><locus from="28v" to="57r">28v-57r</locus><title>Genesis</title></msItem><msItem n="57r"><locus from="57r" to="81v">57r-81v</locus><title>Exodus</title></msItem><msItem n="81v"><locus from="81v" to="98v">81v-98v</locus><title>Numbers</title></msItem><msItem n="98v"><locus from="98v" to="122v">98v-122v</locus><title>Leviticus</title></msItem><msItem n="122v"><locus from="122v" to="144v">122v-144v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>144 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5404</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5404</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva in the margins and between columns. Prefixed is Mahberet ha-tigan. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="144v">1r-144v</locus>
+                     <title>Torah תורה</title>
+                  </msItem>
+                  <msItem n="3v">
+                     <locus from="3v" to="28v">3v-28v</locus>
+                     <title>Maḥberet ha-tigan מחברת התיג'אן</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="57r">28v-57r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="57r">
+                     <locus from="57r" to="81v">57r-81v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="81v">
+                     <locus from="81v" to="98v">81v-98v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="98v">
+                     <locus from="98v" to="122v">98v-122v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="122v">
+                     <locus from="122v" to="144v">122v-144v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>144 folios
                            
                            
                            
@@ -33,7 +118,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,6 +128,40 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 25;
-                                                  written lines: 25; Uniform layout. Hair side and flesh side of folios distinguishable. Complete hard-point ruling and pricking visible. Headings and initial words in square large characters. The beginning of each pericope marked in the margin by large ornamental 'samekh'. Masorah magna generally occupies three lines at the top and four lines at the bottom of a page. A number of masoretic notes and marks at the end of each books. Centre-marks and middle verses marked. Folios 2v-3r: masoretic notes in the form of ornamental designs. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square and semi-cursive script of the 15th century. Avraham ben Daṿid ben Se῾adyah Alṭiyul: inscribed, folio 143r. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Boxed.  Spine: 'Pentateuch. Hebrew. Brit. Mus. Oriental 5404.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1478"/></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25; Uniform layout. Hair side and flesh side of folios distinguishable. Complete hard-point ruling and pricking visible. Headings and initial words in square large characters. The beginning of each pericope marked in the margin by large ornamental 'samekh'. Masorah magna generally occupies three lines at the top and four lines at the bottom of a page. A number of masoretic notes and marks at the end of each books. Centre-marks and middle verses marked. Folios 2v-3r: masoretic notes in the form of ornamental designs. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square and semi-cursive script of the 15th century. Avraham ben Daṿid ben Se῾adyah Alṭiyul: inscribed, folio 143r. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Boxed.  Spine: 'Pentateuch. Hebrew. Brit. Mus. Oriental 5404.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1478"/>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

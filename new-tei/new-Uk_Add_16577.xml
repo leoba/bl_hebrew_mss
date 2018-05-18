@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 16577: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,11 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Avraham ben Ya῾aḳov: inscribed with his name in an owner's inscription (folio 287v).
 
 								Kalonymos Finziim (Panziim?; of the Finzi/ Panzi family?: inscribed with his name in an owner’s inscription, undated (folio 1r).
@@ -25,23 +52,165 @@
 								Camillo Jaghel: inscribed with his name, 1611 (folio 286r); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 50-56.
 
 								Antonio Franc. Enriques (fl. in Urbino): inscribed with his name, 1688 (folio 286r); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 44.
-Marginal inscription: an attempt to copy Franguellus' signature (folio 103v).</note><note type="relatedResource">
+Marginal inscription: an attempt to copy Franguellus' signature (folio 103v).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 16577</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16577</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book, according to the Italian rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="287v">1r-287v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="13v">1r-13v</locus><title>Services for week-days</title></msItem><msItem n="13v"><locus from="13v" to="29v">13v-29v</locus><title>῾Inyan Shabat</title></msItem><msItem n="29v"><locus from="29v" to="35r">29v-35r</locus><title>῾Inyan Rosh ḥodesh</title></msItem><msItem n="35r"><locus from="35r" to="37v">35r-37v</locus><title>Seder ῾Asarah be-ṭevet</title></msItem><msItem n="37v"><locus from="37v" to="48r">37v-48r</locus><title>Seder arba῾ah parashiyot</title></msItem><msItem n="48r"><locus from="48r" to="84r">48r-84r</locus><title>Seder ῾Inyan Pesaḥ</title></msItem><msItem n="84r"><locus from="84r" to="108r">84r-108r</locus><title>Pirḳe avot</title></msItem><msItem n="108r"><locus from="108r" to="126r">108r-126r</locus><title>Seder Shavu῾ot</title></msItem><msItem n="126r"><locus from="126r" to="149v">126r-149v</locus><title>῾Inyan arba῾ah tsomot</title></msItem><msItem n="149v"><locus from="149v" to="166r">149v-166r</locus><title>῾Inyan ta῾anit </title></msItem><msItem n="166r"><locus from="166r" to="177r">166r-177r</locus><title>Seder ma῾amadot</title></msItem><msItem n="177r"><locus from="177r" to="188v">177r-188v</locus><title>῾Inyan Rosh ha-shanah</title></msItem><msItem n="188v"><locus from="188v" to="260v">188v-260v</locus><title>Seder Yom Kipur</title></msItem><msItem n="260v"><locus from="260v" to="287v">260v-287v</locus><title>῾Inyan ḥag ha-Sukot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>287 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 16577</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16577</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book, according to the Italian rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="287v">1r-287v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="13v">1r-13v</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="13v">
+                     <locus from="13v" to="29v">13v-29v</locus>
+                     <title>῾Inyan Shabat</title>
+                  </msItem>
+                  <msItem n="29v">
+                     <locus from="29v" to="35r">29v-35r</locus>
+                     <title>῾Inyan Rosh ḥodesh</title>
+                  </msItem>
+                  <msItem n="35r">
+                     <locus from="35r" to="37v">35r-37v</locus>
+                     <title>Seder ῾Asarah be-ṭevet</title>
+                  </msItem>
+                  <msItem n="37v">
+                     <locus from="37v" to="48r">37v-48r</locus>
+                     <title>Seder arba῾ah parashiyot</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="84r">48r-84r</locus>
+                     <title>Seder ῾Inyan Pesaḥ</title>
+                  </msItem>
+                  <msItem n="84r">
+                     <locus from="84r" to="108r">84r-108r</locus>
+                     <title>Pirḳe avot</title>
+                  </msItem>
+                  <msItem n="108r">
+                     <locus from="108r" to="126r">108r-126r</locus>
+                     <title>Seder Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="126r">
+                     <locus from="126r" to="149v">126r-149v</locus>
+                     <title>῾Inyan arba῾ah tsomot</title>
+                  </msItem>
+                  <msItem n="149v">
+                     <locus from="149v" to="166r">149v-166r</locus>
+                     <title>῾Inyan ta῾anit </title>
+                  </msItem>
+                  <msItem n="166r">
+                     <locus from="166r" to="177r">166r-177r</locus>
+                     <title>Seder ma῾amadot</title>
+                  </msItem>
+                  <msItem n="177r">
+                     <locus from="177r" to="188v">177r-188v</locus>
+                     <title>῾Inyan Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="188v">
+                     <locus from="188v" to="260v">188v-260v</locus>
+                     <title>Seder Yom Kipur</title>
+                  </msItem>
+                  <msItem n="260v">
+                     <locus from="260v" to="287v">260v-287v</locus>
+                     <title>῾Inyan ḥag ha-Sukot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>287 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									29 quires: i-xxviii10 (folios 1-280), xxixten (folios 281-286, 286a, 287). 
 									Catchwords. 
 									Quire numeration on the recto of the first folios in Arabic numbers.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 35;
                                                   written lines: 35; Uniform layout.Visible hard-point ruling.Initial words written in larger characters.Parallel Hebrew foliation. Gilt edges.
 Censors’ erasures (e.g., folio 2r, 8v, 154r, 155v, 178v, 183r).
-Hair side and flesh side are distinguishable.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 15th century, partially punctuated. </scriptNote></scriptDesc><decoDesc><decoNote type="border"><locus>1r</locus>
-								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote><decoNote type="border"><locus>27v</locus>
-								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote><decoNote type="border"><locus>30v</locus>
-								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote><decoNote type="miniature"><locus>287r</locus>1 full-page miniature including the first owner’s inscription. 
-							</decoNote><decoNote type="initial">Numerous initial-word panels and initial words accompanied with foliate scrolls or floral motifs and sometimes with animals or birds, in colours and gold. </decoNote><decoNote type="marginal"><locus>53r</locus>2 pen drawings in the margin.
-							</decoNote><decoNote type="marginal"><locus>101v</locus>2 pen drawings in the margin.
-							</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600. Red velvet, with clasps. Rebound in-house in brown leather (both bindings preserved).  Spine: 'Machazor Liber Precum. Hebraice. Mus. Brit. Jure Emptionis. 16,577. Plut.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1450" notAfter="1474"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: Acquired by the British Museum in 1847.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Hair side and flesh side are distinguishable.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 15th century, partially punctuated. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">
+                        <locus>1r</locus>
+								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote>
+                     <decoNote type="border">
+                        <locus>27v</locus>
+								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote>
+                     <decoNote type="border">
+                        <locus>30v</locus>
+								3 frontispieces with initial-word panels and full borders, in colours and gold. </decoNote>
+                     <decoNote type="miniature">
+                        <locus>287r</locus>1 full-page miniature including the first owner’s inscription. 
+							</decoNote>
+                     <decoNote type="initial">Numerous initial-word panels and initial words accompanied with foliate scrolls or floral motifs and sometimes with animals or birds, in colours and gold. </decoNote>
+                     <decoNote type="marginal">
+                        <locus>53r</locus>2 pen drawings in the margin.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>101v</locus>2 pen drawings in the margin.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Red velvet, with clasps. Rebound in-house in brown leather (both bindings preserved).  Spine: 'Machazor Liber Precum. Hebraice. Mus. Brit. Jure Emptionis. 16,577. Plut.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1450" notAfter="1474"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Acquired by the British Museum in 1847.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

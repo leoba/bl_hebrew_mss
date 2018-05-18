@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27292: Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,99 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27292</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27292</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="157r">2r-157r</locus><title>Sefer midrashim ספר מדרשים</title></msItem><msItem n="157r"><locus from="157r" to="325v">157r-325v</locus><title>ערוגת הבושם ῾Arugat ha-bosem</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>325 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27292</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27292</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Two series of anonymous midrashic commentaries on the parts of the Pentateuch, which may have been written out by an adaptor, for use at the delivery of public discourses.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="157r">2r-157r</locus>
+                     <title>Sefer midrashim ספר מדרשים</title>
+                  </msItem>
+                  <msItem n="157r">
+                     <locus from="157r" to="325v">157r-325v</locus>
+                     <title>ערוגת הבושם ῾Arugat ha-bosem</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>325 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each.
 									Catchwords on nearly every verso. Irregular.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 25 33;
-                                                  written lines: 25 33; Uniform layout. The first part of the manuscript (folios 1-156) written in one column, with mostly 31 line a page. The second part has 2 columns a page, with 25 to 33 lines a column.Hair-side and flesh-side of the folios distinguishable.Visible pricking and hard-point ruling.Many passages marked off. Many marginal notes, some in Italian (see folio 48v, 49r). Part of folio 273r, and folios 273r-277v left blank. Parts of folio 157r, 258v omitted by the scribe. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (or Greek) square script of the 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Sepher Midrashim. A.D. 1384. Sepher Arigat Hab-Bosem. Hebrew. Brit. Mus. Additional 27 292.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1384"/></origin><provenance>Acquisition: 
-								Efrayim Refa'el ben Mordekhai Gerondi: inscribed, folio .</provenance><provenance>Acquisition: 
-								Menahem ben Refa'el: inscribed, folio .</provenance><provenance>Acquisition: 
-								Yosef ben Mordekhai: inscribed, folio .</provenance><provenance>Acquisition: 
-								Ben Tsiyon Gerondi: inscribed with a date of 1782, folios .</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25 33; Uniform layout. The first part of the manuscript (folios 1-156) written in one column, with mostly 31 line a page. The second part has 2 columns a page, with 25 to 33 lines a column.Hair-side and flesh-side of the folios distinguishable.Visible pricking and hard-point ruling.Many passages marked off. Many marginal notes, some in Italian (see folio 48v, 49r). Part of folio 273r, and folios 273r-277v left blank. Parts of folio 157r, 258v omitted by the scribe. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (or Greek) square script of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Sepher Midrashim. A.D. 1384. Sepher Arigat Hab-Bosem. Hebrew. Brit. Mus. Additional 27 292.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1384"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Efrayim Refa'el ben Mordekhai Gerondi: inscribed, folio .</provenance>
+                  <provenance>Acquisition: 
+								Menahem ben Refa'el: inscribed, folio .</provenance>
+                  <provenance>Acquisition: 
+								Yosef ben Mordekhai: inscribed, folio .</provenance>
+                  <provenance>Acquisition: 
+								Ben Tsiyon Gerondi: inscribed with a date of 1782, folios .</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

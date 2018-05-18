@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A daily prayer book, Ashkenazi rite.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A daily prayer book, Ashkenazi rite.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 18832: A daily prayer book, Ashkenazi rite. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,17 +39,102 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the beginning.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the beginning.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 18832</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18832</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A daily prayer book, Ashkenazi rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="34v">1r-34v</locus><title>Maḥzor מחזור</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>34 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 18832</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18832</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A daily prayer book, Ashkenazi rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="34v">1r-34v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>34 folios 
 									
-								</extent><foliation>Hebrew original enumeration has been preserved.</foliation><collation><p>
+								</extent>
+                        <foliation>Hebrew original enumeration has been preserved.</foliation>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 25 33;
-                                                  written lines: 25 33; Uniform layout.Initial words written in larger characters.6 blank pages between folio 32 and 33.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi cursive script, of the 17th century.</scriptNote></scriptDesc><decoDesc><decoNote type="border"><locus>2r</locus>
-								1 illustrated title page with a coat of arms, in pen and ink.</decoNote><decoNote type="illustration"><locus>8v</locus>
-								1 textual illustration of the Temple, Elijah and Messiah, in pen and ink.</decoNote><decoNote type="illustration"><locus>21r</locus>
-								A drawing of double-headed eagle, with fleur-de-lis and a crown, in pen and ink.</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Dark brown leather, blind-tooled. Spine: 'Preces in Synagoga Normatiens Usitata. Hebr. Mus. Brit. Jure Empt. 18.832.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1662"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: 
-								M. A. Lowy: purchased from him by the British Museum on 10 Januar 1852: inscribed, folio 34v.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25 33; Uniform layout.Initial words written in larger characters.6 blank pages between folio 32 and 33.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi cursive script, of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">
+                        <locus>2r</locus>
+								1 illustrated title page with a coat of arms, in pen and ink.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>8v</locus>
+								1 textual illustration of the Temple, Elijah and Messiah, in pen and ink.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>21r</locus>
+								A drawing of double-headed eagle, with fleur-de-lis and a crown, in pen and ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Dark brown leather, blind-tooled. Spine: 'Preces in Synagoga Normatiens Usitata. Hebr. Mus. Brit. Jure Empt. 18.832.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1662"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								M. A. Lowy: purchased from him by the British Museum on 10 Januar 1852: inscribed, folio 34v.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

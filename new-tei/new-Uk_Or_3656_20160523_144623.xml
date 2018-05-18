@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of writings of Joseph ha-Kohen. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of writings of Joseph ha-Kohen. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 3656: A collection of writings of Joseph ha-Kohen.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slight damp entry at edges.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slight damp entry at edges.
  Ink burning through in some gatherings (infilled and repaired). 
- Usage stains.   Slight worming.   Foxing and mould spotting. </note><note/><note type="relatedResource">
+ Usage stains.   Slight worming.   Foxing and mould spotting. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -26,8 +55,52 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 3656</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_3656</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of writings of Joseph ha-Kohen. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="188v">1r-188v</locus><title>Divre ha-yamim le-malkhe Tsarfat ṿe-malkhe bet Oṭoman דברי הימים למלכי צרפת ומלכי בית אוטומאן</title></msItem><msItem n="189r"><locus from="189r" to="191v">189r-191v</locus><title>Shirim שירים</title></msItem><msItem n="192r"><locus from="192r" to="194v">192r-194v</locus><title>Mikhtav ha-limud מכתב למוד</title></msItem><msItem n="195r"><locus from="195r" to="207v">195r-207v</locus><title>Peles ha-shemot  פלס השמות</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>207 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 3656</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_3656</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of writings of Joseph ha-Kohen. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="188v">1r-188v</locus>
+                     <title>Divre ha-yamim le-malkhe Tsarfat ṿe-malkhe bet Oṭoman דברי הימים למלכי צרפת ומלכי בית אוטומאן</title>
+                  </msItem>
+                  <msItem n="189r">
+                     <locus from="189r" to="191v">189r-191v</locus>
+                     <title>Shirim שירים</title>
+                  </msItem>
+                  <msItem n="192r">
+                     <locus from="192r" to="194v">192r-194v</locus>
+                     <title>Mikhtav ha-limud מכתב למוד</title>
+                  </msItem>
+                  <msItem n="195r">
+                     <locus from="195r" to="207v">195r-207v</locus>
+                     <title>Peles ha-shemot  פלס השמות</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>207 folios
                            
                            
                            
@@ -35,7 +108,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -43,10 +118,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 38 51;
-                                                  written lines: 38 51; Uniform layout. Pencil vertical ruling occasionally visible. Catchwords on every verso. Running titles. Marginal notes and additions throughout. Maniculae, e.g., 61r, 78r, 152r. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 16th century. Joseph ha-Kohen: an autograph, inscribed (folio 194v). </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Joseph ben Joshua. Chronicles. Brit. Mus. Oriental Ms. 3656.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1577"/></origin><provenance>Acquisition: 
+                                                  written lines: 38 51; Uniform layout. Pencil vertical ruling occasionally visible. Catchwords on every verso. Running titles. Marginal notes and additions throughout. Maniculae, e.g., 61r, 78r, 152r. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 16th century. Joseph ha-Kohen: an autograph, inscribed (folio 194v). </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Joseph ben Joshua. Chronicles. Brit. Mus. Oriental Ms. 3656.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1577"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Joseph Schlesinger: acquired from him by the British Museum on 02 March 1889: inscriebd (folio [210v]). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Joseph Schlesinger: acquired from him by the British Museum on 02 March 1889: inscriebd (folio [210v]). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

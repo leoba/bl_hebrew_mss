@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perushim(פירושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perushim(פירושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 24896: Perushim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,190 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the end. Side margins are too closely cut and some of the marginal notes are not fully preserved. On folio 422v ink has nearly entirely faded.</note><note>An index of commentaries from c17th century is given on folio 419v.A note of purchase of the manuscript, 18th or 19th century, folio 1v.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the end. Side margins are too closely cut and some of the marginal notes are not fully preserved. On folio 422v ink has nearly entirely faded.</note>
+            <note>An index of commentaries from c17th century is given on folio 419v.A note of purchase of the manuscript, 18th or 19th century, folio 1v.
 								M. Conti: inscribed in a note of purchase, folio 3r, with a date of 8 January 1836.
-								Yehudah ben Benyamin ha-Menaḳed ben Yo'av, probably also the scribe: inscribed in a contract of sale, folio 419v. Yehudah bar Benyamin sold the manuscript to Rabi Natan and Rabi Avraham, sons of Rabi Yeḥiel, son of Daniel of Monte Santo, for 15 gold florins.</note><note type="relatedResource">
+								Yehudah ben Benyamin ha-Menaḳed ben Yo'av, probably also the scribe: inscribed in a contract of sale, folio 419v. Yehudah bar Benyamin sold the manuscript to Rabi Natan and Rabi Avraham, sons of Rabi Yeḥiel, son of Daniel of Monte Santo, for 15 gold florins.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 24896</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_24896</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of commentaries and notes on the biblical books, except the Pentateuch, by various authors.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="422v">1r-422v</locus><title>Perushim פירושים</title></msItem><msItem n="1r"><locus from="1r" to="6r">1r-6r</locus><title>Commentary on the book of Joshua</title></msItem><msItem n="6v"><locus from="6v" to="11r">6v-11r</locus><title>Comments on Judges </title></msItem><msItem n="11r"><locus from="11r" to="27r">11r-27r</locus><title>Comments on the books of Samuel</title></msItem><msItem n="27r"><locus from="27r" to="40r">27r-40r</locus><title>Commentary on the books of Kings</title></msItem><msItem n="40r"><locus from="40r" to="80v">40r-80v</locus><title>Commentary on the book of Isaiah</title></msItem><msItem n="80v"><locus from="80v" to="129v">80v-129v</locus><title>Commentary on the book of Jeremiah</title></msItem><msItem n="129v"><locus from="129v" to="193r">129v-193r</locus><title>Commentary on the book of Ezekiel</title></msItem><msItem n="193v"><locus from="193v" to="226v">193v-226v</locus><title>Commentary on the Minor Prophets</title></msItem><msItem n="226v"><locus from="226v" to="239r">226v-239r</locus><title>Notes on Isaiah from various sources</title></msItem><msItem n="239r"><locus from="239r" to="242v">239r-242v</locus><title>Notes on Jeremiah from various sources</title></msItem><msItem n="242v"><locus from="242v" to="246r">242v-246r</locus><title>Notes on Ezekiel from various sources</title></msItem><msItem n="246r"><locus from="246r" to="254r">246r-254r</locus><title>Notes on the Minor Prophets from various sources</title></msItem><msItem n="254r"><locus from="254r" to="266v">254r-266v</locus><title>Commentary on the books of Chronicles</title></msItem><msItem n="266v"><locus from="266v" to="330r">266v-330r</locus><title>Commentary on Psalms</title></msItem><msItem n="330r"><locus from="330r" to="343v">330r-343v</locus><title>Commentary on the book of Job</title></msItem><msItem n="343v"><locus from="343v" to="356r">343v-356r</locus><title>Commentary on the book of Proverbs</title></msItem><msItem n="356r"><locus from="356r" to="358r">356r-358r</locus><title>Commentary on Ruth</title></msItem><msItem n="358r"><locus from="358r" to="364r">358r-364r</locus><title>Commentary on the Song of Songs</title></msItem><msItem n="364r"><locus from="364r" to="380v">364r-380v</locus><title>Commentary on Ecclesiastes</title></msItem><msItem n="380v"><locus from="380v" to="384v">380v-384v</locus><title>Commentary on Lamentations</title></msItem><msItem n="384v"><locus from="384v" to="388v">384v-388v</locus><title>Commentary on the book of Esther</title></msItem><msItem n="388v"><locus from="388v" to="402r">388v-402r</locus><title>Commentary on the book of Daniel</title></msItem><msItem n="402r"><locus from="402r" to="408r">402r-408r</locus><title>Commentary on Ezra and Nehemiah</title></msItem><msItem n="408r"><locus from="408r" to="422v">408r-422v</locus><title>Collection of notes and separate comments from various sources</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>422 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 24896</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_24896</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of commentaries and notes on the biblical books, except the Pentateuch, by various authors.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="422v">1r-422v</locus>
+                     <title>Perushim פירושים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="6r">1r-6r</locus>
+                     <title>Commentary on the book of Joshua</title>
+                  </msItem>
+                  <msItem n="6v">
+                     <locus from="6v" to="11r">6v-11r</locus>
+                     <title>Comments on Judges </title>
+                  </msItem>
+                  <msItem n="11r">
+                     <locus from="11r" to="27r">11r-27r</locus>
+                     <title>Comments on the books of Samuel</title>
+                  </msItem>
+                  <msItem n="27r">
+                     <locus from="27r" to="40r">27r-40r</locus>
+                     <title>Commentary on the books of Kings</title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="80v">40r-80v</locus>
+                     <title>Commentary on the book of Isaiah</title>
+                  </msItem>
+                  <msItem n="80v">
+                     <locus from="80v" to="129v">80v-129v</locus>
+                     <title>Commentary on the book of Jeremiah</title>
+                  </msItem>
+                  <msItem n="129v">
+                     <locus from="129v" to="193r">129v-193r</locus>
+                     <title>Commentary on the book of Ezekiel</title>
+                  </msItem>
+                  <msItem n="193v">
+                     <locus from="193v" to="226v">193v-226v</locus>
+                     <title>Commentary on the Minor Prophets</title>
+                  </msItem>
+                  <msItem n="226v">
+                     <locus from="226v" to="239r">226v-239r</locus>
+                     <title>Notes on Isaiah from various sources</title>
+                  </msItem>
+                  <msItem n="239r">
+                     <locus from="239r" to="242v">239r-242v</locus>
+                     <title>Notes on Jeremiah from various sources</title>
+                  </msItem>
+                  <msItem n="242v">
+                     <locus from="242v" to="246r">242v-246r</locus>
+                     <title>Notes on Ezekiel from various sources</title>
+                  </msItem>
+                  <msItem n="246r">
+                     <locus from="246r" to="254r">246r-254r</locus>
+                     <title>Notes on the Minor Prophets from various sources</title>
+                  </msItem>
+                  <msItem n="254r">
+                     <locus from="254r" to="266v">254r-266v</locus>
+                     <title>Commentary on the books of Chronicles</title>
+                  </msItem>
+                  <msItem n="266v">
+                     <locus from="266v" to="330r">266v-330r</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="330r">
+                     <locus from="330r" to="343v">330r-343v</locus>
+                     <title>Commentary on the book of Job</title>
+                  </msItem>
+                  <msItem n="343v">
+                     <locus from="343v" to="356r">343v-356r</locus>
+                     <title>Commentary on the book of Proverbs</title>
+                  </msItem>
+                  <msItem n="356r">
+                     <locus from="356r" to="358r">356r-358r</locus>
+                     <title>Commentary on Ruth</title>
+                  </msItem>
+                  <msItem n="358r">
+                     <locus from="358r" to="364r">358r-364r</locus>
+                     <title>Commentary on the Song of Songs</title>
+                  </msItem>
+                  <msItem n="364r">
+                     <locus from="364r" to="380v">364r-380v</locus>
+                     <title>Commentary on Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="380v">
+                     <locus from="380v" to="384v">380v-384v</locus>
+                     <title>Commentary on Lamentations</title>
+                  </msItem>
+                  <msItem n="384v">
+                     <locus from="384v" to="388v">384v-388v</locus>
+                     <title>Commentary on the book of Esther</title>
+                  </msItem>
+                  <msItem n="388v">
+                     <locus from="388v" to="402r">388v-402r</locus>
+                     <title>Commentary on the book of Daniel</title>
+                  </msItem>
+                  <msItem n="402r">
+                     <locus from="402r" to="408r">402r-408r</locus>
+                     <title>Commentary on Ezra and Nehemiah</title>
+                  </msItem>
+                  <msItem n="408r">
+                     <locus from="408r" to="422v">408r-422v</locus>
+                     <title>Collection of notes and separate comments from various sources</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>422 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of  mostly 10 leaves each.
 									Quires signed with Hebrew letters at the beginning and at the end, also marked with catchwords at the end.
 									Running titles in the upper margins, occasionally cut off.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 31;
-                                                  written lines: 31; Hair-side and flesh-side of the folio is discernible.Visible hard-point ruling.Some omissions supplied in the margins.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script, unpunctuated, of 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Pre-1600, black leather. Boxed. Spine: 'Bible Commentaries Various Authors. Hebrew. Brit. Mus. Additional Ms. 24896.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Joseph B(...): purchased by the British Museum from him on 14 June 1864: inscribed [423v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 31; Hair-side and flesh-side of the folio is discernible.Visible hard-point ruling.Some omissions supplied in the margins.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script, unpunctuated, of 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600, black leather. Boxed. Spine: 'Bible Commentaries Various Authors. Hebrew. Brit. Mus. Additional Ms. 24896.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Joseph B(...): purchased by the British Museum from him on 14 June 1864: inscribed [423v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

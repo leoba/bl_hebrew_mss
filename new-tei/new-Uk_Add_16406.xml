@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Four fragments of midrashic commentaries.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Four fragments of midrashic commentaries.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 16406: Four fragments of midrashic commentaries. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,107 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Margins slightly damaged at the end.</note><note>
-								Yitsḥaḳ ben Mosheh de Pisa (?): inscribed in a deed of sale, with a witness' name Mordekhai ben Shimshon Ḥizḳiyah, dated Friday, 26 Tishri, folio .</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Margins slightly damaged at the end.</note>
+            <note>
+								Yitsḥaḳ ben Mosheh de Pisa (?): inscribed in a deed of sale, with a witness' name Mordekhai ben Shimshon Ḥizḳiyah, dated Friday, 26 Tishri, folio .</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 16406</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16406</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Four fragments of midrashic commentaries.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="136v">1r-136v</locus><title>Midrash rabah מדרש רבה</title></msItem><msItem n="137r"><locus from="137r" to="258v">137r-258v</locus><title>Sifra</title></msItem><msItem n="259r"><locus from="259r" to="283v">259r-283v</locus><title>Sifre</title></msItem><msItem n="283v"><locus from="283v" to="386v">283v-386v</locus><title>Peṭirat Aharon ve-Mosheh</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>386 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 16406</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16406</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Four fragments of midrashic commentaries.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Jewish Babylonian Aramaic (ca. 200-1200 CE)</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="136v">1r-136v</locus>
+                     <title>Midrash rabah מדרש רבה</title>
+                  </msItem>
+                  <msItem n="137r">
+                     <locus from="137r" to="258v">137r-258v</locus>
+                     <title>Sifra</title>
+                  </msItem>
+                  <msItem n="259r">
+                     <locus from="259r" to="283v">259r-283v</locus>
+                     <title>Sifre</title>
+                  </msItem>
+                  <msItem n="283v">
+                     <locus from="283v" to="386v">283v-386v</locus>
+                     <title>Peṭirat Aharon ve-Mosheh</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>386 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									48 quires of 8 leaves each (apart from no. 32 which has 10 leaves).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 24 25;
-                                                  written lines: 24 25; Catchwords at the end of the quire.Has some marginal notes, occasionally cut away.Pricking and hard-point ruling is visible.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script of approximately 12th century.</scriptNote></scriptDesc><decoDesc><decoNote type="marginal"><locus>136r</locus>
-								A passage written in a geometrical design.</decoNote></decoDesc><bindingDesc><binding><p> Post-1600, brown leather, blind-tooled, with remains of clasps. Spine title: 'I. Bereshith Rabbah. II. Siphra. III. Siphre. IV. Petirath Aharon u-Mosheh. Hebrew &amp; Aramaic. Brit. Mus. Additional 16.406.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1100" notAfter="1199"/><origPlace>Greece  Italy</origPlace></origin><provenance>Acquisition: Purchased by the British Museum from Payne &amp; Foss on 9 January 1847; originally Rezzi collection: inscribed folio [387v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24 25; Catchwords at the end of the quire.Has some marginal notes, occasionally cut away.Pricking and hard-point ruling is visible.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script of approximately 12th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="marginal">
+                        <locus>136r</locus>
+								A passage written in a geometrical design.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600, brown leather, blind-tooled, with remains of clasps. Spine title: 'I. Bereshith Rabbah. II. Siphra. III. Siphre. IV. Petirath Aharon u-Mosheh. Hebrew &amp; Aramaic. Brit. Mus. Additional 16.406.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1100" notAfter="1199"/>
+                     <origPlace>Greece  Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum from Payne &amp; Foss on 9 January 1847; originally Rezzi collection: inscribed folio [387v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

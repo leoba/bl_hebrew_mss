@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush Ba-midbar (פרוש במדבר)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush Ba-midbar (פרוש במדבר)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2476: Perush Ba-midbar  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>All folios partially water-damaged.  Lacunae after folios 20, 21, 22 and 50.  Water-damaged. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>All folios partially water-damaged.  Lacunae after folios 20, 21, 22 and 50.  Water-damaged. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,48 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2476</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2476</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Two fragments of Judeo-Arabic commentary of Japheth ben Ali on Numbers.</summary><textLang mainLang="he" otherLangs="jrb-Hebr"/><msItem n="1r"><locus from="1r" to="124v ">1r-124v </locus><title>Perush Ba-midbar  פרוש במדבר</title></msItem><msItem n="1r"><locus from="1r" to="50v">1r-50v</locus><title>Commentary on Numbers 26-29 </title></msItem><msItem n="51r"><locus from="51r" to="124v">51r-124v</locus><title>Commentary on Numbers 31-36 </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2476</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2476</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Two fragments of Judeo-Arabic commentary of Japheth ben Ali on Numbers.</summary>
+                  <textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="124v ">1r-124v </locus>
+                     <title>Perush Ba-midbar  פרוש במדבר</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="50v">1r-50v</locus>
+                     <title>Commentary on Numbers 26-29 </title>
+                  </msItem>
+                  <msItem n="51r">
+                     <locus from="51r" to="124v">51r-124v</locus>
+                     <title>Commentary on Numbers 31-36 </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>
 									124 folios (+ 2 paper flyleaves at the beginning and at the end). 
 								50 folios
                               
@@ -43,7 +112,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -63,10 +134,45 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1;
                                                   ruled lines: 22 21;
-                                                  written lines: 22 21; The unpointed biblical text is embodied, followed by an Arabic translation. Hebrew text is embodied, the commented words being given in red ink. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square and semi-cursive script of the 16th century.  Semi-cursive script of the 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Yefet. Com. on Numbers. Arabic. Brit. Mus. Oriental 2476.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1699"/></origin><provenance>Acquisition: 
+                                                  written lines: 22 21; The unpointed biblical text is embodied, followed by an Arabic translation. Hebrew text is embodied, the commented words being given in red ink. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square and semi-cursive script of the 16th century.  Semi-cursive script of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Yefet. Com. on Numbers. Arabic. Brit. Mus. Oriental 2476.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882, folio . </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 08 July 1882, folio . </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

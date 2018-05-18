@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Hagadah shel Pesaḥ(הגדה של פסח)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Hagadah shel Pesaḥ(הגדה של פסח)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 14761: Hagadah shel Pesaḥ are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,88 +39,329 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>On guards.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>On guards.</note>
+            <note>
 								Mordekhai Ottolenghi  and Rafa᾿el Ḥayim Ottolenghi: inscribed with their names (folio 151v). 
 								Shalom Latif of Jerusalem sold the manuscript to R. Mosheh ben Avraham for 50 gold ducats at Bologna in 5219 (1459): inscribed sale entry in Hebrew: folio 161v. 
 								Luigi da Bologna, a converted Jew working for the Inquisition as censor (active 1590-1610): inscribed with his name as censor: 'Visto per mi Fra Luigi del ordine di San Domenico del 1599' (folio 160r), see 104. 
 								Yeḥi᾿el Naḥman Fo᾿ah, 17th-century collector of Hebrew manuscripts and early printed books: inscribed with his name (folios 1r, 2r). Illegible Hebrew inscriptions (top of folio 1r, 161v). 
-								Livorno Sig. Carissimo Caro: inscribed with his name, a later owner(?) (1790-1809) (folio ii verso.Entry of the catalogue of Payne and Foss (inscription on a strip of paper pasted on ii verso). </note><note type="relatedResource">
+								Livorno Sig. Carissimo Caro: inscribed with his name, a later owner(?) (1790-1809) (folio ii verso.Entry of the catalogue of Payne and Foss (inscription on a strip of paper pasted on ii verso). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 14761</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14761</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Hagadah for Passover (the 'Barcelona Hagadah').</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="161v">1r-161v</locus><title>Hagadah shel Pesaḥ הגדה של פסח</title></msItem><msItem n="1r"><locus from="1r" to="17v">1r-17v</locus><title>Three liturgical pieces</title></msItem><msItem n="17v"><locus from="17v" to="99r">17v-99r</locus><title>The Hagadah</title></msItem><msItem n="99v"><locus from="99v" to="120r">99v-120r</locus><title>Poetical pieces</title></msItem><msItem n="120v"><locus from="120v" to="136r">120v-136r</locus><title>Parashiyot ve-hafṭarot shel Pesaḥ </title></msItem><msItem n="136v"><locus from="136v" to="151v">136v-151v</locus><title>Poetical pieces</title></msItem><msItem n="152r"><locus from="152r" to="161v">152r-161v</locus><title>Targum </title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>161 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 14761</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_14761</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Hagadah for Passover (the 'Barcelona Hagadah').</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew and Aramaic.</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="161v">1r-161v</locus>
+                     <title>Hagadah shel Pesaḥ הגדה של פסח</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="17v">1r-17v</locus>
+                     <title>Three liturgical pieces</title>
+                  </msItem>
+                  <msItem n="17v">
+                     <locus from="17v" to="99r">17v-99r</locus>
+                     <title>The Hagadah</title>
+                  </msItem>
+                  <msItem n="99v">
+                     <locus from="99v" to="120r">99v-120r</locus>
+                     <title>Poetical pieces</title>
+                  </msItem>
+                  <msItem n="120v">
+                     <locus from="120v" to="136r">120v-136r</locus>
+                     <title>Parashiyot ve-hafṭarot shel Pesaḥ </title>
+                  </msItem>
+                  <msItem n="136v">
+                     <locus from="136v" to="151v">136v-151v</locus>
+                     <title>Poetical pieces</title>
+                  </msItem>
+                  <msItem n="152r">
+                     <locus from="152r" to="161v">152r-161v</locus>
+                     <title>Targum </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>161 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									20 quires mostly of 8 leaves: i8-1 (folios 2-8), ii-xx8 (folios 9-159), xxi2 (folios 160-161).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 5 30;
                                                   written lines: 5 30; Ruling with hard-point and pricking is visible. Hair-side and flesh-side of the folios are distinguishable.
-Many illustrations, which consist mainly of gold and coloured letters of first and striking words, placed within coloured designs.Number of written lines varies.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardic square and semi-cursive script, punctuated, of the 14th century.</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>17v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>18r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>19v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>20v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>21v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>24v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>26r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>27v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>28r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>28v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>30v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>31v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>34r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>35v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>36v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>43v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>44r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>46r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>51v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>53r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>54r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>59v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>60r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>61r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>64v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>65v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>66v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>67v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>71v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
-							</decoNote><decoNote type="initial"><locus>19v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>24v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>28r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>30v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>32v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>34v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>35r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>36v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>39v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>40r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>43r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>49r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>55r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>62v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>85r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
-							</decoNote><decoNote type="initial"><locus>29v</locus>4 inhabited initial-word panels. 
-							</decoNote><decoNote type="initial"><locus>36r</locus>4 inhabited initial-word panels. 
-							</decoNote><decoNote type="initial"><locus>42v</locus>4 inhabited initial-word panels. 
-							</decoNote><decoNote type="initial"><locus>85r</locus>4 inhabited initial-word panels. 
-							</decoNote><decoNote type="initial"><locus>16v</locus>8 initial-word panels with pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>27r</locus>8 initial-word panels with pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>82v</locus>8 initial-word panels with pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>96v</locus>8 initial-word panels with pen-flourishing. 
-							</decoNote><decoNote type="initial"><locus>137r</locus>8 initial-word panels with pen-flourishing. 
-							</decoNote><decoNote type="paratext"><locus>11r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>11v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>12r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>12v,13r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>13v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>14r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>14v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>15r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>55v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>56r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>56v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>57r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>57v</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="paratext"><locus>58r</locus>
-								15 embellished vertical bands with keywords of the text. </decoNote><decoNote type="initial">Numerous decorated initial-word panels with gold letters and numerous full or partial marginal decorations with foliate inhabited by animals, birds, hybrids. </decoNote><decoNote type="initial"><locus>15v 93r </locus>A significant number of the illustrations remained unfinished.
-							</decoNote><decoNote type="illustration"><locus>62v</locus>A textual illustration added later.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Officium Paschatis. Hebrew. British Library. Additional 14761.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1325" notAfter="1399"/><origPlace>Spain Catalonia  Barcelona France Provence  Bas-Languedoc</origPlace></origin><provenance>Acquisition: Purchased by the British Museum from Payne and Foss in 1844 for 10 shillings; no. 123 (9005) in their catalogue ([162v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Many illustrations, which consist mainly of gold and coloured letters of first and striking words, placed within coloured designs.Number of written lines varies.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardic square and semi-cursive script, punctuated, of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>17v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>18r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>19v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>20v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>21v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>24v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>26r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>27v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>28r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>28v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>30v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>31v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>34r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>35v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>36v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>43v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>44r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>46r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>51v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>53r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>54r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>59v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>60r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>61r</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>64v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>65v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>66v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>67v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>71v</locus>30 historiated initial-word panels with biblical, midrashic and ritual scenes. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>19v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>24v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>28r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>30v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>32v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>34v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>35r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>36v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>39v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>40r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>43r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>49r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>55r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>62v</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>85r</locus>15 textual illustrations connected to initial-word panels or placed in the margins. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>29v</locus>4 inhabited initial-word panels. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>36r</locus>4 inhabited initial-word panels. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>42v</locus>4 inhabited initial-word panels. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>85r</locus>4 inhabited initial-word panels. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>16v</locus>8 initial-word panels with pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>27r</locus>8 initial-word panels with pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>82v</locus>8 initial-word panels with pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>96v</locus>8 initial-word panels with pen-flourishing. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>137r</locus>8 initial-word panels with pen-flourishing. 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>11r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>11v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>12r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>12v,13r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>13v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>14r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>14v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>15r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>55v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>56r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>56v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>57r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>57v</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="paratext">
+                        <locus>58r</locus>
+								15 embellished vertical bands with keywords of the text. </decoNote>
+                     <decoNote type="initial">Numerous decorated initial-word panels with gold letters and numerous full or partial marginal decorations with foliate inhabited by animals, birds, hybrids. </decoNote>
+                     <decoNote type="initial">
+                        <locus>15v 93r </locus>A significant number of the illustrations remained unfinished.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>62v</locus>A textual illustration added later.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Officium Paschatis. Hebrew. British Library. Additional 14761.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1325" notAfter="1399"/>
+                     <origPlace>Spain Catalonia  Barcelona France Provence  Bas-Languedoc</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum from Payne and Foss in 1844 for 10 shillings; no. 123 (9005) in their catalogue ([162v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

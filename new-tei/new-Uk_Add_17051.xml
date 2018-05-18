@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Philosophical writings.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Philosophical writings.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 17051: Philosophical writings. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,13 +39,89 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Corrosive ink.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Corrosive ink.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 17051</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_17051</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Philosophical writings.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="178v">1r-178v</locus><title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>178 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 17051</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_17051</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Philosophical writings.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="178v">1r-178v</locus>
+                     <title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>178 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									12 quires of mostly 16 leaves each. Of the last quire only three leaves have been used. Small vertical catchwords at the end of quires.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 22;
-                                                  written lines: 22; Uniform layout.Visible leaf by leaf hard-point ruling.Hair side and flesh side of parchment folios distinguishable.The two outer leaves and mostly also the two inner leaves of each quire are parchment.Titles and inital words in larger characters. Marginal notes.Horizontal leaf catchwords.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script of the 15th century. Yeshu῾ah ben David ha-Kohen: inscribed with his name in the colophon, folio 178r.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown leather, brown tooled. Spine: 'Ibn Rashid. Comment. In Aristoteles Libros De Auditu. Hebr. Mus. Brit. Jure Emptionis. 17,051 Plut.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1466"/><origPlace>Italy, S.</origPlace></origin><provenance>Acquisition: Purchased by the British Museum from Thomas Rodd the younger (b. 1796, d. 1849), London bookseller, at Macdonald's sale, lot 158, 23 October 1847: inscribed, folio [182v] (fse004v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22; Uniform layout.Visible leaf by leaf hard-point ruling.Hair side and flesh side of parchment folios distinguishable.The two outer leaves and mostly also the two inner leaves of each quire are parchment.Titles and inital words in larger characters. Marginal notes.Horizontal leaf catchwords.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script of the 15th century. Yeshu῾ah ben David ha-Kohen: inscribed with his name in the colophon, folio 178r.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather, brown tooled. Spine: 'Ibn Rashid. Comment. In Aristoteles Libros De Auditu. Hebr. Mus. Brit. Jure Emptionis. 17,051 Plut.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1466"/>
+                     <origPlace>Italy, S.</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum from Thomas Rodd the younger (b. 1796, d. 1849), London bookseller, at Macdonald's sale, lot 158, 23 October 1847: inscribed, folio [182v] (fse004v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

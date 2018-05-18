@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of philosophical, legal, homiletical, and other works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of philosophical, legal, homiletical, and other works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27129: A collection of philosophical, legal, homiletical, and other works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note> Slight damp entry at edges; edge damage with large losses infilled.  Tidemarks.  Usage stains.  Mould spotting. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note> Slight damp entry at edges; edge damage with large losses infilled.  Tidemarks.  Usage stains.  Mould spotting. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,152 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27129</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27129</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of philosophical, legal, homiletical, and other works. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="281v">1r-281v</locus><title>Ḳovets  קובץ</title></msItem><msItem n="2v"><locus from="2v" to="21v">2v-21v</locus><title>Ḥidushim ῾al Sefer mitsṿot gadol  חדושים על ספר מצוות גדול</title></msItem><msItem n="22r"><locus from="22r" to="25v">22r-25v</locus><title>Hilkhot ṭeṭ be-av  הלכות ט' באב </title></msItem><msItem n="26r"><locus from="26r" to="45v">26r-45v</locus><title>Ḥidushim ῾al Sefer mitsṿot gadol  חדושים על ספר מצוות גדול</title></msItem><msItem n="46r"><locus from="46r" to="67v">46r-67v</locus><title>She᾿elot u-teshuvot  שאלות ותשובות</title></msItem><msItem n="68r"><locus from="68r" to="87v">68r-87v</locus><title>Igerot  אגרות</title></msItem><msItem n="88v"><locus from="88v" to="92r">88v-92r</locus><title>Peraṭim shonim me-῾inyan emunat notsrim פרטים שונים מענין אמונת הנוצרים</title></msItem><msItem n="93r"><locus from="93r" to="114v">93r-114v</locus><title>῾Inyan ha-zugot ענין הזוגות</title></msItem><msItem n="115r"><locus from="115r" to="116v">115r-116v</locus><title>Musare ha-filosofim  מוסרי הפילוסופים</title></msItem><msItem n="117r"><locus from="117r" to="118v">117r-118v</locus><title>Igeret le-rabi Yehonatan ha-Kohen mi-Lunel  אגרת לר' יהונתן הכהן מלוניל</title></msItem><msItem n="119r"><locus from="119r" to="121r">119r-121r</locus><title>Igeret li-bene Proventsi᾿a אגרת לבני פרובינציא</title></msItem><msItem n="123r"><locus from="123r" to="126r">123r-126r</locus><title>Taḳanot rabenu Gershom  תקנות רבינו גרשם</title></msItem><msItem n="126v"><locus from="126v" to="127r">126v-127r</locus><title>Tsits ha-maṭah  צץ המטה</title></msItem><msItem n="127v"><locus from="127v" to="128r">127v-128r</locus><title>Taḳanah  תקנה</title></msItem><msItem n="128v"><locus from="128v" to="129v ">128v-129v </locus><title>Sodot shonim li-verakhot ṿeha-ḳadish   סודות שונים לברכות והקדיש</title></msItem><msItem n="130v"><locus from="130v" to="131v">130v-131v</locus><title>Baraita᾿ de-masekhet nidah  ברייתא דמסכת נדה</title></msItem><msItem n="131v"><locus from="131v" to="136v">131v-136v</locus><title>Piske nidah  פסקי נידה </title></msItem><msItem n="139r"><locus from="139r" to="141r">139r-141r</locus><title>Igeret el ḥakhme Montpelier אגרת אל חכמי מונפיליר</title></msItem><msItem n="141r"><locus from="141r" to="148r">141r-148r</locus><title>Igeret Teman  אגרת תימן</title></msItem><msItem n="149r"><locus from="149r" to="163v">149r-163v</locus><title>Perush Shir ha-shirim  פרוש כתובים שיר השירים </title></msItem><msItem n="164r"><locus from="164r" to="176r">164r-176r</locus><title>Tsava᾿ah  צוואה</title></msItem><msItem n="176r"><locus from="176r" to="177v">176r-177v</locus><title>Tokhaḥah  תוכחה</title></msItem><msItem n="179r"><locus from="179r" to="187r">179r-187r</locus><title>Miḳdash me῾aṭ מקדש מעט</title></msItem><msItem n="187v"><locus from="187v" to="191r">187v-191r</locus><title>Igerot el Yeḥiel mi-Pisa  אגרות אל יחיאל מפיסא</title></msItem><msItem n="192r"><locus from="192r" to="199r">192r-199r</locus><title>Ḳinot u-derashot ῾al peṭirat Yeḥiel mi-Pisa קינות ודרשות על פטירת יחיאל מפיסא</title></msItem><msItem n="215r"><locus from="215r" to="250v">215r-250v</locus><title>Miḳdash me῾aṭ  מקדש מעט</title></msItem><msItem n="252r"><locus from="252r" to="259v">252r-259v</locus><title>Divre ha-yamim shel Mosheh  דברי הימים של משה</title></msItem><msItem n="260r"><locus from="260r" to="264r">260r-264r</locus><title>Eldad ha-Dani  אלדד הדני</title></msItem><msItem n="264v"><locus from="264v" to="281v">264v-281v</locus><title>Alfa beta de-Ben Sira  אלפא ביתא דבן סירא</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>281 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27129</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27129</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of philosophical, legal, homiletical, and other works. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="281v">1r-281v</locus>
+                     <title>Ḳovets  קובץ</title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="21v">2v-21v</locus>
+                     <title>Ḥidushim ῾al Sefer mitsṿot gadol  חדושים על ספר מצוות גדול</title>
+                  </msItem>
+                  <msItem n="22r">
+                     <locus from="22r" to="25v">22r-25v</locus>
+                     <title>Hilkhot ṭeṭ be-av  הלכות ט' באב </title>
+                  </msItem>
+                  <msItem n="26r">
+                     <locus from="26r" to="45v">26r-45v</locus>
+                     <title>Ḥidushim ῾al Sefer mitsṿot gadol  חדושים על ספר מצוות גדול</title>
+                  </msItem>
+                  <msItem n="46r">
+                     <locus from="46r" to="67v">46r-67v</locus>
+                     <title>She᾿elot u-teshuvot  שאלות ותשובות</title>
+                  </msItem>
+                  <msItem n="68r">
+                     <locus from="68r" to="87v">68r-87v</locus>
+                     <title>Igerot  אגרות</title>
+                  </msItem>
+                  <msItem n="88v">
+                     <locus from="88v" to="92r">88v-92r</locus>
+                     <title>Peraṭim shonim me-῾inyan emunat notsrim פרטים שונים מענין אמונת הנוצרים</title>
+                  </msItem>
+                  <msItem n="93r">
+                     <locus from="93r" to="114v">93r-114v</locus>
+                     <title>῾Inyan ha-zugot ענין הזוגות</title>
+                  </msItem>
+                  <msItem n="115r">
+                     <locus from="115r" to="116v">115r-116v</locus>
+                     <title>Musare ha-filosofim  מוסרי הפילוסופים</title>
+                  </msItem>
+                  <msItem n="117r">
+                     <locus from="117r" to="118v">117r-118v</locus>
+                     <title>Igeret le-rabi Yehonatan ha-Kohen mi-Lunel  אגרת לר' יהונתן הכהן מלוניל</title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="121r">119r-121r</locus>
+                     <title>Igeret li-bene Proventsi᾿a אגרת לבני פרובינציא</title>
+                  </msItem>
+                  <msItem n="123r">
+                     <locus from="123r" to="126r">123r-126r</locus>
+                     <title>Taḳanot rabenu Gershom  תקנות רבינו גרשם</title>
+                  </msItem>
+                  <msItem n="126v">
+                     <locus from="126v" to="127r">126v-127r</locus>
+                     <title>Tsits ha-maṭah  צץ המטה</title>
+                  </msItem>
+                  <msItem n="127v">
+                     <locus from="127v" to="128r">127v-128r</locus>
+                     <title>Taḳanah  תקנה</title>
+                  </msItem>
+                  <msItem n="128v">
+                     <locus from="128v" to="129v ">128v-129v </locus>
+                     <title>Sodot shonim li-verakhot ṿeha-ḳadish   סודות שונים לברכות והקדיש</title>
+                  </msItem>
+                  <msItem n="130v">
+                     <locus from="130v" to="131v">130v-131v</locus>
+                     <title>Baraita᾿ de-masekhet nidah  ברייתא דמסכת נדה</title>
+                  </msItem>
+                  <msItem n="131v">
+                     <locus from="131v" to="136v">131v-136v</locus>
+                     <title>Piske nidah  פסקי נידה </title>
+                  </msItem>
+                  <msItem n="139r">
+                     <locus from="139r" to="141r">139r-141r</locus>
+                     <title>Igeret el ḥakhme Montpelier אגרת אל חכמי מונפיליר</title>
+                  </msItem>
+                  <msItem n="141r">
+                     <locus from="141r" to="148r">141r-148r</locus>
+                     <title>Igeret Teman  אגרת תימן</title>
+                  </msItem>
+                  <msItem n="149r">
+                     <locus from="149r" to="163v">149r-163v</locus>
+                     <title>Perush Shir ha-shirim  פרוש כתובים שיר השירים </title>
+                  </msItem>
+                  <msItem n="164r">
+                     <locus from="164r" to="176r">164r-176r</locus>
+                     <title>Tsava᾿ah  צוואה</title>
+                  </msItem>
+                  <msItem n="176r">
+                     <locus from="176r" to="177v">176r-177v</locus>
+                     <title>Tokhaḥah  תוכחה</title>
+                  </msItem>
+                  <msItem n="179r">
+                     <locus from="179r" to="187r">179r-187r</locus>
+                     <title>Miḳdash me῾aṭ מקדש מעט</title>
+                  </msItem>
+                  <msItem n="187v">
+                     <locus from="187v" to="191r">187v-191r</locus>
+                     <title>Igerot el Yeḥiel mi-Pisa  אגרות אל יחיאל מפיסא</title>
+                  </msItem>
+                  <msItem n="192r">
+                     <locus from="192r" to="199r">192r-199r</locus>
+                     <title>Ḳinot u-derashot ῾al peṭirat Yeḥiel mi-Pisa קינות ודרשות על פטירת יחיאל מפיסא</title>
+                  </msItem>
+                  <msItem n="215r">
+                     <locus from="215r" to="250v">215r-250v</locus>
+                     <title>Miḳdash me῾aṭ  מקדש מעט</title>
+                  </msItem>
+                  <msItem n="252r">
+                     <locus from="252r" to="259v">252r-259v</locus>
+                     <title>Divre ha-yamim shel Mosheh  דברי הימים של משה</title>
+                  </msItem>
+                  <msItem n="260r">
+                     <locus from="260r" to="264r">260r-264r</locus>
+                     <title>Eldad ha-Dani  אלדד הדני</title>
+                  </msItem>
+                  <msItem n="264v">
+                     <locus from="264v" to="281v">264v-281v</locus>
+                     <title>Alfa beta de-Ben Sira  אלפא ביתא דבן סירא</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>281 folios
                            
                            
                            
@@ -161,7 +334,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -169,10 +344,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 27 32 30 52 30 34 40 42 26 27 22 24 33 33 36 26 22 23 21 21 22 30 36 27;
-                                                  written lines: 27 32 30 52 30 34 40 42 26 27 22 24 33  33 36 26 22 23 21 21 22 30 36 27; Uniform layout. Leaf catchwords. Larger initial words. Numerous marginal notes. Uniform layout. Enumeration of sections in the margin. Uniform layout. Marginal additions. Uniform layout. Larger initial words. Uniform layout. Larger square intial words. Uniform layout. Larger initial words. Uniform layout. Marginal notes. Larger initial words. Ink ruling (frames only). Uniform layout. Marginal notes. Uniform layout. Larger square initial words. Uniform layout. Larger bold initial words. Uniform layout. Leaf catchwords on every verso (mostly trimmed away). Large initial words. Marginal notes. Uniform layout. Larger square intial words. Uniform layout. Leaf catchwords on every verso. Uniform layout. Larger initial words. Uniform layout. Larger initial words. Marginal additions. Uniform layout. Leaf catchwords on every verso. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century. Eli῾ezer: inscribed in the colophon, folio 67v.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th to 16th century.  Italian semi-cursive script of  the 15th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th to 16th century.  Italian semi-cursive script of the 16th century.  Oriental semi-cursive script of the 16th century.  Italian semi-cursive of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Joseph Kolon, Etc. Chiddushim 'Al Sepher Mitsvoth Gadol. Etc. Hebrew. Brit. Mus. Add. Or. 27,129.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1599"/></origin><provenance>Acquisition: 
+                                                  written lines: 27 32 30 52 30 34 40 42 26 27 22 24 33  33 36 26 22 23 21 21 22 30 36 27; Uniform layout. Leaf catchwords. Larger initial words. Numerous marginal notes. Uniform layout. Enumeration of sections in the margin. Uniform layout. Marginal additions. Uniform layout. Larger initial words. Uniform layout. Larger square intial words. Uniform layout. Larger initial words. Uniform layout. Marginal notes. Larger initial words. Ink ruling (frames only). Uniform layout. Marginal notes. Uniform layout. Larger square initial words. Uniform layout. Larger bold initial words. Uniform layout. Leaf catchwords on every verso (mostly trimmed away). Large initial words. Marginal notes. Uniform layout. Larger square intial words. Uniform layout. Leaf catchwords on every verso. Uniform layout. Larger initial words. Uniform layout. Larger initial words. Marginal additions. Uniform layout. Leaf catchwords on every verso. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century. Eli῾ezer: inscribed in the colophon, folio 67v.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th to 16th century.  Italian semi-cursive script of  the 15th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th to 16th century.  Italian semi-cursive script of the 16th century.  Oriental semi-cursive script of the 16th century.  Italian semi-cursive of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 16th century.  Italian semi-cursive script of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Joseph Kolon, Etc. Chiddushim 'Al Sepher Mitsvoth Gadol. Etc. Hebrew. Brit. Mus. Add. Or. 27,129.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1599"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 236: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [283v] (fse003v). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 236: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, [283v] (fse003v). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

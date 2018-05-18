@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash Shemot (מדרש שמות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash Shemot (מדרש שמות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 68: Midrash Shemot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,142 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the beginning and at the end. Lacunae after folios 93, 102, 150. Slightly damaged.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the beginning and at the end. Lacunae after folios 93, 102, 150. Slightly damaged.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 68</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_68</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Parts of David ben Abraham Maimuni's homiletico-agadic commentary on Exodus.</summary><textLang mainLang="jrb-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="223v">1r-223v</locus><title>Midrash Shemot  מדרש שמות  </title></msItem><msItem n="1r"><locus from="1r" to="3v">1r-3v</locus><title>Ṿa-era</title></msItem><msItem n="3v"><locus from="3v" to="16r">3v-16r</locus><title>Bo</title></msItem><msItem n="16r"><locus from="16r" to="28v">16r-28v</locus><title>Be-shalaḥ</title></msItem><msItem n="28v"><locus from="28v" to="57v">28v-57v</locus><title>Yitro</title></msItem><msItem n="57v"><locus from="57v" to="79v">57v-79v</locus><title>Mishpaṭim</title></msItem><msItem n="79v"><locus from="79v" to="94r">79v-94r</locus><title>Terumah</title></msItem><msItem n="94r"><locus from="94r" to="102r">94r-102r</locus><title>Tetsaveh</title></msItem><msItem n="102r"><locus from="102r" to="145v">102r-145v</locus><title>El megilah</title></msItem><msItem n="145v"><locus from="145v" to="158r">145v-158r</locus><title>Tetsaveh le-shanah meʻuberet</title></msItem><msItem n="158r"><locus from="158r" to="180v">158r-180v</locus><title>Ki-tisa</title></msItem><msItem n="180v"><locus from="180v" to="192r">180v-192r</locus><title>Ṿa-yakhel le-shanah meʻuberet</title></msItem><msItem n="192r"><locus from="192r" to="204v">192r-204v</locus><title>Parashat Ṿa-yakhel u-Peḳude le-shanah peshuṭah</title></msItem><msItem n="204r"><locus from="204r" to="223v">204r-223v</locus><title>Peḳude le-shanah meʻuberet</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>223 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 68</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_68</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Parts of David ben Abraham Maimuni's homiletico-agadic commentary on Exodus.</summary>
+                  <textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="223v">1r-223v</locus>
+                     <title>Midrash Shemot  מדרש שמות  </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="3v">1r-3v</locus>
+                     <title>Ṿa-era</title>
+                  </msItem>
+                  <msItem n="3v">
+                     <locus from="3v" to="16r">3v-16r</locus>
+                     <title>Bo</title>
+                  </msItem>
+                  <msItem n="16r">
+                     <locus from="16r" to="28v">16r-28v</locus>
+                     <title>Be-shalaḥ</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="57v">28v-57v</locus>
+                     <title>Yitro</title>
+                  </msItem>
+                  <msItem n="57v">
+                     <locus from="57v" to="79v">57v-79v</locus>
+                     <title>Mishpaṭim</title>
+                  </msItem>
+                  <msItem n="79v">
+                     <locus from="79v" to="94r">79v-94r</locus>
+                     <title>Terumah</title>
+                  </msItem>
+                  <msItem n="94r">
+                     <locus from="94r" to="102r">94r-102r</locus>
+                     <title>Tetsaveh</title>
+                  </msItem>
+                  <msItem n="102r">
+                     <locus from="102r" to="145v">102r-145v</locus>
+                     <title>El megilah</title>
+                  </msItem>
+                  <msItem n="145v">
+                     <locus from="145v" to="158r">145v-158r</locus>
+                     <title>Tetsaveh le-shanah meʻuberet</title>
+                  </msItem>
+                  <msItem n="158r">
+                     <locus from="158r" to="180v">158r-180v</locus>
+                     <title>Ki-tisa</title>
+                  </msItem>
+                  <msItem n="180v">
+                     <locus from="180v" to="192r">180v-192r</locus>
+                     <title>Ṿa-yakhel le-shanah meʻuberet</title>
+                  </msItem>
+                  <msItem n="192r">
+                     <locus from="192r" to="204v">192r-204v</locus>
+                     <title>Parashat Ṿa-yakhel u-Peḳude le-shanah peshuṭah</title>
+                  </msItem>
+                  <msItem n="204r">
+                     <locus from="204r" to="223v">204r-223v</locus>
+                     <title>Peḳude le-shanah meʻuberet</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>223 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 23;
-                                                  written lines: 23; Catchwords on every verso.Initial words and chapter titles given in larger square characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental semi-cursive script of 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Black buckram, blind tooled. Spine title: 'David ben Abraham. Comm. on Exodus. Arabic. Brit. Mus. Oriental 68.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/><origPlace>Egypt</origPlace></origin><provenance>Acquisition: 
-								A. C. Reichardt: purchased by the British Library from him on 08 June 1867: inscribed, folio [224v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 23; Catchwords on every verso.Initial words and chapter titles given in larger square characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental semi-cursive script of 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Black buckram, blind tooled. Spine title: 'David ben Abraham. Comm. on Exodus. Arabic. Brit. Mus. Oriental 68.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                     <origPlace>Egypt</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								A. C. Reichardt: purchased by the British Library from him on 08 June 1867: inscribed, folio [224v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Kabbalistic writings. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Kabbalistic writings. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 16390 B: Kabbalistic writings.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Tidemarks at foredge and lower corner.  Worming
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Tidemarks at foredge and lower corner.  Worming
                                         at ends.  Blank leaves after folio 45.
-                                    </note><note/><note type="relatedResource">
+                                    </note>
+            <note/>
+            <note type="relatedResource">
 								
                         
                         
@@ -30,8 +59,48 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 16390 B</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16390_B</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Kabbalistic writings. </summary><textLang mainLang="ita" otherLangs="he"/><msItem n="1r"><locus from="1r" to="29v">1r-29v</locus><title>Sefer Raziel  ספר רזיאל</title></msItem><msItem n="30r"><locus from="30r" to="81r">30r-81r</locus><title>Sefer yetsirah  ספר יצירה</title></msItem><msItem n="81r"><locus from="81r" to="129v">81r-129v</locus><title>Sefer ḥokhmat ha-nefesh  ספר חכמת הנפש</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>129 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 16390 B</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_16390_B</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kabbalistic writings. </summary>
+                  <textLang mainLang="ita" otherLangs="he">Italian, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="29v">1r-29v</locus>
+                     <title>Sefer Raziel  ספר רזיאל</title>
+                  </msItem>
+                  <msItem n="30r">
+                     <locus from="30r" to="81r">30r-81r</locus>
+                     <title>Sefer yetsirah  ספר יצירה</title>
+                  </msItem>
+                  <msItem n="81r">
+                     <locus from="81r" to="129v">81r-129v</locus>
+                     <title>Sefer ḥokhmat ha-nefesh  ספר חכמת הנפש</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>129 folios
 									
                            
                            
@@ -41,7 +110,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
 									
                            
                            
@@ -51,15 +122,50 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 20 21;
                                                   written lines: 20 21; Uniform layout. Marginal notes throughout.
-                                        Red edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the 16th century. </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown leather, blind tooled.  Spine: 'Sefer Shebha Shemot, Etc. Brit. Mus. Add. Or.
-                                    16,390.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/></origin><provenance>Acquisition: 
+                                        Red edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the 16th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather, blind tooled.  Spine: 'Sefer Shebha Shemot, Etc. Brit. Mus. Add. Or.
+                                    16,390.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                  </origin>
+                  <provenance>Acquisition: 
 								
                         
                         
                         
                         Thomas Rodd the younger (b. 1796, d. 1849): purchased
                                 from him by the British Museum on 30 November 1846: inscribed, folio
-                                fse005v. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                fse005v. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

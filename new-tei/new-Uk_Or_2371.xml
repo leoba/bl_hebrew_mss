@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im (נביאים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im (נביאים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2371: Nevi᾿im  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,108 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios 1-3, 209-215 are imperfectly preserved. </note><note>Folios 217r-217v contain doodles. Comments of a non-masoretic character are found throughout, e.g. 42v, 45r.  A Hebrew subscription on folio 216v, with a date of 18 Marheshvan 1954, i.e. 1642, and the name of the city of Ma'abar, due to a later hand. 
-								Aharon ha-Kohen, inscribed with his name on folio 1r. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios 1-3, 209-215 are imperfectly preserved. </note>
+            <note>Folios 217r-217v contain doodles. Comments of a non-masoretic character are found throughout, e.g. 42v, 45r.  A Hebrew subscription on folio 216v, with a date of 18 Marheshvan 1954, i.e. 1642, and the name of the city of Ma'abar, due to a later hand. 
+								Aharon ha-Kohen, inscribed with his name on folio 1r. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2371</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2371</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Former Prophets with Targum, punctuated, with masorah magna and parva.</summary><textLang mainLang="he" otherLangs="tmr-Hebr ar"/><msItem n="1v"><locus from="1v" to="217v">1v-217v</locus><title>Nevi᾿im  נביאים</title></msItem><msItem n="1v"><locus from="1v" to="32v">1v-32v</locus><title>Joshua</title></msItem><msItem n="32v"><locus from="32v" to="65r">32v-65r</locus><title>Judges</title></msItem><msItem n="65v"><locus from="65v" to="140v">65v-140v</locus><title>Samuel</title></msItem><msItem n="141r"><locus from="141r" to="216v">141r-216v</locus><title>Kings</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>217 folios
-								</extent><foliation>Original foliation in Hebrew letters. </foliation><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2371</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2371</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Former Prophets with Targum, punctuated, with masorah magna and parva.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr ar">Hebrew, Aramaic</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="217v">1v-217v</locus>
+                     <title>Nevi᾿im  נביאים</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="32v">1v-32v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="32v">
+                     <locus from="32v" to="65r">32v-65r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="65v">
+                     <locus from="65v" to="140v">65v-140v</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="141r">
+                     <locus from="141r" to="216v">141r-216v</locus>
+                     <title>Kings</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>217 folios
+								</extent>
+                        <foliation>Original foliation in Hebrew letters. </foliation>
+                        <collation>
+                           <p>
 									22 quires of 10 leaves each, apart from the last of 7 leaves only. 
 									The quires are signed with Hebrew letters on the first and last page (lost after 11th quire). 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 26;
-                                                  written lines: 26; Uniform layout. Masorah magna occupies generally two lines in the upper and one to four lines in the lower margin of the page. The titles of the books are written on the verso of each leaf in the upper margin. A number of masoretic notes is given at the end of each books. The beginning and the end of the Hafṭarot are indicated in the margin. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote> Yemenite square script, punctuated. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine: 'Former Prophets with Targum. Hebrew. Brit. Mus. Oriental 2371.' </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1589" notAfter="1642"/><origPlace>Yemen </origPlace></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio [220v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 26; Uniform layout. Masorah magna occupies generally two lines in the upper and one to four lines in the lower margin of the page. The titles of the books are written on the verso of each leaf in the upper margin. A number of masoretic notes is given at the end of each books. The beginning and the end of the Hafṭarot are indicated in the margin. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote> Yemenite square script, punctuated. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine: 'Former Prophets with Targum. Hebrew. Brit. Mus. Oriental 2371.' </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1589" notAfter="1642"/>
+                     <origPlace>Yemen </origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, folio [220v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

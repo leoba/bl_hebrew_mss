@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sidur(סדור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sidur(סדור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2736: Sidur are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,22 +39,150 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Yosef Leṿi ha-Ḳatan: his name inscribed in partially illegible inscriptions: [5]306 [1546] (folio 1r).
 Inscription in Italian, dated: 19 August 1815 (inner front cover).
-</note><note type="relatedResource">
+</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2736</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2736</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A daily prayer book (sidur), Italian rite, with the books of Psalms, Proverbs, Job, Five Scrolls, and the Hafṭarot for the entire year in the margins.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="479v">1r-479v</locus><title>Sidur סדור</title></msItem><msItem n="10r"><locus from="10r" to="15r">10r-15r</locus><title>Introduction</title></msItem><msItem n="15v"><locus from="15v" to="97r">15v-97r</locus><title>Services for week-days</title></msItem><msItem n="97v"><locus from="97v" to="172r">97v-172r</locus><title>Services for Shabat</title></msItem><msItem n="172r"><locus from="172r" to="213r">172r-213r</locus><title>Special portions for Rosh ḥodesh, Purim, Ḥanukah, arba῾ah parashiyot</title></msItem><msItem n="213r"><locus from="213r" to="280r">213r-280r</locus><title>Services for Pesaḥ</title></msItem><msItem n="280r"><locus from="280r" to="314r">280r-314r</locus><title>Pirḳe avot</title></msItem><msItem n="314v"><locus from="314v" to="327r">314v-327r</locus><title>Services for Shavu῾ot</title></msItem><msItem n="327r"><locus from="327r" to="376r">327r-376r</locus><title>Special portions for Ta῾anit</title></msItem><msItem n="376r"><locus from="376r" to="414r">376r-414r</locus><title>Services for Rosh ha-shanah</title></msItem><msItem n="414v"><locus from="414v" to="447r">414v-447r</locus><title>Services for Yom Kipur</title></msItem><msItem n="447r"><locus from="447r" to="479v">447r-479v</locus><title>Services for Sukot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>479 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2736</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2736</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A daily prayer book (sidur), Italian rite, with the books of Psalms, Proverbs, Job, Five Scrolls, and the Hafṭarot for the entire year in the margins.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="479v">1r-479v</locus>
+                     <title>Sidur סדור</title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="15r">10r-15r</locus>
+                     <title>Introduction</title>
+                  </msItem>
+                  <msItem n="15v">
+                     <locus from="15v" to="97r">15v-97r</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="97v">
+                     <locus from="97v" to="172r">97v-172r</locus>
+                     <title>Services for Shabat</title>
+                  </msItem>
+                  <msItem n="172r">
+                     <locus from="172r" to="213r">172r-213r</locus>
+                     <title>Special portions for Rosh ḥodesh, Purim, Ḥanukah, arba῾ah parashiyot</title>
+                  </msItem>
+                  <msItem n="213r">
+                     <locus from="213r" to="280r">213r-280r</locus>
+                     <title>Services for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="280r">
+                     <locus from="280r" to="314r">280r-314r</locus>
+                     <title>Pirḳe avot</title>
+                  </msItem>
+                  <msItem n="314v">
+                     <locus from="314v" to="327r">314v-327r</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="327r">
+                     <locus from="327r" to="376r">327r-376r</locus>
+                     <title>Special portions for Ta῾anit</title>
+                  </msItem>
+                  <msItem n="376r">
+                     <locus from="376r" to="414r">376r-414r</locus>
+                     <title>Services for Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="414v">
+                     <locus from="414v" to="447r">414v-447r</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="447r">
+                     <locus from="447r" to="479v">447r-479v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>479 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									61 quires: i2 (folios 1-2), ii-lx8 (folios 2a-473), lxi8-2 (folios 474-479). 
 									Catchwords at the end of the quires.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 15;
-                                                  written lines: 15; Uniform layout.Hair side and flesh side are distinguishable. Ruling is visible. There are 15 lines in the body of a page and 22 in the margin.Initial words are written in larger characters.Catchwords are given at the end of the quires.Blank pages: folios 1v, 2r, [2a recto] and [2a verso].</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square script of the 14th century, partially punctuated. Daniyel ben Shemu᾿el ha-Rofe, dayan (judge) in Pisa, the first owner and probably the scribe: inscribed with his name (folio 3v).</scriptNote></scriptDesc><decoDesc><decoNote type="miniature"><locus>2v</locus>1 full-page miniature of a coat of arms, in colours and gold.
-							</decoNote><decoNote type="border"><locus>10r</locus>1 full foliate border in colours and gold.
-							</decoNote><decoNote type="border">Numerous texts in decorated frames and inhabited by birds, animals, hybrids, in colours. 
-							</decoNote><decoNote type="initial">Many initial-word panels with pen-flourishing inhabited by birds and hybrids, in colours.
-</decoNote><decoNote type="marginal">Many pen-flourishing and foliate motifs around passages sometimes inhabited by hybrids and birds.</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600. Brown leather, tooled, with clasps. Spine: 'Siddur. Hebrew. Brit. Mus. Oriental 2736.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1390"/><origPlace>Italy, C. Bertinoro</origPlace></origin><provenance>Acquisition: 
-								Chaim Horowitz: purchased from him on 26 January 1884 (inner back cover).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 15; Uniform layout.Hair side and flesh side are distinguishable. Ruling is visible. There are 15 lines in the body of a page and 22 in the margin.Initial words are written in larger characters.Catchwords are given at the end of the quires.Blank pages: folios 1v, 2r, [2a recto] and [2a verso].</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square script of the 14th century, partially punctuated. Daniyel ben Shemu᾿el ha-Rofe, dayan (judge) in Pisa, the first owner and probably the scribe: inscribed with his name (folio 3v).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="miniature">
+                        <locus>2v</locus>1 full-page miniature of a coat of arms, in colours and gold.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>10r</locus>1 full foliate border in colours and gold.
+							</decoNote>
+                     <decoNote type="border">Numerous texts in decorated frames and inhabited by birds, animals, hybrids, in colours. 
+							</decoNote>
+                     <decoNote type="initial">Many initial-word panels with pen-flourishing inhabited by birds and hybrids, in colours.
+</decoNote>
+                     <decoNote type="marginal">Many pen-flourishing and foliate motifs around passages sometimes inhabited by hybrids and birds.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Brown leather, tooled, with clasps. Spine: 'Siddur. Hebrew. Brit. Mus. Oriental 2736.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1390"/>
+                     <origPlace>Italy, C. Bertinoro</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Chaim Horowitz: purchased from him on 26 January 1884 (inner back cover).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

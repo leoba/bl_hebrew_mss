@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ketuvim (כתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ketuvim (כתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5506: Ketuvim  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,133 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folio 1r contains a list of Hebrew works, probably the property of a formwer owner of the manuscript. Folio 258v contains a list of Sabbath lessons mainly from the Bible. Lower down there are some kabbalistic recipes. Folio 259r - a record of birth of a daughter, dated 15 July 222 (1462). 
-								Moshe Shevaḥ ben Yaʿaḳov, Yaʿaḳov ben Eliyah, Shabtai ben Yaʿaḳov, previous owners, inscribed with their names on folio 258r. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folio 1r contains a list of Hebrew works, probably the property of a formwer owner of the manuscript. Folio 258v contains a list of Sabbath lessons mainly from the Bible. Lower down there are some kabbalistic recipes. Folio 259r - a record of birth of a daughter, dated 15 July 222 (1462). 
+								Moshe Shevaḥ ben Yaʿaḳov, Yaʿaḳov ben Eliyah, Shabtai ben Yaʿaḳov, previous owners, inscribed with their names on folio 258r. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5506</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5506</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Hagiographa, provided with vowel-points and accents.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="259v">1r-259v</locus><title>Ketuvim  כתובים  </title></msItem><msItem n="1v"><locus from="1v" to="61r">1v-61r</locus><title>Psalms</title></msItem><msItem n="61v"><locus from="61v" to="79r">61v-79r</locus><title>Daniel</title></msItem><msItem n="79r"><locus from="79r" to="108v">79r-108v</locus><title>Ezra</title></msItem><msItem n="109r"><locus from="109r" to="112v">109r-112v</locus><title>Song of Songs</title></msItem><msItem n="112v"><locus from="112v" to="116r">112v-116r</locus><title>Ruth</title></msItem><msItem n="116r"><locus from="116r" to="120v">116r-120v</locus><title>Lamentations</title></msItem><msItem n="120v"><locus from="120v" to="128v">120v-128v</locus><title>Ecclesiastes</title></msItem><msItem n="128v"><locus from="128v" to="137v">128v-137v</locus><title>Esther</title></msItem><msItem n="137v"><locus from="137v" to="162v">137v-162v</locus><title>Job</title></msItem><msItem n="162v"><locus from="162v" to="184r">162v-184r</locus><title>Proverbs</title></msItem><msItem n="184r"><locus from="184r" to="257v">184r-257v</locus><title>Chronicles</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>259 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5506</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5506</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Hagiographa, provided with vowel-points and accents.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="259v">1r-259v</locus>
+                     <title>Ketuvim  כתובים  </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="61r">1v-61r</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="79r">61v-79r</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="79r">
+                     <locus from="79r" to="108v">79r-108v</locus>
+                     <title>Ezra</title>
+                  </msItem>
+                  <msItem n="109r">
+                     <locus from="109r" to="112v">109r-112v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="112v">
+                     <locus from="112v" to="116r">112v-116r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="116r">
+                     <locus from="116r" to="120v">116r-120v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="120v">
+                     <locus from="120v" to="128v">120v-128v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="128v">
+                     <locus from="128v" to="137v">128v-137v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="137v">
+                     <locus from="137v" to="162v">137v-162v</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="162v">
+                     <locus from="162v" to="184r">162v-184r</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="184r">
+                     <locus from="184r" to="257v">184r-257v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>259 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									 	Quires mostly of 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 23;
-                                                  written lines: 21; Uniform layout. Ruling with hard-point on the hair side of the folio is visible. Daniel and Proverbs begin a new column, and Song of Songs opens a new leaf.The first word of Daniel, Ezra-Nehemiah, Ecclesiaistes and Proverbs, and the first two of Lamentations, Esther and Chronicles are written in larger letters.The centre mark occurs in all the books except in Lamentations, Esther and Chronicles.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script, punctuated and accentuated, of the 13th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600, Harleian binding of gold-tooled red leather.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts; inscription by Harley's librarian, Humfrey Wanley, 11 March 1723/4 (folio ). Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 21; Uniform layout. Ruling with hard-point on the hair side of the folio is visible. Daniel and Proverbs begin a new column, and Song of Songs opens a new leaf.The first word of Daniel, Ezra-Nehemiah, Ecclesiaistes and Proverbs, and the first two of Lamentations, Esther and Chronicles are written in larger letters.The centre mark occurs in all the books except in Lamentations, Esther and Chronicles.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script, punctuated and accentuated, of the 13th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600, Harleian binding of gold-tooled red leather.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts; inscription by Harley's librarian, Humfrey Wanley, 11 March 1723/4 (folio ). Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d. 1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

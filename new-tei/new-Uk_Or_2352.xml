@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash ha-gadol (מדרש הגדול)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash ha-gadol (מדרש הגדול)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2352: Midrash ha-gadol  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,138 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Some folios damaged, restored on paper. </note><note>On folio 79r are four short midrashic passages on Deuteronomy.A note of sale, dated 2028  (1717), between Ya῾akov ben Se῾id ibn Daud  and Yehosaf ben Se῾adia ben Avraham ben Mosheh: folio 1r. 
-								Shekhar ibn Al-Sari: inscribed 1r, 78v. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Some folios damaged, restored on paper. </note>
+            <note>On folio 79r are four short midrashic passages on Deuteronomy.A note of sale, dated 2028  (1717), between Ya῾akov ben Se῾id ibn Daud  and Yehosaf ben Se῾adia ben Avraham ben Mosheh: folio 1r. 
+								Shekhar ibn Al-Sari: inscribed 1r, 78v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2352</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2352</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Midrash ha-gadol on Exodus, attributed to David Adani. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="151v">1r-151v</locus><title>Midrash ha-gadol  מדרש הגדול </title></msItem><msItem n="1v"><locus from="1v" to="16r">1v-16r</locus><title>Midrash on Shemot</title></msItem><msItem n="16r"><locus from="16r" to="24v">16r-24v</locus><title>Midrash on Ṿa-era</title></msItem><msItem n="24v"><locus from="24v" to="39v">24v-39v</locus><title>Midrash on Bo᾿ </title></msItem><msItem n="39v"><locus from="39v" to="59v">39v-59v</locus><title>Midrash on Be-shalakh</title></msItem><msItem n="59v"><locus from="59v" to="79v">59v-79v</locus><title>Midrash on Yitro</title></msItem><msItem n="79v"><locus from="79v" to="101v">79v-101v</locus><title>Midrash on Mishpatim</title></msItem><msItem n="101v"><locus from="101v" to="109v">101v-109v</locus><title>Midrash on Terumah</title></msItem><msItem n="109v"><locus from="109v" to="116r">109v-116r</locus><title>Midrash on Tetsaṿeh</title></msItem><msItem n="116r"><locus from="116r" to="132r">116r-132r</locus><title>Midrash on Ki tisa᾿</title></msItem><msItem n="132r"><locus from="132r" to="140r">132r-140r</locus><title>Midrash on Ṿa-yakhel</title></msItem><msItem n="140r"><locus from="140r" to="147v">140r-147v</locus><title>Midrash on Peḳude</title></msItem><msItem n="148r"><locus from="148r" to="151v">148r-151v</locus><title>Midrash on Terumah and Tetsaṿeh</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>151 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2352</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2352</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Midrash ha-gadol on Exodus, attributed to David Adani. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="151v">1r-151v</locus>
+                     <title>Midrash ha-gadol  מדרש הגדול </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="16r">1v-16r</locus>
+                     <title>Midrash on Shemot</title>
+                  </msItem>
+                  <msItem n="16r">
+                     <locus from="16r" to="24v">16r-24v</locus>
+                     <title>Midrash on Ṿa-era</title>
+                  </msItem>
+                  <msItem n="24v">
+                     <locus from="24v" to="39v">24v-39v</locus>
+                     <title>Midrash on Bo᾿ </title>
+                  </msItem>
+                  <msItem n="39v">
+                     <locus from="39v" to="59v">39v-59v</locus>
+                     <title>Midrash on Be-shalakh</title>
+                  </msItem>
+                  <msItem n="59v">
+                     <locus from="59v" to="79v">59v-79v</locus>
+                     <title>Midrash on Yitro</title>
+                  </msItem>
+                  <msItem n="79v">
+                     <locus from="79v" to="101v">79v-101v</locus>
+                     <title>Midrash on Mishpatim</title>
+                  </msItem>
+                  <msItem n="101v">
+                     <locus from="101v" to="109v">101v-109v</locus>
+                     <title>Midrash on Terumah</title>
+                  </msItem>
+                  <msItem n="109v">
+                     <locus from="109v" to="116r">109v-116r</locus>
+                     <title>Midrash on Tetsaṿeh</title>
+                  </msItem>
+                  <msItem n="116r">
+                     <locus from="116r" to="132r">116r-132r</locus>
+                     <title>Midrash on Ki tisa᾿</title>
+                  </msItem>
+                  <msItem n="132r">
+                     <locus from="132r" to="140r">132r-140r</locus>
+                     <title>Midrash on Ṿa-yakhel</title>
+                  </msItem>
+                  <msItem n="140r">
+                     <locus from="140r" to="147v">140r-147v</locus>
+                     <title>Midrash on Peḳude</title>
+                  </msItem>
+                  <msItem n="148r">
+                     <locus from="148r" to="151v">148r-151v</locus>
+                     <title>Midrash on Terumah and Tetsaṿeh</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>151 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each. Modern restoration (leaves stuck on paper). 
 									Signatures in Hebrew letters and catchwords at the beginning of a quire. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 38;
-                                                  written lines: 38; Has some marginal notes and additions. Mem and shin are truncated in the lines. Beginnings of new chapters are written in larger characters. Folio 15v should be read after 16r. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive script of 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Midrash Haggadol. Exodus. Hebrew. Brit. Mus. Oriental 2352.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1475"/><origPlace>Yemen</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 38; Has some marginal notes and additions. Mem and shin are truncated in the lines. Beginnings of new chapters are written in larger characters. Folio 15v should be read after 16r. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive script of 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Midrash Haggadol. Exodus. Hebrew. Brit. Mus. Oriental 2352.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1475"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

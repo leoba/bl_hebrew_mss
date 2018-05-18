@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26986: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the beginning and at the end. Leaves missing after folio 82 and 218.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the beginning and at the end. Leaves missing after folio 82 and 218.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,56 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26986</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26986</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Festival prayer book (maḥzor), Ashkenazi rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="222v">1r-222v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="22v">1r-22v</locus><title>Services for the second day of the New Year</title></msItem><msItem n="22v"><locus from="22v" to="175r">22v-175r</locus><title>Services for Yom Kipur</title></msItem><msItem n="175r"><locus from="175r" to="219v">175r-219v</locus><title>Services for Sukot</title></msItem><msItem n="219v"><locus from="219v" to="222v">219v-222v</locus><title>Services for special Sabbaths (fragment)</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>222 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26986</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26986</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Festival prayer book (maḥzor), Ashkenazi rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="222v">1r-222v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="22v">1r-22v</locus>
+                     <title>Services for the second day of the New Year</title>
+                  </msItem>
+                  <msItem n="22v">
+                     <locus from="22v" to="175r">22v-175r</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="175r">
+                     <locus from="175r" to="219v">175r-219v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="219v">
+                     <locus from="219v" to="222v">219v-222v</locus>
+                     <title>Services for special Sabbaths (fragment)</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>222 folios 
                            
                            
                            
@@ -33,7 +110,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -49,10 +128,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 22;
-                                                  written lines: 21; Uniform layout.Visible pricking and plummet ruling.Initial words written in larger characters.Hair side and flesh side are indistinguishable.Censor's erasures: folios 40r, 85v, 86r.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square, punctuated, of 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Machzor. German Use. Hebrew. Brit. Mus. Additional 26,986.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/></origin><provenance>Acquisition: 
+                                                  written lines: 21; Uniform layout.Visible pricking and plummet ruling.Initial words written in larger characters.Hair side and flesh side are indistinguishable.Censor's erasures: folios 40r, 85v, 86r.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square, punctuated, of 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Machzor. German Use. Hebrew. Brit. Mus. Additional 26,986.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 98: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [224v] .</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 98: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [224v] .</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

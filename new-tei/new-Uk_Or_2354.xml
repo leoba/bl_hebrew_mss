@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash ha-gadol (מדרש הגדול)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash ha-gadol (מדרש הגדול)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2354: Midrash ha-gadol  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,21 +39,146 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Some poetical pieces appended on the end-flyleaves, on folio 1v and 164r.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Some poetical pieces appended on the end-flyleaves, on folio 1v and 164r.
 								Se'adyah: inscribed, folio 164r, 163v. 
-								Musa ibn Yaḥya Al-Sari: inscribed, folio 2r, 163v. </note><note type="relatedResource">
+								Musa ibn Yaḥya Al-Sari: inscribed, folio 2r, 163v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2354</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2354</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Midrash ha-gadol on Numbers, attributed to David Adani. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="167v">1r-167v</locus><title>Midrash ha-gadol  מדרש הגדול </title></msItem><msItem n="2v"><locus from="2v" to="10r">2v-10r</locus><title>Midrash on Be-midbar</title></msItem><msItem n="10r"><locus from="10r" to="31v">10r-31v</locus><title>Midrash on Naso᾿</title></msItem><msItem n="31v"><locus from="31v" to="52r">31v-52r</locus><title>Midrash on Be-ha῾alotekha</title></msItem><msItem n="52r"><locus from="52r" to="69v">52r-69v</locus><title>Midrash on Shelaḥ lekha</title></msItem><msItem n="69v"><locus from="69v" to="82v">69v-82v</locus><title>Midrash on Ḳoraḥ </title></msItem><msItem n="82v"><locus from="82v" to="103v">82v-103v</locus><title>Midrash on Ḥuḳat </title></msItem><msItem n="103v"><locus from="103v" to="116v">103v-116v</locus><title>Midrash on Balaḳ</title></msItem><msItem n="116v"><locus from="116v" to="138r">116v-138r</locus><title>Midrash on Pinḥas</title></msItem><msItem n="138r"><locus from="138r" to="148v">138r-148v</locus><title>Midrash on Maṭot</title></msItem><msItem n="148v"><locus from="148v" to="163v">148v-163v</locus><title>Midrash on Masʿe</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>167 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2354</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2354</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Midrash ha-gadol on Numbers, attributed to David Adani. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="167v">1r-167v</locus>
+                     <title>Midrash ha-gadol  מדרש הגדול </title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="10r">2v-10r</locus>
+                     <title>Midrash on Be-midbar</title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="31v">10r-31v</locus>
+                     <title>Midrash on Naso᾿</title>
+                  </msItem>
+                  <msItem n="31v">
+                     <locus from="31v" to="52r">31v-52r</locus>
+                     <title>Midrash on Be-ha῾alotekha</title>
+                  </msItem>
+                  <msItem n="52r">
+                     <locus from="52r" to="69v">52r-69v</locus>
+                     <title>Midrash on Shelaḥ lekha</title>
+                  </msItem>
+                  <msItem n="69v">
+                     <locus from="69v" to="82v">69v-82v</locus>
+                     <title>Midrash on Ḳoraḥ </title>
+                  </msItem>
+                  <msItem n="82v">
+                     <locus from="82v" to="103v">82v-103v</locus>
+                     <title>Midrash on Ḥuḳat </title>
+                  </msItem>
+                  <msItem n="103v">
+                     <locus from="103v" to="116v">103v-116v</locus>
+                     <title>Midrash on Balaḳ</title>
+                  </msItem>
+                  <msItem n="116v">
+                     <locus from="116v" to="138r">116v-138r</locus>
+                     <title>Midrash on Pinḥas</title>
+                  </msItem>
+                  <msItem n="138r">
+                     <locus from="138r" to="148v">138r-148v</locus>
+                     <title>Midrash on Maṭot</title>
+                  </msItem>
+                  <msItem n="148v">
+                     <locus from="148v" to="163v">148v-163v</locus>
+                     <title>Midrash on Masʿe</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>167 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									18 quires: 1-11 of 10 leaves each, and 12-18 of 8 leaves each. 
 									Signed with Hebrew letters at the and and beginning of quires; partially preserved. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 28;
-                                                  written lines: 28; Marginal notes and additions. Hard-point ruling visible. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive script of the 15th century. </scriptNote></scriptDesc><decoDesc><decoNote type="illustration"><locus>2r</locus>
-									Full-page geometrical design.</decoNote><decoNote type="border"><locus>164r</locus>
-									Full border, in pen and ink.</decoNote><decoNote type="other"><locus>52r</locus>Numerous pen and ink ornamental designs.
-								</decoNote><decoNote type="other"><locus>69v</locus>Numerous pen and ink ornamental designs.
-								</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Midrash Haggadol. Numbers. Hebrew. Brit. Mus. Oriental 2215.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1488"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio [168v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 28; Marginal notes and additions. Hard-point ruling visible. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive script of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <locus>2r</locus>
+									Full-page geometrical design.</decoNote>
+                     <decoNote type="border">
+                        <locus>164r</locus>
+									Full border, in pen and ink.</decoNote>
+                     <decoNote type="other">
+                        <locus>52r</locus>Numerous pen and ink ornamental designs.
+								</decoNote>
+                     <decoNote type="other">
+                        <locus>69v</locus>Numerous pen and ink ornamental designs.
+								</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Midrash Haggadol. Numbers. Hebrew. Brit. Mus. Oriental 2215.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1488"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio [168v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

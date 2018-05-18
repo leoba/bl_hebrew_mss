@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Medical and calendrical works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Medical and calendrical works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2674: Medical and calendrical works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Tidemarks at all edges throughout.  Foxing.  Usage stains.  Worming at end.  Ink partly pale. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Tidemarks at all edges throughout.  Foxing.  Usage stains.  Worming at end.  Ink partly pale. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,64 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2674</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2674</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Medical and calendrical works. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="101v">1r-101v</locus><title>Mafteaḥ ha-refu᾿ah מפתח הרפואה</title></msItem><msItem n="102r"><locus from="102r" to="113r">102r-113r</locus><title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title></msItem><msItem n="114v"><locus from="114v" to="115v">114v-115v</locus><title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title></msItem><msItem n="116r"><locus from="116r" to="118r">116r-118r</locus><title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title></msItem><msItem n="118v"><locus from="118v" to="122v">118v-122v</locus><title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title></msItem><msItem n="123r"><locus from="123r" to="131v">123r-131v</locus><title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title></msItem><msItem n="131v"><locus from="131v" to="147v">131v-147v</locus><title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>147 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2674</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2674</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Medical and calendrical works. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="101v">1r-101v</locus>
+                     <title>Mafteaḥ ha-refu᾿ah מפתח הרפואה</title>
+                  </msItem>
+                  <msItem n="102r">
+                     <locus from="102r" to="113r">102r-113r</locus>
+                     <title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title>
+                  </msItem>
+                  <msItem n="114v">
+                     <locus from="114v" to="115v">114v-115v</locus>
+                     <title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title>
+                  </msItem>
+                  <msItem n="116r">
+                     <locus from="116r" to="118r">116r-118r</locus>
+                     <title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title>
+                  </msItem>
+                  <msItem n="118v">
+                     <locus from="118v" to="122v">118v-122v</locus>
+                     <title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title>
+                  </msItem>
+                  <msItem n="123r">
+                     <locus from="123r" to="131v">123r-131v</locus>
+                     <title>Ma᾿amarim ῾al refu᾿ah מאמרים על רפואה</title>
+                  </msItem>
+                  <msItem n="131v">
+                     <locus from="131v" to="147v">131v-147v</locus>
+                     <title>Luḥot ṿe-῾inyene teḳufot לוחות ועניני תקופות</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>147 folios
                            
                            
                            
@@ -33,7 +118,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,14 +128,53 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 15 30;
-                                                  written lines: 15 30; Uniform layout. Visible hard-point and in the latter part ink ruling. Larger square titles and initial words (in red ink between folios 98-147). Marginal notes. Catchwords on every verso in the earlier part (folios 1-97). </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 15th century. Shabtai ben Yeḥiel of Rome: a part of his name is given at the beginning of each section between folios 119v-122r. </scriptNote></scriptDesc><decoDesc><decoNote type="diagram"><locus>118v</locus>
+                                                  written lines: 15 30; Uniform layout. Visible hard-point and in the latter part ink ruling. Larger square titles and initial words (in red ink between folios 98-147). Marginal notes. Catchwords on every verso in the earlier part (folios 1-97). </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 15th century. Shabtai ben Yeḥiel of Rome: a part of his name is given at the beginning of each section between folios 119v-122r. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="diagram">
+                        <locus>118v</locus>
                         
                         
                         
-                        A diagram, in colors. </decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Mafte'ach Ha-Refu'ah. Hebrew. Brit. Mus. Oriental 2674.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>Acquisition: 
+                        A diagram, in colors. </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Mafte'ach Ha-Refu'ah. Hebrew. Brit. Mus. Oriental 2674.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira(b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 October 1883: inscribed, folio [150v] (fse003v). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira(b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum from him on 10 October 1883: inscribed, folio [150v] (fse003v). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

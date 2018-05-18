@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ḥidushim(חדושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ḥidushim(חדושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5086: Ḥidushim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,17 +39,148 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly stained.</note>
+            <note>
 								Shelomoh Ashkenazi: inscribed in an owner's entry, folio 1v. 
 								Avraham [...] : inscribed, folio 137v. 
-								Ḥayim ben Amram and Ya῾aḳov Bakhah Shemu᾿el: inscribed in a record of exchange, folio 138r. Folios 137v-138v : doodles and calculations. </note><note type="relatedResource">
+								Ḥayim ben Amram and Ya῾aḳov Bakhah Shemu᾿el: inscribed in a record of exchange, folio 138r. Folios 137v-138v : doodles and calculations. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5086</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5086</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The novellae on several talmudic tractates, by David ibn Shoshan.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="138v">1r-138v</locus><title>Ḥidushim חדושים</title></msItem><msItem n="2r"><locus from="2r" to="2v">2r-2v</locus><title>Berakhot</title></msItem><msItem n="2v"><locus from="2v" to="6v">2v-6v</locus><title>Pesaḥim</title></msItem><msItem n="6v"><locus from="6v" to="7v">6v-7v</locus><title>Yoma</title></msItem><msItem n="7v"><locus from="7v" to="8r">7v-8r</locus><title>Betsah</title></msItem><msItem n="8r"><locus from="8r" to="8v">8r-8v</locus><title>Rosh ha-Shanah</title></msItem><msItem n="8v"><locus from="8v" to="21v">8v-21v</locus><title>Yevamot</title></msItem><msItem n="21v"><locus from="21v" to="38v">21v-38v</locus><title>Ketubot</title></msItem><msItem n="38v"><locus from="38v" to="49r">38v-49r</locus><title>Giṭin</title></msItem><msItem n="49r"><locus from="49r" to="59r">49r-59r</locus><title>Ḳidushin</title></msItem><msItem n="59r"><locus from="59r" to="60v">59r-60v</locus><title>Soṭah</title></msItem><msItem n="60v"><locus from="60v" to="106v">60v-106v</locus><title>Bava ḳama</title></msItem><msItem n="106v"><locus from="106v" to="113v">106v-113v</locus><title>Bava metsi῾a</title></msItem><msItem n="113v"><locus from="113v" to="119v">113v-119v</locus><title>Shevu῾ot</title></msItem><msItem n="119v"><locus from="119v" to="138v">119v-138v</locus><title>῾Avodah zarah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>138 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5086</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5086</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The novellae on several talmudic tractates, by David ibn Shoshan.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="138v">1r-138v</locus>
+                     <title>Ḥidushim חדושים</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="2v">2r-2v</locus>
+                     <title>Berakhot</title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="6v">2v-6v</locus>
+                     <title>Pesaḥim</title>
+                  </msItem>
+                  <msItem n="6v">
+                     <locus from="6v" to="7v">6v-7v</locus>
+                     <title>Yoma</title>
+                  </msItem>
+                  <msItem n="7v">
+                     <locus from="7v" to="8r">7v-8r</locus>
+                     <title>Betsah</title>
+                  </msItem>
+                  <msItem n="8r">
+                     <locus from="8r" to="8v">8r-8v</locus>
+                     <title>Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="8v">
+                     <locus from="8v" to="21v">8v-21v</locus>
+                     <title>Yevamot</title>
+                  </msItem>
+                  <msItem n="21v">
+                     <locus from="21v" to="38v">21v-38v</locus>
+                     <title>Ketubot</title>
+                  </msItem>
+                  <msItem n="38v">
+                     <locus from="38v" to="49r">38v-49r</locus>
+                     <title>Giṭin</title>
+                  </msItem>
+                  <msItem n="49r">
+                     <locus from="49r" to="59r">49r-59r</locus>
+                     <title>Ḳidushin</title>
+                  </msItem>
+                  <msItem n="59r">
+                     <locus from="59r" to="60v">59r-60v</locus>
+                     <title>Soṭah</title>
+                  </msItem>
+                  <msItem n="60v">
+                     <locus from="60v" to="106v">60v-106v</locus>
+                     <title>Bava ḳama</title>
+                  </msItem>
+                  <msItem n="106v">
+                     <locus from="106v" to="113v">106v-113v</locus>
+                     <title>Bava metsi῾a</title>
+                  </msItem>
+                  <msItem n="113v">
+                     <locus from="113v" to="119v">113v-119v</locus>
+                     <title>Shevu῾ot</title>
+                  </msItem>
+                  <msItem n="119v">
+                     <locus from="119v" to="138v">119v-138v</locus>
+                     <title>῾Avodah zarah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>138 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 30;
-                                                  written lines: 30; Unifrom layout. Visible hard-point ruling.Catchwords on every verso.Initial words in each section written in larger characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Small Oriental semi-cursive script of the 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'David ibn Shoshan. Novellae on Talmudical Tractates. Hebrew. Brit. Mus. Oriental 5086.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/></origin><provenance>Acquisition: 
-								I. L. Hirschensohn: purchased from him by the British Museum on 26 March 1897: inscribed, folio [139v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Unifrom layout. Visible hard-point ruling.Catchwords on every verso.Initial words in each section written in larger characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Small Oriental semi-cursive script of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'David ibn Shoshan. Novellae on Talmudical Tractates. Hebrew. Brit. Mus. Oriental 5086.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								I. L. Hirschensohn: purchased from him by the British Museum on 26 March 1897: inscribed, folio [139v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

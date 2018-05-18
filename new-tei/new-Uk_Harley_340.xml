@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ethical writings.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ethical writings.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 340: Ethical writings. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,100 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Leaves individually guarded. Tidemarks and staining, mostly in margins.</note><note>
-								Shelomoh Falk: inscribed in rhymed verses, folio 101v, 102r.Folio 116r: entries of births in 1564, 1566, 1569 respectively, with an entry of death added in each case. Two others recording deaths follow.Folio 117v: short notes in Yiddish.Censored by Giovanni Domenico Carretto (active 1600-1624): inscribed with his name, 1623 (folio 115r); see 100-101, and appendix § 80-84. Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name, 1602 (folio 115v); see 61, and appendix § 62-74. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Leaves individually guarded. Tidemarks and staining, mostly in margins.</note>
+            <note>
+								Shelomoh Falk: inscribed in rhymed verses, folio 101v, 102r.Folio 116r: entries of births in 1564, 1566, 1569 respectively, with an entry of death added in each case. Two others recording deaths follow.Folio 117v: short notes in Yiddish.Censored by Giovanni Domenico Carretto (active 1600-1624): inscribed with his name, 1623 (folio 115r); see 100-101, and appendix § 80-84. Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name, 1602 (folio 115v); see 61, and appendix § 62-74. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 340</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_340</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Ethical writings.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="102r">1r-102r</locus><title>Sefer ma῾alot ha-midot ספר
-מעלות המדות</title></msItem><msItem n="102v"><locus from="102v" to="112r">102v-112r</locus><title>Perush Mishnah פירוש משנה</title></msItem><msItem n="112r"><locus from="112r" to="117v">112r-117v</locus><title>Sefer ha-tapuaḥ ספר התפוח</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>118 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 340</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_340</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Ethical writings.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="102r">1r-102r</locus>
+                     <title>Sefer ma῾alot ha-midot ספר
+מעלות המדות</title>
+                  </msItem>
+                  <msItem n="102v">
+                     <locus from="102v" to="112r">102v-112r</locus>
+                     <title>Perush Mishnah פירוש משנה</title>
+                  </msItem>
+                  <msItem n="112r">
+                     <locus from="112r" to="117v">112r-117v</locus>
+                     <title>Sefer ha-tapuaḥ ספר התפוח</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>118 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each, marked with signatures at the beginning and at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 27;
-                                                  written lines: 27; Uniform layout.Initial words in larger square characters.Catchwords on every verso.Marginal notes.Ornaments along the last line of text, initial words, as well as around catchwords and running titles, in red ink. Maniculae (e.g., 24v).</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script of the 15th century. Mosheh ben Yoshua Merkis, inscribed in rhymed verses, folio 101v, 102r.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine: 'Ma'aloth Ham-Middoth. Etc. Hebrew. Brit. Mus. Harl. Or. 340.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1489"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
-Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 27; Uniform layout.Initial words in larger square characters.Catchwords on every verso.Marginal notes.Ornaments along the last line of text, initial words, as well as around catchwords and running titles, in red ink. Maniculae (e.g., 24v).</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script of the 15th century. Mosheh ben Yoshua Merkis, inscribed in rhymed verses, folio 101v, 102r.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine: 'Ma'aloth Ham-Middoth. Etc. Hebrew. Brit. Mus. Harl. Or. 340.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1489"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

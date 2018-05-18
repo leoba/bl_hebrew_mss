@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tiḳune ha-Ri"f (תיקני הרי"ף)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tiḳune ha-Ri"f (תיקני הרי"ף)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26990: Tiḳune ha-Ri"f  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,139 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A number of blank pages after folio 90.</note><note>
-								Shimshon Ele῾azar ben Me᾿ir Baḳi: inscribed in an ownership note, folio 90r.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A number of blank pages after folio 90.</note>
+            <note>
+								Shimshon Ele῾azar ben Me᾿ir Baḳi: inscribed in an ownership note, folio 90r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26990</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26990</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Abraham del Vecchio's Tiḳune ha-Rif, part I.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="199v">1r-199v</locus><title>Tiḳune ha-Ri"f  תיקני הרי"ף </title></msItem><msItem n="1r"><locus from="1r" to="30v">1r-30v</locus><title>Berakhot</title></msItem><msItem n="30v"><locus from="30v" to="36r">30v-36r</locus><title>Halakhot ḳeṭanot</title></msItem><msItem n="36r"><locus from="36r" to="91r">36r-91r</locus><title>Shabat</title></msItem><msItem n="91r"><locus from="91r" to="123v">91r-123v</locus><title>῾Eruvin</title></msItem><msItem n="123v"><locus from="123v" to="131r">123v-131r</locus><title>Pesaḥim</title></msItem><msItem n="131r"><locus from="131r" to="138v">131r-138v</locus><title>Ta῾anit</title></msItem><msItem n="138v"><locus from="138v" to="149r">138v-149r</locus><title>Betsah</title></msItem><msItem n="149r"><locus from="149r" to="156v">149r-156v</locus><title>Rosh ha-shanah</title></msItem><msItem n="156v"><locus from="156v" to="160r">156v-160r</locus><title>Yoma</title></msItem><msItem n="160r"><locus from="160r" to="179r">160r-179r</locus><title>Sukah</title></msItem><msItem n="179r"><locus from="179r" to="189v">179r-189v</locus><title>Megilah</title></msItem><msItem n="189v"><locus from="189v" to="199v">189v-199v</locus><title>Mo῾ed ḳaṭan</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>199 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26990</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26990</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Abraham del Vecchio's Tiḳune ha-Rif, part I.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="199v">1r-199v</locus>
+                     <title>Tiḳune ha-Ri"f  תיקני הרי"ף </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="30v">1r-30v</locus>
+                     <title>Berakhot</title>
+                  </msItem>
+                  <msItem n="30v">
+                     <locus from="30v" to="36r">30v-36r</locus>
+                     <title>Halakhot ḳeṭanot</title>
+                  </msItem>
+                  <msItem n="36r">
+                     <locus from="36r" to="91r">36r-91r</locus>
+                     <title>Shabat</title>
+                  </msItem>
+                  <msItem n="91r">
+                     <locus from="91r" to="123v">91r-123v</locus>
+                     <title>῾Eruvin</title>
+                  </msItem>
+                  <msItem n="123v">
+                     <locus from="123v" to="131r">123v-131r</locus>
+                     <title>Pesaḥim</title>
+                  </msItem>
+                  <msItem n="131r">
+                     <locus from="131r" to="138v">131r-138v</locus>
+                     <title>Ta῾anit</title>
+                  </msItem>
+                  <msItem n="138v">
+                     <locus from="138v" to="149r">138v-149r</locus>
+                     <title>Betsah</title>
+                  </msItem>
+                  <msItem n="149r">
+                     <locus from="149r" to="156v">149r-156v</locus>
+                     <title>Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="156v">
+                     <locus from="156v" to="160r">156v-160r</locus>
+                     <title>Yoma</title>
+                  </msItem>
+                  <msItem n="160r">
+                     <locus from="160r" to="179r">160r-179r</locus>
+                     <title>Sukah</title>
+                  </msItem>
+                  <msItem n="179r">
+                     <locus from="179r" to="189v">179r-189v</locus>
+                     <title>Megilah</title>
+                  </msItem>
+                  <msItem n="189v">
+                     <locus from="189v" to="199v">189v-199v</locus>
+                     <title>Mo῾ed ḳaṭan</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>199 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 30 ;
-                                                  written lines: 30 ; Non-uniform layout.Catchwords on every page. Running titles.Extensive marginal notes and references, on both inside and outside margins. Some erasures. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the 17th century, probably of Solomon Portaleone (see a note on folio 1r, where Samuel Portaleone ascribes this copy to his brother, Solomon).</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown card cover. Spine title: 'Del Vecchio. Tikkune ha-Riph. Part I. Hebrew. Brit. Mus. Additional 26,990.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 101: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [200v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30 ; Non-uniform layout.Catchwords on every page. Running titles.Extensive marginal notes and references, on both inside and outside margins. Some erasures. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the 17th century, probably of Solomon Portaleone (see a note on folio 1r, where Samuel Portaleone ascribes this copy to his brother, Solomon).</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown card cover. Spine title: 'Del Vecchio. Tikkune ha-Riph. Part I. Hebrew. Brit. Mus. Additional 26,990.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 101: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, folio [200v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A commentary on the Zohar, pericope Terumah to Ṿa-yaḳhel.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A commentary on the Zohar, pericope Terumah to Ṿa-yaḳhel.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27058: A commentary on the Zohar, pericope Terumah to Ṿa-yaḳhel. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,104 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained. Partly water-damaged.</note><note>Folios 219-222, originally from another manuscript (same handwriting as the rest of the volume), are appended.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained. Partly water-damaged.</note>
+            <note>Folios 219-222, originally from another manuscript (same handwriting as the rest of the volume), are appended.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27058</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27058</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A commentary on the Zohar, pericope Terumah to Ṿa-yaḳhel.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="222v">1r-222v</locus><title>Or yaḳar (Terumah-Tetsaṿe, Ṿa-yaḳhel) אור יקר (תרומה-תצוה, ויקהל)</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>222 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27058</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27058</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A commentary on the Zohar, pericope Terumah to Ṿa-yaḳhel.</summary>
+                  <textLang mainLang="he">Aramaic of the Zohar</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="222v">1r-222v</locus>
+                     <title>Or yaḳar (Terumah-Tetsaṿe, Ṿa-yaḳhel) אור יקר (תרומה-תצוה, ויקהל)</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>222 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									 	Quires of mostly 12 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 7 45;
-                                                  written lines: 7 45; Uniform layout.Visible hard-point ruling.Catchwords on every verso and ocassionally on some of the rectos.Initial words in larger square characters.A number of marginal notes and comments.Folios 216v-218v blank.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive (for the main text) and small cursive (for the commentary) scripts of the second half of the 16th century. Ya῾aḳov ben Mordekhai Pogeṭṭi: inscribed in the colophon, folio 268v of volume II (Add MS 27065).</scriptNote></scriptDesc><decoDesc><decoNote type="diagram"><locus>139r</locus>
-								Diagrams.</decoNote><decoNote type="diagram"><locus>179v</locus>
-								Diagrams.</decoNote><decoNote type="diagram"><locus>186v</locus>
-								Diagrams.</decoNote><decoNote type="diagram"><locus>205v</locus>
-								Diagrams.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Moses Cordovero. Or Yakar. Hebrew. Brit. Mus. Additional 27,058.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1590"/><origPlace>Italy, N. Asti</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 163: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, [224v] (fse002v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 7 45; Uniform layout.Visible hard-point ruling.Catchwords on every verso and ocassionally on some of the rectos.Initial words in larger square characters.A number of marginal notes and comments.Folios 216v-218v blank.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive (for the main text) and small cursive (for the commentary) scripts of the second half of the 16th century. Ya῾aḳov ben Mordekhai Pogeṭṭi: inscribed in the colophon, folio 268v of volume II (Add MS 27065).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="diagram">
+                        <locus>139r</locus>
+								Diagrams.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>179v</locus>
+								Diagrams.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>186v</locus>
+								Diagrams.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>205v</locus>
+								Diagrams.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Moses Cordovero. Or Yakar. Hebrew. Brit. Mus. Additional 27,058.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1590"/>
+                     <origPlace>Italy, N. Asti</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 163: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed, [224v] (fse002v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

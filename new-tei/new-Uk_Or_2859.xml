@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sefer Or zaruʻa(ספר אור זרוע)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sefer Or zaruʻa(ספר אור זרוע)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2859: Sefer Or zaruʻa are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,108 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>An Italian note, signed by Bart[olomeo] Rocca di Praterino, giving permission to Avraham Segre to use the book according to his will: folio 291v.A legal document in Italian, on the quarto paper leaf attached on guard at the end of the voume, dated 16 Marheshvan 5503 (13 November 1742). Samson Segre agrees to print the manuscript together with Jacob London and Isaac Berakhyah Kanton, in Amsterdam, London, or elsewhere.Inner side of folio 1r (front flyleaf): descriptions on modern paper of two works by Natanael Diodato Segre (῾Atarat tiferet Savoya and Nezer ha-ḳodesh mi-Savoya). The Duke Charles Emmanuel is therein extolled. Dated 1622.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>An Italian note, signed by Bart[olomeo] Rocca di Praterino, giving permission to Avraham Segre to use the book according to his will: folio 291v.A legal document in Italian, on the quarto paper leaf attached on guard at the end of the voume, dated 16 Marheshvan 5503 (13 November 1742). Samson Segre agrees to print the manuscript together with Jacob London and Isaac Berakhyah Kanton, in Amsterdam, London, or elsewhere.Inner side of folio 1r (front flyleaf): descriptions on modern paper of two works by Natanael Diodato Segre (῾Atarat tiferet Savoya and Nezer ha-ḳodesh mi-Savoya). The Duke Charles Emmanuel is therein extolled. Dated 1622.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2859</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2859</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Volume 1 of the Sefer Or Zaru῾a of Isaac ben Moses of Vienna.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="291v">1r-291v</locus><title>Sefer Or zaruʻa ספר אור זרוע</title></msItem><msItem n="3r"><locus from="3r" to="13r">3r-13r</locus><title>Alfa beta</title></msItem><msItem n="13r"><locus from="13r" to="23r">13r-23r</locus><title>Hilkhot tsedaḳah</title></msItem><msItem n="23r"><locus from="23r" to="110r">23r-110r</locus><title>Masekhet Bava ḳama</title></msItem><msItem n="110r"><locus from="110r" to="220r">110r-220r</locus><title>Masekhet Bava metsiʻa</title></msItem><msItem n="220r"><locus from="220r" to="291v">220r-291v</locus><title>Masekhet Bava batra</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>291 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2859</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2859</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Volume 1 of the Sefer Or Zaru῾a of Isaac ben Moses of Vienna.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="291v">1r-291v</locus>
+                     <title>Sefer Or zaruʻa ספר אור זרוע</title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="13r">3r-13r</locus>
+                     <title>Alfa beta</title>
+                  </msItem>
+                  <msItem n="13r">
+                     <locus from="13r" to="23r">13r-23r</locus>
+                     <title>Hilkhot tsedaḳah</title>
+                  </msItem>
+                  <msItem n="23r">
+                     <locus from="23r" to="110r">23r-110r</locus>
+                     <title>Masekhet Bava ḳama</title>
+                  </msItem>
+                  <msItem n="110r">
+                     <locus from="110r" to="220r">110r-220r</locus>
+                     <title>Masekhet Bava metsiʻa</title>
+                  </msItem>
+                  <msItem n="220r">
+                     <locus from="220r" to="291v">220r-291v</locus>
+                     <title>Masekhet Bava batra</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>291 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each, marked by catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 47;
-                                                  written lines: 46; Uniform layout. Visible pricking and ruling in pencil, page by page. Hair side and flesh side of the folios indistinguishable.Last line written within ruling.Initial words in larger semi-cursive script. Hebrew foliation in a later hand in the upper left-hand corner of each recto.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script, unpunctuated, of the 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'Isaac ben Moses. Or Zaru'a Hag-Gadol. Hebrew. Vol. I. Brit. Mus. Oriental 2859.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/></origin><provenance>Acquisition: 
-								R. N. Rabinowitz: purchased from him by the British Library on 18 April 1885: inscribed, folio [293v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 46; Uniform layout. Visible pricking and ruling in pencil, page by page. Hair side and flesh side of the folios indistinguishable.Last line written within ruling.Initial words in larger semi-cursive script. Hebrew foliation in a later hand in the upper left-hand corner of each recto.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script, unpunctuated, of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'Isaac ben Moses. Or Zaru'a Hag-Gadol. Hebrew. Vol. I. Brit. Mus. Oriental 2859.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								R. N. Rabinowitz: purchased from him by the British Library on 18 April 1885: inscribed, folio [293v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

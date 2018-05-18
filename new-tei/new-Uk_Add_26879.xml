@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi'im (נביאים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi'im (נביאים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26879: Nevi'im  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,21 +39,188 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Purchase note, with names deleted, 5119 [1359] (2r); copy of the same purchase note, 17th-18th century. Partially deleted inscription: [.. ..] Bar Elhanan blessed be his memory [.. ..] Mosheh Leṿi (2r). Illegible Latin inscriptions (3r). Entries of births and deaths (268r). Censored by Giovanni Domenico Vistorini: inscribed 'Gio. Dom. Vistorini 1609' (2r, 267v), see 85-87. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Purchase note, with names deleted, 5119 [1359] (2r); copy of the same purchase note, 17th-18th century. Partially deleted inscription: [.. ..] Bar Elhanan blessed be his memory [.. ..] Mosheh Leṿi (2r). Illegible Latin inscriptions (3r). Entries of births and deaths (268r). Censored by Giovanni Domenico Vistorini: inscribed 'Gio. Dom. Vistorini 1609' (2r, 267v), see 85-87. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26879</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26879</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Former and Latter Prophets punctuated and accentuated, with masorah magna and parva, Targum Jonathan and Rashi's commentary.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="268v">1r-268v</locus><title>Nevi'im  נביאים </title></msItem><msItem n="2v"><locus from="2v" to="26v">2v-26v</locus><title>Joshua</title></msItem><msItem n="26v"><locus from="26v" to="50r">26v-50r</locus><title>Judges</title></msItem><msItem n="50r"><locus from="50r" to="108r">50r-108r</locus><title>Samuel</title></msItem><msItem n="108r"><locus from="108r" to="154v">108r-154v</locus><title>Kings</title></msItem><msItem n="154v"><locus from="154v" to="155r">154v-155r</locus><title>Jeremiah</title></msItem><msItem n="155r"><locus from="155r" to="199v">155r-199v</locus><title>Ezekiel</title></msItem><msItem n="199v"><locus from="199v" to="235r">199v-235r</locus><title>Isaiah</title></msItem><msItem n="235r"><locus from="235r" to="236r">235r-236r</locus><title>Hosea</title></msItem><msItem n="236r"><locus from="236r" to="237v">236r-237v</locus><title>Joel</title></msItem><msItem n="237v"><locus from="237v" to="243r">237v-243r</locus><title>Amos</title></msItem><msItem n="243r"><locus from="243r" to="243v">243r-243v</locus><title>Obadiah</title></msItem><msItem n="243v"><locus from="243v" to="245v">243v-245v</locus><title>Jonah</title></msItem><msItem n="245v"><locus from="245v" to="249r">245v-249r</locus><title>Micah</title></msItem><msItem n="249r"><locus from="249r" to="251r">249r-251r</locus><title>Nahum</title></msItem><msItem n="251r"><locus from="251r" to="252v">251r-252v</locus><title>Habakuk</title></msItem><msItem n="252v"><locus from="252v" to="254v">252v-254v</locus><title>Zephaniah</title></msItem><msItem n="254v"><locus from="254v" to="256v">254v-256v</locus><title>Haggai</title></msItem><msItem n="256v"><locus from="256v" to="265r">256v-265r</locus><title>Zechariah</title></msItem><msItem n="265r"><locus from="265r" to="268v">265r-268v</locus><title>Malachi</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>268 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26879</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26879</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Former and Latter Prophets punctuated and accentuated, with masorah magna and parva, Targum Jonathan and Rashi's commentary.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="268v">1r-268v</locus>
+                     <title>Nevi'im  נביאים </title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="26v">2v-26v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="26v">
+                     <locus from="26v" to="50r">26v-50r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="108r">50r-108r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="108r">
+                     <locus from="108r" to="154v">108r-154v</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="154v">
+                     <locus from="154v" to="155r">154v-155r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="155r">
+                     <locus from="155r" to="199v">155r-199v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="199v">
+                     <locus from="199v" to="235r">199v-235r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="235r">
+                     <locus from="235r" to="236r">235r-236r</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="236r">
+                     <locus from="236r" to="237v">236r-237v</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="237v">
+                     <locus from="237v" to="243r">237v-243r</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="243r">
+                     <locus from="243r" to="243v">243r-243v</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="243v">
+                     <locus from="243v" to="245v">243v-245v</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="245v">
+                     <locus from="245v" to="249r">245v-249r</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="249r">
+                     <locus from="249r" to="251r">249r-251r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="251r">
+                     <locus from="251r" to="252v">251r-252v</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="252v">
+                     <locus from="252v" to="254v">252v-254v</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="254v">
+                     <locus from="254v" to="256v">254v-256v</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="256v">
+                     <locus from="256v" to="265r">256v-265r</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="265r">
+                     <locus from="265r" to="268v">265r-268v</locus>
+                     <title>Malachi</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>268 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									23 quires: i12 (2-13), ii12 (14-25), iii12 (26-37), iv12 (38-49), v12 (50-61), vi12 (62-73), vii12 (74-85), viii12 (86-97), ix8 (98-105), x12 (106-117), xi12 (118-129), xii12 (130-141), xiii12 (142-153), xiv12-3 (154-162), xv12 (163-174), xvi12 (175-186), xvii12 (187-198), xviii12 (199-210), xix12 (211-122), xx12 (223-234), xxi10 (235-244), xxii12 (245-256), xxiii12 (257-268). 
 									Catchwords present throughout.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 38;
                                                   written lines: 37; The older flyleaves have a watermark of a coat of arms with a man in the moon, not found in and . Pricking and ruling are visible.
-Lacunae in the text are after folios 117, 154, 234, 235.Masorah magna occupies three lines in the upper and four in the lower margin.The Targum forms the inner column and Rashi's commentary (often in the form of circles and other designs) is written in the outer part of the page.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (French?) square and semi-cursive script, partially punctuated. Yehudah Leṿi?: the name Yehudah is marked on 176r; Leṿi is marked on 266r. Scribal formula: 'Grow stronger and let us grow stronger. May no harm befall on the copyist not today and not ever until the donkey ascends the ladder to the heavens about which our father Jacob had dreamed' (267v).</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus> 2v</locus> 3 decorated initial words in ink.
-							</decoNote><decoNote type="initial"><locus>108r</locus> 3 decorated initial words in ink.
-							</decoNote><decoNote type="initial"><locus>154v</locus> 3 decorated initial words in ink.
-							</decoNote><decoNote type="marginal"><locus>97v</locus>1 marginal drawing, in brown ink.
-							</decoNote><decoNote type="paratext"><locus>199v</locus>Micrography on 2 folios.
-							</decoNote><decoNote type="paratext"><locus>267v</locus>Micrography on 2 folios.
-							</decoNote><decoNote type="paratext">Rashi's commentary in carmina figurata in numerous folios. </decoNote><decoNote type="marginal">Decorated signs of haftarot, in brown ink.</decoNote></decoDesc><bindingDesc><binding><p>  	BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>France</origPlace></origin><provenance>Acquisition: Samuel Schönblum: purchased by the British Museum from him on 24 August, 1865: inscribed ([239v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Lacunae in the text are after folios 117, 154, 234, 235.Masorah magna occupies three lines in the upper and four in the lower margin.The Targum forms the inner column and Rashi's commentary (often in the form of circles and other designs) is written in the outer part of the page.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (French?) square and semi-cursive script, partially punctuated. Yehudah Leṿi?: the name Yehudah is marked on 176r; Leṿi is marked on 266r. Scribal formula: 'Grow stronger and let us grow stronger. May no harm befall on the copyist not today and not ever until the donkey ascends the ladder to the heavens about which our father Jacob had dreamed' (267v).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus> 2v</locus> 3 decorated initial words in ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>108r</locus> 3 decorated initial words in ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>154v</locus> 3 decorated initial words in ink.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>97v</locus>1 marginal drawing, in brown ink.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>199v</locus>Micrography on 2 folios.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>267v</locus>Micrography on 2 folios.
+							</decoNote>
+                     <decoNote type="paratext">Rashi's commentary in carmina figurata in numerous folios. </decoNote>
+                     <decoNote type="marginal">Decorated signs of haftarot, in brown ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>France</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Samuel Schönblum: purchased by the British Museum from him on 24 August, 1865: inscribed ([239v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

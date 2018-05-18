@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush Iyov(פרוש איוב)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush Iyov(פרוש איוב)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2510: Perush Iyov are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,17 +39,92 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Lacunae after folios: 1, 2, 3, 9, 19, 20, 23, 27, 28, 32, 33, 36, 37, 45, 49, 50, 51, 57, 59, 72, 73, 75, 79, 81, 89, 98, 108. Many folios stained or water-damaged.</note><note>
-								Shemu᾿el ben Eliyahu Firuz: inscribed in a note, folio 41v.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Lacunae after folios: 1, 2, 3, 9, 19, 20, 23, 27, 28, 32, 33, 36, 37, 45, 49, 50, 51, 57, 59, 72, 73, 75, 79, 81, 89, 98, 108. Many folios stained or water-damaged.</note>
+            <note>
+								Shemu᾿el ben Eliyahu Firuz: inscribed in a note, folio 41v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2510</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2510</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The commentary of Japheth ben Ali ha-Levi on the book of Job, chapters 1-22.</summary><textLang mainLang="he" otherLangs="jrb"/><msItem n="1r"><locus from="1r" to="127v">1r-127v</locus><title>Perush Iyov פרוש איוב</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>127 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2510</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2510</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The commentary of Japheth ben Ali ha-Levi on the book of Job, chapters 1-22.</summary>
+                  <textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="127v">1r-127v</locus>
+                     <title>Perush Iyov פרוש איוב</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>127 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									20 quires (nos. 1-18, 20-21), originally of 10 leaves each.
 									Apart from the quires 3, 13, 18, all the quires are imperfect.
 									The quires are signed with Hebrew letters and Arabic numerals on the upper margin of the first page.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 16;
-                                                  written lines: 16; Uniform layout.The numbers of the chapters have been added by a later hand.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square and semi-cursive script of the 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Yefet. Comm. on Job. Vol. I. Arabic. Brit. Mus. Oriental 2510.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio [128v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 16; Uniform layout.The numbers of the chapters have been added by a later hand.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square and semi-cursive script of the 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Yefet. Comm. on Job. Vol. I. Arabic. Brit. Mus. Oriental 2510.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, folio [128v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Pesaḳim (פסקים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Pesaḳim (פסקים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1068: Pesaḳim  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,108 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Incomplete at the end. Stained.</note><note>Folio 2r: a notice of the presentation of the manuscript by ῾Azariah Ḥayim ben Sanguinetti to Yosef ῾Azulai, in cursive Sefardi script.
-								Yitsḥaḳ Leṿi: inscribed in an Italian cursive scipt (folio 2r).Censored by Dominico Irosolomitano, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1597 (folio 130v); see 61 , and appendix § 62-74. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Incomplete at the end. Stained.</note>
+            <note>Folio 2r: a notice of the presentation of the manuscript by ῾Azariah Ḥayim ben Sanguinetti to Yosef ῾Azulai, in cursive Sefardi script.
+								Yitsḥaḳ Leṿi: inscribed in an Italian cursive scipt (folio 2r).Censored by Dominico Irosolomitano, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name, 1597 (folio 130v); see 61 , and appendix § 62-74. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1068</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1068</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pesaḳim of Isaiah of Trani, the younger, on the treatises of Sanhedrin, Makot, Shevu῾ot, and ῾Avodah zarah.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="130v">1r-130v</locus><title>Pesaḳim  פסקים</title></msItem><msItem n="2r"><locus from="2r" to="54r">2r-54r</locus><title>Sanhedrin</title></msItem><msItem n="54r"><locus from="54r" to="64v">54r-64v</locus><title>Makot</title></msItem><msItem n="64v"><locus from="64v" to="95v">64v-95v</locus><title>Shevu῾ot</title></msItem><msItem n="95v"><locus from="95v" to="130v">95v-130v</locus><title>῾Avodah zarah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>130 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1068</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1068</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pesaḳim of Isaiah of Trani, the younger, on the treatises of Sanhedrin, Makot, Shevu῾ot, and ῾Avodah zarah.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="130v">1r-130v</locus>
+                     <title>Pesaḳim  פסקים</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="54r">2r-54r</locus>
+                     <title>Sanhedrin</title>
+                  </msItem>
+                  <msItem n="54r">
+                     <locus from="54r" to="64v">54r-64v</locus>
+                     <title>Makot</title>
+                  </msItem>
+                  <msItem n="64v">
+                     <locus from="64v" to="95v">64v-95v</locus>
+                     <title>Shevu῾ot</title>
+                  </msItem>
+                  <msItem n="95v">
+                     <locus from="95v" to="130v">95v-130v</locus>
+                     <title>῾Avodah zarah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>130 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									13 complete quires of 8 and 10 leaves, and 1 incomplete quire of 8 leaves at the end. 
 									Catchwords, marking the end of the quires, partially cut away in the trimming.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 23;
-                                                  written lines: 23; Uniform layout. Visible hard-point ruling.Hair-side and flesh-side of the folios distinguishable.Last line written outside ruling.Chapter initials given in larger characters. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Oriental 1068.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 28: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; co., Berlin dealer to the British Museum (see 131-153).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 23; Uniform layout. Visible hard-point ruling.Hair-side and flesh-side of the folios distinguishable.Last line written outside ruling.Chapter initials given in larger characters. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Isaiah of Trani. Pesakim. Hebrew. Brit. Mus. Oriental 1068.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 28: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; co., Berlin dealer to the British Museum (see 131-153).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah ʿim perush Rash"i, megilot ṿe-hafṭarot(תורה עם פרוש רש"י, מגילות והפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah ʿim perush Rash"i, megilot ṿe-hafṭarot(תורה עם פרוש רש"י, מגילות והפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26878: Torah ʿim perush Rash"i, megilot ṿe-hafṭarot are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,56 +39,260 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>The codex is imperfect at the beginning and at the end.  There are two lacunae after folios 146, 378 and the outer bifolio is missing from quire xxiii. </note><note>Ḥayim: the word is decorated or marked as an acrostic (folios 50v, 334r, 348r). Yosef: the name is marked with a small human head attached to it (folios 270r, 320v). Remains of a contract, mostly illegible (folio 272v). Hebrew inscription: letters of the Hebrew alphabet in order and in counter order a blessing; its last part had been crossed out ([384r]). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>The codex is imperfect at the beginning and at the end.  There are two lacunae after folios 146, 378 and the outer bifolio is missing from quire xxiii. </note>
+            <note>Ḥayim: the word is decorated or marked as an acrostic (folios 50v, 334r, 348r). Yosef: the name is marked with a small human head attached to it (folios 270r, 320v). Remains of a contract, mostly illegible (folio 272v). Hebrew inscription: letters of the Hebrew alphabet in order and in counter order a blessing; its last part had been crossed out ([384r]). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26878</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26878</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with Rashi's commentary and Targum Onḳelos; the Five Scrolls; the Hafṭarot with Rashi's commentary.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="382v">1r-382v</locus><title>Torah ʿim perush Rash"i, megilot ṿe-hafṭarot תורה עם פרוש רש"י, מגילות  והפטרות </title></msItem><msItem n="1r"><locus from="1r" to="50v">1r-50v</locus><title>Genesis </title></msItem><msItem n="50v"><locus from="50v" to="113r">50v-113r</locus><title>Exodus</title></msItem><msItem n="113r"><locus from="113r" to="147r">113r-147r</locus><title>Leviticus</title></msItem><msItem n="147r"><locus from="147r" to="209r">147r-209r</locus><title>Numbers</title></msItem><msItem n="209r"><locus from="209r" to="273r">209r-273r</locus><title>Deuteronomy</title></msItem><msItem n="273r"><locus from="273r" to="278v">273r-278v</locus><title>Song of Songs</title></msItem><msItem n="278v"><locus from="278v" to="285r">278v-285r</locus><title>Lamentations</title></msItem><msItem n="285r"><locus from="285r" to="290v">285r-290v</locus><title>Ruth</title></msItem><msItem n="290v"><locus from="290v" to="300v">290v-300v</locus><title>Ecclesiastes</title></msItem><msItem n="300v"><locus from="300v" to="311v">300v-311v</locus><title>Esther</title></msItem><msItem n="312r"><locus from="312r" to="382v">312r-382v</locus><title>Hafṭarot for the whole year.</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>382 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26878</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26878</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Rashi's commentary and Targum Onḳelos; the Five Scrolls; the Hafṭarot with Rashi's commentary.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="382v">1r-382v</locus>
+                     <title>Torah ʿim perush Rash"i, megilot ṿe-hafṭarot תורה עם פרוש רש"י, מגילות  והפטרות </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="50v">1r-50v</locus>
+                     <title>Genesis </title>
+                  </msItem>
+                  <msItem n="50v">
+                     <locus from="50v" to="113r">50v-113r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="113r">
+                     <locus from="113r" to="147r">113r-147r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="147r">
+                     <locus from="147r" to="209r">147r-209r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="209r">
+                     <locus from="209r" to="273r">209r-273r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="273r">
+                     <locus from="273r" to="278v">273r-278v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="278v">
+                     <locus from="278v" to="285r">278v-285r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="285r">
+                     <locus from="285r" to="290v">285r-290v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="290v">
+                     <locus from="290v" to="300v">290v-300v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="300v">
+                     <locus from="300v" to="311v">300v-311v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="312r">
+                     <locus from="312r" to="382v">312r-382v</locus>
+                     <title>Hafṭarot for the whole year.</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>382 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									47 quires: i-iv8 (folios 1-32), v12 (folios 33-44), vi10 (folios 45-54), vii12 (folios 55-66), viii-xxii8 (folios 67-186), xxiii8-2 (folios 187-192), xxiv-xlvi8 (folios 193-378), xlvii7 (folios 379-382).  
 									Catchwords are sometimes decorated. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 3;
                                                   ruled lines: 24 29;
                                                   written lines: 23 28; Uniform layout. Folio comes from a much smaller codex with a fragment of Psalm 119 (119:48-65) written in Sephardic square script. On the same folio, there is a partially erased Hebrew inscription in the upper margin.
 Sometimes threefold catchwords for main text, Targum and commentary (e.g. ).
-Watermark, , of a circle with the letters 'BG' and a cross on top, similar to 3046-3047 (dated 1569-71, Reggio Emilia).The end of a weekly section in the Pentateuch is marked by three letters pe; the beginning is distiguished by the large ornamental characters of the first word, together with a pen and ink design, usually of a dragon (similar larger design at the beginning of the book).The commentary is often arranged in ornamental designs of different kinds. Several additional or alternative Hafṭarot  given in the margins.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square and semi-cursive script, partially punctuated, of the 14th century. Shemuʾel ben he-ḥaver rabi Ḥayim: inscribed with his name in a colophon, in Lunel? (folios 272r, 311v); the name Shemuʾel is marked (folio 209r). </scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>7r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>11v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>22v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>29r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>34r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>46r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>50v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>57r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>63v,76v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>80v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>85v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>162r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>168v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>174v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>180r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>189r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>239r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>245v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>252v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>260v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>335r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>341v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>344v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>356v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>357v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
-							</decoNote><decoNote type="initial"><locus>322v</locus>1 inhabited initial-word panel in ink.
-							</decoNote><decoNote type="initial">Numerous decorated and inhabited initial words, in ink.</decoNote><decoNote type="diagram"><locus>205r</locus>Diagrams of the Holy Land.
-							</decoNote><decoNote type="marginal">Numerous carmina figurata and micrographic designs in the margins.</decoNote><decoNote type="marginal"><locus>42v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>43v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>49v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>51v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>53v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>67v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>115r</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>161v</locus>8 marginal drawings.
-							</decoNote><decoNote type="marginal"><locus>15r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
-							</decoNote><decoNote type="marginal"><locus>22r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
-							</decoNote><decoNote type="marginal"><locus>79r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
-							</decoNote><decoNote type="marginal"><locus>54v</locus> Drawings next to the catchwords.
-							</decoNote><decoNote type="marginal"><locus>106v</locus> Drawings next to the catchwords.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Pentateuch, Meghilloth, and Haphtaroth with Targum and Commentary of Rashi. Hebrew. Brit. Mus. Additional 26,878.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1360" notAfter="1399"/><origPlace>France</origPlace></origin><provenance>Acquisition: Samuel Schönblum of Vienna: purchased by the British Museum from him on 24 August 1865: inscribed, [385v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Watermark, , of a circle with the letters 'BG' and a cross on top, similar to 3046-3047 (dated 1569-71, Reggio Emilia).The end of a weekly section in the Pentateuch is marked by three letters pe; the beginning is distiguished by the large ornamental characters of the first word, together with a pen and ink design, usually of a dragon (similar larger design at the beginning of the book).The commentary is often arranged in ornamental designs of different kinds. Several additional or alternative Hafṭarot  given in the margins.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square and semi-cursive script, partially punctuated, of the 14th century. Shemuʾel ben he-ḥaver rabi Ḥayim: inscribed with his name in a colophon, in Lunel? (folios 272r, 311v); the name Shemuʾel is marked (folio 209r). </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>7r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>11v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>22v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>29r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>34r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>46r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>50v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>57r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>63v,76v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>80v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>85v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>162r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>168v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>174v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>180r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>189r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>239r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>245v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>252v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>260v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>335r</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>341v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>344v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>356v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>357v</locus>26 decorated and inhabited initial-word panels/initial words with silver, gold and red letters, in colour.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>322v</locus>1 inhabited initial-word panel in ink.
+							</decoNote>
+                     <decoNote type="initial">Numerous decorated and inhabited initial words, in ink.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>205r</locus>Diagrams of the Holy Land.
+							</decoNote>
+                     <decoNote type="marginal">Numerous carmina figurata and micrographic designs in the margins.</decoNote>
+                     <decoNote type="marginal">
+                        <locus>42v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>43v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>49v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>51v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>53v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>67v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>115r</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>161v</locus>8 marginal drawings.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>15r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>22r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>79r</locus>Numerous decorative column endings of the marginal text, among them 3 small coats of arms.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>54v</locus> Drawings next to the catchwords.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>106v</locus> Drawings next to the catchwords.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Pentateuch, Meghilloth, and Haphtaroth with Targum and Commentary of Rashi. Hebrew. Brit. Mus. Additional 26,878.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1360" notAfter="1399"/>
+                     <origPlace>France</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Samuel Schönblum of Vienna: purchased by the British Museum from him on 24 August 1865: inscribed, [385v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

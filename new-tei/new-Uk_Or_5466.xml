@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5466: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,143 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the end. Lacuna after folio 137.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the end. Lacuna after folio 137.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5466</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5466</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Services for the feast of Sukot, according to the Provencal (Avignon) rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="146v">1r-146v</locus><title>Maḥzor מחזור</title></msItem><msItem n="2r"><locus from="2r" to="7r">2r-7r</locus><title>Lel Sukot</title></msItem><msItem n="7r"><locus from="7r" to="37r">7r-37r</locus><title>Tefilat shaḥarit</title></msItem><msItem n="37r"><locus from="37r" to="42r">37r-42r</locus><title>Tefilat musaf</title></msItem><msItem n="42r"><locus from="42r" to="48r">42r-48r</locus><title>Services for the second day</title></msItem><msItem n="48r"><locus from="48r" to="50r">48r-50r</locus><title>Services for the third day</title></msItem><msItem n="50r"><locus from="50r" to="52r">50r-52r</locus><title>Services for the fourth day</title></msItem><msItem n="52r"><locus from="52r" to="54r">52r-54r</locus><title>Services for the fifth day</title></msItem><msItem n="54r"><locus from="54r" to="56r">54r-56r</locus><title>Services for the sixth day</title></msItem><msItem n="56r"><locus from="56r" to="64r">56r-64r</locus><title>Shabat ḥol ha-mo῾ed</title></msItem><msItem n="64r"><locus from="64r" to="121r">64r-121r</locus><title>Hosh῾anah rabah</title></msItem><msItem n="121r"><locus from="121r" to="137v">121r-137v</locus><title>Simḥat Torah</title></msItem><msItem n="138r"><locus from="138r" to="146v">138r-146v</locus><title>Services for Yom Kipur</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>146 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5466</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5466</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Services for the feast of Sukot, according to the Provencal (Avignon) rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="146v">1r-146v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="7r">2r-7r</locus>
+                     <title>Lel Sukot</title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="37r">7r-37r</locus>
+                     <title>Tefilat shaḥarit</title>
+                  </msItem>
+                  <msItem n="37r">
+                     <locus from="37r" to="42r">37r-42r</locus>
+                     <title>Tefilat musaf</title>
+                  </msItem>
+                  <msItem n="42r">
+                     <locus from="42r" to="48r">42r-48r</locus>
+                     <title>Services for the second day</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="50r">48r-50r</locus>
+                     <title>Services for the third day</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="52r">50r-52r</locus>
+                     <title>Services for the fourth day</title>
+                  </msItem>
+                  <msItem n="52r">
+                     <locus from="52r" to="54r">52r-54r</locus>
+                     <title>Services for the fifth day</title>
+                  </msItem>
+                  <msItem n="54r">
+                     <locus from="54r" to="56r">54r-56r</locus>
+                     <title>Services for the sixth day</title>
+                  </msItem>
+                  <msItem n="56r">
+                     <locus from="56r" to="64r">56r-64r</locus>
+                     <title>Shabat ḥol ha-mo῾ed</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="121r">64r-121r</locus>
+                     <title>Hosh῾anah rabah</title>
+                  </msItem>
+                  <msItem n="121r">
+                     <locus from="121r" to="137v">121r-137v</locus>
+                     <title>Simḥat Torah</title>
+                  </msItem>
+                  <msItem n="138r">
+                     <locus from="138r" to="146v">138r-146v</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>146 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 12 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 24 28;
-                                                  written lines: 24 28; Uniform layout. Visible hard-point ruling.Catchwords on every verso.Initial words in larger characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi (Provencal) square and semi-cursive script of the 17th century.</scriptNote></scriptDesc><decoDesc><decoNote type="border"><locus>1r</locus>
-								1 pen and ink decorated frontispiece.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Services for Feast of Tabernacles. Rite of Avignon. Hebrew. Brit. Mus. Oriental 5466.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1690"/><origPlace>France, S. Avignon</origPlace></origin><provenance>Acquisition: 
-								S. Raffalovich: purchased from him by the British Museum on 13 December 1898: inscribed, folio [147v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24 28; Uniform layout. Visible hard-point ruling.Catchwords on every verso.Initial words in larger characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi (Provencal) square and semi-cursive script of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">
+                        <locus>1r</locus>
+								1 pen and ink decorated frontispiece.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Services for Feast of Tabernacles. Rite of Avignon. Hebrew. Brit. Mus. Oriental 5466.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1690"/>
+                     <origPlace>France, S. Avignon</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								S. Raffalovich: purchased from him by the British Museum on 13 December 1898: inscribed, folio [147v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

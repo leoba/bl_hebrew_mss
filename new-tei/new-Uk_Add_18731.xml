@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush ha-Torah (פרוש התורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush ha-Torah (פרוש התורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 18731: Perush ha-Torah  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,20 +39,121 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A former owner's note, folio 1v: שלי [... ].  קניתיו אלינקנטו בדמים יקרים ה' יזכני להגות בו אני וזרעי וזרע זרעי עם שאר ספרי הקדש ברוב טוב וחיים טובים וברכה ושלו' מעתה ועד עולם. Owner's name has been cut out after the word שלי. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A former owner's note, folio 1v: שלי [... ].  קניתיו אלינקנטו בדמים יקרים ה' יזכני להגות בו אני וזרעי וזרע זרעי עם שאר ספרי הקדש ברוב טוב וחיים טובים וברכה ושלו' מעתה ועד עולם. Owner's name has been cut out after the word שלי. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 18731</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18731</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The commentary of Naḥmanides (Moshe ben Nahman aka ha-Ramban) on the Pentateuch.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="191v">1r-191v</locus><title>Perush ha-Torah  פרוש התורה</title></msItem><msItem n="1r"><locus from="1r" to="55r">1r-55r</locus><title>Genesis</title></msItem><msItem n="55r"><locus from="55r" to="100v">55r-100v</locus><title>Exodus</title></msItem><msItem n="100v"><locus from="100v" to="144v">100v-144v</locus><title>Leviticus</title></msItem><msItem n="144v"><locus from="144v" to="162r">144v-162r</locus><title>Numbers</title></msItem><msItem n="162r"><locus from="162r" to="191r">162r-191r</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>191 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 18731</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18731</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The commentary of Naḥmanides (Moshe ben Nahman aka ha-Ramban) on the Pentateuch.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="191v">1r-191v</locus>
+                     <title>Perush ha-Torah  פרוש התורה</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="55r">1r-55r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="55r">
+                     <locus from="55r" to="100v">55r-100v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="100v">
+                     <locus from="100v" to="144v">100v-144v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="144v">
+                     <locus from="144v" to="162r">144v-162r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="162r">
+                     <locus from="162r" to="191r">162r-191r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>191 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									19 quires: i-xvi10 (folios 1-160), xvii12 (folios 161-172), xviii10 (folios 173-182), xix12 (folios 183-192). 
 									No catchwords.
 									Quire numbers are in the lower left corner of the first folios. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 42;
                                                   written lines: 41; Ruling is visible. Flesh and hair sides are clearly distinguishable.
-Watermark [coat of arms with fleur-de-lis, beneath: LVG] is similar to 1852 .</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian-Ashkenazi semi-cursive script, unpunctuated. The letter 'alef' is in a Sefardi style throughout. Arieh Ḥalfan ben Eli῾ezer Ḥalfan: inscribed with his name in the colophon, together with Pinḥas Yaḳar ben Yitsḥaḳ Yaḳar: dated Tamuz 5251, folio 191r.</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>2v</locus>Initial word included into a medallion decorated with foliate motifs in brown ink.
-							</decoNote><decoNote type="mixed"><locus>191r</locus>
-								Text incorporated into geometric forms.</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600. Brown leather with clasps and metalic corners, tooled in gold. Spine title: 'R. Mosis ben Nachman Commentarius in Pentateuchum. Hebraice. Mus. Brit. Jure. Empt. 18,731.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1491"/><origPlace>Italy, N. Isola</origPlace></origin><provenance>Acquisition: 
+Watermark [coat of arms with fleur-de-lis, beneath: LVG] is similar to 1852 .</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian-Ashkenazi semi-cursive script, unpunctuated. The letter 'alef' is in a Sefardi style throughout. Arieh Ḥalfan ben Eli῾ezer Ḥalfan: inscribed with his name in the colophon, together with Pinḥas Yaḳar ben Yitsḥaḳ Yaḳar: dated Tamuz 5251, folio 191r.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>2v</locus>Initial word included into a medallion decorated with foliate motifs in brown ink.
+							</decoNote>
+                     <decoNote type="mixed">
+                        <locus>191r</locus>
+								Text incorporated into geometric forms.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Brown leather with clasps and metalic corners, tooled in gold. Spine title: 'R. Mosis ben Nachman Commentarius in Pentateuchum. Hebraice. Mus. Brit. Jure. Empt. 18,731.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1491"/>
+                     <origPlace>Italy, N. Isola</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
 								Major Macdonald's collection ([192v]).
-Purchased at Lewis's sale room, 18 July 1851 (192v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Purchased at Lewis's sale room, 18 July 1851 (192v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

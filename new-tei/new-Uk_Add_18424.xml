@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 18424: Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,12 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly stained.</note><note>A formulae of a marriage contract, of a release of claim on a property and of mezuzah (folio 43v), of tefilin (folio 44r), and of a power of attorney (folio 44v). Tinmont 
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly stained.</note>
+            <note>A formulae of a marriage contract, of a release of claim on a property and of mezuzah (folio 43v), of tefilin (folio 44r), and of a power of attorney (folio 44v). Tinmont 
 								5067 [1307]: date and origin in the formulae of a marriage contract and of a power of attorney.
 								Luigi da Bologna: inscribed with his name: 'Revisto per mi fra Luigi da Bolgona del ordine de Sa' Domenico, Marzo 1599' (folio 30v); a converted Jew working for the Inquisition as censor (active at the end of the 16th-beginning of 17th century), see 104, and appendix § 112-117.
 
@@ -24,30 +52,134 @@
 
 								Renato da Modena: inscribed with his name, 1626 (folio 30v); see , appendix § 132-133.
 
-								Fra Gir. Durazzano, active in 1640-41 in Modena-Reggio: inscribed with his name, 1640 (folio 30v); see , appendix § 89.</note><note type="relatedResource">
+								Fra Gir. Durazzano, active in 1640-41 in Modena-Reggio: inscribed with his name, 1640 (folio 30v); see , appendix § 89.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 18424</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18424</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="30v">1r-30v</locus><title>Tashbets  תשב"ץ</title></msItem><msItem n="31r"><locus from="31r" to="43v">31r-43v</locus><title>Sefer ha-terumah ספר התרומה</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>44 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 18424</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18424</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Halakhical works: Tashbets by Samson ben Zadok and Sefer ha-terumah by Baruch ben Isaac.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="30v">1r-30v</locus>
+                     <title>Tashbets  תשב"ץ</title>
+                  </msItem>
+                  <msItem n="31r">
+                     <locus from="31r" to="43v">31r-43v</locus>
+                     <title>Sefer ha-terumah ספר התרומה</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>44 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									6 quires: i8 (folio 1-8), ii8 (folio 9-16), iii8 (folio 17-24), iv6 (folio 25-30), v2 (folio 31-32), vi8 (folio 33-40), vi4 (folio 41-44). 
 									Catchwords at the end of the quires.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 46;
-                                                  written lines: 45; Uniform layout. Visible plummet ruling and pricking.Initials written in larger square characters.Last line written within the ruling.Many marginal notes in semi-cursive and cursive script.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive script of the 14th century, unpunctuated. Yehudah ha-Kohen: the words Yehudah and kohen are marked numerous times in the text (e.g. folio 7r, 7v, 8r, 12r, 16v, 26v, 31r, 43r).</scriptNote></scriptDesc><decoDesc><decoNote><locus>1r</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
-							</decoNote><decoNote><locus>24r</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
-							</decoNote><decoNote><locus>24v</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
-							</decoNote><decoNote type="marginal">Decorated paragraph numbers in red.
-							</decoNote><decoNote type="marginal">Foliate motifs running vertically at the right sides of the text columns.
-							</decoNote><decoNote type="initial"><locus>31r</locus>2 initial words decorated with frames inhabited by hybrids in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>32v</locus>2 initial words decorated with frames inhabited by hybrids in dark brown and red ink.
-							</decoNote><decoNote type="marginal">
-								Foliate motifs running vertically at the right sides of the text columns.</decoNote><decoNote type="initial"><locus>36r</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>36v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>37v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>38v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>39v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>41r</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote><decoNote type="initial"><locus>42v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM in-house. Spine title: ''Works on Halakhah. Hebrew. Brit. Mus. Additional 18,424.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1307"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: 
-								D. Ludwig Kalisch: purchased by the British Museum from him on 10 December 1850: inscribed ([45v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 45; Uniform layout. Visible plummet ruling and pricking.Initials written in larger square characters.Last line written within the ruling.Many marginal notes in semi-cursive and cursive script.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive script of the 14th century, unpunctuated. Yehudah ha-Kohen: the words Yehudah and kohen are marked numerous times in the text (e.g. folio 7r, 7v, 8r, 12r, 16v, 26v, 31r, 43r).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>
+                        <locus>1r</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
+							</decoNote>
+                     <decoNote>
+                        <locus>24r</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
+							</decoNote>
+                     <decoNote>
+                        <locus>24v</locus>3 initial words decorated with frames inhabited by hybrids in dark brown ink and red.  
+							</decoNote>
+                     <decoNote type="marginal">Decorated paragraph numbers in red.
+							</decoNote>
+                     <decoNote type="marginal">Foliate motifs running vertically at the right sides of the text columns.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>31r</locus>2 initial words decorated with frames inhabited by hybrids in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>32v</locus>2 initial words decorated with frames inhabited by hybrids in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="marginal">
+								Foliate motifs running vertically at the right sides of the text columns.</decoNote>
+                     <decoNote type="initial">
+                        <locus>36r</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>36v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>37v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>38v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>39v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>41r</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>42v</locus>7 initial words decorated with bands filled with foliate motifs in dark brown and red ink.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: ''Works on Halakhah. Hebrew. Brit. Mus. Additional 18,424.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1307"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								D. Ludwig Kalisch: purchased by the British Museum from him on 10 December 1850: inscribed ([45v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

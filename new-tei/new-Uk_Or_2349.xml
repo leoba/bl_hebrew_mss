@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah(תורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah(תורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2349: Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,122 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
-								David ben Avihesed ben Benyamin ben Yosef at-Tawili, his name inscribed in the colophon, folio 144r. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+								David ben Avihesed ben Benyamin ben Yosef at-Tawili, his name inscribed in the colophon, folio 144r. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2349</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2349</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentatuech, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan and a treatise on Hebrew letters in Judeo-Arabic are prefixed.</summary><textLang mainLang="he" otherLangs="jrb"/><msItem n="1r"><locus from="1r" to="143v">1r-143v</locus><title>Torah תורה</title></msItem><msItem n="2v"><locus from="2v" to="23r">2v-23r</locus><title>Maḥberet ha-tigan</title></msItem><msItem n="23r"><locus from="23r" to="29v">23r-29v</locus><title>A treatise on Hebrew letters</title></msItem><msItem n="29v"><locus from="29v" to="58r">29v-58r</locus><title>Genesis</title></msItem><msItem n="58r"><locus from="58r" to="82v">58r-82v</locus><title>Exodus</title></msItem><msItem n="82v"><locus from="82v" to="99v">82v-99v</locus><title>Leviticus</title></msItem><msItem n="99v"><locus from="99v" to="123r">99v-123r</locus><title>Numbers</title></msItem><msItem n="123r"><locus from="123r" to="145v">123r-145v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>145 folios 
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2349</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2349</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentatuech, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan and a treatise on Hebrew letters in Judeo-Arabic are prefixed.</summary>
+                  <textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="143v">1r-143v</locus>
+                     <title>Torah תורה</title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="23r">2v-23r</locus>
+                     <title>Maḥberet ha-tigan</title>
+                  </msItem>
+                  <msItem n="23r">
+                     <locus from="23r" to="29v">23r-29v</locus>
+                     <title>A treatise on Hebrew letters</title>
+                  </msItem>
+                  <msItem n="29v">
+                     <locus from="29v" to="58r">29v-58r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="58r">
+                     <locus from="58r" to="82v">58r-82v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="82v">
+                     <locus from="82v" to="99v">82v-99v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="99v">
+                     <locus from="99v" to="123r">99v-123r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="123r">
+                     <locus from="123r" to="145v">123r-145v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>145 folios 
+								</extent>
+                        <collation>
+                           <p>
 									14 quires: i12 (folios 1-12), ii10 (folios 13-22), iii6 (folios 23-28), iv-xiii10 (folios 29-137), xiv8 (folios 138-145).  
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 25;
-                                                  written lines: 25; Four blank lines are found between any two books. The beginning of each pericope is marked in the margin by a large ornamental letter samekh. Each pericope is divided into 7 subsections, numbered in Hebrew letters in the margin. The masorah magna occupies 3 to 5 lines in the upper and 3 to 6 lines in the lower margin. Numerous masoretic rubrics at the end of each book of the Torah, as well as at the end of the whole Pentateuch. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square script, punctuate, of the 15th century. David ben Benayah ben Sa'adyah ben Zekhariah, inscribed with his name in the colophon on folio 144r.</scriptNote></scriptDesc><decoDesc><decoNote>Carpet pages of micrographic masorah</decoNote><decoNote type="paratext">
-								Carpet pages of micrographic masorah.</decoNote><decoNote type="paratext">
-								Carpet pages of micrographic masorah</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600 binding. An original leather box binding with decorative brass bosses and corners. </p></binding></bindingDesc></physDesc><history><origin><origDate when="1490"/><origPlace>Yemen</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25; Four blank lines are found between any two books. The beginning of each pericope is marked in the margin by a large ornamental letter samekh. Each pericope is divided into 7 subsections, numbered in Hebrew letters in the margin. The masorah magna occupies 3 to 5 lines in the upper and 3 to 6 lines in the lower margin. Numerous masoretic rubrics at the end of each book of the Torah, as well as at the end of the whole Pentateuch. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square script, punctuate, of the 15th century. David ben Benayah ben Sa'adyah ben Zekhariah, inscribed with his name in the colophon on folio 144r.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Carpet pages of micrographic masorah</decoNote>
+                     <decoNote type="paratext">
+								Carpet pages of micrographic masorah.</decoNote>
+                     <decoNote type="paratext">
+								Carpet pages of micrographic masorah</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600 binding. An original leather box binding with decorative brass bosses and corners. </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1490"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

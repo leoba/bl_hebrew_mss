@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 25879: A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,95 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Most of the margins are water-damaged.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Most of the margins are water-damaged.</note>
+            <note>
 								Shemu᾿el: inscribed with his name, folio 5r, left-hand upper margin.
 								Yom Ṭov ha-Kohen: inscribed in a note, folio 124v.
-								William Cureton: inscribed; folio 125v.</note><note type="relatedResource">
+								William Cureton: inscribed; folio 125v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 25879</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_25879</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="121r">1r-121r</locus><title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title></msItem><msItem n="121v"><locus from="121v" to="123v">121v-123v</locus><title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>125 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 25879</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_25879</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A commentary on Aristotle's Physics by Averroës (Muḥammad Ibn Rushd), in the Hebrew translation of Qalonymos ben Qalonymos ben Meʼir.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="121r">1r-121r</locus>
+                     <title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+                  </msItem>
+                  <msItem n="121v">
+                     <locus from="121v" to="123v">121v-123v</locus>
+                     <title>Be᾿ur emtsa῾i ῾al Sefer ha-shema῾ ha-tiv῾i shel Aristo באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>125 folios
+								</extent>
+                        <collation>
+                           <p>
 									Originally quires of 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 24;
-                                                  written lines: 24; Uniform layout. Visible horizontal ruling with pencil.Initial words of each section written in larger characters.Catchwords on every verso.Omissions and additions given in the outer margins.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script of the 15th century. Yosef Nietto: inscribed with his name in the colophon, with a date of 5241 (1481), folio 121r.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Averrois. Comment. in Aristotelis. Libros de Phys. Auscule. Hebraice. Brit. Mus. Iure Emptiones 25,879.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1481"/><origPlace>Africa, N.</origPlace></origin><provenance>Acquisition: Purchased from the executors of Rev. Dr William Cureton, (b. 1808, d. 1864), an English orientalist: inscribed, folio [126v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24; Uniform layout. Visible horizontal ruling with pencil.Initial words of each section written in larger characters.Catchwords on every verso.Omissions and additions given in the outer margins.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script of the 15th century. Yosef Nietto: inscribed with his name in the colophon, with a date of 5241 (1481), folio 121r.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Averrois. Comment. in Aristotelis. Libros de Phys. Auscule. Hebraice. Brit. Mus. Iure Emptiones 25,879.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1481"/>
+                     <origPlace>Africa, N.</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Purchased from the executors of Rev. Dr William Cureton, (b. 1808, d. 1864), an English orientalist: inscribed, folio [126v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

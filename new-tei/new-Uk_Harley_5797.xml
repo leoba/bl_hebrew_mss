@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Commentaries(פרושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Commentaries(פרושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5797: Commentaries are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,101 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A contract of sale between the scribe and Eliyahu ben Mosheh, with a date of 26 January 209 (1449), signed by two witnesses, Shemu᾿el ben Mosheh and Shemu᾿el ben Avigdor, folio 1r.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A contract of sale between the scribe and Eliyahu ben Mosheh, with a date of 26 January 209 (1449), signed by two witnesses, Shemu᾿el ben Mosheh and Shemu᾿el ben Avigdor, folio 1r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5797</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5797</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Three commentaries on the biblical books.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="131v">1r-131v</locus><title>Commentaries פרושים</title></msItem><msItem n="1r"><locus from="1r" to="72v">1r-72v</locus><title>Commentary on the book of Job </title></msItem><msItem n="73r"><locus from="73r" to="126v">73r-126v</locus><title>The commentary on the Song of Songs</title></msItem><msItem n="126v"><locus from="126v" to="131v">126v-131v</locus><title>Commentary on the Song of Songs</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>131 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5797</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5797</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Three commentaries on the biblical books.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="131v">1r-131v</locus>
+                     <title>Commentaries פרושים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="72v">1r-72v</locus>
+                     <title>Commentary on the book of Job </title>
+                  </msItem>
+                  <msItem n="73r">
+                     <locus from="73r" to="126v">73r-126v</locus>
+                     <title>The commentary on the Song of Songs</title>
+                  </msItem>
+                  <msItem n="126v">
+                     <locus from="126v" to="131v">126v-131v</locus>
+                     <title>Commentary on the Song of Songs</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>131 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 10 leaves each, numbered with Hebrew letters on the last page and marked by a catchword.
 									Has Hebrew letters on the right-hand upper corner on the first page in the first part of the manuscript.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 33;
-                                                  written lines: 33; The first part of the manuscrpit has only one column with varying number of lines to a page.Discernible difference between flesh and hair side of the folios.Visible pricking and ruling with a hard-point.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square and semi-cursive script, partially punctuated. Menaḥem ben Yosef Yitsḥaḳ: inscribed in the colophons with a date of 1412 and 1415, folio 72v, 126v.</scriptNote></scriptDesc><bindingDesc><binding><p>  Post-1600, Harleian binding of gold-tooled red leather.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1412" notAfter="1415"/><origPlace>Italy, C. Aquila</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, ‘13 die Julij, 1723’ (13 July 1723), folio 1r. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 33; The first part of the manuscrpit has only one column with varying number of lines to a page.Discernible difference between flesh and hair side of the folios.Visible pricking and ruling with a hard-point.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square and semi-cursive script, partially punctuated. Menaḥem ben Yosef Yitsḥaḳ: inscribed in the colophons with a date of 1412 and 1415, folio 72v, 126v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  Post-1600, Harleian binding of gold-tooled red leather.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1412" notAfter="1415"/>
+                     <origPlace>Italy, C. Aquila</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, ‘13 die Julij, 1723’ (13 July 1723), folio 1r. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

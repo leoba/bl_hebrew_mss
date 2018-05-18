@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Shaʿar ha-shamayim(שער השמים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Shaʿar ha-shamayim(שער השמים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1102: Shaʿar ha-shamayim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,128 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>All leaves slightly damaged.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>All leaves slightly damaged.</note>
+            <note>
 								Caleb Afendopolo: inscribed with his name with a date of (5)260 (1495), folio 101r.
-								Nissim ibn Shinkeh (?): inscribed in a note, folio 2r.</note><note type="relatedResource">
+								Nissim ibn Shinkeh (?): inscribed in a note, folio 2r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1102</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1102</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Shaʿar ha-shamayim of Isaac ben Abraham ibn Latif, consisting of 4 parts.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="102v">1r-102v</locus><title>Shaʿar ha-shamayim שער השמים</title></msItem><msItem n="1r"><locus n="1r">1r</locus><title>A note</title></msItem><msItem n="2r"><locus n="2r">2r</locus><title>Preface</title></msItem><msItem n="2r"><locus from="2r" to="6v">2r-6v</locus><title>Table of contents</title></msItem><msItem n="7r"><locus from="7r" to="15r">7r-15r</locus><title>Introduction</title></msItem><msItem n="15r"><locus from="15r" to="56v">15r-56v</locus><title>Gate one</title></msItem><msItem n="56v"><locus from="56v" to="78r">56v-78r</locus><title>Gate two</title></msItem><msItem n="78r"><locus from="78r" to="90r">78r-90r</locus><title>Gate three</title></msItem><msItem n="90r"><locus from="90r" to="101r">90r-101r</locus><title>Gate four</title></msItem><msItem n="101v"><locus from="101v" to="102v">101v-102v</locus><title>A note</title></msItem><msItem n="102v"><locus n="102v">102v</locus><title>A note</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>102 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1102</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1102</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Shaʿar ha-shamayim of Isaac ben Abraham ibn Latif, consisting of 4 parts.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="102v">1r-102v</locus>
+                     <title>Shaʿar ha-shamayim שער השמים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus n="1r">1r</locus>
+                     <title>A note</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus n="2r">2r</locus>
+                     <title>Preface</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="6v">2r-6v</locus>
+                     <title>Table of contents</title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="15r">7r-15r</locus>
+                     <title>Introduction</title>
+                  </msItem>
+                  <msItem n="15r">
+                     <locus from="15r" to="56v">15r-56v</locus>
+                     <title>Gate one</title>
+                  </msItem>
+                  <msItem n="56v">
+                     <locus from="56v" to="78r">56v-78r</locus>
+                     <title>Gate two</title>
+                  </msItem>
+                  <msItem n="78r">
+                     <locus from="78r" to="90r">78r-90r</locus>
+                     <title>Gate three</title>
+                  </msItem>
+                  <msItem n="90r">
+                     <locus from="90r" to="101r">90r-101r</locus>
+                     <title>Gate four</title>
+                  </msItem>
+                  <msItem n="101v">
+                     <locus from="101v" to="102v">101v-102v</locus>
+                     <title>A note</title>
+                  </msItem>
+                  <msItem n="102v">
+                     <locus n="102v">102v</locus>
+                     <title>A note</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>102 folios
+								</extent>
+                        <collation>
+                           <p>
 									Originally quires of 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 27;
-                                                  written lines: 27; Uniform layout. Numbering of the chapters in larger characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script of 14th to 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house, dark blue. Spine title: 'Isaac ibn Latif. Sha'ar Hash-Shamayim. Hebrew. Brit. Mus. Oriental Ms. 1102.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1499"/></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 27; Uniform layout. Numbering of the chapters in larger characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script of 14th to 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house, dark blue. Spine title: 'Isaac ibn Latif. Sha'ar Hash-Shamayim. Hebrew. Brit. Mus. Oriental Ms. 1102.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1499"/>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>
