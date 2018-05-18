@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah(תורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah(תורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1041: Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,113 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Shelomoh ben Yosef ben Ṣalaḥ, his inscription on folio 49r.
 								G'aramah ibn Sa'alam, his inscription on folio 118v.
 								Yosef ben Shelomoh Ṣalaḥowner, his name inscribed on 187r.
 								Saliman ibn Yaḥyah, his name inscribed on 188v.
-								Abraham ibn Yosef al-Aḥmar and Da'ud ibn Yosef al-Aḥmar, mentioned as owners in a record of sale, 18 Nisan 1920 (1609), folio 89r.</note><note type="relatedResource">
+								Abraham ibn Yosef al-Aḥmar and Da'ud ibn Yosef al-Aḥmar, mentioned as owners in a record of sale, 18 Nisan 1920 (1609), folio 89r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1041</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1041</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch in Sa'adia Gaon's translation.</summary><textLang mainLang="jrb-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="188v">1r-188v</locus><title>Torah תורה</title></msItem><msItem n="1v"><locus from="1v" to="49r">1v-49r</locus><title>Genesis</title></msItem><msItem n="49r"><locus from="49r" to="89r">49r-89r</locus><title>Exodus</title></msItem><msItem n="89r"><locus from="89r" to="117r">89r-117r</locus><title>Leviticus</title></msItem><msItem n="117r"><locus from="117r" to="153r">117r-153r</locus><title>Numbers</title></msItem><msItem n="153r"><locus from="153r" to="188v">153r-188v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>188 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1041</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1041</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch in Sa'adia Gaon's translation.</summary>
+                  <textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="188v">1r-188v</locus>
+                     <title>Torah תורה</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="49r">1v-49r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="49r">
+                     <locus from="49r" to="89r">49r-89r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="89r">
+                     <locus from="89r" to="117r">89r-117r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="117r">
+                     <locus from="117r" to="153r">117r-153r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="153r">
+                     <locus from="153r" to="188v">153r-188v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>188 folios
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 10 leaves each, numbered with Hebrew letters both at the beginning and at the end of the quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 22;
-                                                  written lines: 22; Uniform layout.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square script of the 14th to 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1499"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Adolf Neubauer (b. 1832, d. 1907), Hebrew scholar born in Hungary: purchased by the British Museum from him on 06 October 1870: inscribed ([189v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22; Uniform layout.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square script of the 14th to 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1499"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Adolf Neubauer (b. 1832, d. 1907), Hebrew scholar born in Hungary: purchased by the British Museum from him on 06 October 1870: inscribed ([189v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

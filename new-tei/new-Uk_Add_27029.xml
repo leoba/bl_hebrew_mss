@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sidur(סדור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sidur(סדור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27029: Sidur are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,11 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Daniyel ben Yitsḥaḳ of Ventura: inscribed with his name in the colophon, Bologna, [5]261 [1501] (folio 140r); the word Daniel is decorated (folio 72v).
 
 								Avraham Farissol: inscribed with his name in the colophon, [5]262 [1502] (folio 182v).
@@ -25,25 +52,154 @@
 
 								Riḳah, the sister of Daniyel ben Yitsḥaḳ of Ventura, wife of Eli῾ezer of Rovigo, first owner: inscribed with her name in the colophon, Bologna, [5]261 [1501] (folio 140r).
 
-								Dominico Irosolimitano (fl. 1585-1624): inscribed with his name (folio 182v); see 62-74.</note><note type="relatedResource">
+								Dominico Irosolimitano (fl. 1585-1624): inscribed with his name (folio 182v); see 62-74.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27029</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27029</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A daily prayer book, according to the Italian rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="182v">1r-182v</locus><title>Sidur סדור</title></msItem><msItem n="1r"><locus from="1r" to="35r">1r-35r</locus><title>Services for week-days</title></msItem><msItem n="35r"><locus from="35r" to="64v">35r-64v</locus><title>Services for Shabat</title></msItem><msItem n="64v"><locus from="64v" to="73v">64v-73v</locus><title>Special portions for Rosh ḥodesh, Purim etc.</title></msItem><msItem n="73v"><locus from="73v" to="83v">73v-83v</locus><title>Services for Pesaḥ</title></msItem><msItem n="83v"><locus from="83v" to="86v">83v-86v</locus><title>Services for Shavu῾ot</title></msItem><msItem n="86v"><locus from="86v" to="102v">86v-102v</locus><title>Services for Rosh ha-shanah</title></msItem><msItem n="102v"><locus from="102v" to="122r">102v-122r</locus><title>Services for Yom Kipur</title></msItem><msItem n="122r"><locus from="122r" to="145v">122r-145v</locus><title>Services for Sukot</title></msItem><msItem n="145v"><locus from="145v" to="182v">145v-182v</locus><title>A collection of poetical pieces</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>182 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27029</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27029</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A daily prayer book, according to the Italian rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="182v">1r-182v</locus>
+                     <title>Sidur סדור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="35r">1r-35r</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="35r">
+                     <locus from="35r" to="64v">35r-64v</locus>
+                     <title>Services for Shabat</title>
+                  </msItem>
+                  <msItem n="64v">
+                     <locus from="64v" to="73v">64v-73v</locus>
+                     <title>Special portions for Rosh ḥodesh, Purim etc.</title>
+                  </msItem>
+                  <msItem n="73v">
+                     <locus from="73v" to="83v">73v-83v</locus>
+                     <title>Services for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="83v">
+                     <locus from="83v" to="86v">83v-86v</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="86v">
+                     <locus from="86v" to="102v">86v-102v</locus>
+                     <title>Services for Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="102v">
+                     <locus from="102v" to="122r">102v-122r</locus>
+                     <title>Services for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="122r">
+                     <locus from="122r" to="145v">122r-145v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="145v">
+                     <locus from="145v" to="182v">145v-182v</locus>
+                     <title>A collection of poetical pieces</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>182 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									18 quires: i-xii10 (folios 1-120), xiii8 (folios 121-128), xiv10 (folios 129-138), xv12 (folios 139-150), xvi-xvii10 (folios 151-170), xviii14-2 (folios 171-182). 
 									Catchwords at the end of the quires.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 16;
-                                                  written lines: 16; Uniform layout.Visible plummet ruling.Initial words written in larger characters.Hair side and flesh side are indistinguishable.Gilt edges. Erasures by censors (e. g. folios 10r, 24v, 25r, 31r, 94r, 135v).</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive, Ashkenazi and Provencal square script, punctuated. Daniyel ben Yitsḥaḳ of Ventura (folios 1-143) and Avraham Farissol (folios 144-182).</scriptNote></scriptDesc><decoDesc><decoNote type="border"><locus>1r</locus>
-								1 decorated initial-word panel and full border, in colours and gold. </decoNote><decoNote type="initial"><locus>14v</locus>1 decorated initial-word panel in gold. 
-							</decoNote><decoNote type="initial"><locus>5v</locus>1 initial word in gold. 
-							</decoNote><decoNote type="initial"><locus>73v</locus>Decorated initial words in ink. 
-							</decoNote><decoNote type="initial"><locus>86v</locus>Decorated initial words in ink. 
-							</decoNote><decoNote type="initial"><locus>136v</locus>Decorated initial words in ink. 
-							</decoNote><decoNote type="marginal"><locus>9v</locus>Floral decoration around the text, in ink.
-							</decoNote><decoNote type="marginal"><locus>51r</locus>Floral decoration around the text, in ink.
-							</decoNote><decoNote type="marginal"><locus>86v</locus>Floral decoration around the text, in ink.
-							</decoNote><decoNote type="marginal"><locus>141v</locus>Floral decoration around the text, in ink.
-							</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Ivory leather. Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 27,029.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1501"/><origPlace>Italy, C. Bologna Ferrara</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 135 (inscribed, folio [185v]); 322 Hebrew manuscripts were acquired from his library by the British Museum in 1865 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [183v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 16; Uniform layout.Visible plummet ruling.Initial words written in larger characters.Hair side and flesh side are indistinguishable.Gilt edges. Erasures by censors (e. g. folios 10r, 24v, 25r, 31r, 94r, 135v).</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive, Ashkenazi and Provencal square script, punctuated. Daniyel ben Yitsḥaḳ of Ventura (folios 1-143) and Avraham Farissol (folios 144-182).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">
+                        <locus>1r</locus>
+								1 decorated initial-word panel and full border, in colours and gold. </decoNote>
+                     <decoNote type="initial">
+                        <locus>14v</locus>1 decorated initial-word panel in gold. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>5v</locus>1 initial word in gold. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>73v</locus>Decorated initial words in ink. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>86v</locus>Decorated initial words in ink. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>136v</locus>Decorated initial words in ink. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>9v</locus>Floral decoration around the text, in ink.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>51r</locus>Floral decoration around the text, in ink.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>86v</locus>Floral decoration around the text, in ink.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>141v</locus>Floral decoration around the text, in ink.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Ivory leather. Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 27,029.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1501"/>
+                     <origPlace>Italy, C. Bologna Ferrara</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: his manuscript no. 135 (inscribed, folio [185v]); 322 Hebrew manuscripts were acquired from his library by the British Museum in 1865 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [183v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Pisḳe ha-Rosh (פסקי הרא"ש)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Pisḳe ha-Rosh (פסקי הרא"ש)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27293: Pisḳe ha-Rosh  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,133 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27293</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27293</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Halakhic decisions of Asher ben Jeḥiel, aka Rosh, followed by the same author's commentary on the mishnah on sheḳalim. </summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="2r"><locus from="2r" to="265v">2r-265v</locus><title>Pisḳe ha-Rosh  פסקי הרא"ש </title></msItem><msItem n="2r"><locus from="2r" to="63v">2r-63v</locus><title>Pisḳe shabat</title></msItem><msItem n="63v"><locus from="63v" to="105r">63v-105r</locus><title>Masekhet ʿeruvin</title></msItem><msItem n="105r"><locus from="105r" to="135v">105r-135v</locus><title>Masekhet Pesaḥim</title></msItem><msItem n="136r"><locus from="136r" to="153r">136r-153r</locus><title>Betsah</title></msItem><msItem n="153r"><locus from="153r" to="184v">153r-184v</locus><title>Mo῾ed ḳaṭan</title></msItem><msItem n="184v"><locus from="184v" to="194r">184v-194r</locus><title>Taʿanit </title></msItem><msItem n="194r"><locus from="194r" to="207r">194r-207r</locus><title>Megilah</title></msItem><msItem n="207r"><locus from="207r" to="219r">207r-219r</locus><title>Rosh ha-shanah</title></msItem><msItem n="219r"><locus from="219r" to="231r">219r-231r</locus><title>Yoma</title></msItem><msItem n="231r"><locus from="231r" to="252r">231r-252r</locus><title>Sukah</title></msItem><msItem n="255r"><locus from="255r" to="265v">255r-265v</locus><title>Commentary on the Mishnah Sheḳalim</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>265 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27293</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27293</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Halakhic decisions of Asher ben Jeḥiel, aka Rosh, followed by the same author's commentary on the mishnah on sheḳalim. </summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Jewish Babylonian Aramaic (ca. 200-1200 CE)</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="265v">2r-265v</locus>
+                     <title>Pisḳe ha-Rosh  פסקי הרא"ש </title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="63v">2r-63v</locus>
+                     <title>Pisḳe shabat</title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="105r">63v-105r</locus>
+                     <title>Masekhet ʿeruvin</title>
+                  </msItem>
+                  <msItem n="105r">
+                     <locus from="105r" to="135v">105r-135v</locus>
+                     <title>Masekhet Pesaḥim</title>
+                  </msItem>
+                  <msItem n="136r">
+                     <locus from="136r" to="153r">136r-153r</locus>
+                     <title>Betsah</title>
+                  </msItem>
+                  <msItem n="153r">
+                     <locus from="153r" to="184v">153r-184v</locus>
+                     <title>Mo῾ed ḳaṭan</title>
+                  </msItem>
+                  <msItem n="184v">
+                     <locus from="184v" to="194r">184v-194r</locus>
+                     <title>Taʿanit </title>
+                  </msItem>
+                  <msItem n="194r">
+                     <locus from="194r" to="207r">194r-207r</locus>
+                     <title>Megilah</title>
+                  </msItem>
+                  <msItem n="207r">
+                     <locus from="207r" to="219r">207r-219r</locus>
+                     <title>Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="219r">
+                     <locus from="219r" to="231r">219r-231r</locus>
+                     <title>Yoma</title>
+                  </msItem>
+                  <msItem n="231r">
+                     <locus from="231r" to="252r">231r-252r</locus>
+                     <title>Sukah</title>
+                  </msItem>
+                  <msItem n="255r">
+                     <locus from="255r" to="265v">255r-265v</locus>
+                     <title>Commentary on the Mishnah Sheḳalim</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>265 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Indeterminable.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 36;
                                                   written lines: 36; Folios 2-252 have two columns to a page. Folios 253-254 are blank. Folios 255-265 are undivided. Ruling by hard point,
-leaf by leaf on verso. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script, unpunctuated, of 14th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Pisḳe ha-Rosh seu Asheri ben Jechiel. Decisiones in Ordin. Talmud. Moed. Hebrew. Brit. Mus. Additional 27,293.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1325"/><origPlace>Spain  Toledo</origPlace></origin><provenance>Acquisition: Samuel Schönblum of Vienna: purchased by the British Museum from him on 16 April 1866: inscribed, folio [266v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+leaf by leaf on verso. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script, unpunctuated, of 14th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Pisḳe ha-Rosh seu Asheri ben Jechiel. Decisiones in Ordin. Talmud. Moed. Hebrew. Brit. Mus. Additional 27,293.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1325"/>
+                     <origPlace>Spain  Toledo</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Samuel Schönblum of Vienna: purchased by the British Museum from him on 16 April 1866: inscribed, folio [266v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

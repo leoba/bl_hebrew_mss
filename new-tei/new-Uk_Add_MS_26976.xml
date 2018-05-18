@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of halakhic and kabbalistic writings. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of halakhic and kabbalistic writings. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26976: A collection of halakhic and kabbalistic writings.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slight damp entry at lower corner.   Paper occasionally foxed.   Lots of usage stains and finger grease. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slight damp entry at lower corner.   Paper occasionally foxed.   Lots of usage stains and finger grease. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,72 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26976</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26976</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of halakhic and kabbalistic writings. </summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="8v">2r-8v</locus><title>Perush ha-Mishnah  פרוש המשנה </title></msItem><msItem n="9r"><locus from="9r" to="18v">9r-18v</locus><title>Igeret teḥiyat ha-metim  אגרת תחית המתים</title></msItem><msItem n="19r"><locus from="19r" to="20v">19r-20v</locus><title>Perush ha-milot ha-zarot shebe-Moreh nevukhim  פרוש המלות הזרות שבמורה נבוכים</title></msItem><msItem n="21r"><locus from="21r" to="31r">21r-31r</locus><title>Kitab alrasaʼil כתאב אלרסאיל</title></msItem><msItem n="32r"><locus from="32r" to="151v">32r-151v</locus><title>Sefer ha-emunot  ספר האמונות</title></msItem><msItem n="152r"><locus from="152r" to="157r">152r-157r</locus><title>Sefer ha-shem  ספר השם</title></msItem><msItem n="157r"><locus from="157r" to="158v">157r-158v</locus><title>Meʼirat ʻenayim  מאירת עינים</title></msItem><msItem n="159r"><locus from="159r" to="168r">159r-168r</locus><title>Ma῾azene ha-᾿iyun  מאזני העיון </title></msItem><msItem n="169v"><locus from="169v" to="172r">169v-172r</locus><title>Kavod Elohim  כבוד אלהים</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>172 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26976</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26976</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of halakhic and kabbalistic writings. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="8v">2r-8v</locus>
+                     <title>Perush ha-Mishnah  פרוש המשנה </title>
+                  </msItem>
+                  <msItem n="9r">
+                     <locus from="9r" to="18v">9r-18v</locus>
+                     <title>Igeret teḥiyat ha-metim  אגרת תחית המתים</title>
+                  </msItem>
+                  <msItem n="19r">
+                     <locus from="19r" to="20v">19r-20v</locus>
+                     <title>Perush ha-milot ha-zarot shebe-Moreh nevukhim  פרוש המלות הזרות שבמורה נבוכים</title>
+                  </msItem>
+                  <msItem n="21r">
+                     <locus from="21r" to="31r">21r-31r</locus>
+                     <title>Kitab alrasaʼil כתאב אלרסאיל</title>
+                  </msItem>
+                  <msItem n="32r">
+                     <locus from="32r" to="151v">32r-151v</locus>
+                     <title>Sefer ha-emunot  ספר האמונות</title>
+                  </msItem>
+                  <msItem n="152r">
+                     <locus from="152r" to="157r">152r-157r</locus>
+                     <title>Sefer ha-shem  ספר השם</title>
+                  </msItem>
+                  <msItem n="157r">
+                     <locus from="157r" to="158v">157r-158v</locus>
+                     <title>Meʼirat ʻenayim  מאירת עינים</title>
+                  </msItem>
+                  <msItem n="159r">
+                     <locus from="159r" to="168r">159r-168r</locus>
+                     <title>Ma῾azene ha-᾿iyun  מאזני העיון </title>
+                  </msItem>
+                  <msItem n="169v">
+                     <locus from="169v" to="172r">169v-172r</locus>
+                     <title>Kavod Elohim  כבוד אלהים</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>172 folios
                            
                            
                            
@@ -33,7 +126,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +136,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 29;
-                                                  written lines: 3291; Uniform layout. Square initial words. Catchwords on every verso. Censor's erasures, e.g. between folios 9r-18v. Marginal notes. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the 16th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Works of Maimonides. Etc. Hebrew. Brit. Mus. Additional 26976.' </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/></origin><provenance>Acquisition: 
+                                                  written lines: 3291; Uniform layout. Square initial words. Catchwords on every verso. Censor's erasures, e.g. between folios 9r-18v. Marginal notes. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the 16th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Works of Maimonides. Etc. Hebrew. Brit. Mus. Additional 26976.' </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi, (b. 1801, d. 1860), bibliophile his manuscript no. 87; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000: inscribed, folio [174v].  </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi, (b. 1801, d. 1860), bibliophile his manuscript no. 87; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000: inscribed, folio [174v].  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

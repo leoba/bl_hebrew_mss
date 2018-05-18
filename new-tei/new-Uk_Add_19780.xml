@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19780: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,131 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Foxed paper.</note><note>
-								Yosef Neḳaṿah (?): inscribed, folios 56r, 188r.An anonymous entry, dated 8 Adar 5680 (1708): inscribed, folio 188r.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Foxed paper.</note>
+            <note>
+								Yosef Neḳaṿah (?): inscribed, folios 56r, 188r.An anonymous entry, dated 8 Adar 5680 (1708): inscribed, folio 188r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19780</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19780</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book, according to the rite of Algiers.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="189v">1r-189v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="17v">1r-17v</locus><title>Services for the week of the 4th of Marḥeshvan</title></msItem><msItem n="17v"><locus from="17v" to="23v">17v-23v</locus><title>Seder parashat Sheḳalim</title></msItem><msItem n="23v"><locus from="23v" to="33r">23v-33r</locus><title>Seder parashat Zekhor</title></msItem><msItem n="33r"><locus from="33r" to="35v">33r-35v</locus><title>Tiḳun yom Purim</title></msItem><msItem n="35v"><locus from="35v" to="40v">35v-40v</locus><title>Seder parashat Parah</title></msItem><msItem n="40v"><locus from="40v" to="46r">40v-46r</locus><title>Seder parashat ha-ḥodesh</title></msItem><msItem n="46r"><locus from="46r" to="49v">46r-49v</locus><title>Azharot</title></msItem><msItem n="49v"><locus from="49v" to="94r">49v-94r</locus><title>Seder ha-Pesaḥ</title></msItem><msItem n="94r"><locus from="94r" to="128r">94r-128r</locus><title>Seder ḥag Shavu῾ot</title></msItem><msItem n="128r"><locus from="128r" to="188v">128r-188v</locus><title>Seder ḥag Sukot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>189 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19780</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19780</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book, according to the rite of Algiers.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="189v">1r-189v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="17v">1r-17v</locus>
+                     <title>Services for the week of the 4th of Marḥeshvan</title>
+                  </msItem>
+                  <msItem n="17v">
+                     <locus from="17v" to="23v">17v-23v</locus>
+                     <title>Seder parashat Sheḳalim</title>
+                  </msItem>
+                  <msItem n="23v">
+                     <locus from="23v" to="33r">23v-33r</locus>
+                     <title>Seder parashat Zekhor</title>
+                  </msItem>
+                  <msItem n="33r">
+                     <locus from="33r" to="35v">33r-35v</locus>
+                     <title>Tiḳun yom Purim</title>
+                  </msItem>
+                  <msItem n="35v">
+                     <locus from="35v" to="40v">35v-40v</locus>
+                     <title>Seder parashat Parah</title>
+                  </msItem>
+                  <msItem n="40v">
+                     <locus from="40v" to="46r">40v-46r</locus>
+                     <title>Seder parashat ha-ḥodesh</title>
+                  </msItem>
+                  <msItem n="46r">
+                     <locus from="46r" to="49v">46r-49v</locus>
+                     <title>Azharot</title>
+                  </msItem>
+                  <msItem n="49v">
+                     <locus from="49v" to="94r">49v-94r</locus>
+                     <title>Seder ha-Pesaḥ</title>
+                  </msItem>
+                  <msItem n="94r">
+                     <locus from="94r" to="128r">94r-128r</locus>
+                     <title>Seder ḥag Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="128r">
+                     <locus from="128r" to="188v">128r-188v</locus>
+                     <title>Seder ḥag Sukot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>189 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 4;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 4;
                                                   ruled lines: 22;
-                                                  written lines: 22; Uniform layout. Initial words written in larger characters.Leaf catchwords on every verso.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi (North African) semi-cursive script, of the 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown leather, blind tooled. Boxed. Spine: 'Machazor. Secundum Ritum Algerensum. Hebraice. Mus. Brit. Jure Emptionis. 19,780.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/><origPlace>Africa, N.</origPlace></origin><provenance>Acquisition: 
-								M. Aschkenazi: purchased from him by the British Museum through D. Nutt on 08 April 1854: inscribed, folio [189v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22; Uniform layout. Initial words written in larger characters.Leaf catchwords on every verso.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi (North African) semi-cursive script, of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather, blind tooled. Boxed. Spine: 'Machazor. Secundum Ritum Algerensum. Hebraice. Mus. Brit. Jure Emptionis. 19,780.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                     <origPlace>Africa, N.</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								M. Aschkenazi: purchased from him by the British Museum through D. Nutt on 08 April 1854: inscribed, folio [189v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

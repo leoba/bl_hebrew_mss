@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of kabbalistic treatises and personal correspondence. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of kabbalistic treatises and personal correspondence. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27078: A collection of kabbalistic treatises and personal correspondence.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,9 +39,15 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Tidemarks at edges.  Some mould spots and foxing.  Losses infilled.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Tidemarks at edges.  Some mould spots and foxing.  Losses infilled.
  Usage stains.
-</note><note/><note type="relatedResource">
+</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -26,8 +55,136 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27078</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27078</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of kabbalistic treatises and personal correspondence. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="141r">1r-141r</locus><title>῾Avodat ha-ḳodesh עבודת הקדש</title></msItem><msItem n="151v"><locus from="151v" to="158r">151v-158r</locus><title>Igeret me-Erets-Yiśraʾel אגרות מארץ ישראל</title></msItem><msItem n="158v"><locus from="158v" to="159v">158v-159v</locus><title>Elef alafin אלף אלפין</title></msItem><msItem n="160r"><locus from="160r" to="184r">160r-184r</locus><title>Igeret ḥamudot אגרת חמודות</title></msItem><msItem n="184v"><locus from="184v" to="225v">184v-225v</locus><title>Perush ha-yeri῾ah ha-gedolah  פרוש היריעה הגדולה</title></msItem><msItem n="231r"><locus from="231r" to="232r">231r-232r</locus><title>Shemot ha-sefirot bi-khelal שמות הספירות בכלל</title></msItem><msItem n="232v"><locus from="232v" to="237v">232v-237v</locus><title>Perush ῾eser sefirot פרוש עשר ספירות</title></msItem><msItem n="238r"><locus from="238r" to="248r">238r-248r</locus><title>Be᾿ur ha-yeri῾ah ha-ḳetanah  באור היריעה הקטנה</title></msItem><msItem n="248r"><locus from="248r" to="251v">248r-251v</locus><title>Sefer ha-yiḥud ספר היחוד</title></msItem><msItem n="251v"><locus from="251v" to="260r">251v-260r</locus><title>Perush ῾eser sefirot פרוש עשר ספירות</title></msItem><msItem n="261r"><locus from="261r" to="268v">261r-268v</locus><title>Liḳutim shonim  לקוטים שונים </title></msItem><msItem n="268v"><locus from="268v" to="270r">268v-270r</locus><title>Perush sefer ha-῾iyun פרוש ספר העיון</title></msItem><msItem n="270r"><locus from="270r" to="273r">270r-273r</locus><title>Ta῾ame ha-neḳudot טעמי הנקודות</title></msItem><msItem n="273r"><locus from="273r" to="278r">273r-278r</locus><title>Ta῾ame ha-te῾amim טעמי הטעמים</title></msItem><msItem n="278r"><locus from="278r" to="279r">278r-279r</locus><title>Shimushe shem ha-meforash שמושי שם המפורש</title></msItem><msItem n="279r"><locus from="279r" to="279v">279r-279v</locus><title>Shoresh ha-shem  שרש השם</title></msItem><msItem n="279v"><locus from="279v" to="280r">279v-280r</locus><title>Niḳud ha-shem נקוד השם</title></msItem><msItem n="280r"><locus from="280r" to="281r">280r-281r</locus><title>Yetsiʾah ha-shem ha-meforash יציאה השם המפורש</title></msItem><msItem n="281v"><locus from="281v" to="284v">281v-284v</locus><title>Sod ḥidush be-sod niḳud shem ha-meyuḥad סוד חדוש בסוד נקוד שם המיוחד</title></msItem><msItem n="284v"><locus from="284v" to="290r">284v-290r</locus><title>Perush shem shel arba῾ otiyot פרוש שם של ארבע אותיות</title></msItem><msItem n="290r"><locus from="290r" to="292r">290r-292r</locus><title>Sod shem ha-meyuḥad סוד שם המיוחד</title></msItem><msItem n="292r"><locus from="292r" to="294r">292r-294r</locus><title>Sod ῾Azazel ṿe-sod parah adumah סוד עזאזל וסוד פרה אדומה</title></msItem><msItem n="294r"><locus from="294r" to="306r">294r-306r</locus><title>Be᾿urim ῾al derekh ha-nistar  באורים על דרך הנסתר</title></msItem><msItem n="306r"><locus from="306r" to="306v">306r-306v</locus><title>Tefilah תפלה</title></msItem><msItem n="306v"><locus from="306v" to="307v">306v-307v</locus><title>Taḥanah תחנה</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>308 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27078</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27078</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of kabbalistic treatises and personal correspondence. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="141r">1r-141r</locus>
+                     <title>῾Avodat ha-ḳodesh עבודת הקדש</title>
+                  </msItem>
+                  <msItem n="151v">
+                     <locus from="151v" to="158r">151v-158r</locus>
+                     <title>Igeret me-Erets-Yiśraʾel אגרות מארץ ישראל</title>
+                  </msItem>
+                  <msItem n="158v">
+                     <locus from="158v" to="159v">158v-159v</locus>
+                     <title>Elef alafin אלף אלפין</title>
+                  </msItem>
+                  <msItem n="160r">
+                     <locus from="160r" to="184r">160r-184r</locus>
+                     <title>Igeret ḥamudot אגרת חמודות</title>
+                  </msItem>
+                  <msItem n="184v">
+                     <locus from="184v" to="225v">184v-225v</locus>
+                     <title>Perush ha-yeri῾ah ha-gedolah  פרוש היריעה הגדולה</title>
+                  </msItem>
+                  <msItem n="231r">
+                     <locus from="231r" to="232r">231r-232r</locus>
+                     <title>Shemot ha-sefirot bi-khelal שמות הספירות בכלל</title>
+                  </msItem>
+                  <msItem n="232v">
+                     <locus from="232v" to="237v">232v-237v</locus>
+                     <title>Perush ῾eser sefirot פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="238r">
+                     <locus from="238r" to="248r">238r-248r</locus>
+                     <title>Be᾿ur ha-yeri῾ah ha-ḳetanah  באור היריעה הקטנה</title>
+                  </msItem>
+                  <msItem n="248r">
+                     <locus from="248r" to="251v">248r-251v</locus>
+                     <title>Sefer ha-yiḥud ספר היחוד</title>
+                  </msItem>
+                  <msItem n="251v">
+                     <locus from="251v" to="260r">251v-260r</locus>
+                     <title>Perush ῾eser sefirot פרוש עשר ספירות</title>
+                  </msItem>
+                  <msItem n="261r">
+                     <locus from="261r" to="268v">261r-268v</locus>
+                     <title>Liḳutim shonim  לקוטים שונים </title>
+                  </msItem>
+                  <msItem n="268v">
+                     <locus from="268v" to="270r">268v-270r</locus>
+                     <title>Perush sefer ha-῾iyun פרוש ספר העיון</title>
+                  </msItem>
+                  <msItem n="270r">
+                     <locus from="270r" to="273r">270r-273r</locus>
+                     <title>Ta῾ame ha-neḳudot טעמי הנקודות</title>
+                  </msItem>
+                  <msItem n="273r">
+                     <locus from="273r" to="278r">273r-278r</locus>
+                     <title>Ta῾ame ha-te῾amim טעמי הטעמים</title>
+                  </msItem>
+                  <msItem n="278r">
+                     <locus from="278r" to="279r">278r-279r</locus>
+                     <title>Shimushe shem ha-meforash שמושי שם המפורש</title>
+                  </msItem>
+                  <msItem n="279r">
+                     <locus from="279r" to="279v">279r-279v</locus>
+                     <title>Shoresh ha-shem  שרש השם</title>
+                  </msItem>
+                  <msItem n="279v">
+                     <locus from="279v" to="280r">279v-280r</locus>
+                     <title>Niḳud ha-shem נקוד השם</title>
+                  </msItem>
+                  <msItem n="280r">
+                     <locus from="280r" to="281r">280r-281r</locus>
+                     <title>Yetsiʾah ha-shem ha-meforash יציאה השם המפורש</title>
+                  </msItem>
+                  <msItem n="281v">
+                     <locus from="281v" to="284v">281v-284v</locus>
+                     <title>Sod ḥidush be-sod niḳud shem ha-meyuḥad סוד חדוש בסוד נקוד שם המיוחד</title>
+                  </msItem>
+                  <msItem n="284v">
+                     <locus from="284v" to="290r">284v-290r</locus>
+                     <title>Perush shem shel arba῾ otiyot פרוש שם של ארבע אותיות</title>
+                  </msItem>
+                  <msItem n="290r">
+                     <locus from="290r" to="292r">290r-292r</locus>
+                     <title>Sod shem ha-meyuḥad סוד שם המיוחד</title>
+                  </msItem>
+                  <msItem n="292r">
+                     <locus from="292r" to="294r">292r-294r</locus>
+                     <title>Sod ῾Azazel ṿe-sod parah adumah סוד עזאזל וסוד פרה אדומה</title>
+                  </msItem>
+                  <msItem n="294r">
+                     <locus from="294r" to="306r">294r-306r</locus>
+                     <title>Be᾿urim ῾al derekh ha-nistar  באורים על דרך הנסתר</title>
+                  </msItem>
+                  <msItem n="306r">
+                     <locus from="306r" to="306v">306r-306v</locus>
+                     <title>Tefilah תפלה</title>
+                  </msItem>
+                  <msItem n="306v">
+                     <locus from="306v" to="307v">306v-307v</locus>
+                     <title>Taḥanah תחנה</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>308 folios
                            
                            
                            
@@ -35,7 +192,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -43,10 +202,47 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 32;
-                                                  written lines: 32; Uniform layout. Initial words in larger characters.Multiple diagrams, e.g. folio 227v. A number of marginal notes and comments. Folio 1 is a title page. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 16th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Abodath Hak-Kodesh. Etc. Hebrew. Brit. Mus. Additional 27,078.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1572" notAfter="1575"/><origPlace>Asti</origPlace></origin><provenance>Boniforte Asinari </provenance><provenance>Acquisition: 
+                                                  written lines: 32; Uniform layout. Initial words in larger characters.Multiple diagrams, e.g. folio 227v. A number of marginal notes and comments. Folio 1 is a title page. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 16th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Abodath Hak-Kodesh. Etc. Hebrew. Brit. Mus. Additional 27,078.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1572" notAfter="1575"/>
+                     <origPlace>Asti</origPlace>
+                  </origin>
+                  <provenance>Boniforte Asinari </provenance>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 183: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [310v] (fse005v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 183: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [310v] (fse005v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

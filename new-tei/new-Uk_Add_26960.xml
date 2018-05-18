@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perushim(פרושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perushim(פרושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26960: Perushim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,115 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly worm-eaten.</note><note>Folios 3v-4v - contains notes in Italian cursive script.
-								Domenico Irosolimitano: Italian censor (active 1575-1624): inscribed with his name, 1598  (folio 218v); see 61. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly worm-eaten.</note>
+            <note>Folios 3v-4v - contains notes in Italian cursive script.
+								Domenico Irosolimitano: Italian censor (active 1575-1624): inscribed with his name, 1598  (folio 218v); see 61. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26960</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26960</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A number of works by Yitsḥaḳ ha-Kohen ben Ḥayim ben Avraham ben Yitsḥaḳ ben Yosef.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="88v">1r-88v</locus><title>Perushim פרושים</title></msItem><msItem n="1r"><locus from="1r" to="47r">1r-47r</locus><title>Commentary on the Song of Songs</title></msItem><msItem n="47r"><locus from="47r" to="50r">47r-50r</locus><title>Parashat sheḳalim</title></msItem><msItem n="50r"><locus from="50r" to="64r">50r-64r</locus><title>Homily</title></msItem><msItem n="64r"><locus from="64r" to="189r">64r-189r</locus><title>Commentary on Pirḳe avot.</title></msItem><msItem n="189r"><locus from="189r" to="214r">189r-214r</locus><title>Commentary on Lamentations</title></msItem><msItem n="214r"><locus from="214r" to="217b">214r-217b</locus><title>He῾arot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>218 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26960</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26960</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A number of works by Yitsḥaḳ ha-Kohen ben Ḥayim ben Avraham ben Yitsḥaḳ ben Yosef.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="88v">1r-88v</locus>
+                     <title>Perushim פרושים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="47r">1r-47r</locus>
+                     <title>Commentary on the Song of Songs</title>
+                  </msItem>
+                  <msItem n="47r">
+                     <locus from="47r" to="50r">47r-50r</locus>
+                     <title>Parashat sheḳalim</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="64r">50r-64r</locus>
+                     <title>Homily</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="189r">64r-189r</locus>
+                     <title>Commentary on Pirḳe avot.</title>
+                  </msItem>
+                  <msItem n="189r">
+                     <locus from="189r" to="214r">189r-214r</locus>
+                     <title>Commentary on Lamentations</title>
+                  </msItem>
+                  <msItem n="214r">
+                     <locus from="214r" to="217b">214r-217b</locus>
+                     <title>He῾arot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>218 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 6 to 10 leaves each (irregular).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 18;
-                                                  written lines: 18; Uniform layout. Visible ruling with a hard-point.Biblical text copied in square characters.Each portion of the commentary written in larger characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script, unpunctuated, of 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine: 'Isaac hak-Kohen. Comm. on the Song of Songs. Etc. Hebrew. Brit. Mus. Additional 26,960.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 71; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum (see 131-153): inscribed (folio 220v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 18; Uniform layout. Visible ruling with a hard-point.Biblical text copied in square characters.Each portion of the commentary written in larger characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script, unpunctuated, of 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine: 'Isaac hak-Kohen. Comm. on the Song of Songs. Etc. Hebrew. Brit. Mus. Additional 26,960.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 71; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum (see 131-153): inscribed (folio 220v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

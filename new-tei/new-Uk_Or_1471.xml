@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im (נביאים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im (נביאים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1471: Nevi᾿im  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,114 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios 249-254 are not fully preserved.</note><note>
-								Se'adyah ben David ben Zekharyah ben Amram al-Akhlufi; inscribed with his name in the colophon, folio 254r. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios 249-254 are not fully preserved.</note>
+            <note>
+								Se'adyah ben David ben Zekharyah ben Amram al-Akhlufi; inscribed with his name in the colophon, folio 254r. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1471</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1471</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Former Prophets: Hebrew text with ordinary punctuation and Targum with simple superlinear punctuation in alternate verses; with masorah magna and parva. Maḥberet ha-tigan is prefixed.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="254v">1r-254v</locus><title>Nevi᾿im  נביאים</title></msItem><msItem n="1v"><locus from="1v" to="26r">1v-26r</locus><title>Maḥberet ha-tigan</title></msItem><msItem n="28v"><locus from="28v" to="59v">28v-59v</locus><title>Joshua</title></msItem><msItem n="59v"><locus from="59v" to="92r">59v-92r</locus><title>Judges</title></msItem><msItem n="92v"><locus from="92v" to="169r">92v-169r</locus><title>Samuel</title></msItem><msItem n="169v"><locus from="169v" to="254r">169v-254r</locus><title>Kings</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>254 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1471</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1471</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Former Prophets: Hebrew text with ordinary punctuation and Targum with simple superlinear punctuation in alternate verses; with masorah magna and parva. Maḥberet ha-tigan is prefixed.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="254v">1r-254v</locus>
+                     <title>Nevi᾿im  נביאים</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="26r">1v-26r</locus>
+                     <title>Maḥberet ha-tigan</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="59v">28v-59v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="59v">
+                     <locus from="59v" to="92r">59v-92r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="92v">
+                     <locus from="92v" to="169r">92v-169r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="169v">
+                     <locus from="169v" to="254r">169v-254r</locus>
+                     <title>Kings</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>254 folios
+								</extent>
+                        <collation>
+                           <p>
 									25 quires of mostly 10 leaves each.
 									The quires are signed with Hebrew letters on the first and the last page. 
 									Leaves numbered with Hebrew letters.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 26;
-                                                  written lines: 26; Masorah magna occupies generally one to four lines in the lower and one to three lines in the upper margin of the page. A number of masoretic notes is given at the end of each book. All the books except Judges, commence a new page. The beginning and the end of the Hafṭarot are indicated in the margin. An annual cycle for the complete Bible is also noted in various places. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote> Yemenite square script, punctuated. Yosef ben Zekharyah ben Me'oded ben Se'adyah al-Kaisi; inscribed with his name in the colophon, folio 254r, with an uncertain date of 1900. The same person also punctuated the whole manuscript. </scriptNote></scriptDesc><decoDesc><decoNote type="other">
-								Two full pages filled with micrographic designs.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Joshua-Kings, with Targum. Hebrew. Brit. Mus. Oriental 1471.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1589"/><origPlace>Yemen  Kenisah Latsaf</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 26; Masorah magna occupies generally one to four lines in the lower and one to three lines in the upper margin of the page. A number of masoretic notes is given at the end of each book. All the books except Judges, commence a new page. The beginning and the end of the Hafṭarot are indicated in the margin. An annual cycle for the complete Bible is also noted in various places. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote> Yemenite square script, punctuated. Yosef ben Zekharyah ben Me'oded ben Se'adyah al-Kaisi; inscribed with his name in the colophon, folio 254r, with an uncertain date of 1900. The same person also punctuated the whole manuscript. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+								Two full pages filled with micrographic designs.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Joshua-Kings, with Targum. Hebrew. Brit. Mus. Oriental 1471.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1589"/>
+                     <origPlace>Yemen  Kenisah Latsaf</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

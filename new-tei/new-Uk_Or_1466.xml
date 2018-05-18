@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah ʿim targum u-ferush Rash"i(תורה עם תרגום ופרוש רש"י)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah ʿim targum u-ferush Rash"i(תורה עם תרגום ופרוש רש"י)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1466: Torah ʿim targum u-ferush Rash"i are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,13 +39,107 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folio 1ris a doodle page.On folio 2r there are lists of the alphabet in differently arranged groups, followed by an alphabetical acrostic.Folio 2v contains lines with an aphabetical acrostic.Previous owner's note, folio 184v : הדה אלארשה חק מוסי ן' הרון אלקצרני וכו'.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folio 1ris a doodle page.On folio 2r there are lists of the alphabet in differently arranged groups, followed by an alphabetical acrostic.Folio 2v contains lines with an aphabetical acrostic.Previous owner's note, folio 184v : הדה אלארשה חק מוסי ן' הרון אלקצרני וכו'.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1466</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1466</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with punctuation and accents, Rashi's commentary,Targum with simple punctuation and Sa῾adia Gaon's Arabic translation.</summary><textLang mainLang="he" otherLangs="tmr-Hebr jrb"/><msItem n="3v"><locus from="3v" to="184v">3v-184v</locus><title>Torah ʿim targum u-ferush Rash"i תורה עם תרגום ופרוש רש"י</title></msItem><msItem n="3v"><locus from="3v" to="48r">3v-48r</locus><title>Genesis</title></msItem><msItem n="48r"><locus from="48r" to="92v">48r-92v</locus><title>Exodus</title></msItem><msItem n="93v"><locus from="93v" to="120v">93v-120v</locus><title>Leviticus</title></msItem><msItem n="120v"><locus from="120v" to="153v">120v-153v</locus><title>Numbers</title></msItem><msItem n="153v"><locus from="153v" to="184v">153v-184v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>184 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1466</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1466</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with punctuation and accents, Rashi's commentary,Targum with simple punctuation and Sa῾adia Gaon's Arabic translation.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Aramaic, Judeo-Arabic</textLang>
+                  <msItem n="3v">
+                     <locus from="3v" to="184v">3v-184v</locus>
+                     <title>Torah ʿim targum u-ferush Rash"i תורה עם תרגום ופרוש רש"י</title>
+                  </msItem>
+                  <msItem n="3v">
+                     <locus from="3v" to="48r">3v-48r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="92v">48r-92v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="93v">
+                     <locus from="93v" to="120v">93v-120v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="120v">
+                     <locus from="120v" to="153v">120v-153v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="153v">
+                     <locus from="153v" to="184v">153v-184v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>184 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2 3;
                                                   ruled lines: 25 61;
-                                                  written lines: 25 61; Uniform layout. The beginnings of the weekly sections marked by small pen and ink designs.At the end of the weekly sections: the masoretic statements relating to the number of verses and simanim.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square and semi-cursive script of 19th century, partially punctuated and accentuated.</scriptNote></scriptDesc><bindingDesc><binding><p>  	BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1800" notAfter="1899"/><origPlace>Yemen</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25 61; Uniform layout. The beginnings of the weekly sections marked by small pen and ink designs.At the end of the weekly sections: the masoretic statements relating to the number of verses and simanim.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square and semi-cursive script of 19th century, partially punctuated and accentuated.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1800" notAfter="1899"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah u-neviʼim rishonim(תורה ונביאים ראשונים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah u-neviʼim rishonim(תורה ונביאים ראשונים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2415: Torah u-neviʼim rishonim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,134 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A number of leaves are missing, folios 41 and 115 are mutilated.</note><note>Marginal note of the owner on folio 122r.
-								Musa ibn Sulaiman ʻIraḳi, inscribed with his name on folio 2r, attesting that the manuscript is a property of ʻImrān: מוסי אבן סלימאן עראקי יצו' אן אלכתאב חק עמראן יצו'.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A number of leaves are missing, folios 41 and 115 are mutilated.</note>
+            <note>Marginal note of the owner on folio 122r.
+								Musa ibn Sulaiman ʻIraḳi, inscribed with his name on folio 2r, attesting that the manuscript is a property of ʻImrān: מוסי אבן סלימאן עראקי יצו' אן אלכתאב חק עמראן יצו'.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2415</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2415</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch and the Former Prophets, provided with vowel-points and accents. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="215v">1r-215v</locus><title>Torah u-neviʼim rishonim תורה ונביאים ראשונים</title></msItem><msItem n="1r"><locus from="1r" to="14v">1r-14v</locus><title>Genesis</title></msItem><msItem n="14v"><locus from="14v" to="42r">14v-42r</locus><title>Exodus</title></msItem><msItem n="42r"><locus from="42r" to="60r">42r-60r</locus><title>Leviticus</title></msItem><msItem n="60r"><locus from="60r" to="86r">60r-86r</locus><title>Numbers</title></msItem><msItem n="86r"><locus from="86r" to="108v">86r-108v</locus><title>Deuteronomy</title></msItem><msItem n="108v"><locus from="108v" to="124v">108v-124v</locus><title>Joshua</title></msItem><msItem n="124v"><locus from="124v" to="140r">124v-140r</locus><title>Judges</title></msItem><msItem n="140r"><locus from="140r" to="178r">140r-178r</locus><title>Samuel</title></msItem><msItem n="178r"><locus from="178r" to="215v">178r-215v</locus><title>Kings</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>215 folios
-								</extent><foliation>The Hebrew foliation shows that the first extant leaf was originally the 17th.</foliation><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2415</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2415</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch and the Former Prophets, provided with vowel-points and accents. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="215v">1r-215v</locus>
+                     <title>Torah u-neviʼim rishonim תורה ונביאים ראשונים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="14v">1r-14v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="14v">
+                     <locus from="14v" to="42r">14v-42r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="42r">
+                     <locus from="42r" to="60r">42r-60r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="86r">60r-86r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="86r">
+                     <locus from="86r" to="108v">86r-108v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="108v">
+                     <locus from="108v" to="124v">108v-124v</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="124v">
+                     <locus from="124v" to="140r">124v-140r</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="140r">
+                     <locus from="140r" to="178r">140r-178r</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="178r">
+                     <locus from="178r" to="215v">178r-215v</locus>
+                     <title>Kings</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>215 folios
+								</extent>
+                        <foliation>The Hebrew foliation shows that the first extant leaf was originally the 17th.</foliation>
+                        <collation>
+                           <p>
 									27 extant quires mostly of 8 leaves, but the codex is missing 16 pages at the beginning and several pages throughout the manuscript.
 									Quires are marked with catchwords on the last page of the quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 25;
-                                                  written lines: 25; Ruling with hard point, pricking is not currently visible.Several lacunae.The books of Leviticus (42r) and Kings (178r) begin a new leaf, and between the other books there is a blank of four lines.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script with supralinear punctuation, probably of the 14th century.</scriptNote></scriptDesc><decoDesc><decoNote>1 half-border on page 108v.</decoNote><decoNote type="border"><locus>108v</locus>A one-column border, in colour.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/><origPlace>Africa, N.</origPlace></origin><provenance>Acquisition: 
-								Nic. Mavrocordato: purchased by the British Museum from him on 08 October 1881 ([216v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25; Ruling with hard point, pricking is not currently visible.Several lacunae.The books of Leviticus (42r) and Kings (178r) begin a new leaf, and between the other books there is a blank of four lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script with supralinear punctuation, probably of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>1 half-border on page 108v.</decoNote>
+                     <decoNote type="border">
+                        <locus>108v</locus>A one-column border, in colour.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                     <origPlace>Africa, N.</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Nic. Mavrocordato: purchased by the British Museum from him on 08 October 1881 ([216v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

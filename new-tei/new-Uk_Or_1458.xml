@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of The Pentateuch scroll. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of The Pentateuch scroll. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1458: The Pentateuch scroll.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,13 +39,87 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Worming in several phases (repairs wormed in different pattern), grazed surface.  Surface delamination, deliberate erasures.  Weak edges with tears and losses, a few parts folded under.  Creases from rolling.  Inks slightly flaking. Some ink spills.  Pleat covering text.  Soil accretions.  Occasional contracted areas at edge with dark, brittle, flaking surface.  Usage and damp stains.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Worming in several phases (repairs wormed in different pattern), grazed surface.  Surface delamination, deliberate erasures.  Weak edges with tears and losses, a few parts folded under.  Creases from rolling.  Inks slightly flaking. Some ink spills.  Pleat covering text.  Soil accretions.  Occasional contracted areas at edge with dark, brittle, flaking surface.  Usage and damp stains.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1458</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1458</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch scroll. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="4r">1r-4r</locus><title>Sefer Torah  ספר תורה</title></msItem></msContents><physDesc><objectDesc><supportDesc material="leather"><support><p>Leather</p></support><extent>65 membranes, 227 columns. 
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1458</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1458</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch scroll. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="4r">1r-4r</locus>
+                     <title>Sefer Torah  ספר תורה</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="leather">
+                        <support>
+                           <p>Leather</p>
+                        </support>
+                        <extent>65 membranes, 227 columns. 
+								</extent>
+                        <collation>
+                           <p>
 									65 membranes, with header/wrapper (854mm). 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 227;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 227;
                                                   ruled lines: 50;
                                                   written lines: 50; Uniform layout. Ruling by hard point,
-membrane by membrane.Visible pricking and stitching. 227 columns in total, one to six columns per membrane. Few tagin present. Four lines left blank between the end of a book and the beginning of another. Leviticus begins with a new column. Every column commences with a new verse, most frequently beginning with the letter ו. The end of a verse not marked, but the position of Ethnah is marked by a black point. Three black points generally placed in the right margin at the beginning of an open or closed section. Sometimes these points appear at the end of a section to indicate the beginning of a verse. Special arrangement of lines of the Song of Moses, Ex. 15. The Song Ha'azinu, Deut. 32, is written in 67 lines. The first דרש of Lev. 10:16 is written at the end of the line. Puncta extraordinaria placed on the ten words fixed by the masorah. Majuscular and minuscular letters occur. The inverted letter nun is placed before and after Num. 10:35-36. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental square script of the 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Boxed. </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+membrane by membrane.Visible pricking and stitching. 227 columns in total, one to six columns per membrane. Few tagin present. Four lines left blank between the end of a book and the beginning of another. Leviticus begins with a new column. Every column commences with a new verse, most frequently beginning with the letter ו. The end of a verse not marked, but the position of Ethnah is marked by a black point. Three black points generally placed in the right margin at the beginning of an open or closed section. Sometimes these points appear at the end of a section to indicate the beginning of a verse. Special arrangement of lines of the Song of Moses, Ex. 15. The Song Ha'azinu, Deut. 32, is written in 67 lines. The first דרש of Lev. 10:16 is written at the end of the line. Puncta extraordinaria placed on the ten words fixed by the masorah. Majuscular and minuscular letters occur. The inverted letter nun is placed before and after Num. 10:35-36. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental square script of the 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Boxed. </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

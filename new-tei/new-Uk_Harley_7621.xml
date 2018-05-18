@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, hafṭarot u-megilot(תורה, הפטרות ומגילות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, hafṭarot u-megilot(תורה, הפטרות ומגילות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 7621: Torah, hafṭarot u-megilot are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,24 +39,166 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Yo᾿av Imanu᾿el Finzi  (da Arezzo?): his coat of arms? (76v); it is identical with the coat of arms represented in Harley 5716 and 5717, 544 and 545, the patron of which was Yo᾿av Imanu᾿el. Thus the codex most probably was ordered by the same patron, Yo᾿av Imanu᾿el. 
 								Domenico Irosolimitano (active 1575-1624): inscribed with his name, 1598  (439v); see 62-74.
-								Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name (439v); see 100-101. Contents of manuscript in English ([533r]). </note><note type="relatedResource">
+								Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name (439v); see 100-101. Contents of manuscript in English ([533r]). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 7621</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_7621</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch with Rashi's commentary and Targum Onḳelos, Hafṭarot with David Kimḥi's commentary and  Five Scrolls with various commentaries.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="439v">1r-439v</locus><title>Torah, hafṭarot u-megilot תורה, הפטרות ומגילות</title></msItem><msItem n="1r"><locus from="1r" to="76v">1r-76v</locus><title>Genesis</title></msItem><msItem n="76v"><locus from="76v" to="142v">76v-142v</locus><title>Exodus</title></msItem><msItem n="142v"><locus from="142v" to="191r">142v-191r</locus><title>Leviticus</title></msItem><msItem n="191r"><locus from="191r" to="154v">191r-154v</locus><title>Numbers</title></msItem><msItem n="254v"><locus from="254v" to="310v">254v-310v</locus><title>Deuteronomy</title></msItem><msItem n="311r"><locus from="311r" to="400r">311r-400r</locus><title>Hafṭarot with the commentary of Daṿid Ḳimḥi</title></msItem><msItem n="400r"><locus from="400r" to="404r">400r-404r</locus><title>Ruth</title></msItem><msItem n="404r"><locus from="404r" to="413r">404r-413r</locus><title>Ecclesiastes</title></msItem><msItem n="414r"><locus from="414r" to="418v">414r-418v</locus><title>Song of Songs</title></msItem><msItem n="418v"><locus from="418v" to="425r">418v-425r</locus><title>Lamentations</title></msItem><msItem n="425r"><locus from="425r" to="436v">425r-436v</locus><title>Esther</title></msItem><msItem n="436v"><locus from="436v" to="439v">436v-439v</locus><title>Benedictions</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>439 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 7621</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_7621</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch with Rashi's commentary and Targum Onḳelos, Hafṭarot with David Kimḥi's commentary and  Five Scrolls with various commentaries.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="439v">1r-439v</locus>
+                     <title>Torah, hafṭarot u-megilot תורה, הפטרות ומגילות</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="76v">1r-76v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="76v">
+                     <locus from="76v" to="142v">76v-142v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="142v">
+                     <locus from="142v" to="191r">142v-191r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="191r">
+                     <locus from="191r" to="154v">191r-154v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="254v">
+                     <locus from="254v" to="310v">254v-310v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="311r">
+                     <locus from="311r" to="400r">311r-400r</locus>
+                     <title>Hafṭarot with the commentary of Daṿid Ḳimḥi</title>
+                  </msItem>
+                  <msItem n="400r">
+                     <locus from="400r" to="404r">400r-404r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="404r">
+                     <locus from="404r" to="413r">404r-413r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="414r">
+                     <locus from="414r" to="418v">414r-418v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="418v">
+                     <locus from="418v" to="425r">418v-425r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="425r">
+                     <locus from="425r" to="436v">425r-436v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="436v">
+                     <locus from="436v" to="439v">436v-439v</locus>
+                     <title>Benedictions</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>439 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									44 quires of 10 leaves each, with catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 20;
-                                                  written lines: 20; Uniform layout. All the biblical books begin a new page except Ecclesiastes and Esther.Numbers, Hafṭarot, Ruth and Song of Songs begin a new leaf.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote> Italian semi-cursive script, partially punctuated, of the 3rd quarter of the 15th century. Shemu᾿el: inscribed with his name (190r). Decorated by the Florentine artists.</scriptNote></scriptDesc><decoDesc><decoNote type="other"><locus>1r</locus>
-								 	1 historiated initial-word panel, in colours and gold.</decoNote><decoNote type="initial"><locus>76v</locus>
-								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote><decoNote type="initial"><locus>142v</locus>
-								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote><decoNote type="initial"><locus>191r</locus>
-								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote><decoNote type="initial"><locus>254v</locus>
-								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote><decoNote type="initial"><locus>149r</locus>
-								2 decorated initial-word panels, in colours and gold.</decoNote><decoNote type="initial"><locus>198v</locus>
-								2 decorated initial-word panels, in colours and gold.</decoNote><decoNote type="initial"> Many decorated initial-word panels, in colours. </decoNote><decoNote type="other">Numerous carmina figurata.</decoNote></decoDesc><bindingDesc><binding><p>  	Pre-1600. Dark brown, tooled, with remains of clasps.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1450" notAfter="1474"/><origPlace>Italy Ferrara</origPlace></origin><provenance>Acquisition: 
-								Edward Harley: bought by him through Nathaniel Noel (b. 1681, d. 1753) (see  and ; inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 (folio 1r).</provenance><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 20; Uniform layout. All the biblical books begin a new page except Ecclesiastes and Esther.Numbers, Hafṭarot, Ruth and Song of Songs begin a new leaf.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote> Italian semi-cursive script, partially punctuated, of the 3rd quarter of the 15th century. Shemu᾿el: inscribed with his name (190r). Decorated by the Florentine artists.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <locus>1r</locus>
+								 	1 historiated initial-word panel, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>76v</locus>
+								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>142v</locus>
+								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>191r</locus>
+								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>254v</locus>
+								4 decorated initial-word panels inhabited by birds, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>149r</locus>
+								2 decorated initial-word panels, in colours and gold.</decoNote>
+                     <decoNote type="initial">
+                        <locus>198v</locus>
+								2 decorated initial-word panels, in colours and gold.</decoNote>
+                     <decoNote type="initial"> Many decorated initial-word panels, in colours. </decoNote>
+                     <decoNote type="other">Numerous carmina figurata.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	Pre-1600. Dark brown, tooled, with remains of clasps.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1450" notAfter="1474"/>
+                     <origPlace>Italy Ferrara</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Edward Harley: bought by him through Nathaniel Noel (b. 1681, d. 1753) (see  and ; inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 (folio 1r).</provenance>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

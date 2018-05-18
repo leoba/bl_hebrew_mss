@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Rashi's commentary on the Five Scrolls, the Former and Latter Prophets, and Yosef Ḳara's commentary on Job.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Rashi's commentary on the Five Scrolls, the Former and Latter Prophets, and Yosef Ḳara's commentary on Job.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 150: Rashi's commentary on the Five Scrolls, the Former and Latter Prophets, and Yosef Ḳara's commentary on Job. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios damaged.</note><note>1* contains a Latin translation of the colophon from the folio 209r.2* is a Latin index to the contents of the volume. Folios 84v-146v have marginal additions with Rashi's commentary on Psalms, due to a 15th century hand. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios damaged.</note>
+            <note>1* contains a Latin translation of the colophon from the folio 209r.2* is a Latin index to the contents of the volume. Folios 84v-146v have marginal additions with Rashi's commentary on Psalms, due to a 15th century hand. </note>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,144 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 150</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_150</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Rashi's commentary on the Five Scrolls, the Former and Latter Prophets, and Yosef Ḳara's commentary on Job.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="235v">1r-235v</locus><title>Perushim פרושים </title></msItem><msItem n="1r"><locus from="1r" to="11v">1r-11v</locus><title>Ecclesiastes</title></msItem><msItem n="11v"><locus from="11v" to="13r">11v-13r</locus><title>Ruth</title></msItem><msItem n="13r"><locus from="13r" to="21v">13r-21v</locus><title>Song of Songs</title></msItem><msItem n="21v"><locus from="21v" to="23v">21v-23v</locus><title>Esther</title></msItem><msItem n="23v"><locus from="23v" to="27r">23v-27r</locus><title>Lamentations</title></msItem><msItem n="28v"><locus from="28v" to="35r">28v-35r</locus><title>Joshua</title></msItem><msItem n="35r"><locus from="35r" to="41v">35r-41v</locus><title>Judges</title></msItem><msItem n="41v"><locus from="41v" to="59v">41v-59v</locus><title>Samuel</title></msItem><msItem n="59v"><locus from="59v" to="79v">59v-79v</locus><title>Kings</title></msItem><msItem n="79v"><locus from="79v" to="96r">79v-96r</locus><title>Jeremiah</title></msItem><msItem n="96r"><locus from="96r" to="127v">96r-127v</locus><title>Ezekiel</title></msItem><msItem n="127v"><locus from="127v" to="174v">127v-174v</locus><title>Isaiah</title></msItem><msItem n="174v"><locus from="174v" to="183r">174v-183r</locus><title>Hosea</title></msItem><msItem n="183r"><locus from="183r" to="184r">183r-184r</locus><title>Joel</title></msItem><msItem n="184r"><locus from="184r" to="188v">184r-188v</locus><title>Amos</title></msItem><msItem n="188v"><locus from="188v" to="189v">188v-189v</locus><title>Obadiah</title></msItem><msItem n="189v"><locus from="189v" to="190r">189v-190r</locus><title>Jonah</title></msItem><msItem n="190r"><locus from="190r" to="193v">190r-193v</locus><title>Micah</title></msItem><msItem n="193v"><locus from="193v" to="195r">193v-195r</locus><title>Nahum</title></msItem><msItem n="195r"><locus from="195r" to="197v">195r-197v</locus><title>Habakuk</title></msItem><msItem n="197v"><locus from="197v" to="199r">197v-199r</locus><title>Zephaniah</title></msItem><msItem n="199r"><locus from="199r" to="200r">199r-200r</locus><title>Haggai</title></msItem><msItem n="200r"><locus from="200r" to="207r">200r-207r</locus><title>Zechariah</title></msItem><msItem n="207r"><locus from="207r" to="209r">207r-209r</locus><title>Malachi</title></msItem><msItem n="210r"><locus from="210r" to="229v">210r-229v</locus><title>Commentary on Job</title></msItem><msItem n="230r"><locus from="230r" to="235v">230r-235v</locus><title>Leviticus</title></msItem></msContents><physDesc><objectDesc><supportDesc material="unknown"><support><p>Unknown</p></support><extent>235 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 150</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_150</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Rashi's commentary on the Five Scrolls, the Former and Latter Prophets, and Yosef Ḳara's commentary on Job.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="235v">1r-235v</locus>
+                     <title>Perushim פרושים </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="11v">1r-11v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="11v">
+                     <locus from="11v" to="13r">11v-13r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="13r">
+                     <locus from="13r" to="21v">13r-21v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="21v">
+                     <locus from="21v" to="23v">21v-23v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="23v">
+                     <locus from="23v" to="27r">23v-27r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="35r">28v-35r</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="35r">
+                     <locus from="35r" to="41v">35r-41v</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="41v">
+                     <locus from="41v" to="59v">41v-59v</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="59v">
+                     <locus from="59v" to="79v">59v-79v</locus>
+                     <title>Kings</title>
+                  </msItem>
+                  <msItem n="79v">
+                     <locus from="79v" to="96r">79v-96r</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="96r">
+                     <locus from="96r" to="127v">96r-127v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="127v">
+                     <locus from="127v" to="174v">127v-174v</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="174v">
+                     <locus from="174v" to="183r">174v-183r</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="183r">
+                     <locus from="183r" to="184r">183r-184r</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="184r">
+                     <locus from="184r" to="188v">184r-188v</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="188v">
+                     <locus from="188v" to="189v">188v-189v</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="189v">
+                     <locus from="189v" to="190r">189v-190r</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="190r">
+                     <locus from="190r" to="193v">190r-193v</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="193v">
+                     <locus from="193v" to="195r">193v-195r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="195r">
+                     <locus from="195r" to="197v">195r-197v</locus>
+                     <title>Habakuk</title>
+                  </msItem>
+                  <msItem n="197v">
+                     <locus from="197v" to="199r">197v-199r</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="199r">
+                     <locus from="199r" to="200r">199r-200r</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="200r">
+                     <locus from="200r" to="207r">200r-207r</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="207r">
+                     <locus from="207r" to="209r">207r-209r</locus>
+                     <title>Malachi</title>
+                  </msItem>
+                  <msItem n="210r">
+                     <locus from="210r" to="229v">210r-229v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="230r">
+                     <locus from="230r" to="235v">230r-235v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="unknown">
+                        <support>
+                           <p>Unknown</p>
+                        </support>
+                        <extent>235 folios
                         
                         
                         
@@ -61,7 +226,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -73,6 +240,41 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 2 2 2 3;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2 2 2 3;
                                                   ruled lines: 34 34 47 25;
-                                                  written lines: 33 33 46 24; Uniform layout. Uniform layout. Uniform layout. Pricking and pen-ruling visible.Pricking and hard-point ruling visible.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (French?) semi-cursive script of 16th century. Mosheh Merḳis: inscirbed with his name in the colophon, folios 23v, 27r. The name 'Mosheh' has been marked with pen designs, e.g. folio 15r.  Ashkenazi (French?) semi-cursive script of 13th century. Yosef ben Natan: inscribed with his name, together with the name of Shimshon ben Yehudah, in the colophon, 1257, folio 209r. Ashkenazi semi-cursive of 13th century. Ashkenazi (French) square of c15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600; Harleian binding with gold-tooling, the Harley coat of arms in the centre.</p></binding></bindingDesc></physDesc><history><origin/><provenance>Shemu᾿el ben Mosheh Ferrano</provenance><provenance>Ya῾aḳov ben Yehudah</provenance><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 33 33 46 24; Uniform layout. Uniform layout. Uniform layout. Pricking and pen-ruling visible.Pricking and hard-point ruling visible.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (French?) semi-cursive script of 16th century. Mosheh Merḳis: inscirbed with his name in the colophon, folios 23v, 27r. The name 'Mosheh' has been marked with pen designs, e.g. folio 15r.  Ashkenazi (French?) semi-cursive script of 13th century. Yosef ben Natan: inscribed with his name, together with the name of Shimshon ben Yehudah, in the colophon, 1257, folio 209r. Ashkenazi semi-cursive of 13th century. Ashkenazi (French) square of c15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600; Harleian binding with gold-tooling, the Harley coat of arms in the centre.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin/>
+                  <provenance>Shemu᾿el ben Mosheh Ferrano</provenance>
+                  <provenance>Ya῾aḳov ben Yehudah</provenance>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

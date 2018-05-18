@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Seder Moʻed(סדר מועד)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Seder Moʻed(סדר מועד)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5508: Seder Moʻed are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,13 +39,120 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Marginal notes in various parts of the manuscript, supplying different and at times fuller readings.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Marginal notes in various parts of the manuscript, supplying different and at times fuller readings.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5508</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5508</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A portion of Babylonian Talmud, viz. eight tractates of Seder Mo'ed.</summary><textLang mainLang="tmr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="236v">1r-236v</locus><title>Seder Moʻed סדר מועד</title></msItem><msItem n="1r"><locus from="1r" to="22v">1r-22v</locus><title>Rosh ha-shanah</title></msItem><msItem n="23v"><locus from="23v" to="70v">23v-70v</locus><title>Yoma</title></msItem><msItem n="70v"><locus from="70v" to="90r">70v-90r</locus><title>Ḥagigah</title></msItem><msItem n="90v"><locus from="90v" to="118v">90v-118v</locus><title>Betsah</title></msItem><msItem n="119r"><locus from="119r" to="152r">119r-152r</locus><title>Megilah</title></msItem><msItem n="152v"><locus from="152v" to="188v">152v-188v</locus><title>Sukah</title></msItem><msItem n="189r"><locus from="189r" to="212v">189r-212v</locus><title>Moʻed-ḳaṭan</title></msItem><msItem n="231r"><locus from="231r" to="236v">231r-236v</locus><title>Taʻanit</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>236 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5508</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5508</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A portion of Babylonian Talmud, viz. eight tractates of Seder Mo'ed.</summary>
+                  <textLang mainLang="tmr" otherLangs="he">Jewish Babylonian Aramaic (ca. 200-1200 CE), Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="236v">1r-236v</locus>
+                     <title>Seder Moʻed סדר מועד</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="22v">1r-22v</locus>
+                     <title>Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="23v">
+                     <locus from="23v" to="70v">23v-70v</locus>
+                     <title>Yoma</title>
+                  </msItem>
+                  <msItem n="70v">
+                     <locus from="70v" to="90r">70v-90r</locus>
+                     <title>Ḥagigah</title>
+                  </msItem>
+                  <msItem n="90v">
+                     <locus from="90v" to="118v">90v-118v</locus>
+                     <title>Betsah</title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="152r">119r-152r</locus>
+                     <title>Megilah</title>
+                  </msItem>
+                  <msItem n="152v">
+                     <locus from="152v" to="188v">152v-188v</locus>
+                     <title>Sukah</title>
+                  </msItem>
+                  <msItem n="189r">
+                     <locus from="189r" to="212v">189r-212v</locus>
+                     <title>Moʻed-ḳaṭan</title>
+                  </msItem>
+                  <msItem n="231r">
+                     <locus from="231r" to="236v">231r-236v</locus>
+                     <title>Taʻanit</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>236 folios
+								</extent>
+                        <collation>
+                           <p>
 									28 quires of 8 leaves, 1quire of 6 leaves, last 8 leaves of uncertain gathering. First leaf of the first quire missing and the last leaf of the third quire has been cancelled; two leaves probably missing at the end of the manuscript. 
 									One leaf has been cut after folio 231 and 232 respectively.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 37;
-                                                  written lines: 37; Uniform layout. The writing stands a little below the ruled line.The mishnah of each chapter is not divided into small sections as in printed editions of the Talmud, but is given in entirety before the gemara begins. Each chapter of the Mishnah ends with the phrase: סליק פרקא, and a few words of the mishnah are repeated as a heading to the gemara that treats on that part.Each chapter of the Gemara ends with: הדרן עלך.Each tractate ends with: סליקא מסכת.Folios 23r, 71r are left blank due to the fact that folio 23 and 71 respectively begin fresh quires written by different hands from the portions which in each case precede them, so that a new scribe began a new tractate. The concluding portions of the preceding tractates have been left out.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, executed by many hands.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Harleian coat of arms on the upper and lower cover. Spine: 'Rashi on the Pentateuch. Hebrew. Brit. Mus. Harl. Or. 5508.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1100" notAfter="1299"/><origPlace>Spain</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.  Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck(b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 37; Uniform layout. The writing stands a little below the ruled line.The mishnah of each chapter is not divided into small sections as in printed editions of the Talmud, but is given in entirety before the gemara begins. Each chapter of the Mishnah ends with the phrase: סליק פרקא, and a few words of the mishnah are repeated as a heading to the gemara that treats on that part.Each chapter of the Gemara ends with: הדרן עלך.Each tractate ends with: סליקא מסכת.Folios 23r, 71r are left blank due to the fact that folio 23 and 71 respectively begin fresh quires written by different hands from the portions which in each case precede them, so that a new scribe began a new tractate. The concluding portions of the preceding tractates have been left out.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, executed by many hands.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Harleian coat of arms on the upper and lower cover. Spine: 'Rashi on the Pentateuch. Hebrew. Brit. Mus. Harl. Or. 5508.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1100" notAfter="1299"/>
+                     <origPlace>Spain</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.  Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck(b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

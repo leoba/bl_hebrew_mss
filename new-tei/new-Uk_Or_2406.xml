@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Al-Murshid(אלמרשד)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Al-Murshid(אלמרשד)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2406: Al-Murshid are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,117 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios 1r, 316v of volume 1: a note of ownership of the Karaite synagogue of Jerusalem.
-								Daniel ben Mosheh ha-Melamed: inscribed, folio 1r.A note stating that certain Shemu᾿el ben Avraham ha-Leṿi used the manuscript in 1744: inscribed, folio 1v.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios 1r, 316v of volume 1: a note of ownership of the Karaite synagogue of Jerusalem.
+								Daniel ben Mosheh ha-Melamed: inscribed, folio 1r.A note stating that certain Shemu᾿el ben Avraham ha-Leṿi used the manuscript in 1744: inscribed, folio 1v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2406</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2406</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Volume 2 of Al-Murshid, the book of precepts of Samuel ben Moses ha-Maʿarabi.</summary><textLang mainLang="jrb-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="384v">1r-384v</locus><title>Al-Murshid אלמרשד</title></msItem><msItem n="2r"><locus from="2r" to="96r">2r-96r</locus><title>Maḳalah 1</title></msItem><msItem n="96r"><locus from="96r" to="123v">96r-123v</locus><title>Maḳalah 2</title></msItem><msItem n="123v"><locus from="123v" to="200v">123v-200v</locus><title>Maḳalah 3</title></msItem><msItem n="200v"><locus from="200v" to="263r">200v-263r</locus><title>Maḳalah 4</title></msItem><msItem n="263r"><locus from="263r" to="308r">263r-308r</locus><title>Maḳalah 5</title></msItem><msItem n="308r"><locus from="308r" to="346v">308r-346v</locus><title>Maḳalah 6</title></msItem><msItem n="346v"><locus from="346v" to="384v">346v-384v</locus><title>Maḳalah 7</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>384 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2406</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2406</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Volume 2 of Al-Murshid, the book of precepts of Samuel ben Moses ha-Maʿarabi.</summary>
+                  <textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="384v">1r-384v</locus>
+                     <title>Al-Murshid אלמרשד</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="96r">2r-96r</locus>
+                     <title>Maḳalah 1</title>
+                  </msItem>
+                  <msItem n="96r">
+                     <locus from="96r" to="123v">96r-123v</locus>
+                     <title>Maḳalah 2</title>
+                  </msItem>
+                  <msItem n="123v">
+                     <locus from="123v" to="200v">123v-200v</locus>
+                     <title>Maḳalah 3</title>
+                  </msItem>
+                  <msItem n="200v">
+                     <locus from="200v" to="263r">200v-263r</locus>
+                     <title>Maḳalah 4</title>
+                  </msItem>
+                  <msItem n="263r">
+                     <locus from="263r" to="308r">263r-308r</locus>
+                     <title>Maḳalah 5</title>
+                  </msItem>
+                  <msItem n="308r">
+                     <locus from="308r" to="346v">308r-346v</locus>
+                     <title>Maḳalah 6</title>
+                  </msItem>
+                  <msItem n="346v">
+                     <locus from="346v" to="384v">346v-384v</locus>
+                     <title>Maḳalah 7</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>384 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 12 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 14;
-                                                  written lines: 14; Uniform layout.Visible hard-point ruling.Chapter numbers given in larger characters. Titles given in larger square characters.Catchwords on every verso.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental semi-cursive script of the 16th century. Daniel ben Mosheh ben Yeshayah Firuz: inscribed, folio 198v.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine: 'Samuel Ha-Rofe. Sefer Mitsvoth. Vol. II. Arabic. Brit. Mus. Oriental 2406.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1520"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed, [385v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 14; Uniform layout.Visible hard-point ruling.Chapter numbers given in larger characters. Titles given in larger square characters.Catchwords on every verso.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental semi-cursive script of the 16th century. Daniel ben Mosheh ben Yeshayah Firuz: inscribed, folio 198v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine: 'Samuel Ha-Rofe. Sefer Mitsvoth. Vol. II. Arabic. Brit. Mus. Oriental 2406.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1520"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed, [385v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

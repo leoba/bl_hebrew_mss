@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A festival prayer book, according to the rite of Fez with a modern appendix. Maḥzor Appendix</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A festival prayer book, according to the rite of Fez with a modern appendix. Maḥzor Appendix</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1024: A festival prayer book, according to the rite of Fez with a modern appendix. Maḥzor Appendix are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the beginning and at the end.  Lacunae after folios 33, 40, 43, and 64.  </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the beginning and at the end.  Lacunae after folios 33, 40, 43, and 64.  </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,76 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1024</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1024</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book, according to the rite of Fez with a modern appendix.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="188v">1r-188v</locus><title>A festival prayer book, according to the rite of Fez with a modern appendix.</title></msItem><msItem n="1r"><locus from="1r" to="188v">1r-188v</locus><title>Maḥzor מחזור</title></msItem><msItem n="2r"><locus from="2r" to="26r">2r-26r</locus><title>Services for Purim and fast-days</title></msItem><msItem n="26v"><locus from="26v" to="43v">26v-43v</locus><title>Tiḳun Shabat</title></msItem><msItem n="44r"><locus from="44r" to="51v">44r-51v</locus><title>Tiḳun seliḥot</title></msItem><msItem n="52r"><locus from="52r" to="73r">52r-73r</locus><title>Tiḳun shel Rosh ha-Shanah</title></msItem><msItem n="73r"><locus from="73r" to="83r">73r-83r</locus><title>Tiḳun le-῾atsirah</title></msItem><msItem n="83r"><locus from="83r" to="170v">83r-170v</locus><title>Maḥzor le-Yom Kipurim</title></msItem><msItem n="170v"><locus from="170v" to="182r">170v-182r</locus><title>Miscellaneous pieces</title></msItem><msItem n="183r"><locus from="183r" to="188v">183r-188v</locus><title>Appendix </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>182 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1024</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1024</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book, according to the rite of Fez with a modern appendix.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="188v">1r-188v</locus>
+                     <title>A festival prayer book, according to the rite of Fez with a modern appendix.</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="188v">1r-188v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="26r">2r-26r</locus>
+                     <title>Services for Purim and fast-days</title>
+                  </msItem>
+                  <msItem n="26v">
+                     <locus from="26v" to="43v">26v-43v</locus>
+                     <title>Tiḳun Shabat</title>
+                  </msItem>
+                  <msItem n="44r">
+                     <locus from="44r" to="51v">44r-51v</locus>
+                     <title>Tiḳun seliḥot</title>
+                  </msItem>
+                  <msItem n="52r">
+                     <locus from="52r" to="73r">52r-73r</locus>
+                     <title>Tiḳun shel Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="73r">
+                     <locus from="73r" to="83r">73r-83r</locus>
+                     <title>Tiḳun le-῾atsirah</title>
+                  </msItem>
+                  <msItem n="83r">
+                     <locus from="83r" to="170v">83r-170v</locus>
+                     <title>Maḥzor le-Yom Kipurim</title>
+                  </msItem>
+                  <msItem n="170v">
+                     <locus from="170v" to="182r">170v-182r</locus>
+                     <title>Miscellaneous pieces</title>
+                  </msItem>
+                  <msItem n="183r">
+                     <locus from="183r" to="188v">183r-188v</locus>
+                     <title>Appendix </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="">
+                        <support>
+                           <p/>
+                        </support>
+                        <extent>182 folios 
                               
                               
                               
@@ -41,7 +138,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -57,10 +156,43 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1  1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1  1;
                                                   ruled lines: 21 21;
-                                                  written lines: 21 32; Initial words written in larger characters.Leaf catchwords on every verso.Leaf catchwords on every verso.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi (North African) semi-cursive script, of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Machzor. Use of Fez. Hebrew. Oriental 1024.'</p></binding></bindingDesc></physDesc><history><origin/><provenance>Acquisition: 
+                                                  written lines: 21 32; Initial words written in larger characters.Leaf catchwords on every verso.Leaf catchwords on every verso.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi (North African) semi-cursive script, of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Machzor. Use of Fez. Hebrew. Oriental 1024.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin/>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Samuel Schönblum of Vienna: purchased from him by the British Museum on 8 January 1870: inscribed, back flyleaf [i]v.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Samuel Schönblum of Vienna: purchased from him by the British Museum on 8 January 1870: inscribed, back flyleaf [i]v.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

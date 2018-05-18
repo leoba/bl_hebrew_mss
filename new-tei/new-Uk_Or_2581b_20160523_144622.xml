@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perushim(פרושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perushim(פרושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2581b: Perushim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Partly damaged. Worm-eaten. Partly damaged. Worm-eaten. Stained, with parts of writing illegible. Slightly worm-eaten. Ink much faded. S;ightly stained.. Stained. Partly damaged. Worm-eaten. Damaged. Much damaged. Worm-eaten. Stained. Much stained. Fading ink. Partially stained. Slightly stained. Damaged margins. Damaged. Stained. Stained.  Worm-eaten. Much stained. Much damaged.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Partly damaged. Worm-eaten. Partly damaged. Worm-eaten. Stained, with parts of writing illegible. Slightly worm-eaten. Ink much faded. S;ightly stained.. Stained. Partly damaged. Worm-eaten. Damaged. Much damaged. Worm-eaten. Stained. Much stained. Fading ink. Partially stained. Slightly stained. Damaged margins. Damaged. Stained. Stained.  Worm-eaten. Much stained. Much damaged.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,112 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2581b</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2581b</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Several fragments of Arabic translations and commentaries on the Bible.</summary><textLang mainLang="jrb-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="64v">1r-64v</locus><title>Perushim פרושים</title></msItem><msItem n="1r"><locus from="1r" to="4r">1r-4r</locus><title>Commentary on Genesis </title></msItem><msItem n="5r"><locus from="5r" to="6v">5r-6v</locus><title>Commentary on Genesis </title></msItem><msItem n="7r"><locus from="7r" to="8v">7r-8v</locus><title>Exodus </title></msItem><msItem n="9r"><locus from="9r" to="9v">9r-9v</locus><title>Commentary on Exodus </title></msItem><msItem n="10r"><locus from="10r" to="10v">10r-10v</locus><title>Commentary on Exodus 20 </title></msItem><msItem n="11r"><locus from="11r" to="12v">11r-12v</locus><title>Commentary on Exodus </title></msItem><msItem n="13r"><locus from="13r" to="15v">13r-15v</locus><title>Commentary on Leviticus  </title></msItem><msItem n="16r"><locus from="16r" to="25v">16r-25v</locus><title>Commentary on Leviticus</title></msItem><msItem n="26r"><locus from="26r" to="27v">26r-27v</locus><title>Leviticus </title></msItem><msItem n="28r"><locus from="28r" to="35v">28r-35v</locus><title>Commentary on Numbers </title></msItem><msItem n="36r"><locus from="36r" to="36v">36r-36v</locus><title>Commentary on Joshua </title></msItem><msItem n="37r"><locus from="37r" to="37v">37r-37v</locus><title>Commentary on Judges</title></msItem><msItem n="38r"><locus from="38r" to="43v">38r-43v</locus><title>Commentary on Isaiah</title></msItem><msItem n="44r"><locus from="44r" to="49v">44r-49v</locus><title>Commentary on Hosea</title></msItem><msItem n="50r"><locus from="50r" to="53v">50r-53v</locus><title>Commentary on Habakuk and Zephaniah</title></msItem><msItem n="54r"><locus from="54r" to="55v">54r-55v</locus><title>Commentary on Song of Songs</title></msItem><msItem n="56r"><locus from="56r" to="63v">56r-63v</locus><title>Commentary on Song of Songs</title></msItem><msItem n="64r"><locus from="64r" to="64v">64r-64v</locus><title>Commentary on Nehemiah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>[i]+64 folios+[i]5 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2581b</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2581b</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Several fragments of Arabic translations and commentaries on the Bible.</summary>
+                  <textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="64v">1r-64v</locus>
+                     <title>Perushim פרושים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="4r">1r-4r</locus>
+                     <title>Commentary on Genesis </title>
+                  </msItem>
+                  <msItem n="5r">
+                     <locus from="5r" to="6v">5r-6v</locus>
+                     <title>Commentary on Genesis </title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="8v">7r-8v</locus>
+                     <title>Exodus </title>
+                  </msItem>
+                  <msItem n="9r">
+                     <locus from="9r" to="9v">9r-9v</locus>
+                     <title>Commentary on Exodus </title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="10v">10r-10v</locus>
+                     <title>Commentary on Exodus 20 </title>
+                  </msItem>
+                  <msItem n="11r">
+                     <locus from="11r" to="12v">11r-12v</locus>
+                     <title>Commentary on Exodus </title>
+                  </msItem>
+                  <msItem n="13r">
+                     <locus from="13r" to="15v">13r-15v</locus>
+                     <title>Commentary on Leviticus  </title>
+                  </msItem>
+                  <msItem n="16r">
+                     <locus from="16r" to="25v">16r-25v</locus>
+                     <title>Commentary on Leviticus</title>
+                  </msItem>
+                  <msItem n="26r">
+                     <locus from="26r" to="27v">26r-27v</locus>
+                     <title>Leviticus </title>
+                  </msItem>
+                  <msItem n="28r">
+                     <locus from="28r" to="35v">28r-35v</locus>
+                     <title>Commentary on Numbers </title>
+                  </msItem>
+                  <msItem n="36r">
+                     <locus from="36r" to="36v">36r-36v</locus>
+                     <title>Commentary on Joshua </title>
+                  </msItem>
+                  <msItem n="37r">
+                     <locus from="37r" to="37v">37r-37v</locus>
+                     <title>Commentary on Judges</title>
+                  </msItem>
+                  <msItem n="38r">
+                     <locus from="38r" to="43v">38r-43v</locus>
+                     <title>Commentary on Isaiah</title>
+                  </msItem>
+                  <msItem n="44r">
+                     <locus from="44r" to="49v">44r-49v</locus>
+                     <title>Commentary on Hosea</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="53v">50r-53v</locus>
+                     <title>Commentary on Habakuk and Zephaniah</title>
+                  </msItem>
+                  <msItem n="54r">
+                     <locus from="54r" to="55v">54r-55v</locus>
+                     <title>Commentary on Song of Songs</title>
+                  </msItem>
+                  <msItem n="56r">
+                     <locus from="56r" to="63v">56r-63v</locus>
+                     <title>Commentary on Song of Songs</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="64v">64r-64v</locus>
+                     <title>Commentary on Nehemiah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>[i]+64 folios+[i]5 folios
                               
                               
                               
@@ -169,7 +302,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -193,10 +328,45 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 15 13 14 17 17 22 22 25 19 22 7 8 15 16 14 19 19 19 11 12 16 18 8 13 17;
-                                                  written lines: 15 13 14 17 17 22 22 25 19 22 7 8 15 16 14 19 19 19 11 12 16 18 8 13 17; Visible hard-point ruling.Visible ruling.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Various Naskhi hands of 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. An Arabic script of approximately 11th to 12th century. A Naskhi hand of 11th to 12th century. An Arabic script of approximately 11th to 12th century, with Hebrew punctuation. An Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Karaitic Commentary on Prophets and Psalms. Arabic. Brit. Mus. Oriental MS. 2581B.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1000" notAfter="1199"/></origin><provenance>Acquisition: 
+                                                  written lines: 15 13 14 17 17 22 22 25 19 22 7 8 15 16 14 19 19 19 11 12 16 18 8 13 17; Visible hard-point ruling.Visible ruling.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Various Naskhi hands of 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. An Arabic script of approximately 11th to 12th century. A Naskhi hand of 11th to 12th century. An Arabic script of approximately 11th to 12th century, with Hebrew punctuation. An Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A small Arabic script of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century. A Naskhi hand of approximately 11th to 12th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Karaitic Commentary on Prophets and Psalms. Arabic. Brit. Mus. Oriental MS. 2581B.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1000" notAfter="1199"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, back flyleaf [i]v.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, back flyleaf [i]v.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

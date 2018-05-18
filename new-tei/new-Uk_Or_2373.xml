@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ketuvim (כתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ketuvim (כתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2373: Ketuvim  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,26 +39,155 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Incomplete at the beginning and at the end.   Numerous lacunae.  </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Incomplete at the beginning and at the end.   Numerous lacunae.  </note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2373</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2373</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A portion of the Hagiographa with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="125v">1r-125v</locus><title>Ketuvim  כתובים </title></msItem><msItem n="1r"><locus from="1r" to="2r">1r-2r</locus><title>Ruth</title></msItem><msItem n="2r"><locus from="2r" to="65v">2r-65v</locus><title>Psalms</title></msItem><msItem n="65v"><locus from="65v" to="91r">65v-91r</locus><title>Job</title></msItem><msItem n="91r"><locus from="91r" to="114v">91r-114v</locus><title>Proverbs</title></msItem><msItem n="114v"><locus from="114v" to="122v">114v-122v</locus><title>Ecclesiastes</title></msItem><msItem n="122v"><locus from="122v" to="125v">122v-125v</locus><title>Song of Songs</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>125 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2373</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2373</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A portion of the Hagiographa with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="125v">1r-125v</locus>
+                     <title>Ketuvim  כתובים </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="2r">1r-2r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="65v">2r-65v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="65v">
+                     <locus from="65v" to="91r">65v-91r</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="91r">
+                     <locus from="91r" to="114v">91r-114v</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="114v">
+                     <locus from="114v" to="122v">114v-122v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="122v">
+                     <locus from="122v" to="125v">122v-125v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>125 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									 	Originally mostly quires of 10 leaves. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 22;
-                                                  written lines: 22; Uniform layout. Several masoretic notes and rubrics. Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental square script, punctuated, of 13th century.</scriptNote></scriptDesc><decoDesc><decoNote>Full page drawing, in colours. 5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote><decoNote type="other"><locus>114r</locus>Full page drawing, in colours. 
-							</decoNote><decoNote type="other"><locus>2r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
-							</decoNote><decoNote type="other"><locus>65v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
-							</decoNote><decoNote type="other"><locus>91r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
-							</decoNote><decoNote type="other"><locus>113v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
-							</decoNote><decoNote type="other"><locus>122v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
-							</decoNote><decoNote type="marginal">Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote><decoNote type="illustration"><locus>114r</locus>
-								Full page drawing, in colours.</decoNote><decoNote type="illustration"><locus>2r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
-							</decoNote><decoNote type="illustration"><locus>65v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
-							</decoNote><decoNote type="illustration"><locus>91r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
-							</decoNote><decoNote type="illustration"><locus>113v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
-							</decoNote><decoNote type="illustration"><locus>122v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
-							</decoNote><decoNote type="marginal">Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: Hagiographa. Hebrew. Brit. Mus. Oriental 2373.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed ([126v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22; Uniform layout. Several masoretic notes and rubrics. Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental square script, punctuated, of 13th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Full page drawing, in colours. 5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote>
+                     <decoNote type="other">
+                        <locus>114r</locus>Full page drawing, in colours. 
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>2r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>65v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>91r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>113v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>122v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours. 
+							</decoNote>
+                     <decoNote type="marginal">Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>114r</locus>
+								Full page drawing, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>2r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>65v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>91r</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>113v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>122v</locus>5 geometrical decorations at the beginning or at the end of certain biblical books, in colours.
+							</decoNote>
+                     <decoNote type="marginal">Numerous marginal decorations at the beginning of chapters, in red and brown ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: Hagiographa. Hebrew. Brit. Mus. Oriental 2373.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Museum from him on 23 July 1881: inscribed ([126v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

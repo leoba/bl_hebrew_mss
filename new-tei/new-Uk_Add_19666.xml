@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19666: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,156 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Much stained. One leaf lost after folio 29.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Much stained. One leaf lost after folio 29.</note>
+            <note>
 								Avraham Asher ibn Yitsḥaḳ London: inscribed in a note, Sivan [5]605 [1845]: folio 3r.Censored by Dominico Irosolomitano, Italian censor (active 1585-1624): inscribed with his name (folio 278v); see 61, and appendix § 62-74.
-Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 287v); see 100-101, and appendix § 80-84. Several birth entries, inscribed on the flyleaves: Colomba daughter of Shemu᾿el and Juditta Ravenna, 17 Iyar 1680 (folio 2r); Bila Viola, daughter of the same parents, 9 Siṿan 1682 (folio 2r); Shemu᾿el Barukh, son of Rivkah, daughter of Eli῾ezer of Cologna, 29 Marheshvan 1644 (folio 279r); Yosef David, son of the same parents, 22 Kisleṿ 1646; Mordekhai , son of the same parents, 12 Adar 1657 (folio 279r); Riḳah, daughter of Immanuel Pinto and Juditta, 15 Elul 1672 (folio 279r); a son of the same parents, 9 Siṿan 1674 (folio 279v); Avraham, 2 Tamuz 1676 (folio 280r); Barukh Mordekhai, son of Yosef Ravenna and Tamar, 13 Iyar 1683 (folio 281r); Cremesina, daughter of the same parents, 23 Sivan 1685 (folio 281r); Shemu᾿el, son of the same parents, 11 Kisleṿ 1688 (folio 281r); Diamanta, daughter of the same parents, 2 Siṿan [....] (folio 281v).</note><note type="relatedResource">
+Censored by Giovanni Domenico Carretto, Italian censor (active 1600-1624): inscribed with his name, 1618 (folio 287v); see 100-101, and appendix § 80-84. Several birth entries, inscribed on the flyleaves: Colomba daughter of Shemu᾿el and Juditta Ravenna, 17 Iyar 1680 (folio 2r); Bila Viola, daughter of the same parents, 9 Siṿan 1682 (folio 2r); Shemu᾿el Barukh, son of Rivkah, daughter of Eli῾ezer of Cologna, 29 Marheshvan 1644 (folio 279r); Yosef David, son of the same parents, 22 Kisleṿ 1646; Mordekhai , son of the same parents, 12 Adar 1657 (folio 279r); Riḳah, daughter of Immanuel Pinto and Juditta, 15 Elul 1672 (folio 279r); a son of the same parents, 9 Siṿan 1674 (folio 279v); Avraham, 2 Tamuz 1676 (folio 280r); Barukh Mordekhai, son of Yosef Ravenna and Tamar, 13 Iyar 1683 (folio 281r); Cremesina, daughter of the same parents, 23 Sivan 1685 (folio 281r); Shemu᾿el, son of the same parents, 11 Kisleṿ 1688 (folio 281r); Diamanta, daughter of the same parents, 2 Siṿan [....] (folio 281v).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19666</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19666</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="281v">1r-281v</locus><title>Maḥzor מחזור</title></msItem><msItem n="3r"><locus from="3r" to="28v">3r-28v</locus><title>Services for the week-days</title></msItem><msItem n="28v"><locus from="28v" to="36v">28v-36v</locus><title>Services for Shabat</title></msItem><msItem n="36v"><locus from="36v" to="40r">36v-40r</locus><title>Services for Rosh ḥodesh</title></msItem><msItem n="40r"><locus from="40r" to="44v">40r-44v</locus><title>Services for Ḥanukah</title></msItem><msItem n="44v"><locus from="44v" to="51v">44v-51v</locus><title>Ta῾anit</title></msItem><msItem n="51v"><locus from="51v" to="63r">51v-63r</locus><title>Arba῾ah parashiyot</title></msItem><msItem n="63r"><locus from="63r" to="99r">63r-99r</locus><title>Services for Pesaḥ</title></msItem><msItem n="99r"><locus from="99r" to="115v">99r-115v</locus><title>Services for Shavu῾ot</title></msItem><msItem n="115v"><locus from="115v" to="119v">115v-119v</locus><title>Shiv῾ah ῾asar be-tamuz</title></msItem><msItem n="119v"><locus from="119v" to="137v">119v-137v</locus><title>Tish῾ah be-av</title></msItem><msItem n="137v"><locus from="137v" to="152v">137v-152v</locus><title>῾Aseret yeme teshuvah</title></msItem><msItem n="152v"><locus from="152v" to="166v">152v-166v</locus><title>Services for Rosh ha-Shanah</title></msItem><msItem n="166v"><locus from="166v" to="169v">166v-169v</locus><title>Tsom Gedalyah</title></msItem><msItem n="169v"><locus from="169v" to="252r">169v-252r</locus><title>Services for Tsom Kipur</title></msItem><msItem n="252r"><locus from="252r" to="272v">252r-272v</locus><title>Services for Sukot</title></msItem><msItem n="272v"><locus from="272v" to="281v">272v-281v</locus><title>A series of small offices</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>281 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19666</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19666</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="281v">1r-281v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="28v">3r-28v</locus>
+                     <title>Services for the week-days</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="36v">28v-36v</locus>
+                     <title>Services for Shabat</title>
+                  </msItem>
+                  <msItem n="36v">
+                     <locus from="36v" to="40r">36v-40r</locus>
+                     <title>Services for Rosh ḥodesh</title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="44v">40r-44v</locus>
+                     <title>Services for Ḥanukah</title>
+                  </msItem>
+                  <msItem n="44v">
+                     <locus from="44v" to="51v">44v-51v</locus>
+                     <title>Ta῾anit</title>
+                  </msItem>
+                  <msItem n="51v">
+                     <locus from="51v" to="63r">51v-63r</locus>
+                     <title>Arba῾ah parashiyot</title>
+                  </msItem>
+                  <msItem n="63r">
+                     <locus from="63r" to="99r">63r-99r</locus>
+                     <title>Services for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="99r">
+                     <locus from="99r" to="115v">99r-115v</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="115v">
+                     <locus from="115v" to="119v">115v-119v</locus>
+                     <title>Shiv῾ah ῾asar be-tamuz</title>
+                  </msItem>
+                  <msItem n="119v">
+                     <locus from="119v" to="137v">119v-137v</locus>
+                     <title>Tish῾ah be-av</title>
+                  </msItem>
+                  <msItem n="137v">
+                     <locus from="137v" to="152v">137v-152v</locus>
+                     <title>῾Aseret yeme teshuvah</title>
+                  </msItem>
+                  <msItem n="152v">
+                     <locus from="152v" to="166v">152v-166v</locus>
+                     <title>Services for Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="166v">
+                     <locus from="166v" to="169v">166v-169v</locus>
+                     <title>Tsom Gedalyah</title>
+                  </msItem>
+                  <msItem n="169v">
+                     <locus from="169v" to="252r">169v-252r</locus>
+                     <title>Services for Tsom Kipur</title>
+                  </msItem>
+                  <msItem n="252r">
+                     <locus from="252r" to="272v">252r-272v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="272v">
+                     <locus from="272v" to="281v">272v-281v</locus>
+                     <title>A series of small offices</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>281 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									28 quires of originally10 leaves each (folios 3-281), marked with catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 27;
-                                                  written lines: 27; Uniform layout.Visible hard-point ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.Folios 250 and 251 are a later restoration.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square and semi-cursive script of the 15th century. Punctuated.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Red leather. Boxed. Spine: 'Machazor. Secund Ritum. Romanum. Hebr. Mus. Brit. Jure Emptionis. 19,666.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153: inscribed, [282v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 27; Uniform layout.Visible hard-point ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.Folios 250 and 251 are a later restoration.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square and semi-cursive script of the 15th century. Punctuated.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Red leather. Boxed. Spine: 'Machazor. Secund Ritum. Romanum. Hebr. Mus. Brit. Jure Emptionis. 19,666.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153: inscribed, [282v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 10026: Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,8 +39,14 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Water damage.                Slight worming. Damaged leaves repaired.
-                  </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Water damage.                Slight worming. Damaged leaves repaired.
+                  </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -25,8 +54,40 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 10026</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_10026</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b.</summary><textLang mainLang="he" otherLangs=""/><msItem n="1r"><locus from="1r" to="20r">1r-20r</locus><title>שמעתא דתגרי לוד :פרוש בבלי, על בבא מציעא מט ע"ב Shemaʽta de-tagare Lod :perush Bavli, ʽal Bava Metsiʽa 29b</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>20 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 10026</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_10026</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Shemaʽta de-tagare Lod : commentary on Babylonian Talmud, Tractate Bava Metsia 29b.</summary>
+                  <textLang mainLang="he" otherLangs="">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="20r">1r-20r</locus>
+                     <title>שמעתא דתגרי לוד :פרוש בבלי, על בבא מציעא מט ע"ב Shemaʽta de-tagare Lod :perush Bavli, ʽal Bava Metsiʽa 29b</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>20 folios
                            
                            
                            
@@ -34,7 +95,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -42,10 +105,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 31;
-                                                  written lines: 31; Uniform layout.Plummet ruling, for frame/vericals only. Last written line outside ruling. Larger initial words and headings.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive script of the 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Gaster binding. Spine: 'Or. 10,026. Brit. Mus. Sugya on Baba Mesia. Hebrew.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1533"/></origin><provenance>Acquisition: 
+                                                  written lines: 31; Uniform layout.Plummet ruling, for frame/vericals only. Last written line outside ruling. Larger initial words and headings.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive script of the 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Gaster binding. Spine: 'Or. 10,026. Brit. Mus. Sugya on Baba Mesia. Hebrew.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1533"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 359; purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [i]v).              </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 359; purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [i]v).              </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of polemical and philosophocal works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of polemical and philosophocal works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19668: A collection of polemical and philosophocal works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slightly stained. </note><note>Folio 210v: a remedy against a strom on the sea; folio 211r: a formula against robbers. A Latin inscription, partly illegible: folio 1v. Folio 2r &amp; 2v: an index of contents in Latin. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slightly stained. </note>
+            <note>Folio 210v: a remedy against a strom on the sea; folio 211r: a formula against robbers. A Latin inscription, partly illegible: folio 1v. Folio 2r &amp; 2v: an index of contents in Latin. </note>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,76 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19668</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19668</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of polemical and philosophocal works. </summary><textLang mainLang="he"/><msItem n="3r"><locus from="3r" to="16v">3r-16v</locus><title>Baḳashat ha-mamin בקשת הממין</title></msItem><msItem n="17r"><locus from="17r" to="20v">17r-20v</locus><title>Baḳashat  ha-lamdin בקשת הלמדין</title></msItem><msItem n="21r"><locus from="21r" to="31v">21r-31v</locus><title>Elef alafin אלף אלפין</title></msItem><msItem n="31v"><locus from="31v" to="48r">31v-48r</locus><title>Igeret al tihyi ke-avotekha אגרת אל תהי כאבותיך</title></msItem><msItem n="48r"><locus from="48r" to="57r">48r-57r</locus><title>῾Arugat ha-mezimah ṿe-pardes ha-ḥokhmah  ערוגת המזימה ופרדס החכמה</title></msItem><msItem n="57r"><locus from="57r" to="65v">57r-65v</locus><title>Igeret ha-musar ha-kelalit אגרת המוסר הכללית</title></msItem><msItem n="65v"><locus from="65v" to="70v">65v-70v</locus><title>Igeret Aristo el ha-melekh Alexander  אגרת אריסטו אל המלך אלכסנדר</title></msItem><msItem n="70v"><locus from="70v" to="73v">70v-73v</locus><title>Shir be-milḥamah arukah שיר במלחמה ערוכה</title></msItem><msItem n="73v"><locus from="73v" to="78v">73v-78v</locus><title>Be-reshit mamlakhat ha-ḥayalim  בראשית ממלכת החיילים</title></msItem><msItem n="78v"><locus from="78v" to="211v">78v-211v</locus><title>Ketav hitnatslut  כתב התנצלות</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>211 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19668</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19668</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of polemical and philosophocal works. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="3r">
+                     <locus from="3r" to="16v">3r-16v</locus>
+                     <title>Baḳashat ha-mamin בקשת הממין</title>
+                  </msItem>
+                  <msItem n="17r">
+                     <locus from="17r" to="20v">17r-20v</locus>
+                     <title>Baḳashat  ha-lamdin בקשת הלמדין</title>
+                  </msItem>
+                  <msItem n="21r">
+                     <locus from="21r" to="31v">21r-31v</locus>
+                     <title>Elef alafin אלף אלפין</title>
+                  </msItem>
+                  <msItem n="31v">
+                     <locus from="31v" to="48r">31v-48r</locus>
+                     <title>Igeret al tihyi ke-avotekha אגרת אל תהי כאבותיך</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="57r">48r-57r</locus>
+                     <title>῾Arugat ha-mezimah ṿe-pardes ha-ḥokhmah  ערוגת המזימה ופרדס החכמה</title>
+                  </msItem>
+                  <msItem n="57r">
+                     <locus from="57r" to="65v">57r-65v</locus>
+                     <title>Igeret ha-musar ha-kelalit אגרת המוסר הכללית</title>
+                  </msItem>
+                  <msItem n="65v">
+                     <locus from="65v" to="70v">65v-70v</locus>
+                     <title>Igeret Aristo el ha-melekh Alexander  אגרת אריסטו אל המלך אלכסנדר</title>
+                  </msItem>
+                  <msItem n="70v">
+                     <locus from="70v" to="73v">70v-73v</locus>
+                     <title>Shir be-milḥamah arukah שיר במלחמה ערוכה</title>
+                  </msItem>
+                  <msItem n="73v">
+                     <locus from="73v" to="78v">73v-78v</locus>
+                     <title>Be-reshit mamlakhat ha-ḥayalim  בראשית ממלכת החיילים</title>
+                  </msItem>
+                  <msItem n="78v">
+                     <locus from="78v" to="211v">78v-211v</locus>
+                     <title>Ketav hitnatslut  כתב התנצלות</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>211 folios
                            
                            
                            
@@ -33,7 +130,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +140,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 13;
-                                                  written lines: 13; Uniform layout.Initial words in larger characters.Hair side and flesh side of folios distinguishable. Complete ruling by hard point (bifolium by bifolium) and pricking (quire by quire) on outer margin visible.  Graphic filler at the end of line. Last written line outside ruling. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive and square script of the 15th century. </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown blind-tooled leather. Boxed.  Spine: 'Tractatus Varii. Hebraice. Brit. Mus. Jure Empt. 19.668.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1450"/></origin><provenance>Acquisition: 
+                                                  written lines: 13; Uniform layout.Initial words in larger characters.Hair side and flesh side of folios distinguishable. Complete ruling by hard point (bifolium by bifolium) and pricking (quire by quire) on outer margin visible.  Graphic filler at the end of line. Last written line outside ruling. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive and square script of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown blind-tooled leather. Boxed.  Spine: 'Tractatus Varii. Hebraice. Brit. Mus. Jure Empt. 19.668.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1450"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853: purchased from him by the British Museum on 12 November 1853: inscribed, folio [213v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum 1841-1853: purchased from him by the British Museum on 12 November 1853: inscribed, folio [213v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

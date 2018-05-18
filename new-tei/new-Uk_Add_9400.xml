@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, megilot ṿe-hafṭarot (תורה, מגילות והפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, megilot ṿe-hafṭarot (תורה, מגילות והפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 9400: Torah, megilot ṿe-hafṭarot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,139 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 9400</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9400</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with Targum Onḳelos, the Five Scrolls and Hafṭarot, with punctuation and accents.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="337v">1r-337v</locus><title>Torah, megilot ṿe-hafṭarot  תורה, מגילות  והפטרות </title></msItem><msItem n="2v"><locus from="2v" to="70r">2v-70r</locus><title>Genesis</title></msItem><msItem n="70r"><locus from="70r" to="128r">70r-128r</locus><title>Exodus</title></msItem><msItem n="128r"><locus from="128r" to="170r">128r-170r</locus><title>Leviticus</title></msItem><msItem n="170r"><locus from="170r" to="223v">170r-223v</locus><title>Numbers</title></msItem><msItem n="223v"><locus from="223v" to="273v">223v-273v</locus><title>Deuteronomy</title></msItem><msItem n="274r"><locus from="274r" to="275r">274r-275r</locus><title> Notes</title></msItem><msItem n="275r"><locus from="275r" to="277r">275r-277r</locus><title>Song of Songs</title></msItem><msItem n="277r"><locus from="277r" to="279r">277r-279r</locus><title>Ruth</title></msItem><msItem n="279r"><locus from="279r" to="281v">279r-281v</locus><title>Lamentations</title></msItem><msItem n="282r"><locus from="282r" to="286v">282r-286v</locus><title>Ecclesiastes</title></msItem><msItem n="286v"><locus from="286v" to="292r">286v-292r</locus><title>Esther</title></msItem><msItem n="292r"><locus from="292r" to="337v">292r-337v</locus><title>Hafṭarot </title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>337 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 9400</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9400</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Targum Onḳelos, the Five Scrolls and Hafṭarot, with punctuation and accents.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="337v">1r-337v</locus>
+                     <title>Torah, megilot ṿe-hafṭarot  תורה, מגילות  והפטרות </title>
+                  </msItem>
+                  <msItem n="2v">
+                     <locus from="2v" to="70r">2v-70r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="70r">
+                     <locus from="70r" to="128r">70r-128r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="128r">
+                     <locus from="128r" to="170r">128r-170r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="170r">
+                     <locus from="170r" to="223v">170r-223v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="223v">
+                     <locus from="223v" to="273v">223v-273v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="274r">
+                     <locus from="274r" to="275r">274r-275r</locus>
+                     <title> Notes</title>
+                  </msItem>
+                  <msItem n="275r">
+                     <locus from="275r" to="277r">275r-277r</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="277r">
+                     <locus from="277r" to="279r">277r-279r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="279r">
+                     <locus from="279r" to="281v">279r-281v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="282r">
+                     <locus from="282r" to="286v">282r-286v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="286v">
+                     <locus from="286v" to="292r">286v-292r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="292r">
+                     <locus from="292r" to="337v">292r-337v</locus>
+                     <title>Hafṭarot </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>337 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									42 quires: 41 of 8 leaves and the last one of 7 leaves. 
 									Quires marked by ornamented catchwords on the last page.  
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 29;
-                                                  written lines: 28; Folios 2-5 and 274 added in the 18th century. Numbers, Song of Songs and Ecclesisates commence a new leaf. Initial words of Genesis, Song of Songs and Haftarot written in larger letters. Beginnings of pericopes in the Pentateuch marked in the margin by ornamented פ or פר. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script, provided with vowel-points and accents, of the 13th century. </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Brown leather, blind-tooled, with clasps.  Spine: 'Bible. Hebrew. Brit. Mus. Additional 9400.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/></origin><provenance>John van der Hagen</provenance><provenance>Cornelius Schulting</provenance><provenance>Acquisition: 
-								Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar. His bookplate with Greek inscription: ho theos agape estin (inner lower cover) and his short description of the manuscript in English on folio [ii verso]. This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in 1834, once the property of the Hagen family and then of Adam Clarke. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 28; Folios 2-5 and 274 added in the 18th century. Numbers, Song of Songs and Ecclesisates commence a new leaf. Initial words of Genesis, Song of Songs and Haftarot written in larger letters. Beginnings of pericopes in the Pentateuch marked in the margin by ornamented פ or פר. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script, provided with vowel-points and accents, of the 13th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather, blind-tooled, with clasps.  Spine: 'Bible. Hebrew. Brit. Mus. Additional 9400.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                  </origin>
+                  <provenance>John van der Hagen</provenance>
+                  <provenance>Cornelius Schulting</provenance>
+                  <provenance>Acquisition: 
+								Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar. His bookplate with Greek inscription: ho theos agape estin (inner lower cover) and his short description of the manuscript in English on folio [ii verso]. This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in 1834, once the property of the Hagen family and then of Adam Clarke. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

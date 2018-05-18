@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, megilot ṿe-hafṭarot(תורה, מגילות והפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, megilot ṿe-hafṭarot(תורה, מגילות והפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5706: Torah, megilot ṿe-hafṭarot are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,130 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Some leaves had been damaged and were later restored; some of the leaves bear stains.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Some leaves had been damaged and were later restored; some of the leaves bear stains.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5706</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5706</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch, Five Scrolls and Hafṭarot, provided with vowel-points, accents and masoretic notes.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="259v">1r-259v</locus><title>Torah, megilot ṿe-hafṭarot תורה, מגילות והפטרות</title></msItem><msItem n="1r"><locus from="1r" to="46v">1r-46v</locus><title>Exodus</title></msItem><msItem n="46v"><locus from="46v" to="80r">46v-80r</locus><title>Leviticus</title></msItem><msItem n="80r"><locus from="80r" to="122r">80r-122r</locus><title>Numbers</title></msItem><msItem n="122r"><locus from="122r" to="166r">122r-166r</locus><title>Deuteronomy</title></msItem><msItem n="166r"><locus from="166r" to="175r">166r-175r</locus><title>Esther</title></msItem><msItem n="175r"><locus from="175r" to="178v">175r-178v</locus><title>Song of Songs</title></msItem><msItem n="178v"><locus from="178v" to="182v">178v-182v</locus><title>Ruth</title></msItem><msItem n="182v"><locus from="182v" to="187r">182v-187r</locus><title>Lamentations</title></msItem><msItem n="187r"><locus from="187r" to="195v">187r-195v</locus><title>Ecclesiastes</title></msItem><msItem n="195v"><locus from="195v" to="259v">195v-259v</locus><title>Hafṭarot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>259 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5706</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5706</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch, Five Scrolls and Hafṭarot, provided with vowel-points, accents and masoretic notes.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="259v">1r-259v</locus>
+                     <title>Torah, megilot ṿe-hafṭarot תורה, מגילות והפטרות</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="46v">1r-46v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="46v">
+                     <locus from="46v" to="80r">46v-80r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="80r">
+                     <locus from="80r" to="122r">80r-122r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="122r">
+                     <locus from="122r" to="166r">122r-166r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="166r">
+                     <locus from="166r" to="175r">166r-175r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="175r">
+                     <locus from="175r" to="178v">175r-178v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="178v">
+                     <locus from="178v" to="182v">178v-182v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="182v">
+                     <locus from="182v" to="187r">182v-187r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="187r">
+                     <locus from="187r" to="195v">187r-195v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="195v">
+                     <locus from="195v" to="259v">195v-259v</locus>
+                     <title>Hafṭarot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>259 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									32 extant quires, mostly of 8 leaves, with a lacuna after folio 85 and folio 243; also imperfect at the beginning and at the end.
 									Quires are marked with catchwords on the last page.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 23;
-                                                  written lines: 23; The main text is written in two columns, 23 lines a page.Lamentations and Ecclesiastes begin a new column; Numbers, Deuteronomy and Song of Songs begin a new leaf. All other books open a new page.In the Pentateuch the beginning of a new pericope is indicated by פפפ written within the column.The centre-marks indicating the middle verse and the middle letter in the Pentateuch are on folios 53r, 57r</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (French) square scrip of the 13th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house binding. Spine: 'Pentateuchus. Etc. Hebraice. Brit. Mus. Harley 5706.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>France</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 23; The main text is written in two columns, 23 lines a page.Lamentations and Ecclesiastes begin a new column; Numbers, Deuteronomy and Song of Songs begin a new leaf. All other books open a new page.In the Pentateuch the beginning of a new pericope is indicated by פפפ written within the column.The centre-marks indicating the middle verse and the middle letter in the Pentateuch are on folios 53r, 57r</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (French) square scrip of the 13th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house binding. Spine: 'Pentateuchus. Etc. Hebraice. Brit. Mus. Harley 5706.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>France</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753  to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

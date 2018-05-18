@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 11830: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,109 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>The first leaf of the first quire is missing.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>The first leaf of the first quire is missing.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 11830</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11830</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Festival prayer book (maḥzor) for Rosh ha-Shanah, Ashkenazi rite.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="179v">1r-179v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="96r">1r-96r</locus><title>Services for the first day </title></msItem><msItem n="96r"><locus from="96r" to="179v">96r-179v</locus><title>Services for the second day </title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>179 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 11830</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11830</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Festival prayer book (maḥzor) for Rosh ha-Shanah, Ashkenazi rite.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="179v">1r-179v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="96r">1r-96r</locus>
+                     <title>Services for the first day </title>
+                  </msItem>
+                  <msItem n="96r">
+                     <locus from="96r" to="179v">96r-179v</locus>
+                     <title>Services for the second day </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>179 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									18 quires: i(10-1) (folios 1-9), ii-xviii(10) (folios 10-179). 
 									There are catchwords at the end of the quires.
 									Quires are numbered with Latin letters starting at the end of the codex with ‘a’. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 19;
-                                                  written lines: 18; Uniform layout.Visible pricking and hard-point ruling.Initial words written in larger characters.8 unfinished initial words (folios 1v, 32v, 62v, 73v, 78r, 97r, 155v, 159v).Hair side and flesh side are distinguishable.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square, punctuated, of the last quarter of the 14th century.</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>22r</locus>
-								1 decorated initial word in ink. </decoNote><decoNote type="marginal"><locus>20v</locus>1 marginal drawing in ink.
-							</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Binding of the Bibliotheca Butleriana: light brown leather, tooled, with the coat of arms of the Bibliotheca Butleriana. Spine: 'Mahzor. New Year's Feast. Hebrew. Brit. Mus. Bibl. Butl. Add. Or. 11,830.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1375" notAfter="1384"/></origin><provenance>Yisra᾿el ben Daniyel</provenance><provenance>Ya῾aḳov Tsoref</provenance><provenance>Acquisition: 
-								Samuel Butler (b. 1774, d. 1839), headmaster and bishop of Coventry and Lichfield: his sale catalogue, Payne &amp; Foss, 1841, no. 550, purchased by the British Museum: inscribed (folio [180v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 18; Uniform layout.Visible pricking and hard-point ruling.Initial words written in larger characters.8 unfinished initial words (folios 1v, 32v, 62v, 73v, 78r, 97r, 155v, 159v).Hair side and flesh side are distinguishable.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square, punctuated, of the last quarter of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>22r</locus>
+								1 decorated initial word in ink. </decoNote>
+                     <decoNote type="marginal">
+                        <locus>20v</locus>1 marginal drawing in ink.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Binding of the Bibliotheca Butleriana: light brown leather, tooled, with the coat of arms of the Bibliotheca Butleriana. Spine: 'Mahzor. New Year's Feast. Hebrew. Brit. Mus. Bibl. Butl. Add. Or. 11,830.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1375" notAfter="1384"/>
+                  </origin>
+                  <provenance>Yisra᾿el ben Daniyel</provenance>
+                  <provenance>Ya῾aḳov Tsoref</provenance>
+                  <provenance>Acquisition: 
+								Samuel Butler (b. 1774, d. 1839), headmaster and bishop of Coventry and Lichfield: his sale catalogue, Payne &amp; Foss, 1841, no. 550, purchased by the British Museum: inscribed (folio [180v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

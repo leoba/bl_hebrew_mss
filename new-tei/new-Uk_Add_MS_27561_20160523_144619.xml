@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perushim(פרושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perushim(פרושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27561: Perushim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,12 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +52,52 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27561</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27561</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Three supercommentaries on Abraham Ibn Ezra's commentary on the Pentateuch.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="85v">2r-85v</locus><title>Perushim פרושים </title></msItem><msItem n="2r"><locus from="2r" to="45r">2r-45r</locus><title>Commentary on Abraham Ibn Ezra's commentary on the Pentateuch </title></msItem><msItem n="45r"><locus from="45r" to="53r">45r-53r</locus><title>Additional notes on Abraham Ibn Ezra's commentary on the Pentateuch </title></msItem><msItem n="53r"><locus from="53r" to="85v">53r-85v</locus><title>Supercommentary on Abraham Ibn Ezra's commentary on the Pentateuch </title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27561</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27561</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Three supercommentaries on Abraham Ibn Ezra's commentary on the Pentateuch.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="85v">2r-85v</locus>
+                     <title>Perushim פרושים </title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="45r">2r-45r</locus>
+                     <title>Commentary on Abraham Ibn Ezra's commentary on the Pentateuch </title>
+                  </msItem>
+                  <msItem n="45r">
+                     <locus from="45r" to="53r">45r-53r</locus>
+                     <title>Additional notes on Abraham Ibn Ezra's commentary on the Pentateuch </title>
+                  </msItem>
+                  <msItem n="53r">
+                     <locus from="53r" to="85v">53r-85v</locus>
+                     <title>Supercommentary on Abraham Ibn Ezra's commentary on the Pentateuch </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>
 									85 folios (+2 unfoliated paper flyleaves at the beginning and 3 unfoliated paper flyleaves at the end; 1 foliated vellum flyleaf at the beginning)
 								53 folios
                               
@@ -43,10 +115,45 @@
                            
                            
                            
-                           </extent><collation><p/></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1;
+                           </extent>
+                        <collation>
+                           <p/>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1;
                                                   ruled lines: 26 34 23 27;
-                                                  written lines: 26 34 23 27; Uniform layout. Uniform layout. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi semi-cursive of the 14th to 15th century. Oriental (Byzantine?) semi-cursive script of the 14th century. Avner ben Berakhah Shuḳr?: inscribed with his name in the colophon, folio 85v.  </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine: 'Commentary on Ibn Ezra on the Pentateuch. Hebrew. Brit. Mus. Additional Ms. 27561.'</p></binding></bindingDesc></physDesc><history><origin/><provenance>Acquisition: 
+                                                  written lines: 26 34 23 27; Uniform layout. Uniform layout. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi semi-cursive of the 14th to 15th century. Oriental (Byzantine?) semi-cursive script of the 14th century. Avner ben Berakhah Shuḳr?: inscribed with his name in the colophon, folio 85v.  </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine: 'Commentary on Ibn Ezra on the Pentateuch. Hebrew. Brit. Mus. Additional Ms. 27561.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin/>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Samuel Schönblum: purchased from him by the British Museum on 08 December 1866: inscribed, [88v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Samuel Schönblum: purchased from him by the British Museum on 08 December 1866: inscribed, [88v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

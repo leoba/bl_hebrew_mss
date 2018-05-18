@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Ketuvim(כתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Ketuvim(כתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27053: Ketuvim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,120 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the beginning and at the end.</note><note>
-								Shelomoh Scanriani and Mosheh Refa’el Scanriani, inscribed with names on folio 227v.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the beginning and at the end.</note>
+            <note>
+								Shelomoh Scanriani and Mosheh Refa’el Scanriani, inscribed with names on folio 227v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27053</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27053</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Parts of the Hagiographa, provided with vowel-points and accents, with marginal notes regarding ḳeri.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="248v">1r-248v</locus><title>Ketuvim כתובים </title></msItem><msItem n="1r"><locus from="1r" to="136v">1r-136v</locus><title>Psalms</title></msItem><msItem n="137r"><locus from="137r" to="197r">137r-197r</locus><title>Job</title></msItem><msItem n="197r"><locus from="197r" to="218v">197r-218v</locus><title>Esther</title></msItem><msItem n="218v"><locus from="218v" to="227v">218v-227v</locus><title>Song of Songs</title></msItem><msItem n="227v"><locus from="227v" to="236r">227v-236r</locus><title>Ruth</title></msItem><msItem n="236r"><locus from="236r" to="247r">236r-247r</locus><title>Lamentations</title></msItem><msItem n="247r"><locus from="247r" to="248v">247r-248v</locus><title>Ecclesiastes</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>248 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27053</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27053</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Parts of the Hagiographa, provided with vowel-points and accents, with marginal notes regarding ḳeri.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="248v">1r-248v</locus>
+                     <title>Ketuvim כתובים </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="136v">1r-136v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="137r">
+                     <locus from="137r" to="197r">137r-197r</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="197r">
+                     <locus from="197r" to="218v">197r-218v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="218v">
+                     <locus from="218v" to="227v">218v-227v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="227v">
+                     <locus from="227v" to="236r">227v-236r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="236r">
+                     <locus from="236r" to="247r">236r-247r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="247r">
+                     <locus from="247r" to="248v">247r-248v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>248 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
 									The quires are marked with catchwords on the lower left-hand corner of the last page and numbered with Hebrew letters both at the beginning and at the end of the quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 15;
-                                                  written lines: 15; Uniform layout. The catchwords from page to page are written in the middle of the lower margin.The Psalms are numbered and divided into groups, separated with blank spaces from 1 to 8 lines.Vertical ruling with pen, horizontal ruling with a sharp object.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square script, punctuated, of the 15th century. Natan Casallo, inscribed with his name in the colophon, folio 136v.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through  Asher &amp; Co., Berlin bookseller and dealer to the British Museum (131-153: inscribed (folio [249v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 15; Uniform layout. The catchwords from page to page are written in the middle of the lower margin.The Psalms are numbered and divided into groups, separated with blank spaces from 1 to 8 lines.Vertical ruling with pen, horizontal ruling with a sharp object.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square script, punctuated, of the 15th century. Natan Casallo, inscribed with his name in the colophon, folio 136v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860); his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through  Asher &amp; Co., Berlin bookseller and dealer to the British Museum (131-153: inscribed (folio [249v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

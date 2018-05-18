@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A concordance of rabbinical terms and a series of notes and legal regulations. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A concordance of rabbinical terms and a series of notes and legal regulations. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 6357: A concordance of rabbinical terms and a series of notes and legal regulations.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Slight tidemark at upper corner.  A few missing corners, infilled before rebinding. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Slight tidemark at upper corner.  A few missing corners, infilled before rebinding. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,48 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 6357</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_6357</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A concordance of rabbinical terms and a series of notes and legal regulations. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="61v">1r-61v</locus><title>Ḳonḳordantsiyah קונקורדנציה</title></msItem><msItem n="61v"><locus from="61v" to="63v">61v-63v</locus><title>Ḥidushe halakhah חדושי הלכה</title></msItem><msItem n="64r"><locus from="64r" to="74v">64r-74v</locus><title>Dine giṭin, yibum ṿe-ḳidushin דיני גטין, יבום וקדושין</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>74 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 6357</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_6357</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A concordance of rabbinical terms and a series of notes and legal regulations. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="61v">1r-61v</locus>
+                     <title>Ḳonḳordantsiyah קונקורדנציה</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="63v">61v-63v</locus>
+                     <title>Ḥidushe halakhah חדושי הלכה</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="74v">64r-74v</locus>
+                     <title>Dine giṭin, yibum ṿe-ḳidushin דיני גטין, יבום וקדושין</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>74 folios
                            
                            
                            
@@ -33,7 +102,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +112,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 30 39;
-                                                  written lines: 30 39; Uniform layout. Visible vertical ruling by folding. Larger square initial words. Catchwords under every column. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive script of the first half of the 17th century. Shemuʼel Siriro: autograph, inscribed folio 61v. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Saul Siriro. Concordance of Rabbinical Terms. Hebrew. Brit. Mus. Oriental 6357.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1610" notAfter="1632"/></origin><provenance>Acquisition: 
+                                                  written lines: 30 39; Uniform layout. Visible vertical ruling by folding. Larger square initial words. Catchwords under every column. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive script of the first half of the 17th century. Shemuʼel Siriro: autograph, inscribed folio 61v. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Saul Siriro. Concordance of Rabbinical Terms. Hebrew. Brit. Mus. Oriental 6357.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1610" notAfter="1632"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Raffalovich &amp; Lipkin: purchased by the British Museum from him on 15 April 1902: inscribed, folio [75v] (fse001v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Raffalovich &amp; Lipkin: purchased by the British Museum from him on 15 April 1902: inscribed, folio [75v] (fse001v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

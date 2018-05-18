@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A kabbalistic book of devotion for the Shabat. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A kabbalistic book of devotion for the Shabat. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 11433: A kabbalistic book of devotion for the Shabat.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,40 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 11433</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11433</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A kabbalistic book of devotion for the Shabat. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="47v">1r-47v</locus><title>Tiḳune shabat תקוני שבת</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>47 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 11433</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11433</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A kabbalistic book of devotion for the Shabat. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="47v">1r-47v</locus>
+                     <title>Tiḳune shabat תקוני שבת</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>47 folios 
                            
                            
                            
@@ -33,7 +94,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,54 +104,115 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 22;
-                                                  written lines: 22; Uniform layout. Initial words in large square characters. Visible hard-point ruling. Ink frames. Pen-and-ink decorated title page (1r). Numerous pen-and-ink textual illustrations. Gilt edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Hebrew square script ('Amsterdam font') of the 18th century. Meshulam Zimel ben Mosheh of Polna: inscirbed, folio 1r. </scriptNote></scriptDesc><decoDesc><decoNote type="illustration"><locus>8v</locus>Numerous pen and ink textual illustrations. 
+                                                  written lines: 22; Uniform layout. Initial words in large square characters. Visible hard-point ruling. Ink frames. Pen-and-ink decorated title page (1r). Numerous pen-and-ink textual illustrations. Gilt edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Hebrew square script ('Amsterdam font') of the 18th century. Meshulam Zimel ben Mosheh of Polna: inscirbed, folio 1r. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <locus>8v</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>10v</locus>Numerous pen and ink textual illustrations. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>10v</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>22r</locus>Numerous pen and ink textual illustrations. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>22r</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>31v</locus>Numerous pen and ink textual illustrations. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>31v</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>40r</locus>Numerous pen and ink textual illustrations. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>40r</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="illustration"><locus>42v</locus>Numerous pen and ink textual illustrations. 
+                     </decoNote>
+                     <decoNote type="illustration">
+                        <locus>42v</locus>Numerous pen and ink textual illustrations. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>2v</locus> Initial-word panels with penwork decoration in black ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>2v</locus> Initial-word panels with penwork decoration in black ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>8v</locus> Initial-word panels with penwork decoration in black ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>8v</locus> Initial-word panels with penwork decoration in black ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>10r</locus> Initial-word panels with penwork decoration in black ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>10r</locus> Initial-word panels with penwork decoration in black ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>22v</locus> Initial-word panels with penwork decoration in black ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>22v</locus> Initial-word panels with penwork decoration in black ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>32r</locus> Initial-word panels with penwork decoration in black ink. 
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>32r</locus> Initial-word panels with penwork decoration in black ink. 
                      
                      
                      
-                     </decoNote><decoNote type="initial"><locus>1r</locus>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <locus>1r</locus>
                         
                         
                         
-                        Title page framed by arch, with penwork decoration in black ink. </decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Black leather, gold-tooled. Boxed. Spine: 'Liber Institut Sabbati. Hebraice. Mus. Brit. Jure Emptionis 11,433 Plut.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1715"/></origin><provenance>Acquisition: Purchased at Evans's on 27 July 1838, lot 1241: inscribed, folio [49v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Title page framed by arch, with penwork decoration in black ink. </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Black leather, gold-tooled. Boxed. Spine: 'Liber Institut Sabbati. Hebraice. Mus. Brit. Jure Emptionis 11,433 Plut.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1715"/>
+                  </origin>
+                  <provenance>Acquisition: Purchased at Evans's on 27 July 1838, lot 1241: inscribed, folio [49v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

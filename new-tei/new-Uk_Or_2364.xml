@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah (תורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah (תורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2364: Torah  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,24 +39,149 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2364</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2364</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentatuech and Hafṭarot, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan is prefixed. </summary><textLang mainLang="he" otherLangs="tmr-Hebr jrb"/><msItem n="1r"><locus from="1r" to="288v">1r-288v</locus><title>Torah  תורה </title></msItem><msItem n="1r"><locus from="1r" to="19v">1r-19v</locus><title>Maḥberet ha-tigan</title></msItem><msItem n="19v"><locus from="19v" to="61r">19v-61r</locus><title>Genesis</title></msItem><msItem n="61r"><locus from="61r" to="96r">61r-96r</locus><title>Exodus</title></msItem><msItem n="96r"><locus from="96r" to="120r">96r-120r</locus><title>Leviticus</title></msItem><msItem n="120r"><locus from="120r" to="154v">120r-154v</locus><title>Numbers</title></msItem><msItem n="154v"><locus from="154v" to="186v">154v-186v</locus><title>Deuteronomy</title></msItem><msItem n="186v"><locus from="186v" to="288v">186v-288v</locus><title>Hafṭarot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>288 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2364</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2364</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentatuech and Hafṭarot, with vowel-points and accents, masorah magna and parva. Maḥberet ha-tigan is prefixed. </summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr jrb">Hebrew, Jewish Babylonian Aramaic (ca. 200-1200 CE), Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="288v">1r-288v</locus>
+                     <title>Torah  תורה </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="19v">1r-19v</locus>
+                     <title>Maḥberet ha-tigan</title>
+                  </msItem>
+                  <msItem n="19v">
+                     <locus from="19v" to="61r">19v-61r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="61r">
+                     <locus from="61r" to="96r">61r-96r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="96r">
+                     <locus from="96r" to="120r">96r-120r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="120r">
+                     <locus from="120r" to="154v">120r-154v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="154v">
+                     <locus from="154v" to="186v">154v-186v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="186v">
+                     <locus from="186v" to="288v">186v-288v</locus>
+                     <title>Hafṭarot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>288 folios
+								</extent>
+                        <collation>
+                           <p>
 									i6; ii12; iii-xviii10; xix7; xx-xxx10; xxxi3. 
 									Some quires are marked with a catchword at the end; several quires signed with Hebrew letters at the beginning and at the end. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 22;
-                                                  written lines: 22; The beginning of the first few pericopes is marked by the letter samekh in the margin. Each pericope is divided into 7 sections numbered with Hebrew letters in the margin or in the text itself. An open section is generally distinguished by a blank line. Masorah magna usually occupies two lines in the upper and two lines in the lower margin. In the Hafṭarot the upper and lower margin is occupied by midrashic comments in Hebrew and partly in Arabic (in Hebrew characters). </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square and semi-cursive script, punctuated, of the second part of the 15th century. </scriptNote></scriptDesc><decoDesc><decoNote>Numerous examples of micrographic masorah. </decoNote><decoNote type="other"><locus>73r</locus>Numerous examples of micrographic masorah.
-							</decoNote><decoNote type="other"><locus>73v,182v</locus>Numerous examples of micrographic masorah.
-							</decoNote><decoNote type="other"><locus>183r</locus>Numerous examples of micrographic masorah.
-							</decoNote><decoNote type="other"><locus>183v</locus>Numerous examples of micrographic masorah.
-							</decoNote><decoNote type="other"><locus>184r</locus>Numerous examples of micrographic masorah.
-							</decoNote><decoNote type="other"><locus>73r</locus>
-								Numerous examples of micrographic masorah.</decoNote><decoNote type="other"><locus>73v,182v</locus>
-								Numerous examples of micrographic masorah.</decoNote><decoNote type="other"><locus>183r</locus>
-								Numerous examples of micrographic masorah.</decoNote><decoNote type="other"><locus>183v</locus>
-								Numerous examples of micrographic masorah.</decoNote><decoNote type="other"><locus>184r </locus>
-								Numerous examples of micrographic masorah.</decoNote></decoDesc><bindingDesc><binding><p>  	Pre-1600. An original box tooled leather binding (the clasps and spine may be of a later date). </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1450" notAfter="1499"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, [291v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 22; The beginning of the first few pericopes is marked by the letter samekh in the margin. Each pericope is divided into 7 sections numbered with Hebrew letters in the margin or in the text itself. An open section is generally distinguished by a blank line. Masorah magna usually occupies two lines in the upper and two lines in the lower margin. In the Hafṭarot the upper and lower margin is occupied by midrashic comments in Hebrew and partly in Arabic (in Hebrew characters). </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square and semi-cursive script, punctuated, of the second part of the 15th century. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Numerous examples of micrographic masorah. </decoNote>
+                     <decoNote type="other">
+                        <locus>73r</locus>Numerous examples of micrographic masorah.
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>73v,182v</locus>Numerous examples of micrographic masorah.
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>183r</locus>Numerous examples of micrographic masorah.
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>183v</locus>Numerous examples of micrographic masorah.
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>184r</locus>Numerous examples of micrographic masorah.
+							</decoNote>
+                     <decoNote type="other">
+                        <locus>73r</locus>
+								Numerous examples of micrographic masorah.</decoNote>
+                     <decoNote type="other">
+                        <locus>73v,182v</locus>
+								Numerous examples of micrographic masorah.</decoNote>
+                     <decoNote type="other">
+                        <locus>183r</locus>
+								Numerous examples of micrographic masorah.</decoNote>
+                     <decoNote type="other">
+                        <locus>183v</locus>
+								Numerous examples of micrographic masorah.</decoNote>
+                     <decoNote type="other">
+                        <locus>184r </locus>
+								Numerous examples of micrographic masorah.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  	Pre-1600. An original box tooled leather binding (the clasps and spine may be of a later date). </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1450" notAfter="1499"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 23 July 1881, [291v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

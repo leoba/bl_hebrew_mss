@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush Iyov Commentary on Job(פרוש איוב)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush Iyov Commentary on Job(פרוש איוב)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2512: Perush Iyov Commentary on Job are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,10 +39,88 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>The latter portions are in a very bad condition and in many stances hardly legible. Gaps after folios 15, 17, 25, 35. There is a gap after folio 45. Mutilated in the margin. A gap after folios 53 and 58.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>The latter portions are in a very bad condition and in many stances hardly legible. Gaps after folios 15, 17, 25, 35. There is a gap after folio 45. Mutilated in the margin. A gap after folios 53 and 58.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2512</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2512</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Fragments of Japhet ben Ali's Arabic commentary on the book of Job.</summary><textLang mainLang="he" otherLangs="jrb-Hebr"/><msItem n="1r"><locus from="1r" to="58v">1r-58v</locus><title>Perush Iyov פרוש איוב</title></msItem><msItem n="1r"><locus from="1r" to="7v">1r-7v</locus><title>Commentary on Job</title></msItem><msItem n="8r"><locus from="8r" to="9v">8r-9v</locus><title>Commentary on Job</title></msItem><msItem n="10r"><locus from="10r" to="13v">10r-13v</locus><title>Commentary on Job</title></msItem><msItem n="14r"><locus from="14r" to="43v">14r-43v</locus><title>Commentary on Job</title></msItem><msItem n="44r"><locus from="44r" to="47v">44r-47v</locus><title>Commentary on Job</title></msItem><msItem n="48r"><locus from="48r" to="49v">48r-49v</locus><title>Commentary on Job</title></msItem><msItem n="50r"><locus from="50r" to="50v">50r-50v</locus><title>Commentary on Job</title></msItem><msItem n="51r"><locus from="51r" to="51v">51r-51v</locus><title>Commentary on Job</title></msItem><msItem n="52r"><locus from="52r" to="52v">52r-52v</locus><title>Commentary on Job</title></msItem><msItem n="53r"><locus from="53r" to="58v">53r-58v</locus><title>Commentary on Job</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>[ii]+58+[ii]
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2512</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2512</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragments of Japhet ben Ali's Arabic commentary on the book of Job.</summary>
+                  <textLang mainLang="he" otherLangs="jrb-Hebr">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="58v">1r-58v</locus>
+                     <title>Perush Iyov פרוש איוב</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="7v">1r-7v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="8r">
+                     <locus from="8r" to="9v">8r-9v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="13v">10r-13v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="14r">
+                     <locus from="14r" to="43v">14r-43v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="44r">
+                     <locus from="44r" to="47v">44r-47v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="49v">48r-49v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="50v">50r-50v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="51r">
+                     <locus from="51r" to="51v">51r-51v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="52r">
+                     <locus from="52r" to="52v">52r-52v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+                  <msItem n="53r">
+                     <locus from="53r" to="58v">53r-58v</locus>
+                     <title>Commentary on Job</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>[ii]+58+[ii]
 								7 folios
 										
 									2 folios
@@ -42,7 +143,9 @@
 										
 									6 folios
 										
-									</extent><collation><p>
+									</extent>
+                        <collation>
+                           <p>
 										Part of a single quire, signed on the lower margin of the last page.
 									
 										A small part of a single quire.
@@ -60,7 +163,42 @@
 										A single leaf.
 									
 										A part of the 14th quire of a manuscript, signed on the upper (inner) margin of the first page and on the lower margin of the last page.
-									</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1;
+									</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 19 25 24 25 23 24 25 21 25 27 28 19;
-                                                  written lines: 19 25 24 25 23 24 25 21 25 27 28 19; Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square and semi-cursive script of 16th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Semi-cursive script of the 16th century. Square character of the 14th century. Square script of the 14th century. Square and semi-cursive script of the 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1699"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, back flyleaf [i]v.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 19 25 24 25 23 24 25 21 25 27 28 19; Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.Uniform layout.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square and semi-cursive script of 16th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Square script of the 14th century. Semi-cursive script of the 16th century. Square character of the 14th century. Square script of the 14th century. Square and semi-cursive script of the 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), an antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882, back flyleaf [i]v.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

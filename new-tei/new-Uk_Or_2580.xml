@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Fragments of legal works. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Fragments of legal works. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2580: Fragments of legal works.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Water/mould damage.  Losses at edges, infilled. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Water/mould damage.  Losses at edges, infilled. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,68 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2580</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2580</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Fragments of legal works. </summary><textLang mainLang="ara"/><msItem n="1r"><locus from="1r" to="6v">1r-6v</locus><title>Sefer ha-mitsṿot  ספר המצוות</title></msItem><msItem n="7r"><locus from="7r" to="16v">7r-16v</locus><title>Sefer ha-mitsṿot  ספר המצוות</title></msItem><msItem n="17r"><locus from="17r" to="21v">17r-21v</locus><title>῾Al ha-shabat  על השבת</title></msItem><msItem n="22r"><locus from="22r" to="23v">22r-23v</locus><title>Ma᾿amar filosofiyah ῾al ha-beḥirah  מאמר פילוסופיה על הבחירה</title></msItem><msItem n="24r"><locus from="24r" to="35v">24r-35v</locus><title>Kitab al-anwar  כתאב אלאנואר</title></msItem><msItem n="36r"><locus from="36r" to="47v">36r-47v</locus><title>῾Al ḥayot ṭeme᾿ot  על חיות טמאות</title></msItem><msItem n="48r"><locus from="48r" to="48v">48r-48v</locus><title>Ma᾿amar ṿikuḥe neged ha-rabanim   מאמר ויכוחי נגד הרבנים</title></msItem><msItem n="50r"><locus from="50r" to="51v">50r-51v</locus><title>Kitab al-anwar wal-maraḳib  כתאב אלאנואר ואלמראקב</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>51 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2580</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2580</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragments of legal works. </summary>
+                  <textLang mainLang="ara">Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="6v">1r-6v</locus>
+                     <title>Sefer ha-mitsṿot  ספר המצוות</title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="16v">7r-16v</locus>
+                     <title>Sefer ha-mitsṿot  ספר המצוות</title>
+                  </msItem>
+                  <msItem n="17r">
+                     <locus from="17r" to="21v">17r-21v</locus>
+                     <title>῾Al ha-shabat  על השבת</title>
+                  </msItem>
+                  <msItem n="22r">
+                     <locus from="22r" to="23v">22r-23v</locus>
+                     <title>Ma᾿amar filosofiyah ῾al ha-beḥirah  מאמר פילוסופיה על הבחירה</title>
+                  </msItem>
+                  <msItem n="24r">
+                     <locus from="24r" to="35v">24r-35v</locus>
+                     <title>Kitab al-anwar  כתאב אלאנואר</title>
+                  </msItem>
+                  <msItem n="36r">
+                     <locus from="36r" to="47v">36r-47v</locus>
+                     <title>῾Al ḥayot ṭeme᾿ot  על חיות טמאות</title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="48v">48r-48v</locus>
+                     <title>Ma᾿amar ṿikuḥe neged ha-rabanim   מאמר ויכוחי נגד הרבנים</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="51v">50r-51v</locus>
+                     <title>Kitab al-anwar wal-maraḳib  כתאב אלאנואר ואלמראקב</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>51 folios
                            
                            
                            
@@ -33,7 +122,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +132,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 15 20;
-                                                  written lines: 15 20; Non-uniform layout. Paper leaves variously shaped. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Different Naskhi hands of the 12th to 13th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Fragments of Sifre Mitsvoth. Arabic. Brit. Mus. Or. 2580.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1100" notAfter="1299"/></origin><provenance>Acquisition: 
+                                                  written lines: 15 20; Non-uniform layout. Paper leaves variously shaped. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Different Naskhi hands of the 12th to 13th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Fragments of Sifre Mitsvoth. Arabic. Brit. Mus. Or. 2580.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1100" notAfter="1299"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: bought from him on 08 July 1882: inscribed, folio [52v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: bought from him on 08 July 1882: inscribed, folio [52v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

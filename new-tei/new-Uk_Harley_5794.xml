@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor (מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor (מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5794: Maḥzor  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,24 +39,144 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>A Latin description of the manuscript has been pasted on folio 73v. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>A Latin description of the manuscript has been pasted on folio 73v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5794</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5794</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A service-book for the New Year's feast according to the German rite, but influenced in some particulars by other rites. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="74v">1r-74v</locus><title>Maḥzor  מחזור </title></msItem><msItem n="3r"><locus from="3r" to="11v">3r-11v</locus><title>Seder ῾erev Rosh ha-Shanah</title></msItem><msItem n="11v"><locus from="11v" to="42v">11v-42v</locus><title>Seder shaḥarit shel Rosh ha-Shanah</title></msItem><msItem n="42v"><locus from="42v" to="50v">42v-50v</locus><title>Musaf for the first day</title></msItem><msItem n="50v"><locus from="50v" to="53r">50v-53r</locus><title>Seder lel sheni</title></msItem><msItem n="53r"><locus from="53r" to="70v">53r-70v</locus><title>Seder yom sheni</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>74 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5794</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5794</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A service-book for the New Year's feast according to the German rite, but influenced in some particulars by other rites. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="74v">1r-74v</locus>
+                     <title>Maḥzor  מחזור </title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="11v">3r-11v</locus>
+                     <title>Seder ῾erev Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="11v">
+                     <locus from="11v" to="42v">11v-42v</locus>
+                     <title>Seder shaḥarit shel Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="42v">
+                     <locus from="42v" to="50v">42v-50v</locus>
+                     <title>Musaf for the first day</title>
+                  </msItem>
+                  <msItem n="50v">
+                     <locus from="50v" to="53r">50v-53r</locus>
+                     <title>Seder lel sheni</title>
+                  </msItem>
+                  <msItem n="53r">
+                     <locus from="53r" to="70v">53r-70v</locus>
+                     <title>Seder yom sheni</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>74 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Indeterminable (leaves on guards). 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 21 22;
-                                                  written lines: 21 22; Uniform layout. Largely decorated. Some parts written in red ink (e.g. 55v, 56r, 57r). </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi semi-cursive, punctuated, of the 17th century. Mosheh Bili ben Yuda᾿ and the first owner of the manuscript, which he wrote for himself: inscribed, folio 3r. </scriptNote></scriptDesc><decoDesc><decoNote type="border">Numerous illustrated margins, in colours, representing animals and human beings within floral designs.</decoNote><decoNote type="illustration"><locus>3r</locus>A decorated title page, in colours.
-							</decoNote><decoNote type="illustration"><locus>1v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>2r</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>2v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>27v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>70v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>71r</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>71v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>72r</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>72v</locus>
-								Several full-page illustrations, in colours.</decoNote><decoNote type="illustration"><locus>73r</locus>
-								Several full-page illustrations, in colours.</decoNote></decoDesc><bindingDesc><binding><p> BM in-house, black with gold-tooled Harleian coat of arms.  Spine: 'Services for the New Year. Hebrew. Brit. Mus. Harl. Or. 5794.' </p></binding></bindingDesc></physDesc><history><origin><origDate when="1614"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, '15 Augusti 1715' (folio ). Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 21 22; Uniform layout. Largely decorated. Some parts written in red ink (e.g. 55v, 56r, 57r). </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi semi-cursive, punctuated, of the 17th century. Mosheh Bili ben Yuda᾿ and the first owner of the manuscript, which he wrote for himself: inscribed, folio 3r. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">Numerous illustrated margins, in colours, representing animals and human beings within floral designs.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>3r</locus>A decorated title page, in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>1v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>2r</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>2v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>27v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>70v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>71r</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>71v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>72r</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>72v</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>73r</locus>
+								Several full-page illustrations, in colours.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house, black with gold-tooled Harleian coat of arms.  Spine: 'Services for the New Year. Hebrew. Brit. Mus. Harl. Or. 5794.' </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1614"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts, inscribed as usual by their librarian, Humfrey Wanley, '15 Augusti 1715' (folio ). Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

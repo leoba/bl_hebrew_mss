@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, megilot  ṿe-hafṭarot (תורה, מגילות והפטרות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, megilot  ṿe-hafṭarot (תורה, מגילות והפטרות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 19776: Torah, megilot  ṿe-hafṭarot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,27 +39,180 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Written by The Pentateuch was punctuated by R. Samuel bar Abraham of Molerstadt : mentioned in a marginal note as the punctuator (folio 96r); inscribed with his name in a colophon as the punctuator who punctuated the codex 'until this point' within six weeks, Sunday, beginning of Kislev, folio 112v; mentioned as punctuator of the Pentateuch who punctuated it in Babenberg, colophon at the end of the codex, dated 1396, folio 252r.The Five Scrolls, the Haftarot and the grammatical treatise were punctuated by R.Gershom bar Judah in Rödelsee, colophon at the end of the codex, dated 1396, folio 252r. Obituary entries: death of a later owner's parents (Bittingen, 1535, and Wallerstein, 1539) (folio 252r).
-								Alexander ben Solomon Zalman Kohen: inscribed with his name, 1750, folio 1r. Illegible Hebrew inscriptions, folio 1r.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Written by The Pentateuch was punctuated by R. Samuel bar Abraham of Molerstadt : mentioned in a marginal note as the punctuator (folio 96r); inscribed with his name in a colophon as the punctuator who punctuated the codex 'until this point' within six weeks, Sunday, beginning of Kislev, folio 112v; mentioned as punctuator of the Pentateuch who punctuated it in Babenberg, colophon at the end of the codex, dated 1396, folio 252r.The Five Scrolls, the Haftarot and the grammatical treatise were punctuated by R.Gershom bar Judah in Rödelsee, colophon at the end of the codex, dated 1396, folio 252r. Obituary entries: death of a later owner's parents (Bittingen, 1535, and Wallerstein, 1539) (folio 252r).
+								Alexander ben Solomon Zalman Kohen: inscribed with his name, 1750, folio 1r. Illegible Hebrew inscriptions, folio 1r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 19776</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19776</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch, Five Scrolls, Hafṭarot accompanied by masorah magna, masorah parva and grammatical treatises (aka the 'Coburg Pentateuch').</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="252v">1r-252v</locus><title>Torah, megilot  ṿe-hafṭarot  תורה, מגילות והפטרות</title></msItem><msItem n="1v"><locus from="1v" to="28v">1v-28v</locus><title>Genesis</title></msItem><msItem n="28v"><locus from="28v" to="55r">28v-55r</locus><title>Exodus</title></msItem><msItem n="55r"><locus from="55r" to="73r">55r-73r</locus><title>Leviticus</title></msItem><msItem n="73r"><locus from="73r" to="96v">73r-96v</locus><title>Numbers</title></msItem><msItem n="96v"><locus from="96v" to="117v">96v-117v</locus><title>Deuteronomy</title></msItem><msItem n="117v"><locus from="117v" to="119v">117v-119v</locus><title>Song of Songs</title></msItem><msItem n="119v"><locus from="119v" to="121v">119v-121v</locus><title>Ruth</title></msItem><msItem n="121v"><locus from="121v" to="124r">121v-124r</locus><title>Lamentations</title></msItem><msItem n="124r"><locus from="124r" to="128r">124r-128r</locus><title>Ecclesiastes</title></msItem><msItem n="128r"><locus from="128r" to="132v">128r-132v</locus><title>Esther</title></msItem><msItem n="132v"><locus from="132v" to="170r">132v-170r</locus><title>Hafṭarot for the whole year.</title></msItem><msItem n="170r"><locus from="170r" to="237v">170r-237v</locus><title>ʻEn ha-kore עין הקורא</title></msItem><msItem n="237v"><locus from="237v" to="252v">237v-252v</locus><title>A collection of several pieces on masorah, punctuation and accents.</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>252 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 19776</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_19776</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch, Five Scrolls, Hafṭarot accompanied by masorah magna, masorah parva and grammatical treatises (aka the 'Coburg Pentateuch').</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="252v">1r-252v</locus>
+                     <title>Torah, megilot  ṿe-hafṭarot  תורה, מגילות והפטרות</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="28v">1v-28v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="55r">28v-55r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="55r">
+                     <locus from="55r" to="73r">55r-73r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="73r">
+                     <locus from="73r" to="96v">73r-96v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="96v">
+                     <locus from="96v" to="117v">96v-117v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="117v">
+                     <locus from="117v" to="119v">117v-119v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="119v">
+                     <locus from="119v" to="121v">119v-121v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="121v">
+                     <locus from="121v" to="124r">121v-124r</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="124r">
+                     <locus from="124r" to="128r">124r-128r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="128r">
+                     <locus from="128r" to="132v">128r-132v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="132v">
+                     <locus from="132v" to="170r">132v-170r</locus>
+                     <title>Hafṭarot for the whole year.</title>
+                  </msItem>
+                  <msItem n="170r">
+                     <locus from="170r" to="237v">170r-237v</locus>
+                     <title>ʻEn ha-kore עין הקורא</title>
+                  </msItem>
+                  <msItem n="237v">
+                     <locus from="237v" to="252v">237v-252v</locus>
+                     <title>A collection of several pieces on masorah, punctuation and accents.</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>252 folios
 									
-								</extent><foliation>Foliation in pencil can be found also in the outer lower corner of recto sides, hardly visible.</foliation><collation><p>
+								</extent>
+                        <foliation>Foliation in pencil can be found also in the outer lower corner of recto sides, hardly visible.</foliation>
+                        <collation>
+                           <p>
 									32 quires of mostly 8 leaves, apart from two consisting of 6 leaves. 
 									Vertical catchwords at the end of quires, decorated. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 33;
-                                                  written lines: 32; Uniform layout. Double pricking for major lines, in outer and inner margins, quire by quire. Complete ruling by plummet (each bifolium on both sides). Last written line within ruling. Graphic filler at the end of line. Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and two in the lower margin.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square and semi-cursive script of the 13th century; punctuation provided by two different hands. R. Simḥah bar Shemu᾿el ha-Levi: mentioned in the colophon at the end of the Pentateuch, Monday 21, Adar Sheni, 1395, folio 169v; also mentioned as scribe in the colophon at the end of the codex, Coburg, 1396, folio 252r; the word שמחה is decorated several times (e.g. 17v, 112v, 126v, 131v, 132r, 154v, 184v). </scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>1v 28v 117v 132v</locus>4 decorated initial-word panels with foliate motifs and gold letters.
-							</decoNote><decoNote type="paratext"><locus>7r 28v</locus>Two micrographical illustrations of masorah.
-							</decoNote><decoNote type="initial"><locus>55r</locus>4 initial-word panels inhabited by dragons and hybrids.
-							</decoNote><decoNote type="initial"><locus>73r</locus>4 initial-word panels inhabited by dragons and hybrids.
-							</decoNote><decoNote type="initial"><locus>96v</locus>4 initial-word panels inhabited by dragons and hybrids.
-							</decoNote><decoNote type="initial"><locus>170r</locus>4 initial-word panels inhabited by dragons and hybrids.
-							</decoNote><decoNote type="initial"><locus>190r</locus>1 initial word inhabited by hybrids and animals.
-							</decoNote><decoNote type="initial"><locus>119v 121v 124r 128r</locus>4 decorated initial words. 
-							</decoNote><decoNote type="miniature"><locus>54v 72v</locus>3 miniatures at the end of the biblical books. 
-							</decoNote><decoNote type="miniature"><locus>96r</locus>3 miniatures at the end of the biblical books. 
-							</decoNote><decoNote type="illustration"><locus>72r</locus>1 decoration embedded into the body of the text.
-							</decoNote><decoNote type="marginal"><locus>55v</locus> 1 marginal drawing depicting a deer.
-							</decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Dark brown leather.  Spine: 'Pentateuch. Hebrew. Brit. Mus. Additional 19,776.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1390" notAfter="1396"/></origin><provenance>Acquisition: M. Ashkenazi: purchased by the British Museum from him through D. Nutt in April 1854, inscribed [253v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 32; Uniform layout. Double pricking for major lines, in outer and inner margins, quire by quire. Complete ruling by plummet (each bifolium on both sides). Last written line within ruling. Graphic filler at the end of line. Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and two in the lower margin.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square and semi-cursive script of the 13th century; punctuation provided by two different hands. R. Simḥah bar Shemu᾿el ha-Levi: mentioned in the colophon at the end of the Pentateuch, Monday 21, Adar Sheni, 1395, folio 169v; also mentioned as scribe in the colophon at the end of the codex, Coburg, 1396, folio 252r; the word שמחה is decorated several times (e.g. 17v, 112v, 126v, 131v, 132r, 154v, 184v). </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>1v 28v 117v 132v</locus>4 decorated initial-word panels with foliate motifs and gold letters.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>7r 28v</locus>Two micrographical illustrations of masorah.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>55r</locus>4 initial-word panels inhabited by dragons and hybrids.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>73r</locus>4 initial-word panels inhabited by dragons and hybrids.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>96v</locus>4 initial-word panels inhabited by dragons and hybrids.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>170r</locus>4 initial-word panels inhabited by dragons and hybrids.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>190r</locus>1 initial word inhabited by hybrids and animals.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>119v 121v 124r 128r</locus>4 decorated initial words. 
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>54v 72v</locus>3 miniatures at the end of the biblical books. 
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>96r</locus>3 miniatures at the end of the biblical books. 
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>72r</locus>1 decoration embedded into the body of the text.
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>55v</locus> 1 marginal drawing depicting a deer.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Dark brown leather.  Spine: 'Pentateuch. Hebrew. Brit. Mus. Additional 19,776.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1390" notAfter="1396"/>
+                  </origin>
+                  <provenance>Acquisition: M. Ashkenazi: purchased by the British Museum from him through D. Nutt in April 1854, inscribed [253v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

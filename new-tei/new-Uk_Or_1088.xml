@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush ha-Torah(פרוש התורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush ha-Torah(פרוש התורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1088: Perush ha-Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,110 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios 157-161 have the lower margin cut off.</note><note>Folio 28r - has censor's erasure.Folios 1v-2v - an English translation by John Noble Coleman of one of the anti-Christian passages from the commentary.Three partially illegible owners' notes in Hebrew, folio 162v, one of them dated 371 (1611).</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios 157-161 have the lower margin cut off.</note>
+            <note>Folio 28r - has censor's erasure.Folios 1v-2v - an English translation by John Noble Coleman of one of the anti-Christian passages from the commentary.Three partially illegible owners' notes in Hebrew, folio 162v, one of them dated 371 (1611).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1088</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1088</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The commentary of Abraham Ibn Ezra on the Pentateuch, with notes from other commentators.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="162v">1r-162v</locus><title>Perush ha-Torah פרוש התורה</title></msItem><msItem n="1r"><locus from="1r" to="43r">1r-43r</locus><title>Genesis </title></msItem><msItem n="43r"><locus from="43r" to="87v">43r-87v</locus><title>Exodus</title></msItem><msItem n="87v"><locus from="87v" to="113r">87v-113r</locus><title>Leviticus</title></msItem><msItem n="113r"><locus from="113r" to="135v">113r-135v</locus><title>Numbers</title></msItem><msItem n="135v"><locus from="135v" to="162v">135v-162v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>162 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1088</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1088</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The commentary of Abraham Ibn Ezra on the Pentateuch, with notes from other commentators.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="162v">1r-162v</locus>
+                     <title>Perush ha-Torah פרוש התורה</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="43r">1r-43r</locus>
+                     <title>Genesis </title>
+                  </msItem>
+                  <msItem n="43r">
+                     <locus from="43r" to="87v">43r-87v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="87v">
+                     <locus from="87v" to="113r">87v-113r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="113r">
+                     <locus from="113r" to="135v">113r-135v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="135v">
+                     <locus from="135v" to="162v">135v-162v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>162 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									16 quires of 10 leaves each.
 									Quires marked with catchwords on the last page and signed with Hebrew letters on the first and last pages.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 30;
-                                                  written lines: 30; Ink-ruling is visible. Hair side and flesh side are distinguishable. The notes from other sources in smaller characters are usually introduced byt the phrase yesh mefareshim or yesh omrim.Initial letters of the chapters are written in large square characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script, unpunctuated, of the 15th century. Shabtai ben Yehoshu῾a of Tivoli and Shemu᾿el ben Menaḥem: their names inscribed in the colophon (162r) and the opening note (3r), Fiorentino?, 1488. Scribe's name is often marked by the initial letters in the lines of a page.</scriptNote></scriptDesc><bindingDesc><binding><p>   	Post-1600. Gold-tooled brown leather.</p></binding></bindingDesc></physDesc><history><origin><origDate when="1488"/><origPlace>Italy Castiglion Fiorentino? Castelfiorentino Fiorentina</origPlace></origin><provenance>Acquisition: Rev. John Noble Coleman (b. 1793, d. 1872): scholar of the Bible at Queen's College, Oxford: his bookplate affixed to folio 1v and another to the [inner side of the outer cover]. On folio 2r there is a memorandum stating that Granville Sharp (b. 1734, d. 1813), theologian and lawyer, was a previous owner of this manuscript, from whom Coleman bought it for 3 guineas.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Ink-ruling is visible. Hair side and flesh side are distinguishable. The notes from other sources in smaller characters are usually introduced byt the phrase yesh mefareshim or yesh omrim.Initial letters of the chapters are written in large square characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script, unpunctuated, of the 15th century. Shabtai ben Yehoshu῾a of Tivoli and Shemu᾿el ben Menaḥem: their names inscribed in the colophon (162r) and the opening note (3r), Fiorentino?, 1488. Scribe's name is often marked by the initial letters in the lines of a page.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>   	Post-1600. Gold-tooled brown leather.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1488"/>
+                     <origPlace>Italy Castiglion Fiorentino? Castelfiorentino Fiorentina</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Rev. John Noble Coleman (b. 1793, d. 1872): scholar of the Bible at Queen's College, Oxford: his bookplate affixed to folio 1v and another to the [inner side of the outer cover]. On folio 2r there is a memorandum stating that Granville Sharp (b. 1734, d. 1813), theologian and lawyer, was a previous owner of this manuscript, from whom Coleman bought it for 3 guineas.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Muḳadimat </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Muḳadimat </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2484: Muḳadimat  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,163 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Folios missing after folio 1, 3, 5, 6, 104, 272. Slightly stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Folios missing after folio 1, 3, 5, 6, 104, 272. Slightly stained.</note>
+            <note>
 								[...] ben Yeshu῾ah Firūz: inscribed, folio 2r of volume 1. 
-								Shelomoh Kohen ben Yosef Kohen ben Mordekhai Kohen: inscribed, folio 1v of volume 1. </note><note type="relatedResource">
+								Shelomoh Kohen ben Yosef Kohen ben Mordekhai Kohen: inscribed, folio 1v of volume 1. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2484</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2484</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Muḳadimat, or introductions (in Arabic and Hebrew), to the weekly parashiyot of the Pentateuch, by Shemu᾿el ha-Rofe al-Maghribi in three uniform volumes (volume 3). </summary><textLang mainLang="he" otherLangs="jrb"/><msItem n="1r"><locus from="1r" to="289v">1r-289v</locus><title>Muḳadimat </title></msItem><msItem n="1r"><locus from="1r" to="6r">1r-6r</locus><title>Be-haʿalotekha</title></msItem><msItem n="6r"><locus from="6r" to="7r">6r-7r</locus><title>Shelaḥ lekha</title></msItem><msItem n="7r"><locus from="7r" to="25r">7r-25r</locus><title>Ḳoraḥ</title></msItem><msItem n="25r"><locus from="25r" to="44r">25r-44r</locus><title>Ḥuḳat</title></msItem><msItem n="44r"><locus from="44r" to="66r">44r-66r</locus><title>Balaḳ</title></msItem><msItem n="66r"><locus from="66r" to="82r">66r-82r</locus><title>Pinḥas</title></msItem><msItem n="82r"><locus from="82r" to="105r">82r-105r</locus><title>Maṭot</title></msItem><msItem n="105r"><locus from="105r" to="127r">105r-127r</locus><title>Masʿe</title></msItem><msItem n="127r"><locus from="127r" to="143r">127r-143r</locus><title>Devarim</title></msItem><msItem n="143r"><locus from="143r" to="164r">143r-164r</locus><title>Ṿa-etḥanan</title></msItem><msItem n="164r"><locus from="164r" to="181r">164r-181r</locus><title>ʾEḳev</title></msItem><msItem n="181r"><locus from="181r" to="197r">181r-197r</locus><title>Re᾿eh</title></msItem><msItem n="197r"><locus from="197r" to="214r">197r-214r</locus><title>Shofeṭim</title></msItem><msItem n="214r"><locus from="214r" to="230r">214r-230r</locus><title>Ki tetse</title></msItem><msItem n="230r"><locus from="230r" to="246r">230r-246r</locus><title>Ki tavo</title></msItem><msItem n="246r"><locus from="246r" to="262r">246r-262r</locus><title>Nitsavim</title></msItem><msItem n="262r"><locus from="262r" to="284r">262r-284r</locus><title>Haʾazinu</title></msItem><msItem n="284r"><locus from="284r" to="289v">284r-289v</locus><title>Ṿe-zot ha-berakhah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>289 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2484</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2484</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Muḳadimat, or introductions (in Arabic and Hebrew), to the weekly parashiyot of the Pentateuch, by Shemu᾿el ha-Rofe al-Maghribi in three uniform volumes (volume 3). </summary>
+                  <textLang mainLang="he" otherLangs="jrb">Hebrew, Judeo-Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="289v">1r-289v</locus>
+                     <title>Muḳadimat </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="6r">1r-6r</locus>
+                     <title>Be-haʿalotekha</title>
+                  </msItem>
+                  <msItem n="6r">
+                     <locus from="6r" to="7r">6r-7r</locus>
+                     <title>Shelaḥ lekha</title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="25r">7r-25r</locus>
+                     <title>Ḳoraḥ</title>
+                  </msItem>
+                  <msItem n="25r">
+                     <locus from="25r" to="44r">25r-44r</locus>
+                     <title>Ḥuḳat</title>
+                  </msItem>
+                  <msItem n="44r">
+                     <locus from="44r" to="66r">44r-66r</locus>
+                     <title>Balaḳ</title>
+                  </msItem>
+                  <msItem n="66r">
+                     <locus from="66r" to="82r">66r-82r</locus>
+                     <title>Pinḥas</title>
+                  </msItem>
+                  <msItem n="82r">
+                     <locus from="82r" to="105r">82r-105r</locus>
+                     <title>Maṭot</title>
+                  </msItem>
+                  <msItem n="105r">
+                     <locus from="105r" to="127r">105r-127r</locus>
+                     <title>Masʿe</title>
+                  </msItem>
+                  <msItem n="127r">
+                     <locus from="127r" to="143r">127r-143r</locus>
+                     <title>Devarim</title>
+                  </msItem>
+                  <msItem n="143r">
+                     <locus from="143r" to="164r">143r-164r</locus>
+                     <title>Ṿa-etḥanan</title>
+                  </msItem>
+                  <msItem n="164r">
+                     <locus from="164r" to="181r">164r-181r</locus>
+                     <title>ʾEḳev</title>
+                  </msItem>
+                  <msItem n="181r">
+                     <locus from="181r" to="197r">181r-197r</locus>
+                     <title>Re᾿eh</title>
+                  </msItem>
+                  <msItem n="197r">
+                     <locus from="197r" to="214r">197r-214r</locus>
+                     <title>Shofeṭim</title>
+                  </msItem>
+                  <msItem n="214r">
+                     <locus from="214r" to="230r">214r-230r</locus>
+                     <title>Ki tetse</title>
+                  </msItem>
+                  <msItem n="230r">
+                     <locus from="230r" to="246r">230r-246r</locus>
+                     <title>Ki tavo</title>
+                  </msItem>
+                  <msItem n="246r">
+                     <locus from="246r" to="262r">246r-262r</locus>
+                     <title>Nitsavim</title>
+                  </msItem>
+                  <msItem n="262r">
+                     <locus from="262r" to="284r">262r-284r</locus>
+                     <title>Haʾazinu</title>
+                  </msItem>
+                  <msItem n="284r">
+                     <locus from="284r" to="289v">284r-289v</locus>
+                     <title>Ṿe-zot ha-berakhah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>289 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 6 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 17;
-                                                  written lines: 17; Uniform layout. Visible ruling with a mastara.Initial words of each section written in larger characters, preceded with a title page (see e.g. folio 1r, 6r, etc).Catchwords on every verso.The biblical verses are given with punctuation.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square and semi-cursive Oriental script of the 17th century. Avraham ben Mordekhai ha-Kohen: inscribed in volume 2, folio 220v, and volume 3, folio 126v. Avraham ha-Kohen wrote the present manuscript for his son, Yosef. The name of the latter is inscribed under the title of each Muḳadimah.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine title: 'Samuel ha-Rofe. Mukaddimat. Vol. III. Arabic &amp; Hebrew. Brit. Mus. Oriental 2484'.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882: inscribed, folio [290v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 17; Uniform layout. Visible ruling with a mastara.Initial words of each section written in larger characters, preceded with a title page (see e.g. folio 1r, 6r, etc).Catchwords on every verso.The biblical verses are given with punctuation.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square and semi-cursive Oriental script of the 17th century. Avraham ben Mordekhai ha-Kohen: inscribed in volume 2, folio 220v, and volume 3, folio 126v. Avraham ha-Kohen wrote the present manuscript for his son, Yosef. The name of the latter is inscribed under the title of each Muḳadimah.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine title: 'Samuel ha-Rofe. Mukaddimat. Vol. III. Arabic &amp; Hebrew. Brit. Mus. Oriental 2484'.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 08 July 1882: inscribed, folio [290v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

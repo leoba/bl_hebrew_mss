@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of פירושים(Perushim)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of פירושים(Perushim)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2519: פירושים are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Only part of folio 4 is preserved. Much damaged. Partly damaged. Worm-eaten. Water-damaged. Much damaged. Stained. Much damaged. Mutilated. Stained. Damaged. Partially damaged. Damaged. Damaged.  Worm-eaten. Much damaged.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Only part of folio 4 is preserved. Much damaged. Partly damaged. Worm-eaten. Water-damaged. Much damaged. Stained. Much damaged. Mutilated. Stained. Damaged. Partially damaged. Damaged. Damaged.  Worm-eaten. Much damaged.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,112 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2519</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2519</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Several fragments of Judeo-Arabic commentaries on the Prophets and Psalms.</summary><textLang mainLang="jrb-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="82v">1r-82v</locus><title>פירושים Perushim</title></msItem><msItem n="1r"><locus from="1r" to="7v">1r-7v</locus><title>Commentary on 1Samuel</title></msItem><msItem n="8r"><locus from="8r" to="8v">8r-8v</locus><title>Commentary on 2Samuel</title></msItem><msItem n="9r"><locus from="9r" to="21v">9r-21v</locus><title>Commentary on 1Kings</title></msItem><msItem n="22r"><locus from="22r" to="33v">22r-33v</locus><title>Commentary on 2Kings.</title></msItem><msItem n="34r"><locus from="34r" to="37v">34r-37v</locus><title>Midrash on Isaiah </title></msItem><msItem n="38r"><locus from="38r" to="38v">38r-38v</locus><title>Commentary on Isaiah</title></msItem><msItem n="39r"><locus from="39r" to="39v">39r-39v</locus><title>Commentary on Ezekiel</title></msItem><msItem n="40r"><locus from="40r" to="46v">40r-46v</locus><title>Commentary on Ezekiel </title></msItem><msItem n="47r"><locus from="47r" to="47v">47r-47v</locus><title>Commentary on Micah </title></msItem><msItem n="48r"><locus from="48r" to="49v">48r-49v</locus><title>Commentary on Zechariah</title></msItem><msItem n="50r"><locus from="50r" to="57v">50r-57v</locus><title>Commentary on Psalms</title></msItem><msItem n="58r"><locus from="58r" to="67v">58r-67v</locus><title>Commentary on Psalms</title></msItem><msItem n="68r"><locus from="68r" to="68v">68r-68v</locus><title>Commentary on Psalms </title></msItem><msItem n="69r"><locus from="69r" to="74v">69r-74v</locus><title>Commentary on Psalms </title></msItem><msItem n="75r"><locus from="75r" to="76v">75r-76v</locus><title>Commentary on Psalms</title></msItem><msItem n="77r"><locus from="77r" to="77v">77r-77v</locus><title>Commentary on Psalms</title></msItem><msItem n="78r"><locus from="78r" to="81v">78r-81v</locus><title>Commentary on Psalms</title></msItem><msItem n="82r"><locus from="82r" to="82v">82r-82v</locus><title>Commentary on Psalms</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>[i]+82+[i]
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2519</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2519</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Several fragments of Judeo-Arabic commentaries on the Prophets and Psalms.</summary>
+                  <textLang mainLang="jrb-Hebr" otherLangs="he">Judeo-Arabic, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="82v">1r-82v</locus>
+                     <title>פירושים Perushim</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="7v">1r-7v</locus>
+                     <title>Commentary on 1Samuel</title>
+                  </msItem>
+                  <msItem n="8r">
+                     <locus from="8r" to="8v">8r-8v</locus>
+                     <title>Commentary on 2Samuel</title>
+                  </msItem>
+                  <msItem n="9r">
+                     <locus from="9r" to="21v">9r-21v</locus>
+                     <title>Commentary on 1Kings</title>
+                  </msItem>
+                  <msItem n="22r">
+                     <locus from="22r" to="33v">22r-33v</locus>
+                     <title>Commentary on 2Kings.</title>
+                  </msItem>
+                  <msItem n="34r">
+                     <locus from="34r" to="37v">34r-37v</locus>
+                     <title>Midrash on Isaiah </title>
+                  </msItem>
+                  <msItem n="38r">
+                     <locus from="38r" to="38v">38r-38v</locus>
+                     <title>Commentary on Isaiah</title>
+                  </msItem>
+                  <msItem n="39r">
+                     <locus from="39r" to="39v">39r-39v</locus>
+                     <title>Commentary on Ezekiel</title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="46v">40r-46v</locus>
+                     <title>Commentary on Ezekiel </title>
+                  </msItem>
+                  <msItem n="47r">
+                     <locus from="47r" to="47v">47r-47v</locus>
+                     <title>Commentary on Micah </title>
+                  </msItem>
+                  <msItem n="48r">
+                     <locus from="48r" to="49v">48r-49v</locus>
+                     <title>Commentary on Zechariah</title>
+                  </msItem>
+                  <msItem n="50r">
+                     <locus from="50r" to="57v">50r-57v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="58r">
+                     <locus from="58r" to="67v">58r-67v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="68r">
+                     <locus from="68r" to="68v">68r-68v</locus>
+                     <title>Commentary on Psalms </title>
+                  </msItem>
+                  <msItem n="69r">
+                     <locus from="69r" to="74v">69r-74v</locus>
+                     <title>Commentary on Psalms </title>
+                  </msItem>
+                  <msItem n="75r">
+                     <locus from="75r" to="76v">75r-76v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="77r">
+                     <locus from="77r" to="77v">77r-77v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="78r">
+                     <locus from="78r" to="81v">78r-81v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+                  <msItem n="82r">
+                     <locus from="82r" to="82v">82r-82v</locus>
+                     <title>Commentary on Psalms</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>[i]+82+[i]
 								
 								8 folios
                               
@@ -171,7 +304,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -203,6 +338,40 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 24 23 16 21 21 26 15 21 16 14 15 22 15 22 24 24 24 24;
-                                                  written lines: 24 23 16 21 21 26 15 21 16 14 15 22 15 22 24 24 24 24; Visible hard-point ruling.Visible hard-point ruling.Visible hard-point ruling.Visible ruling.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental semi-cursive script of 14th to 16th century. Oriental square of 16th century. Oriental semi-cursive script of the 16th century. Oriental semi-cursive of approximately 15th to 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 16th century. Oriental square script of the 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 14th to 15th century. Oriental semi-cursive script of the 15th to 16th century. Oriental square script of the 15th century. Oriental semi-cursive script of the 15th to 16th century. Oriental square script of the 15th century. Oriental square script of the 14th to 15th century. Oriental semi-cursive script of the 14th to 15th century. Oriental square script of the 14th to 15th century. Oriental square script of the 14th to 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Karaitic Commentary on Prophets and Psalms. Arabic. Brit. Mus. Oriental MS. 2519.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1599"/></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24 23 16 21 21 26 15 21 16 14 15 22 15 22 24 24 24 24; Visible hard-point ruling.Visible hard-point ruling.Visible hard-point ruling.Visible ruling.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental semi-cursive script of 14th to 16th century. Oriental square of 16th century. Oriental semi-cursive script of the 16th century. Oriental semi-cursive of approximately 15th to 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 16th century. Oriental square script of the 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 16th century. Oriental semi-cursive script of the 15th century. Oriental semi-cursive script of the 14th to 15th century. Oriental semi-cursive script of the 15th to 16th century. Oriental square script of the 15th century. Oriental semi-cursive script of the 15th to 16th century. Oriental square script of the 15th century. Oriental square script of the 14th to 15th century. Oriental semi-cursive script of the 14th to 15th century. Oriental square script of the 14th to 15th century. Oriental square script of the 14th to 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Karaitic Commentary on Prophets and Psalms. Arabic. Brit. Mus. Oriental MS. 2519.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1599"/>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

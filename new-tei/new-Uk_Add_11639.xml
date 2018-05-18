@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Miscellany(קובץ)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Miscellany(קובץ)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 11639: Miscellany are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,69 +39,500 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Illegible Hebrew inscription, undated (on the upper part of folio 1r). Includes a table of moladot (lunation-commencements) for the period 1279/80 - 1295/95 (folio 444r). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Illegible Hebrew inscription, undated (on the upper part of folio 1r). Includes a table of moladot (lunation-commencements) for the period 1279/80 - 1295/95 (folio 444r). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 11639</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11639</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Miscellany of biblical and other texts ('The Northern French Miscellany' or earlier 'the British Museum Miscellany'): including the Pentateuch, Hafṭarot, Tiḳun Soferim, Five Scrolls, prayer book for the entire year with Hagadah, legal texts, poetry, calendars, the book of Tobit in Hebrew, etc.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="746v">1r-746v</locus><title>Miscellany קובץ</title></msItem><msItem n="1r"><locus from="1r" to="28v">1r-28v</locus><title>Genesis</title></msItem><msItem n="28v"><locus from="28v" to="51v">28v-51v</locus><title>Exodus</title></msItem><msItem n="51v"><locus from="51v" to="68v">51v-68v</locus><title>Leviticus</title></msItem><msItem n="68v"><locus from="68v" to="92r">68v-92r</locus><title>Numbers</title></msItem><msItem n="92r"><locus from="92r" to="113v">92r-113v</locus><title>Deuteronomy</title></msItem><msItem n="123v"><locus from="123v" to="138r">123v-138r</locus><title>Hafṭarot</title></msItem><msItem n="138r"><locus from="138r" to="142v">138r-142v</locus><title>Targum of the Hafṭarot</title></msItem><msItem n="143r"><locus from="143r" to="144v">143r-144v</locus><title>Tiḳun soferim</title></msItem><msItem n="145v"><locus from="145v" to="149r">145v-149r</locus><title>Song of Songs</title></msItem><msItem n="149r"><locus from="149r" to="152r">149r-152r</locus><title>Ruth</title></msItem><msItem n="152r"><locus from="152r" to="161r">152r-161r</locus><title>Ecclesiastes</title></msItem><msItem n="161r"><locus from="161r" to="169r">161r-169r</locus><title>Sefer maʿarakhah </title></msItem><msItem n="169v"><locus from="169v" to="194v">169v-194v</locus><title>Sidur</title></msItem><msItem n="194v"><locus from="194v" to="196r">194v-196r</locus><title>Special portions</title></msItem><msItem n="196r"><locus from="196r" to="203v">196r-203v</locus><title>Pirḳe avot</title></msItem><msItem n="203v"><locus from="203v" to="205r">203v-205r</locus><title>Prayers </title></msItem><msItem n="205r"><locus from="205r" to="209v">205r-209v</locus><title>Hagadah</title></msItem><msItem n="209v"><locus from="209v" to="212v">209v-212v</locus><title>Targum Be-shalakh</title></msItem><msItem n="212v"><locus from="212v" to="221r">212v-221r</locus><title>Targum of Exodus 19</title></msItem><msItem n="221r"><locus from="221r" to="225v">221r-225v</locus><title>Prayers</title></msItem><msItem n="226v"><locus from="226v" to="232r">226v-232r</locus><title>Hosh῾anot</title></msItem><msItem n="232r"><locus from="232r" to="234r">232r-234r</locus><title>Pieces for Simḥat Torah</title></msItem><msItem n="234r"><locus from="234r" to="241r">234r-241r</locus><title>Ma῾arivim</title></msItem><msItem n="241r"><locus from="241r" to="243r">241r-243r</locus><title>Seder parashiyot</title></msItem><msItem n="243r"><locus from="243r" to="246r">243r-246r</locus><title>On marriage and birth</title></msItem><msItem n="246r"><locus from="246r" to="248r">246r-248r</locus><title>Rules for Seder Pesaḥ</title></msItem><msItem n="248r"><locus from="248r" to="249r">248r-249r</locus><title>Birkat lulav</title></msItem><msItem n="249r"><locus from="249r" to="250r">249r-250r</locus><title>Hilkhot ha-sheḥitah</title></msItem><msItem n="250r"><locus from="250r" to="251r">250r-251r</locus><title>Tsiduḳ ha-din</title></msItem><msItem n="251r"><locus from="251r" to="256v">251r-256v</locus><title>Formulae for legal documents</title></msItem><msItem n="256v"><locus from="256v" to="258r">256v-258r</locus><title>Taḳanot against informers</title></msItem><msItem n="258r"><locus from="258r" to="259r">258r-259r</locus><title>Taḳanot Rabenu Gershom</title></msItem><msItem n="259r"><locus from="259r" to="261v">259r-261v</locus><title>Seder ḥalitsah</title></msItem><msItem n="261v"><locus from="261v" to="285v">261v-285v</locus><title>Yotsrot</title></msItem><msItem n="285v"><locus from="285v" to="351v">285v-351v</locus><title>Yotsrot</title></msItem><msItem n="351v"><locus from="351v" to="359v">351v-359v</locus><title>Ofanim </title></msItem><msItem n="359v"><locus from="359v" to="390v">359v-390v</locus><title>Yotsrot le-Rosh ha-shanah</title></msItem><msItem n="390v"><locus from="390v" to="423v">390v-423v</locus><title>Service for Yom Kipur</title></msItem><msItem n="423v"><locus from="423v" to="433v">423v-433v</locus><title>Lel Yom Kipur</title></msItem><msItem n="433v"><locus from="433v" to="437v">433v-437v</locus><title>Lamentations</title></msItem><msItem n="437v"><locus from="437v" to="444r">437v-444r</locus><title>Esther</title></msItem><msItem n="444r"><locus from="444r" to="445v">444r-445v</locus><title>Moladot</title></msItem><msItem n="445r"><locus from="445r" to="461r">445r-461r</locus><title>Penitentary prayers</title></msItem><msItem n="461r"><locus from="461r" to="486r">461r-486r</locus><title>Seliḥot u-petiḥot</title></msItem><msItem n="486r"><locus from="486r" to="506r">486r-506r</locus><title>Pizmonim</title></msItem><msItem n="506r"><locus from="506r" to="510r">506r-510r</locus><title>Tokhaḥot</title></msItem><msItem n="510r"><locus from="510r" to="514v">510r-514v</locus><title>῾Aḳedot</title></msItem><msItem n="514v"><locus from="514v" to="515v">514v-515v</locus><title>An index of poetical pieces</title></msItem><msItem n="515v"><locus from="515v" to="528v">515v-528v</locus><title>Mezuzah</title></msItem><msItem n="528v"><locus from="528v" to="533r">528v-533r</locus><title>Pesuḳim</title></msItem><msItem n="533r"><locus from="533r" to="536v">533r-536v</locus><title>Metrical pieces</title></msItem><msItem n="536v"><locus from="536v" to="546v">536v-546v</locus><title>Calendar tables</title></msItem><msItem n="546v"><locus from="546v" to="640r">546v-640r</locus><title>Sefer mitsṿot ḳatan</title></msItem><msItem n="647v"><locus from="647v" to="656r">647v-656r</locus><title>Perush azharot</title></msItem><msItem n="656r"><locus from="656r" to="683v">656r-683v</locus><title>Commentary on poetical pieces</title></msItem><msItem n="683v"><locus from="683v" to="684r">683v-684r</locus><title>An addition to Megilat Ta῾anit</title></msItem><msItem n="684r"><locus from="684r" to="685v">684r-685v</locus><title>Sedarim aḥerim</title></msItem><msItem n="686v"><locus from="686v" to="707v">686v-707v</locus><title>Sefer tarshish</title></msItem><msItem n="708r"><locus from="708r" to="717v">708r-717v</locus><title>A commentary on piyuṭim</title></msItem><msItem n="717v"><locus from="717v" to="733r">717v-733r</locus><title>A commentary on piyuṭim </title></msItem><msItem n="733r"><locus from="733r" to="734r">733r-734r</locus><title>Gimaṭriyot aḥerim</title></msItem><msItem n="734r"><locus from="734r" to="739v">734r-739v</locus><title>Dinim le-yamim ṭovim</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>746 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 11639</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_11639</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Miscellany of biblical and other texts ('The Northern French Miscellany' or earlier 'the British Museum Miscellany'): including the Pentateuch, Hafṭarot, Tiḳun Soferim, Five Scrolls, prayer book for the entire year with Hagadah, legal texts, poetry, calendars, the book of Tobit in Hebrew, etc.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="746v">1r-746v</locus>
+                     <title>Miscellany קובץ</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="28v">1r-28v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="51v">28v-51v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="51v">
+                     <locus from="51v" to="68v">51v-68v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="68v">
+                     <locus from="68v" to="92r">68v-92r</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="92r">
+                     <locus from="92r" to="113v">92r-113v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="123v">
+                     <locus from="123v" to="138r">123v-138r</locus>
+                     <title>Hafṭarot</title>
+                  </msItem>
+                  <msItem n="138r">
+                     <locus from="138r" to="142v">138r-142v</locus>
+                     <title>Targum of the Hafṭarot</title>
+                  </msItem>
+                  <msItem n="143r">
+                     <locus from="143r" to="144v">143r-144v</locus>
+                     <title>Tiḳun soferim</title>
+                  </msItem>
+                  <msItem n="145v">
+                     <locus from="145v" to="149r">145v-149r</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="149r">
+                     <locus from="149r" to="152r">149r-152r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="152r">
+                     <locus from="152r" to="161r">152r-161r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="161r">
+                     <locus from="161r" to="169r">161r-169r</locus>
+                     <title>Sefer maʿarakhah </title>
+                  </msItem>
+                  <msItem n="169v">
+                     <locus from="169v" to="194v">169v-194v</locus>
+                     <title>Sidur</title>
+                  </msItem>
+                  <msItem n="194v">
+                     <locus from="194v" to="196r">194v-196r</locus>
+                     <title>Special portions</title>
+                  </msItem>
+                  <msItem n="196r">
+                     <locus from="196r" to="203v">196r-203v</locus>
+                     <title>Pirḳe avot</title>
+                  </msItem>
+                  <msItem n="203v">
+                     <locus from="203v" to="205r">203v-205r</locus>
+                     <title>Prayers </title>
+                  </msItem>
+                  <msItem n="205r">
+                     <locus from="205r" to="209v">205r-209v</locus>
+                     <title>Hagadah</title>
+                  </msItem>
+                  <msItem n="209v">
+                     <locus from="209v" to="212v">209v-212v</locus>
+                     <title>Targum Be-shalakh</title>
+                  </msItem>
+                  <msItem n="212v">
+                     <locus from="212v" to="221r">212v-221r</locus>
+                     <title>Targum of Exodus 19</title>
+                  </msItem>
+                  <msItem n="221r">
+                     <locus from="221r" to="225v">221r-225v</locus>
+                     <title>Prayers</title>
+                  </msItem>
+                  <msItem n="226v">
+                     <locus from="226v" to="232r">226v-232r</locus>
+                     <title>Hosh῾anot</title>
+                  </msItem>
+                  <msItem n="232r">
+                     <locus from="232r" to="234r">232r-234r</locus>
+                     <title>Pieces for Simḥat Torah</title>
+                  </msItem>
+                  <msItem n="234r">
+                     <locus from="234r" to="241r">234r-241r</locus>
+                     <title>Ma῾arivim</title>
+                  </msItem>
+                  <msItem n="241r">
+                     <locus from="241r" to="243r">241r-243r</locus>
+                     <title>Seder parashiyot</title>
+                  </msItem>
+                  <msItem n="243r">
+                     <locus from="243r" to="246r">243r-246r</locus>
+                     <title>On marriage and birth</title>
+                  </msItem>
+                  <msItem n="246r">
+                     <locus from="246r" to="248r">246r-248r</locus>
+                     <title>Rules for Seder Pesaḥ</title>
+                  </msItem>
+                  <msItem n="248r">
+                     <locus from="248r" to="249r">248r-249r</locus>
+                     <title>Birkat lulav</title>
+                  </msItem>
+                  <msItem n="249r">
+                     <locus from="249r" to="250r">249r-250r</locus>
+                     <title>Hilkhot ha-sheḥitah</title>
+                  </msItem>
+                  <msItem n="250r">
+                     <locus from="250r" to="251r">250r-251r</locus>
+                     <title>Tsiduḳ ha-din</title>
+                  </msItem>
+                  <msItem n="251r">
+                     <locus from="251r" to="256v">251r-256v</locus>
+                     <title>Formulae for legal documents</title>
+                  </msItem>
+                  <msItem n="256v">
+                     <locus from="256v" to="258r">256v-258r</locus>
+                     <title>Taḳanot against informers</title>
+                  </msItem>
+                  <msItem n="258r">
+                     <locus from="258r" to="259r">258r-259r</locus>
+                     <title>Taḳanot Rabenu Gershom</title>
+                  </msItem>
+                  <msItem n="259r">
+                     <locus from="259r" to="261v">259r-261v</locus>
+                     <title>Seder ḥalitsah</title>
+                  </msItem>
+                  <msItem n="261v">
+                     <locus from="261v" to="285v">261v-285v</locus>
+                     <title>Yotsrot</title>
+                  </msItem>
+                  <msItem n="285v">
+                     <locus from="285v" to="351v">285v-351v</locus>
+                     <title>Yotsrot</title>
+                  </msItem>
+                  <msItem n="351v">
+                     <locus from="351v" to="359v">351v-359v</locus>
+                     <title>Ofanim </title>
+                  </msItem>
+                  <msItem n="359v">
+                     <locus from="359v" to="390v">359v-390v</locus>
+                     <title>Yotsrot le-Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="390v">
+                     <locus from="390v" to="423v">390v-423v</locus>
+                     <title>Service for Yom Kipur</title>
+                  </msItem>
+                  <msItem n="423v">
+                     <locus from="423v" to="433v">423v-433v</locus>
+                     <title>Lel Yom Kipur</title>
+                  </msItem>
+                  <msItem n="433v">
+                     <locus from="433v" to="437v">433v-437v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="437v">
+                     <locus from="437v" to="444r">437v-444r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="444r">
+                     <locus from="444r" to="445v">444r-445v</locus>
+                     <title>Moladot</title>
+                  </msItem>
+                  <msItem n="445r">
+                     <locus from="445r" to="461r">445r-461r</locus>
+                     <title>Penitentary prayers</title>
+                  </msItem>
+                  <msItem n="461r">
+                     <locus from="461r" to="486r">461r-486r</locus>
+                     <title>Seliḥot u-petiḥot</title>
+                  </msItem>
+                  <msItem n="486r">
+                     <locus from="486r" to="506r">486r-506r</locus>
+                     <title>Pizmonim</title>
+                  </msItem>
+                  <msItem n="506r">
+                     <locus from="506r" to="510r">506r-510r</locus>
+                     <title>Tokhaḥot</title>
+                  </msItem>
+                  <msItem n="510r">
+                     <locus from="510r" to="514v">510r-514v</locus>
+                     <title>῾Aḳedot</title>
+                  </msItem>
+                  <msItem n="514v">
+                     <locus from="514v" to="515v">514v-515v</locus>
+                     <title>An index of poetical pieces</title>
+                  </msItem>
+                  <msItem n="515v">
+                     <locus from="515v" to="528v">515v-528v</locus>
+                     <title>Mezuzah</title>
+                  </msItem>
+                  <msItem n="528v">
+                     <locus from="528v" to="533r">528v-533r</locus>
+                     <title>Pesuḳim</title>
+                  </msItem>
+                  <msItem n="533r">
+                     <locus from="533r" to="536v">533r-536v</locus>
+                     <title>Metrical pieces</title>
+                  </msItem>
+                  <msItem n="536v">
+                     <locus from="536v" to="546v">536v-546v</locus>
+                     <title>Calendar tables</title>
+                  </msItem>
+                  <msItem n="546v">
+                     <locus from="546v" to="640r">546v-640r</locus>
+                     <title>Sefer mitsṿot ḳatan</title>
+                  </msItem>
+                  <msItem n="647v">
+                     <locus from="647v" to="656r">647v-656r</locus>
+                     <title>Perush azharot</title>
+                  </msItem>
+                  <msItem n="656r">
+                     <locus from="656r" to="683v">656r-683v</locus>
+                     <title>Commentary on poetical pieces</title>
+                  </msItem>
+                  <msItem n="683v">
+                     <locus from="683v" to="684r">683v-684r</locus>
+                     <title>An addition to Megilat Ta῾anit</title>
+                  </msItem>
+                  <msItem n="684r">
+                     <locus from="684r" to="685v">684r-685v</locus>
+                     <title>Sedarim aḥerim</title>
+                  </msItem>
+                  <msItem n="686v">
+                     <locus from="686v" to="707v">686v-707v</locus>
+                     <title>Sefer tarshish</title>
+                  </msItem>
+                  <msItem n="708r">
+                     <locus from="708r" to="717v">708r-717v</locus>
+                     <title>A commentary on piyuṭim</title>
+                  </msItem>
+                  <msItem n="717v">
+                     <locus from="717v" to="733r">717v-733r</locus>
+                     <title>A commentary on piyuṭim </title>
+                  </msItem>
+                  <msItem n="733r">
+                     <locus from="733r" to="734r">733r-734r</locus>
+                     <title>Gimaṭriyot aḥerim</title>
+                  </msItem>
+                  <msItem n="734r">
+                     <locus from="734r" to="739v">734r-739v</locus>
+                     <title>Dinim le-yamim ṭovim</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>746 folios 
 									
-								</extent><foliation>Hebrew foliation begins on folio 6.</foliation><collation><p>
+								</extent>
+                        <foliation>Hebrew foliation begins on folio 6.</foliation>
+                        <collation>
+                           <p>
 									82 quires (plus one added at the end): i4 (folios 1-4), ii14 (folios 5-18), iii14 (folios 19-32), iv16 (folios 33-48), v16 (folios 49-64), vi14 (folios 65-78), vii12 (folios 79-90), viii16 (folios 91-106), ix10 (folios 107-116), x6 (folios 117-122), xi8 (folios 123-130), xii8 (folios 131-138), xiii6 (folios 139-144), xiv10 (folios 145-154), xv6 (folios 155-160), xvi-xxiii8 (folios 161-225), xxiv6 (folios 226-231), xxv6-1 (folios 232-236), xxvi-xxxiii8 (folios 237-300), xxxiv10 (folios 301-310), xxxv-lviii8 (folios 311-500), lix10 (folios 501-510), lx8-2 (folios 511-515, 515a), lxi4 (folios 516-519), lxii4 (520-523), lxiii4 (folios 524-527), lxiv10 (folios 528-537), lxv-lxvi8 (folios 538-553), lxvii14 (folios 554-567), lxviii10 (folios 568-577), lxix14 (folios 578-591), lxx12 (folios 592-603), lxxi12 (folios 604-615), lxxii14 (folios 616-629), lxxiii14 (folios 630-643), lxxiv8 (folios 644-651), lxxv12 (folios 652-663), lxxvi10 (folios 664-673), lxxvii12 (folios 674-685), lxxviii14 (folios 686-699), lxxix12-1 (folios 700-707, 707a, 708-709), lxxx14 (folios 710-723), lxxxi16-1 (folios 724-739), lxxxii6 (folios 739a-744), lxxxiii2 (folios 745-746). 
 									Catchwords. 
 									Quire lxxxiii consists of two separate leaves artificially conjugated. The missing folio from quire lxxxi is now bound after quire lxxxii as folio 745.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 36 40;
                                                   written lines: 35 39; Ruling is visible. Hair-side and flesh-side of the folios are not distinguishable.
-Many marginal illuminations and illustrations, which consist mainly of letters and designs, in colors or in colors and gold.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (French) square and semi-cursive script, partially punctuated. Written by Binyamin: inscribed with his name (folios 142v, 306v, 514r, 535r), the name Binyamin is marked in the text (folios 24v, 26r). </scriptNote></scriptDesc><decoDesc><decoNote type="initial">Numerous inhabited initial-word panels, and inhabited and decorated panels in colours and gold attached to initial words and numerous decorated initial-word panels with gold letters. </decoNote><decoNote type="miniature"><locus>114r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>115r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>116r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>117v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>118r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>118v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>119r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>119v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>120r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>120v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>121r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>121v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>122r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>259v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>260r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>260v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>516v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>517r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>517v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>518r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>518v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>519r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>519v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>520r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>520v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>521r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>521v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>522r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>522v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>523r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>523v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>524r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>525v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>526r</locus>36 full-page miniatures.
-							</decoNote><decoNote type="miniature"><locus>527v</locus>36 full-page miniatures.
-							</decoNote><decoNote type="illustration"><locus>205r</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>205v</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>206v</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>207v</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>208r</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>292r</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="illustration"><locus>309v</locus>7 textual illustrations in colours.
-							</decoNote><decoNote type="paratext">Micrography (in geometric form). 
-							</decoNote><decoNote type="border"><locus>142v</locus>Colophon in decorated panel with gold letters.
-							</decoNote><decoNote type="initial"><locus>542r</locus>2 full-page diagrams of the celestial bodies and the zodiac signs.
-							</decoNote><decoNote type="initial"><locus>542v</locus>2 full-page diagrams of the celestial bodies and the zodiac signs.
-							</decoNote><decoNote type="miniature"><locus>740v</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote><decoNote type="miniature"><locus>741r</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote><decoNote type="miniature"><locus>741v</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote><decoNote type="miniature"><locus>742r</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote><decoNote type="miniature"><locus>742v</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote><decoNote type="miniature"><locus>743r</locus>
-								Added quire including 6 full-page miniatures in colours and gold.</decoNote></decoDesc><bindingDesc><binding><p> Pre-1600. Dark brown leather over wooden boards, gold tooled.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1277" notAfter="1324"/></origin><provenance>Shemu᾿el ben Ḥayim</provenance><provenance>Avraham ben Mosheh of Coburg</provenance><provenance>Acquisition: 
-								M. Reina of Milan: sold to the booksellers Payne &amp; Foss in Paris in 1838 or 1839 for the British Museum: note by Frederic Madden that it was 'Purchased of MM. Payne &amp; Foss 13th July, 1839. It came from the collection of M. Reina of Milan, sold at Paris in 1839' (folio 746v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Many marginal illuminations and illustrations, which consist mainly of letters and designs, in colors or in colors and gold.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (French) square and semi-cursive script, partially punctuated. Written by Binyamin: inscribed with his name (folios 142v, 306v, 514r, 535r), the name Binyamin is marked in the text (folios 24v, 26r). </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Numerous inhabited initial-word panels, and inhabited and decorated panels in colours and gold attached to initial words and numerous decorated initial-word panels with gold letters. </decoNote>
+                     <decoNote type="miniature">
+                        <locus>114r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>115r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>116r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>117v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>118r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>118v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>119r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>119v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>120r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>120v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>121r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>121v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>122r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>259v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>260r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>260v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>516v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>517r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>517v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>518r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>518v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>519r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>519v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>520r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>520v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>521r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>521v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>522r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>522v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>523r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>523v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>524r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>525v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>526r</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>527v</locus>36 full-page miniatures.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>205r</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>205v</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>206v</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>207v</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>208r</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>292r</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="illustration">
+                        <locus>309v</locus>7 textual illustrations in colours.
+							</decoNote>
+                     <decoNote type="paratext">Micrography (in geometric form). 
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>142v</locus>Colophon in decorated panel with gold letters.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>542r</locus>2 full-page diagrams of the celestial bodies and the zodiac signs.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>542v</locus>2 full-page diagrams of the celestial bodies and the zodiac signs.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>740v</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                     <decoNote type="miniature">
+                        <locus>741r</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                     <decoNote type="miniature">
+                        <locus>741v</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                     <decoNote type="miniature">
+                        <locus>742r</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                     <decoNote type="miniature">
+                        <locus>742v</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                     <decoNote type="miniature">
+                        <locus>743r</locus>
+								Added quire including 6 full-page miniatures in colours and gold.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Pre-1600. Dark brown leather over wooden boards, gold tooled.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1277" notAfter="1324"/>
+                  </origin>
+                  <provenance>Shemu᾿el ben Ḥayim</provenance>
+                  <provenance>Avraham ben Mosheh of Coburg</provenance>
+                  <provenance>Acquisition: 
+								M. Reina of Milan: sold to the booksellers Payne &amp; Foss in Paris in 1838 or 1839 for the British Museum: note by Frederic Madden that it was 'Purchased of MM. Payne &amp; Foss 13th July, 1839. It came from the collection of M. Reina of Milan, sold at Paris in 1839' (folio 746v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

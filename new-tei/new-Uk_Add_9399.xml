@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Nevi᾿im u-Khetuvim (נביאים וכתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Nevi᾿im u-Khetuvim (נביאים וכתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 9399: Nevi᾿im u-Khetuvim  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,191 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>There is a lacuna after folio 242.  Manuscript is also defective at the end and folio 155 is only partially preserved. </note><note>
-								Ya῾aḳov ben Yo᾿ets; his inscription within the initial word of the Song of Songs, folio 86v. Dated inscription and memorandum on paper fly-leaf, 1r, 4894 (1136, antedated). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>There is a lacuna after folio 242.  Manuscript is also defective at the end and folio 155 is only partially preserved. </note>
+            <note>
+								Ya῾aḳov ben Yo᾿ets; his inscription within the initial word of the Song of Songs, folio 86v. Dated inscription and memorandum on paper fly-leaf, 1r, 4894 (1136, antedated). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 9399</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9399</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Parts of the Prophets and the Hagiographa, punctuated and accentuated, with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="249v">2r-249v</locus><title>Nevi᾿im u-Khetuvim  נביאים וכתובים </title></msItem><msItem n="2r"><locus from="2r" to="32r">2r-32r</locus><title>Isaiah</title></msItem><msItem n="32r"><locus from="32r" to="57v">32r-57v</locus><title>Ezekiel</title></msItem><msItem n="57v"><locus from="57v" to="62r">57v-62r</locus><title>Hosea</title></msItem><msItem n="62r"><locus from="62r" to="63v">62r-63v</locus><title>Joel</title></msItem><msItem n="63v"><locus from="63v" to="67r">63v-67r</locus><title>Amos</title></msItem><msItem n="67r"><locus from="67r" to="67v">67r-67v</locus><title>Obadiah</title></msItem><msItem n="67v"><locus from="67v" to="69r">67v-69r</locus><title>Jonah</title></msItem><msItem n="69r"><locus from="69r" to="71r">69r-71r</locus><title>Micah</title></msItem><msItem n="71r"><locus from="71r" to="72r">71r-72r</locus><title>Nahum</title></msItem><msItem n="72r"><locus from="72r" to="73v">72r-73v</locus><title>Habakkuk</title></msItem><msItem n="73v"><locus from="73v" to="74v">73v-74v</locus><title>Zephaniah</title></msItem><msItem n="74v"><locus from="74v" to="76r">74v-76r</locus><title>Haggai</title></msItem><msItem n="76r"><locus from="76r" to="81v">76r-81v</locus><title>Zechariah</title></msItem><msItem n="81v"><locus from="81v" to="84r">81v-84r</locus><title>Malachi</title></msItem><msItem n="84r"><locus from="84r" to="86v">84r-86v</locus><title>Ruth</title></msItem><msItem n="86v"><locus from="86v" to="89r">86v-89r</locus><title>Song of Songs</title></msItem><msItem n="89r"><locus from="89r" to="94v">89r-94v</locus><title>Ecclesiastes</title></msItem><msItem n="94v"><locus from="94v" to="97v">94v-97v</locus><title>Lamentations</title></msItem><msItem n="97v"><locus from="97v" to="103v">97v-103v</locus><title>Esther</title></msItem><msItem n="103v"><locus from="103v" to="147v">103v-147v</locus><title>Psalms</title></msItem><msItem n="147v"><locus from="147v" to="162r">147v-162r</locus><title>Proverbs</title></msItem><msItem n="162r"><locus from="162r" to="179r">162r-179r</locus><title>Job</title></msItem><msItem n="179r"><locus from="179r" to="191v">179r-191v</locus><title>Daniel</title></msItem><msItem n="191v"><locus from="191v" to="211r">191v-211r</locus><title>Ezra</title></msItem><msItem n="211r"><locus from="211r" to="249v">211r-249v</locus><title>Chronicles</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>249 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 9399</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9399</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Parts of the Prophets and the Hagiographa, punctuated and accentuated, with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="249v">2r-249v</locus>
+                     <title>Nevi᾿im u-Khetuvim  נביאים וכתובים </title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="32r">2r-32r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+                  <msItem n="32r">
+                     <locus from="32r" to="57v">32r-57v</locus>
+                     <title>Ezekiel</title>
+                  </msItem>
+                  <msItem n="57v">
+                     <locus from="57v" to="62r">57v-62r</locus>
+                     <title>Hosea</title>
+                  </msItem>
+                  <msItem n="62r">
+                     <locus from="62r" to="63v">62r-63v</locus>
+                     <title>Joel</title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="67r">63v-67r</locus>
+                     <title>Amos</title>
+                  </msItem>
+                  <msItem n="67r">
+                     <locus from="67r" to="67v">67r-67v</locus>
+                     <title>Obadiah</title>
+                  </msItem>
+                  <msItem n="67v">
+                     <locus from="67v" to="69r">67v-69r</locus>
+                     <title>Jonah</title>
+                  </msItem>
+                  <msItem n="69r">
+                     <locus from="69r" to="71r">69r-71r</locus>
+                     <title>Micah</title>
+                  </msItem>
+                  <msItem n="71r">
+                     <locus from="71r" to="72r">71r-72r</locus>
+                     <title>Nahum</title>
+                  </msItem>
+                  <msItem n="72r">
+                     <locus from="72r" to="73v">72r-73v</locus>
+                     <title>Habakkuk</title>
+                  </msItem>
+                  <msItem n="73v">
+                     <locus from="73v" to="74v">73v-74v</locus>
+                     <title>Zephaniah</title>
+                  </msItem>
+                  <msItem n="74v">
+                     <locus from="74v" to="76r">74v-76r</locus>
+                     <title>Haggai</title>
+                  </msItem>
+                  <msItem n="76r">
+                     <locus from="76r" to="81v">76r-81v</locus>
+                     <title>Zechariah</title>
+                  </msItem>
+                  <msItem n="81v">
+                     <locus from="81v" to="84r">81v-84r</locus>
+                     <title>Malachi</title>
+                  </msItem>
+                  <msItem n="84r">
+                     <locus from="84r" to="86v">84r-86v</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="86v">
+                     <locus from="86v" to="89r">86v-89r</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="89r">
+                     <locus from="89r" to="94v">89r-94v</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="94v">
+                     <locus from="94v" to="97v">94v-97v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="97v">
+                     <locus from="97v" to="103v">97v-103v</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="103v">
+                     <locus from="103v" to="147v">103v-147v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="147v">
+                     <locus from="147v" to="162r">147v-162r</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="162r">
+                     <locus from="162r" to="179r">162r-179r</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="179r">
+                     <locus from="179r" to="191v">179r-191v</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="191v">
+                     <locus from="191v" to="211r">191v-211r</locus>
+                     <title>Ezra</title>
+                  </msItem>
+                  <msItem n="211r">
+                     <locus from="211r" to="249v">211r-249v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>249 folios
+								</extent>
+                        <collation>
+                           <p>
 									Originally 32 quires of 8 leaves.
 									Catchwords on the last page of the quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 31;
-                                                  written lines: 30; Uniform layout. The first word in Isaiah and Hagiographa is written in large ornamental characters. In the other prophetical books the blank space reserved for the first word has not been filled up. The number of Psalms is 159. Masorah magna occupies two lines in the upper and three lines in the lower margin. Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script, main text is punctuated, masorah is unpunctuated. Shelomoh, inscribed with his name in the scribal formula on folio 83r, 178v.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Yahya al-Shaihani. Al-Wazir. Ikhtilaf. Al-Aimman. Arabic. BK. XII. Brit. Mus. Oriental 9399.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1299"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: 
-								Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his bookplate with Greek inscription: ho theos agape estin (inner upper cover); purchased for his library in 1823 in Utrecht. This codex, together with nine other manuscripts (Additional 9398-9407, see 119, 120, 70, 71, 73, 81, 143, 172), was acquired by the British Museum in 1834, once the property of the Hagen family and then of Adam Clarke.        </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Uniform layout. The first word in Isaiah and Hagiographa is written in large ornamental characters. In the other prophetical books the blank space reserved for the first word has not been filled up. The number of Psalms is 159. Masorah magna occupies two lines in the upper and three lines in the lower margin. Pricking and ruling (with hard-point on the hair side of the folio) are visible. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script, main text is punctuated, masorah is unpunctuated. Shelomoh, inscribed with his name in the scribal formula on folio 83r, 178v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Yahya al-Shaihani. Al-Wazir. Ikhtilaf. Al-Aimman. Arabic. BK. XII. Brit. Mus. Oriental 9399.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1299"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his bookplate with Greek inscription: ho theos agape estin (inner upper cover); purchased for his library in 1823 in Utrecht. This codex, together with nine other manuscripts (Additional 9398-9407, see 119, 120, 70, 71, 73, 81, 143, 172), was acquired by the British Museum in 1834, once the property of the Hagen family and then of Adam Clarke.        </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

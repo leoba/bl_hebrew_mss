@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush ha-Torah(פירוש התורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush ha-Torah(פירוש התורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1432: Perush ha-Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,113 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Yoḥanan ben Avraham ibn ῾Azi᾿el: inscribed with his name in the colophon, 1562  (folio 217v).
 								Don Yehudah ben Yitsḥaḳ Abravanel: inscribed with his name in the colophon, folio 1r.
-								Sha᾿ul ben Yeshayah ibn Mayor: inscribed with his name, folios 129r, 212r.</note><note type="relatedResource">
+								Sha᾿ul ben Yeshayah ibn Mayor: inscribed with his name, folios 129r, 212r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1432</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1432</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The supercommentary on Abraham Ibn Ezra's commentary on the Pentateuch.</summary><textLang mainLang="he"/><msItem n="1a"><locus from="1a" to="217v">1a-217v</locus><title>Perush ha-Torah פירוש התורה</title></msItem><msItem n="1a"><locus from="1a" to="45r">1a-45r</locus><title>Genesis</title></msItem><msItem n="45r"><locus from="45r" to="122r">45r-122r</locus><title>Exodus</title></msItem><msItem n="122r"><locus from="122r" to="155v">122r-155v</locus><title>Numbers</title></msItem><msItem n="155v"><locus from="155v" to="193v">155v-193v</locus><title>Leviticus</title></msItem><msItem n="193v"><locus from="193v" to="217v">193v-217v</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>217 folios + 16 additional facsimile folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1432</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1432</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The supercommentary on Abraham Ibn Ezra's commentary on the Pentateuch.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1a">
+                     <locus from="1a" to="217v">1a-217v</locus>
+                     <title>Perush ha-Torah פירוש התורה</title>
+                  </msItem>
+                  <msItem n="1a">
+                     <locus from="1a" to="45r">1a-45r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="45r">
+                     <locus from="45r" to="122r">45r-122r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="122r">
+                     <locus from="122r" to="155v">122r-155v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="155v">
+                     <locus from="155v" to="193v">155v-193v</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="193v">
+                     <locus from="193v" to="217v">193v-217v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>217 folios + 16 additional facsimile folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Indeterminable (too tightly bound). 
 									Catchwords on every verso.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 26;
-                                                  written lines: 26; 16 facsimile pages supplied at the beginning of the manuscript which complete the missing part of the text.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental cursive script, unpunctuated.</scriptNote></scriptDesc><bindingDesc><binding><p>   	BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate when="1562"/><origPlace>Salonika</origPlace></origin><provenance>Acquisition: 
-								Joseph Schlesinger: bought from him on 24 February 1877 (folios [219v]).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 26; 16 facsimile pages supplied at the beginning of the manuscript which complete the missing part of the text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental cursive script, unpunctuated.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>   	BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1562"/>
+                     <origPlace>Salonika</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Joseph Schlesinger: bought from him on 24 February 1877 (folios [219v]).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A miscellany.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A miscellany.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1054: A miscellany. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>More or less damaged. </note><note>Folio 1r is a title page, comprising  a description of the volume.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>More or less damaged. </note>
+            <note>Folio 1r is a title page, comprising  a description of the volume.</note>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,124 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1054</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1054</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A miscellany.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="22v">2r-22v</locus><title>Tefilot u-verakhot </title></msItem><msItem n="22v"><locus from="22v" to="23v">22v-23v</locus><title>[Mishneh Torah]</title></msItem><msItem n="24r"><locus from="24r" to="28v">24r-28v</locus><title>[Berakhot]</title></msItem><msItem n="28v"><locus from="28v" to="29v">28v-29v</locus><title>[Sefer yetsirah]</title></msItem><msItem n="30r"><locus from="30r" to="30r">30r-30r</locus><title>Kilʾayim </title></msItem><msItem n="30v"><locus from="30v" to="31v">30v-31v</locus><title>Sefer yetsirat ha-ṿalad</title></msItem><msItem n="31v"><locus n="31v">31v</locus><title>Elohenu elohim emet</title></msItem><msItem n="32r"><locus from="32r" to="56r">32r-56r</locus><title>Dinim</title></msItem><msItem n="56r"><locus from="56r" to="57r">56r-57r</locus><title>Notes</title></msItem><msItem n="57v"><locus from="57v" to="58v">57v-58v</locus><title>[Mishneh Torah]</title></msItem><msItem n="58v"><locus from="58v" to="58v">58v-58v</locus><title>[Mitsṿot ῾aseh]</title></msItem><msItem n="59r"><locus from="59r" to="59v">59r-59v</locus><title>Notes</title></msItem><msItem n="60r"><locus from="60r" to="61r">60r-61r</locus><title>Teshuvah</title></msItem><msItem n="61v"><locus from="61v" to="64v">61v-64v</locus><title>Yiḥud ha-rav Eleazar mi-Ṿermaisa</title></msItem><msItem n="64v"><locus from="64v" to="66v">64v-66v</locus><title>Sha῾ar ha-yiḥud </title></msItem><msItem n="67r"><locus from="67r" to="71r">67r-71r</locus><title>Index of responses</title></msItem><msItem n="72r"><locus from="72r" to="75r">72r-75r</locus><title>Otot ha-mashiaḥ</title></msItem><msItem n="76r"><locus from="76r" to="76v">76r-76v</locus><title>Notes</title></msItem><msItem n="77r"><locus from="77r" to="83v">77r-83v</locus><title>Hilkhot perot</title></msItem><msItem n="83v"><locus from="83v" to="85v">83v-85v</locus><title>Sefer mitsṿot gadol (fragments)</title></msItem><msItem n="85v"><locus from="85v" to="85v">85v-85v</locus><title>She᾿elot u-teshuvot</title></msItem><msItem n="86r"><locus from="86r" to="90v">86r-90v</locus><title>Miscellany</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>90 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1054</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1054</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A miscellany.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="22v">2r-22v</locus>
+                     <title>Tefilot u-verakhot </title>
+                  </msItem>
+                  <msItem n="22v">
+                     <locus from="22v" to="23v">22v-23v</locus>
+                     <title>[Mishneh Torah]</title>
+                  </msItem>
+                  <msItem n="24r">
+                     <locus from="24r" to="28v">24r-28v</locus>
+                     <title>[Berakhot]</title>
+                  </msItem>
+                  <msItem n="28v">
+                     <locus from="28v" to="29v">28v-29v</locus>
+                     <title>[Sefer yetsirah]</title>
+                  </msItem>
+                  <msItem n="30r">
+                     <locus from="30r" to="30r">30r-30r</locus>
+                     <title>Kilʾayim </title>
+                  </msItem>
+                  <msItem n="30v">
+                     <locus from="30v" to="31v">30v-31v</locus>
+                     <title>Sefer yetsirat ha-ṿalad</title>
+                  </msItem>
+                  <msItem n="31v">
+                     <locus n="31v">31v</locus>
+                     <title>Elohenu elohim emet</title>
+                  </msItem>
+                  <msItem n="32r">
+                     <locus from="32r" to="56r">32r-56r</locus>
+                     <title>Dinim</title>
+                  </msItem>
+                  <msItem n="56r">
+                     <locus from="56r" to="57r">56r-57r</locus>
+                     <title>Notes</title>
+                  </msItem>
+                  <msItem n="57v">
+                     <locus from="57v" to="58v">57v-58v</locus>
+                     <title>[Mishneh Torah]</title>
+                  </msItem>
+                  <msItem n="58v">
+                     <locus from="58v" to="58v">58v-58v</locus>
+                     <title>[Mitsṿot ῾aseh]</title>
+                  </msItem>
+                  <msItem n="59r">
+                     <locus from="59r" to="59v">59r-59v</locus>
+                     <title>Notes</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="61r">60r-61r</locus>
+                     <title>Teshuvah</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="64v">61v-64v</locus>
+                     <title>Yiḥud ha-rav Eleazar mi-Ṿermaisa</title>
+                  </msItem>
+                  <msItem n="64v">
+                     <locus from="64v" to="66v">64v-66v</locus>
+                     <title>Sha῾ar ha-yiḥud </title>
+                  </msItem>
+                  <msItem n="67r">
+                     <locus from="67r" to="71r">67r-71r</locus>
+                     <title>Index of responses</title>
+                  </msItem>
+                  <msItem n="72r">
+                     <locus from="72r" to="75r">72r-75r</locus>
+                     <title>Otot ha-mashiaḥ</title>
+                  </msItem>
+                  <msItem n="76r">
+                     <locus from="76r" to="76v">76r-76v</locus>
+                     <title>Notes</title>
+                  </msItem>
+                  <msItem n="77r">
+                     <locus from="77r" to="83v">77r-83v</locus>
+                     <title>Hilkhot perot</title>
+                  </msItem>
+                  <msItem n="83v">
+                     <locus from="83v" to="85v">83v-85v</locus>
+                     <title>Sefer mitsṿot gadol (fragments)</title>
+                  </msItem>
+                  <msItem n="85v">
+                     <locus from="85v" to="85v">85v-85v</locus>
+                     <title>She᾿elot u-teshuvot</title>
+                  </msItem>
+                  <msItem n="86r">
+                     <locus from="86r" to="90v">86r-90v</locus>
+                     <title>Miscellany</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>90 folios 
                            
                            
                            
@@ -205,7 +350,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -213,10 +360,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2 2 1 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 2 2 2 1 2;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2 2 1 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 2 2 2 1 2;
                                                   ruled lines: 23 45 44 45 55 25 39 41 39 41 39 41 41 45 45 38 51 24 31 5 20 44 36 21 36 40 43 44 43 43;
-                                                  written lines: 23 45 44 45 55 25 39 41 39 41 39 41 41 45 23 45 38 51 39 24 31 5 20 44 36 21 36 40 43 44 43 43; Non-uniform layout. Visible pricking and hard-point ruling.Visible hard-point ruling.Irregular layout, with numerous marginal notes and additions.Two columns of text to a page, with additional comments in the upper and lower margin.Additions and comments given in the margins.Two columns of text to a page, with numerous additions and comments in the margins.One column of text to a page, with some additions in the upper and lower margins.Irregular layout, numerous interlinear additions and comments.An irregularly cut leaf, a strip of the outer end has been lost.Irregular size of leaves.Irregular size of leaves.The leaves are of irregular size.The first two leaves are of quarto size, the other two octavo.An irregularly cut leaf.Folio 83 is irregularly cut.Hard-point ruling and pricking is visible.The leaves are full-length, but clipped on the sides.Hard-point ruling is visible.Visible hard-point ruling.Marginal notes.Visible hard-point ruling.Folio 86 is an irregularly cut piece of vellum which is not divided to columns, the remaining folios being divided into two columns.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Various Ashkenazi semi-cursive scripts of the 14th century.  Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive of the 13th or 14th century. Ashkenazi semi-cursive of the 14th century. Ashkenazi semi-cursive of the 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Misc. Works. Hebrew. Brit. Mus. Oriental Ms. 1054.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/></origin><provenance>Acquisition: 
+                                                  written lines: 23 45 44 45 55 25 39 41 39 41 39 41 41 45 23 45 38 51 39 24 31 5 20 44 36 21 36 40 43 44 43 43; Non-uniform layout. Visible pricking and hard-point ruling.Visible hard-point ruling.Irregular layout, with numerous marginal notes and additions.Two columns of text to a page, with additional comments in the upper and lower margin.Additions and comments given in the margins.Two columns of text to a page, with numerous additions and comments in the margins.One column of text to a page, with some additions in the upper and lower margins.Irregular layout, numerous interlinear additions and comments.An irregularly cut leaf, a strip of the outer end has been lost.Irregular size of leaves.Irregular size of leaves.The leaves are of irregular size.The first two leaves are of quarto size, the other two octavo.An irregularly cut leaf.Folio 83 is irregularly cut.Hard-point ruling and pricking is visible.The leaves are full-length, but clipped on the sides.Hard-point ruling is visible.Visible hard-point ruling.Marginal notes.Visible hard-point ruling.Folio 86 is an irregularly cut piece of vellum which is not divided to columns, the remaining folios being divided into two columns.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Various Ashkenazi semi-cursive scripts of the 14th century.  Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or early 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive script of the 13th or 14th century. Ashkenazi semi-cursive of the 13th or 14th century. Ashkenazi semi-cursive of the 14th century. Ashkenazi semi-cursive of the 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Misc. Works. Hebrew. Brit. Mus. Oriental Ms. 1054.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Samuel Schönblum of Vienna: purchased by the British Museum from him on 22 May 1871: inscribed, folio [92v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Samuel Schönblum of Vienna: purchased by the British Museum from him on 22 May 1871: inscribed, folio [92v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

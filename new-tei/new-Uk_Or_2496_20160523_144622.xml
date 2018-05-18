@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perushim (פרושים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perushim (פרושים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2496: Perushim  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Mounted on guards (modern restoration). Gaps after folio 31. All the leaves are more or less worm-eaten.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Mounted on guards (modern restoration). Gaps after folio 31. All the leaves are more or less worm-eaten.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,52 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2496</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2496</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Fragments of Arabic commentaries on Numbers, Leviticus and Deuteronomy.</summary><textLang mainLang="ara"/><msItem n="1r"><locus from="1r" to="72v">1r-72v</locus><title>Perushim  פרושים</title></msItem><msItem n="1r"><locus from="1r" to="58v">1r-58v</locus><title>A commentary on Numbers</title></msItem><msItem n="59r"><locus from="59r" to="66v">59r-66v</locus><title>Commentary on Leviticus</title></msItem><msItem n="67r"><locus from="67r" to="72v">67r-72v</locus><title>Commentary on Deuteronomy </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>[ii]+72+[ix]								58 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2496</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2496</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragments of Arabic commentaries on Numbers, Leviticus and Deuteronomy.</summary>
+                  <textLang mainLang="ara">Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="72v">1r-72v</locus>
+                     <title>Perushim  פרושים</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="58v">1r-58v</locus>
+                     <title>A commentary on Numbers</title>
+                  </msItem>
+                  <msItem n="59r">
+                     <locus from="59r" to="66v">59r-66v</locus>
+                     <title>Commentary on Leviticus</title>
+                  </msItem>
+                  <msItem n="67r">
+                     <locus from="67r" to="72v">67r-72v</locus>
+                     <title>Commentary on Deuteronomy </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>[ii]+72+[ix]								58 folios
                               
                               
                               
@@ -49,7 +122,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                               
                               
                               
@@ -73,6 +148,40 @@
                            
                            
                            
-                           </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1;
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1;
                                                   ruled lines: 25 21 21;
-                                                  written lines: 25 21 21; The Hebrew biblical text is embodied.The pointed Hebrew biblical text is embodied.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Three different Oriental square and semi-cursive scripts of approximately 13th to 14th century. Oriental square and semi-cursive script of approximately 14th century. Oriental square and semi-cursive script of approximately 13th century. Oriental square and semi-cursive script of 14th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Title on the spine: 'Numbers etc. with Comm. Hebr. &amp; Arab. British Museum Oriental 1496.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1200" notAfter="1399"/></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25 21 21; The Hebrew biblical text is embodied.The pointed Hebrew biblical text is embodied.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Three different Oriental square and semi-cursive scripts of approximately 13th to 14th century. Oriental square and semi-cursive script of approximately 14th century. Oriental square and semi-cursive script of approximately 13th century. Oriental square and semi-cursive script of 14th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Title on the spine: 'Numbers etc. with Comm. Hebr. &amp; Arab. British Museum Oriental 1496.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1200" notAfter="1399"/>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

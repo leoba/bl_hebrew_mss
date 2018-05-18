@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Poetical writings.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Poetical writings.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27193: Poetical writings. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,118 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained.</note>
+            <note>
 								Clemento Renatto: inscribed with his name, undated (folio 95v).
 								Yosef ben Menaḥem Finzi: inscribed, folio 2v.
-								Shelomoh ben David: inscribed, folio 3v.</note><note type="relatedResource">
+								Shelomoh ben David: inscribed, folio 3v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27193</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27193</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Poetical writings.</summary><textLang mainLang="he"/><msItem n="3v"><locus from="3v" to="45v">3v-45v</locus><title>Beḥinat ῾olam בחינת עולם</title></msItem><msItem n="46r"><locus from="46r" to="56r">46r-56r</locus><title>Baḳashat ha-memayen בקשת הממין</title></msItem><msItem n="56r"><locus from="56r" to="59v">56r-59v</locus><title>Baḳashat ha-lomdin בקשת הלמדין</title></msItem><msItem n="60r"><locus from="60r" to="75v">60r-75v</locus><title>Ḳe῾arat kesef קערת כסף</title></msItem><msItem n="75v"><locus from="75v" to="86v">75v-86v</locus><title>Musar ha-sekhel מוסר השכל</title></msItem><msItem n="87r"><locus from="87r" to="95v">87r-95v</locus><title>Elef alafin אלף אלפין</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>95 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27193</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27193</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Poetical writings.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="3v">
+                     <locus from="3v" to="45v">3v-45v</locus>
+                     <title>Beḥinat ῾olam בחינת עולם</title>
+                  </msItem>
+                  <msItem n="46r">
+                     <locus from="46r" to="56r">46r-56r</locus>
+                     <title>Baḳashat ha-memayen בקשת הממין</title>
+                  </msItem>
+                  <msItem n="56r">
+                     <locus from="56r" to="59v">56r-59v</locus>
+                     <title>Baḳashat ha-lomdin בקשת הלמדין</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="75v">60r-75v</locus>
+                     <title>Ḳe῾arat kesef קערת כסף</title>
+                  </msItem>
+                  <msItem n="75v">
+                     <locus from="75v" to="86v">75v-86v</locus>
+                     <title>Musar ha-sekhel מוסר השכל</title>
+                  </msItem>
+                  <msItem n="87r">
+                     <locus from="87r" to="95v">87r-95v</locus>
+                     <title>Elef alafin אלף אלפין</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>95 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each, marked by signatures and catchwords at the end, and also by signatures at the beginning.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 15 16;
-                                                  written lines: 15 16; Uniform layout.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.Initial words in larger characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script of the 15th century.</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>54r</locus>
-								 Initial words decorated with penwork and pen-flourishing, in black ink.</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Bechinath Olam. Etc. Hebrew. Brit. Mus. Additional 27,193.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 305: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [97v] (fse002v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 15 16; Uniform layout.Visible pricking and hard-point ruling.Hair side and flesh side of folios distinguishable.Initial words in larger characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script of the 15th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>54r</locus>
+								 Initial words decorated with penwork and pen-flourishing, in black ink.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Bechinath Olam. Etc. Hebrew. Brit. Mus. Additional 27,193.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 305: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [97v] (fse002v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

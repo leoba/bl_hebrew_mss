@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah, hafṭarot u-megilot (תורה, הפטרות ומגילות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah, hafṭarot u-megilot (תורה, הפטרות ומגילות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 21160: Torah, hafṭarot u-megilot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,40 +39,218 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 21160</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_21160</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch, Hafṭarot, Five Scrolls and Job, accompanied by Targum Onḳelos and masorah magna and parva (aka 'Yonah Pentateuch').</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="329v">1r-329v</locus><title>Torah, hafṭarot u-megilot  תורה, הפטרות ומגילות  </title></msItem><msItem n="1v"><locus from="1v" to="63v">1v-63v</locus><title>Genesis</title></msItem><msItem n="63v"><locus from="63v" to="137r">63v-137r</locus><title>Exodus</title></msItem><msItem n="137r"><locus from="137r" to="184r">137r-184r</locus><title>Leviticus</title></msItem><msItem n="184r"><locus from="184r" to="253v">184r-253v</locus><title>Numbers</title></msItem><msItem n="253v"><locus from="253v" to="274r">253v-274r</locus><title>Deuteronomy</title></msItem><msItem n="274r"><locus from="274r" to="298r">274r-298r</locus><title>Hafṭarot</title></msItem><msItem n="298r"><locus from="298r" to="301r">298r-301r</locus><title>Ruth</title></msItem><msItem n="301r"><locus from="301r" to="301v">301r-301v</locus><title>Song of Songs</title></msItem><msItem n="301v"><locus from="301v" to="308r">301v-308r</locus><title>Ecclesiastes</title></msItem><msItem n="308r"><locus from="308r" to="315r">308r-315r</locus><title>Esther</title></msItem><msItem n="315r"><locus from="315r" to="318v">315r-318v</locus><title>Lamentations</title></msItem><msItem n="318v"><locus from="318v" to="329v">318v-329v</locus><title>Job</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>329 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 21160</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_21160</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch, Hafṭarot, Five Scrolls and Job, accompanied by Targum Onḳelos and masorah magna and parva (aka 'Yonah Pentateuch').</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Aramaic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="329v">1r-329v</locus>
+                     <title>Torah, hafṭarot u-megilot  תורה, הפטרות ומגילות  </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="63v">1v-63v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="137r">63v-137r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="137r">
+                     <locus from="137r" to="184r">137r-184r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="184r">
+                     <locus from="184r" to="253v">184r-253v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="253v">
+                     <locus from="253v" to="274r">253v-274r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="274r">
+                     <locus from="274r" to="298r">274r-298r</locus>
+                     <title>Hafṭarot</title>
+                  </msItem>
+                  <msItem n="298r">
+                     <locus from="298r" to="301r">298r-301r</locus>
+                     <title>Ruth</title>
+                  </msItem>
+                  <msItem n="301r">
+                     <locus from="301r" to="301v">301r-301v</locus>
+                     <title>Song of Songs</title>
+                  </msItem>
+                  <msItem n="301v">
+                     <locus from="301v" to="308r">301v-308r</locus>
+                     <title>Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="308r">
+                     <locus from="308r" to="315r">308r-315r</locus>
+                     <title>Esther</title>
+                  </msItem>
+                  <msItem n="315r">
+                     <locus from="315r" to="318v">315r-318v</locus>
+                     <title>Lamentations</title>
+                  </msItem>
+                  <msItem n="318v">
+                     <locus from="318v" to="329v">318v-329v</locus>
+                     <title>Job</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>329 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									35 quires: i6 (folios 1-6), ii12 (folios 7-18), iii12 (folios 19-30), iv12 (folios 31-42), v12 (folios 43-54), vi12 (folios 55-66), vii12 (folios 67-78), viii12 (folios 79-90), ix12 (folios 91-102), x12 (folios 103-114), xi12 (folios 115-126), xii10 (folios 127-136), xiii12 (folios 137-148), xiv12 (folios 149-160), xv8 (folios 161-168), xvi12 (folios 169-180), xvii12 (folios 181-192), xviii12 (folios 193-204), xix12 (folios 205-216), xx12 (folios 217-228), xxi12 (folios 229-240), xxii12+1 (folios 241-253), xxiii10 (folios 254-263), xxiv4 (folios 264-267), xxv4 (268-271), xxvi2 (folios 272-273), xxvii10 (folios 274-283), xxviii6 (folios 284-289), xxix8 (folios 290-297), xxx3 (folios 298-300), xxxi10 (folios 301-310), xxxii8 (folios 311-318), xxxiii3 (folios 319-321), xxxiv5 (folios 322-326), xxxv3 (folios 327-329).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 31;
-                                                  written lines: 30; Uniform layout. The manuscript is defective at the beginning and at the end, with leaves missing after folio 273, 300 and 321.The beginning of each book is distinguished by the opening word or words being written in large characters.Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and four in the lower margin.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script of 13th century; punctuation provided by a different hand. Baruch ; the word ברוך is marked on folio 1r.</scriptNote></scriptDesc><decoDesc><decoNote> 	1 inhabited initial word in ink. Numerous micrographical illustrations.</decoNote><decoNote type="initial"><locus>63v</locus>1 inhabited initial word in ink 
-							</decoNote><decoNote type="paratext"><locus>180v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>182r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>184r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>187v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>188r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>192v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>194r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>201v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>285r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>292r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>292v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>300v etc. </locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="initial"><locus>63v</locus>1 inhabited initial word in ink 
-							</decoNote><decoNote type="paratext"><locus>180v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>182r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>184r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>187v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>188r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>192v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>194r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>201v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>285r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>292r</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>292v</locus>Numerous micrographical illustrations.
-							</decoNote><decoNote type="paratext"><locus>300v etc. </locus>Numerous micrographical illustrations.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Biblia Hebraica. Pentateuchus. Haphtaroth. Megilloth V. Iob. Brit. Mus. Add. Or. 21,160.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1250" notAfter="1299"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: 
-								M. Edwin Tross of Paris: purchased by the British Museum from him on 13 October 1855, inscribed (([331v])).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30; Uniform layout. The manuscript is defective at the beginning and at the end, with leaves missing after folio 273, 300 and 321.The beginning of each book is distinguished by the opening word or words being written in large characters.Masorah magna often written in the form of figures, animals and patterns; otherwise it occupies three lines in the upper margin and four in the lower margin.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script of 13th century; punctuation provided by a different hand. Baruch ; the word ברוך is marked on folio 1r.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote> 	1 inhabited initial word in ink. Numerous micrographical illustrations.</decoNote>
+                     <decoNote type="initial">
+                        <locus>63v</locus>1 inhabited initial word in ink 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>180v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>182r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>184r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>187v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>188r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>192v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>194r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>201v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>285r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>292r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>292v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>300v etc. </locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>63v</locus>1 inhabited initial word in ink 
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>180v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>182r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>184r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>187v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>188r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>192v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>194r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>201v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>285r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>292r</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>292v</locus>Numerous micrographical illustrations.
+							</decoNote>
+                     <decoNote type="paratext">
+                        <locus>300v etc. </locus>Numerous micrographical illustrations.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Biblia Hebraica. Pentateuchus. Haphtaroth. Megilloth V. Iob. Brit. Mus. Add. Or. 21,160.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1250" notAfter="1299"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								M. Edwin Tross of Paris: purchased by the British Museum from him on 13 October 1855, inscribed (([331v])).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

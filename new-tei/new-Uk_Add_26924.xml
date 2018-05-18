@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah ῾im perush Rash"i(תורה עם פרוש רש"י)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah ῾im perush Rash"i(תורה עם פרוש רש"י)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26924: Torah ῾im perush Rash"i are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,138 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Some pages are badly mutilated, e.g. 263r, 263v.</note><note>Doodle page separating the commentary on the Five Scrolls and Sefer mivḥar ha-peninim, folio 263v.A certificate of a shoḥet named Matatyah ben Daṿid, of Sforno, signed by his teacher, Daṿid ʿAzriʾel, is supplied at the beginning of Sefer mivḥar ha-peninim, folio 264r, dated 9 Sivan (5)300.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Some pages are badly mutilated, e.g. 263r, 263v.</note>
+            <note>Doodle page separating the commentary on the Five Scrolls and Sefer mivḥar ha-peninim, folio 263v.A certificate of a shoḥet named Matatyah ben Daṿid, of Sforno, signed by his teacher, Daṿid ʿAzriʾel, is supplied at the beginning of Sefer mivḥar ha-peninim, folio 264r, dated 9 Sivan (5)300.
 								Giovanni Domenico Carretto: Italian censor (fl. 1600-1624): inscribed with his name, 1618  (folio 280r); see 84. 
-								Domenico Irosolimitano (fl. 1575 - 1624): inscribed with his name, 1592 (folio 280v); see 62-74.</note><note type="relatedResource">
+								Domenico Irosolimitano (fl. 1575 - 1624): inscribed with his name, 1592 (folio 280v); see 62-74.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26924</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26924</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with Rashi's commentary, various commentaries on the Five Scrolls and Sefer mivḥar ha-peninim by Ibn Gabirol.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="280v">1r-280v</locus><title>Torah ῾im perush Rash"i תורה עם פרוש רש"י</title></msItem><msItem n="1r"><locus from="1r" to="60r">1r-60r</locus><title>Genesis </title></msItem><msItem n="60r"><locus from="60r" to="117v">60r-117v</locus><title>Exodus</title></msItem><msItem n="117v"><locus from="117v" to="153r">117v-153r</locus><title>Leviticus</title></msItem><msItem n="153r"><locus from="153r" to="191v">153r-191v</locus><title>Numbers</title></msItem><msItem n="191v"><locus from="191v" to="228r">191v-228r</locus><title>Deuteronomy</title></msItem><msItem n="228r"><locus from="228r" to="230v">228r-230v</locus><title>Commentary on Ruth (similar to Rashi)</title></msItem><msItem n="230v"><locus from="230v" to="242r">230v-242r</locus><title>Rashi's commentary on the Song of Songs</title></msItem><msItem n="242r"><locus from="242r" to="255r">242r-255r</locus><title>Rashi's commentary on Ecclesiastes</title></msItem><msItem n="255r"><locus from="255r" to="260r">255r-260r</locus><title>Commentary on Lamentations</title></msItem><msItem n="260r"><locus from="260r" to="264v">260r-264v</locus><title>Commentary on Esther</title></msItem><msItem n="264v"><locus from="264v" to="280v">264v-280v</locus><title>Sefer mivḥar ha-peninim</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>280 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26924</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26924</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Rashi's commentary, various commentaries on the Five Scrolls and Sefer mivḥar ha-peninim by Ibn Gabirol.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="280v">1r-280v</locus>
+                     <title>Torah ῾im perush Rash"i תורה עם פרוש רש"י</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="60r">1r-60r</locus>
+                     <title>Genesis </title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="117v">60r-117v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="117v">
+                     <locus from="117v" to="153r">117v-153r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="153r">
+                     <locus from="153r" to="191v">153r-191v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="191v">
+                     <locus from="191v" to="228r">191v-228r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="228r">
+                     <locus from="228r" to="230v">228r-230v</locus>
+                     <title>Commentary on Ruth (similar to Rashi)</title>
+                  </msItem>
+                  <msItem n="230v">
+                     <locus from="230v" to="242r">230v-242r</locus>
+                     <title>Rashi's commentary on the Song of Songs</title>
+                  </msItem>
+                  <msItem n="242r">
+                     <locus from="242r" to="255r">242r-255r</locus>
+                     <title>Rashi's commentary on Ecclesiastes</title>
+                  </msItem>
+                  <msItem n="255r">
+                     <locus from="255r" to="260r">255r-260r</locus>
+                     <title>Commentary on Lamentations</title>
+                  </msItem>
+                  <msItem n="260r">
+                     <locus from="260r" to="264v">260r-264v</locus>
+                     <title>Commentary on Esther</title>
+                  </msItem>
+                  <msItem n="264v">
+                     <locus from="264v" to="280v">264v-280v</locus>
+                     <title>Sefer mivḥar ha-peninim</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>280 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
 									Catchwords at the end of the quire. 
 									Hebrew numbering on the first and the last page of the quire.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 29;
-                                                  written lines: 29; Uniform layout.Pricking and hard-point ruling are visible. Several corrections supplied in the margins.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square (for the main text) and semi-cursive (for the commentary) script, not punctuated. Mosheh: his name inscribed in several acrostics, e.g. folio 170v, 160v, 261v.</scriptNote></scriptDesc><bindingDesc><binding><p>  BM/BL in-house.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1399"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile: his manuscript no. 32; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 (see 131-153), folio [282v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 29; Uniform layout.Pricking and hard-point ruling are visible. Several corrections supplied in the margins.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square (for the main text) and semi-cursive (for the commentary) script, not punctuated. Mosheh: his name inscribed in several acrostics, e.g. folio 170v, 160v, 261v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>  BM/BL in-house.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1399"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile: his manuscript no. 32; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum through Asher &amp; Co. in October 1865 for £1,000 (see 131-153), folio [282v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

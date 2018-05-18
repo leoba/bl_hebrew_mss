@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Tana"kh(תנ"ך)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Tana"kh(תנ"ך)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5710: Tana"kh are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,29 +39,172 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
-								Clemento Renatto: inscribed with his name, undated (folio 258v). </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+								Clemento Renatto: inscribed with his name, undated (folio 258v). </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5710</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5710</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The first volume of the Bible with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="258v">1r-258v</locus><title>Tana"kh תנ"ך</title></msItem><msItem n="1r"><locus from="1r" to="34v">1r-34v</locus><title>Genesis</title></msItem><msItem n="34v"><locus from="34v" to="63r">34v-63r</locus><title>Exodus</title></msItem><msItem n="63r"><locus from="63r" to="83r">63r-83r</locus><title>Leviticus</title></msItem><msItem n="83r"><locus from="83r" to="110v">83r-110v</locus><title>Numbers</title></msItem><msItem n="110v"><locus from="110v" to="135v">110v-135v</locus><title>Deuteronomy</title></msItem><msItem n="135v"><locus from="135v" to="137r">135v-137r</locus><title>Rules for the scribe</title></msItem><msItem n="137r"><locus from="137r" to="155r">137r-155r</locus><title>Joshua</title></msItem><msItem n="155r"><locus from="155r" to="172v">155r-172v</locus><title>Judges</title></msItem><msItem n="172v"><locus from="172v" to="215v">172v-215v</locus><title>Samuel</title></msItem><msItem n="215v"><locus from="215v" to="258v">215v-258v</locus><title>Kings</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>258 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5710</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5710</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The first volume of the Bible with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="258v">1r-258v</locus>
+                     <title>Tana"kh תנ"ך</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="34v">1r-34v</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="34v">
+                     <locus from="34v" to="63r">34v-63r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="63r">
+                     <locus from="63r" to="83r">63r-83r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="83r">
+                     <locus from="83r" to="110v">83r-110v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="110v">
+                     <locus from="110v" to="135v">110v-135v</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+                  <msItem n="135v">
+                     <locus from="135v" to="137r">135v-137r</locus>
+                     <title>Rules for the scribe</title>
+                  </msItem>
+                  <msItem n="137r">
+                     <locus from="137r" to="155r">137r-155r</locus>
+                     <title>Joshua</title>
+                  </msItem>
+                  <msItem n="155r">
+                     <locus from="155r" to="172v">155r-172v</locus>
+                     <title>Judges</title>
+                  </msItem>
+                  <msItem n="172v">
+                     <locus from="172v" to="215v">172v-215v</locus>
+                     <title>Samuel</title>
+                  </msItem>
+                  <msItem n="215v">
+                     <locus from="215v" to="258v">215v-258v</locus>
+                     <title>Kings</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>258 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 or 12 leaves. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 30;
-                                                  written lines: 29; Uniform layout. Complete hard-point ruling. Masorah magna in usually three lines of the upper and five lines of the lower margin. The masoretic rubric registering the number of verses placed at the end of each book, but omitted at the end of Joshua, Judges and Samuel.  In the prophetical books the beginning and the end of the haftarot frequently indicated in the margin.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Main text in the Ashkenazi square script, punctuated. Masoretic text in Ashkenazi semi-cursive, unpunctuated. Masoretic notes in this volume provided by two hands, the second being Ḥizkiyahu ha-Naḳdan .</scriptNote></scriptDesc><decoDesc><decoNote type="initial"><locus>1r</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>34v</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>63r</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>83r</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>110v</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>137r</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>155r</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>172v</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="initial"><locus>215v</locus>Initial-word panels with penwork decoration, inhabited.
-							</decoNote><decoNote type="miniature"><locus>136r</locus>Menorah, in colours.
-							</decoNote><decoNote type="border"><locus>1r</locus>Full border.
-							</decoNote><decoNote type="initial"><locus>86r</locus>
-								2 unfinished foliate scrolls around initial-word panels.</decoNote><decoNote type="initial"><locus>90r</locus>
-								2 unfinished foliate scrolls around initial-word panels.</decoNote></decoDesc><bindingDesc><binding><p> BM in-house, 'Harleian' binding. Spine: 'Biblia Hebraica. Cum Not. Masoret. Vol. I. Brit. Mus. Harley 5710.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1275" notAfter="1299"/><origPlace>Italy Rome  Bologna</origPlace></origin><provenance>Acquisition: Edward Harley: bought by him through Nathaniel Noel (b. 1681, d. 1753), bookseller for £31 10s (price of the two volumes); inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 (folio 1r). The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. 
+                                                  written lines: 29; Uniform layout. Complete hard-point ruling. Masorah magna in usually three lines of the upper and five lines of the lower margin. The masoretic rubric registering the number of verses placed at the end of each book, but omitted at the end of Joshua, Judges and Samuel.  In the prophetical books the beginning and the end of the haftarot frequently indicated in the margin.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Main text in the Ashkenazi square script, punctuated. Masoretic text in Ashkenazi semi-cursive, unpunctuated. Masoretic notes in this volume provided by two hands, the second being Ḥizkiyahu ha-Naḳdan .</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <locus>1r</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>34v</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>63r</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>83r</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>110v</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>137r</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>155r</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>172v</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>215v</locus>Initial-word panels with penwork decoration, inhabited.
+							</decoNote>
+                     <decoNote type="miniature">
+                        <locus>136r</locus>Menorah, in colours.
+							</decoNote>
+                     <decoNote type="border">
+                        <locus>1r</locus>Full border.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>86r</locus>
+								2 unfinished foliate scrolls around initial-word panels.</decoNote>
+                     <decoNote type="initial">
+                        <locus>90r</locus>
+								2 unfinished foliate scrolls around initial-word panels.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house, 'Harleian' binding. Spine: 'Biblia Hebraica. Cum Not. Masoret. Vol. I. Brit. Mus. Harley 5710.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1275" notAfter="1299"/>
+                     <origPlace>Italy Rome  Bologna</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Edward Harley: bought by him through Nathaniel Noel (b. 1681, d. 1753), bookseller for £31 10s (price of the two volumes); inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 (folio 1r). The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts. 
 Edward Harley bequeathed the library to his widow, Henrietta, née Cavendish Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.
-</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

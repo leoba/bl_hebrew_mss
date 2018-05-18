@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Neviʾim u-Khetuvim(נביאים וכתובים)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Neviʾim u-Khetuvim(נביאים וכתובים)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 9402: Neviʾim u-Khetuvim are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,124 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Later addition on the lower margin of folio 59v. 
-								חזק at the end of Chronicles, folio 206v. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Later addition on the lower margin of folio 59v. 
+								חזק at the end of Chronicles, folio 206v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 9402</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9402</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Prophets and Hagiographa, punctuated, accompanied with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="229v">1r-229v</locus><title>Neviʾim u-Khetuvim נביאים וכתובים</title></msItem><msItem n="3r"><locus from="3r" to="59v">3r-59v</locus><title>Psalms</title></msItem><msItem n="60r"><locus from="60r" to="81v">60r-81v</locus><title>Job</title></msItem><msItem n="82r"><locus from="82r" to="100v">82r-100v</locus><title>Proverbs</title></msItem><msItem n="101r"><locus from="101r" to="116v">101r-116v</locus><title>Daniel</title></msItem><msItem n="117r"><locus from="117r" to="142v">117r-142v</locus><title>Ezra</title></msItem><msItem n="143r"><locus from="143r" to="206v">143r-206v</locus><title>Chronicles</title></msItem><msItem n="207r"><locus from="207r" to="227v">207r-227v</locus><title>Jeremiah</title></msItem><msItem n="227v"><locus from="227v" to="229r">227v-229r</locus><title>Isaiah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>229 folios
-								</extent><collation><p>
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 9402</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_9402</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Prophets and Hagiographa, punctuated, accompanied with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="229v">1r-229v</locus>
+                     <title>Neviʾim u-Khetuvim נביאים וכתובים</title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="59v">3r-59v</locus>
+                     <title>Psalms</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="81v">60r-81v</locus>
+                     <title>Job</title>
+                  </msItem>
+                  <msItem n="82r">
+                     <locus from="82r" to="100v">82r-100v</locus>
+                     <title>Proverbs</title>
+                  </msItem>
+                  <msItem n="101r">
+                     <locus from="101r" to="116v">101r-116v</locus>
+                     <title>Daniel</title>
+                  </msItem>
+                  <msItem n="117r">
+                     <locus from="117r" to="142v">117r-142v</locus>
+                     <title>Ezra</title>
+                  </msItem>
+                  <msItem n="143r">
+                     <locus from="143r" to="206v">143r-206v</locus>
+                     <title>Chronicles</title>
+                  </msItem>
+                  <msItem n="207r">
+                     <locus from="207r" to="227v">207r-227v</locus>
+                     <title>Jeremiah</title>
+                  </msItem>
+                  <msItem n="227v">
+                     <locus from="227v" to="229r">227v-229r</locus>
+                     <title>Isaiah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>229 folios
+								</extent>
+                        <collation>
+                           <p>
 									29 quires of mostly 8 leaves.
 									Quires marked with catchwords on the last page.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 3;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 3;
                                                   ruled lines: 26;
-                                                  written lines: 25; Uniform layout. Visible pricking and ruling with hard-point.Writing in three columns, with supralinear masoretic punctuation and accents.Initial word of each book is written in large ornamental characters.Masorah magna in two lines at the top of the page and three lines in the lower margin.A number of masoretic rubrics at the end of the books.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square Ashkenazi script of the 13th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine: 'Bible. Hebrew. Vol. 2. Brit. Mus. Additional 9402.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1286"/></origin><provenance>Ya῾aḳov ben Ya῾aḳov Sason</provenance><provenance>Wolf Leib</provenance><provenance>Binyamin bar Yo᾿el</provenance><provenance>John  van der Hagen</provenance><provenance>Acquisition: Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his inscription in Latin (folio 1r); manuscript acquired by him at Utrecht in 1823. His bookplate with Greek inscription: ho theos agape estin (folio [i verso]). This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in 1834, once the property of the Hagen family and then bought by Adam Clarke. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25; Uniform layout. Visible pricking and ruling with hard-point.Writing in three columns, with supralinear masoretic punctuation and accents.Initial word of each book is written in large ornamental characters.Masorah magna in two lines at the top of the page and three lines in the lower margin.A number of masoretic rubrics at the end of the books.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square Ashkenazi script of the 13th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine: 'Bible. Hebrew. Vol. 2. Brit. Mus. Additional 9402.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1286"/>
+                  </origin>
+                  <provenance>Ya῾aḳov ben Ya῾aḳov Sason</provenance>
+                  <provenance>Wolf Leib</provenance>
+                  <provenance>Binyamin bar Yo᾿el</provenance>
+                  <provenance>John  van der Hagen</provenance>
+                  <provenance>Acquisition: Adam Clarke (b. 1762, d. 1832), Wesleyan Methodist minister and scholar: his inscription in Latin (folio 1r); manuscript acquired by him at Utrecht in 1823. His bookplate with Greek inscription: ho theos agape estin (folio [i verso]). This codex, together with nine other manuscripts (Add MS 9398-9407), was acquired by the British Museum in 1834, once the property of the Hagen family and then bought by Adam Clarke. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Kabbalistic collectaneum.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Kabbalistic collectaneum.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27076: Kabbalistic collectaneum. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,106 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained.</note>
+            <note>
 								Mikha᾿el Elisha῾ da Modena: inscribed, folio 2r.
 								Renatto da Modena: inscribed with his name, 1626 (folio 68v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 132-133.
 								Fra Gir. Durazzano, active in 1640-41 in Modena-Reggio: inscribed with his name, 1641 (folio 68v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 89.
-								Camillo Jaghel: inscribed with his name, 1613 (folio 68v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 50-56.</note><note type="relatedResource">
+								Camillo Jaghel: inscribed with his name, 1613 (folio 68v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), appendix § 50-56.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27076</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27076</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Kabbalistic collectaneum.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="52v">2r-52v</locus><title>Ṭaʻame ha-mitsṿot טעמי המצות</title></msItem><msItem n="53r"><locus from="53r" to="56v">53r-56v</locus><title>Perush birkat ha-mazon פרוש ברכת המזון</title></msItem><msItem n="57r"><locus from="57r" to="63r">57r-63r</locus><title>Keter shem ṭov כתר שם טוב</title></msItem><msItem n="63v"><locus from="63v" to="68v">63v-68v</locus><title>Shaʻar ha-sho᾿el שער השואל </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>68 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27076</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27076</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kabbalistic collectaneum.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="52v">2r-52v</locus>
+                     <title>Ṭaʻame ha-mitsṿot טעמי המצות</title>
+                  </msItem>
+                  <msItem n="53r">
+                     <locus from="53r" to="56v">53r-56v</locus>
+                     <title>Perush birkat ha-mazon פרוש ברכת המזון</title>
+                  </msItem>
+                  <msItem n="57r">
+                     <locus from="57r" to="63r">57r-63r</locus>
+                     <title>Keter shem ṭov כתר שם טוב</title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="68v">63v-68v</locus>
+                     <title>Shaʻar ha-sho᾿el שער השואל </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>68 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 12 to 16 leaves each (irregular). No catchwords.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 25 31;
-                                                  written lines: 25 31; 30 lines to a page in folios 2-62, and 25-31 lines in folios 63-68.Folios 55v-56v left blank.Visible hard-point ruling.Initial words in larger square characters.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive and cursive scripts of the 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Ta'ame Ham-Mitsvoth. Etc. Hebrew. Brit. Mus. Additional 27,076.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1500" notAfter="1599"/><origPlace>Italy Modena</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi(b. 1801, d. 1860), bibliophile; his manuscript no. 181: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see David Paisey, 'Adolphus Asher (1800-1853): Berlin bookseller, anglophile and friend to Panizzi', in The British Library Journal, 23 [1997], 131-153): inscribed, folio [70v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 25 31; 30 lines to a page in folios 2-62, and 25-31 lines in folios 63-68.Folios 55v-56v left blank.Visible hard-point ruling.Initial words in larger square characters.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive and cursive scripts of the 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Ta'ame Ham-Mitsvoth. Etc. Hebrew. Brit. Mus. Additional 27,076.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1500" notAfter="1599"/>
+                     <origPlace>Italy Modena</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi(b. 1801, d. 1860), bibliophile; his manuscript no. 181: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see David Paisey, 'Adolphus Asher (1800-1853): Berlin bookseller, anglophile and friend to Panizzi', in The British Library Journal, 23 [1997], 131-153): inscribed, folio [70v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of fragments on various subjects. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of fragments on various subjects. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 4048: A collection of fragments on various subjects.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,8 +39,14 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Edge losses to damp and mould, inlaid before rebinding.   Slight worming.
- Laminated.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Edge losses to damp and mould, inlaid before rebinding.   Slight worming.
+ Laminated.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -25,8 +54,92 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 4048</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4048</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of fragments on various subjects. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="34v">1r-34v</locus><title>Miscellany קובץ</title></msItem><msItem n="1r"><locus from="1r" to="7v">1r-7v</locus><title>Torah תורה </title></msItem><msItem n="8r"><locus from="8r" to="8v">8r-8v</locus><title>Torah תורה</title></msItem><msItem n="9r"><locus from="9r" to="9v">9r-9v</locus><title>Nevi᾿im aḥaronim נביאים אחרונים </title></msItem><msItem n="10r"><locus from="10r" to="14v">10r-14v</locus><title>Maḥberet ha-tigan מחברת התיג'אן (קטעים)</title></msItem><msItem n="15r"><locus from="15r" to="15v">15r-15v</locus><title>Perush ha-Torah (Bereshit) פרוש התורה (בראשית)</title></msItem><msItem n="16r"><locus from="16r" to="16v">16r-16v</locus><title>Midrash ha-gadol (Shemot) מדרש הגדול (שמות, קטע)</title></msItem><msItem n="17r"><locus from="17r" to="21v">17r-21v</locus><title>Perush ha-mishnah (Shabat) פרוש המשנה (שבת)</title></msItem><msItem n="22r"><locus from="22r" to="23v">22r-23v</locus><title>Perush ha-mishnah (Giṭin) פרוש המשנה (גטין)</title></msItem><msItem n="24r"><locus from="24r" to="25v">24r-25v</locus><title>Perush ha-mishnah (Menaḥot) פרוש המשנה (מנחות)</title></msItem><msItem n="26r"><locus from="26r" to="26v">26r-26v</locus><title>Perush ha-mishnah (Ḥulin) פרוש המשנה (חולין)</title></msItem><msItem n="27r"><locus from="27r" to="27v">27r-27v</locus><title>Perush ha-mishnah (Kelim) פרוש המשנה (כלים פרק י)</title></msItem><msItem n="28r"><locus from="28r" to="33v">28r-33v</locus><title>Perush ha-mishnah (Nega῾im) פרוש המשנה (נגעים)</title></msItem><msItem n="34r"><locus from="34r" to="34v">34r-34v</locus><title>Perush Mishneh Torah (Sefer ḳedushah, Hilkhot sheḥiṭah) פרוש משנה תורה (ספר קדושה, הלכות שחיטה)</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>7 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 4048</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_4048</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of fragments on various subjects. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="34v">1r-34v</locus>
+                     <title>Miscellany קובץ</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="7v">1r-7v</locus>
+                     <title>Torah תורה </title>
+                  </msItem>
+                  <msItem n="8r">
+                     <locus from="8r" to="8v">8r-8v</locus>
+                     <title>Torah תורה</title>
+                  </msItem>
+                  <msItem n="9r">
+                     <locus from="9r" to="9v">9r-9v</locus>
+                     <title>Nevi᾿im aḥaronim נביאים אחרונים </title>
+                  </msItem>
+                  <msItem n="10r">
+                     <locus from="10r" to="14v">10r-14v</locus>
+                     <title>Maḥberet ha-tigan מחברת התיג'אן (קטעים)</title>
+                  </msItem>
+                  <msItem n="15r">
+                     <locus from="15r" to="15v">15r-15v</locus>
+                     <title>Perush ha-Torah (Bereshit) פרוש התורה (בראשית)</title>
+                  </msItem>
+                  <msItem n="16r">
+                     <locus from="16r" to="16v">16r-16v</locus>
+                     <title>Midrash ha-gadol (Shemot) מדרש הגדול (שמות, קטע)</title>
+                  </msItem>
+                  <msItem n="17r">
+                     <locus from="17r" to="21v">17r-21v</locus>
+                     <title>Perush ha-mishnah (Shabat) פרוש המשנה (שבת)</title>
+                  </msItem>
+                  <msItem n="22r">
+                     <locus from="22r" to="23v">22r-23v</locus>
+                     <title>Perush ha-mishnah (Giṭin) פרוש המשנה (גטין)</title>
+                  </msItem>
+                  <msItem n="24r">
+                     <locus from="24r" to="25v">24r-25v</locus>
+                     <title>Perush ha-mishnah (Menaḥot) פרוש המשנה (מנחות)</title>
+                  </msItem>
+                  <msItem n="26r">
+                     <locus from="26r" to="26v">26r-26v</locus>
+                     <title>Perush ha-mishnah (Ḥulin) פרוש המשנה (חולין)</title>
+                  </msItem>
+                  <msItem n="27r">
+                     <locus from="27r" to="27v">27r-27v</locus>
+                     <title>Perush ha-mishnah (Kelim) פרוש המשנה (כלים פרק י)</title>
+                  </msItem>
+                  <msItem n="28r">
+                     <locus from="28r" to="33v">28r-33v</locus>
+                     <title>Perush ha-mishnah (Nega῾im) פרוש המשנה (נגעים)</title>
+                  </msItem>
+                  <msItem n="34r">
+                     <locus from="34r" to="34v">34r-34v</locus>
+                     <title>Perush Mishneh Torah (Sefer ḳedushah, Hilkhot sheḥiṭah) פרוש משנה תורה (ספר קדושה, הלכות שחיטה)</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>7 folios
                               
                               
                               
@@ -130,7 +243,9 @@
                            
                            
                            
-                           </extent><collation><p>
+                           </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -138,10 +253,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 1 1 1 1 1 1 1 1;
                                                   ruled lines: 14 15 20 25 25 35 26 32 25 22 26 26 24 30 29;
-                                                  written lines: 14 15 20 25 25 35 26 32 25 22 26 26 24 30 29; Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. The spaces for diagrams have not been filled in. Large initial words. Catchwords on verso. Regular layout. Headings written in larger square characters, in black and red ink. Regular layout. Regular layout. Regular layout. Regular layout. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square script of the 15th century, punctuated and accentuated.  Yemenite semi-cursive script of the 15th century, punctuated.  Yemenite semi-cursive script of the 17th century, punctuated.  Yemenite semi-cursive script of the 15th to 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 15th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 15th to 16th century.   Yemenite semi-cursive script of the 16th century. Yemenite semi-cursive script of the 16th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Fragments From Yemen. Hebrew &amp; Arabic. Brit. Mus. Or. 4048.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1699"/></origin><provenance>Acquisition: 
+                                                  written lines: 14 15 20 25 25 35 26 32 25 22 26 26 24 30 29; Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. Uniform layout. The spaces for diagrams have not been filled in. Large initial words. Catchwords on verso. Regular layout. Headings written in larger square characters, in black and red ink. Regular layout. Regular layout. Regular layout. Regular layout. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square script of the 15th century, punctuated and accentuated.  Yemenite semi-cursive script of the 15th century, punctuated.  Yemenite semi-cursive script of the 17th century, punctuated.  Yemenite semi-cursive script of the 15th to 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 15th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 16th century.   Yemenite semi-cursive script of the 15th to 16th century.   Yemenite semi-cursive script of the 16th century. Yemenite semi-cursive script of the 16th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Fragments From Yemen. Hebrew &amp; Arabic. Brit. Mus. Or. 4048.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1699"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Wilhelm Shapira (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum on 08 July 1882: inscribed, folio [35v] (fse003v). </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Wilhelm Shapira (b. 1830, d. 1884), antiquities dealer of Jerusalem: purchased by the British Museum on 08 July 1882: inscribed, folio [35v] (fse003v). </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sefer ha-Peli᾿ah.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sefer ha-Peli᾿ah.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2672: Sefer ha-Peli᾿ah. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,29 +39,135 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained.</note><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained.</note>
+            <note>
 								Avraham ibn Nun, Yitsḥaḳ Motsri: inscribed in a note, folio 262r.
-								Leṿi ben Avraham ben Ele῾azar ha-Leṿi: inscribed, folio 1v.                                                                             </note><note type="relatedResource">
+								Leṿi ben Avraham ben Ele῾azar ha-Leṿi: inscribed, folio 1v.                                                                             </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2672</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2672</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Sefer ha-Peli᾿ah.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="262v">1r-262v</locus><title>Sefer ha-Peli᾿ah ספר הפליאה</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>262 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2672</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2672</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Sefer ha-Peli᾿ah.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="262v">1r-262v</locus>
+                     <title>Sefer ha-Peli᾿ah ספר הפליאה</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>262 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 34;
-                                                  written lines: 34; Uniform layout.Catchwords on every verso.Initial words given in larger, partly square and partly semi-cursive characters. Headings partly ornamented in pen and ink, in black or gold.Additions and corrections given in the margin.Lacunae in the text indicated by blank spaces.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental (Byzantine) semi-cursive of the 16th century. Ele῾azar ben ῾Ovadiah ha-Leṿi ha-Rofe: inscribed in the colophon, folio 261v. </scriptNote></scriptDesc><decoDesc><decoNote type="illustration"><locus>31r</locus>
-								Pen and ink ornamented headings.</decoNote><decoNote type="illustration"><locus>169v</locus>
-								Pen and ink ornamented headings.</decoNote><decoNote type="illustration"><locus>212v</locus>
-								Pen and ink ornamented headings.</decoNote><decoNote type="illustration"><locus>etc.</locus>
-								Pen and ink ornamented headings.</decoNote><decoNote type="diagram"><locus>66v</locus>
-								Diagrams, in black ink.</decoNote><decoNote type="diagram"><locus>67r</locus>
-								Diagrams, in black ink.</decoNote><decoNote type="diagram"><locus>68r</locus>
-								Diagrams, in black ink.</decoNote><decoNote type="diagram"><locus>90v</locus>
-								Diagrams, in black ink.</decoNote><decoNote type="initial"><locus>213v</locus>Initial-words in black and gold ink.
-							</decoNote><decoNote type="initial"><locus>214r</locus>Initial-words in black and gold ink.
-							</decoNote><decoNote type="initial"><locus>214v</locus>Initial-words in black and gold ink.
-							</decoNote><decoNote type="initial"><locus>218r</locus>Initial-words in black and gold ink.
-							</decoNote><decoNote type="initial"><locus>239v</locus>Initial-words in black and gold ink.
-							</decoNote><decoNote type="initial"><locus>etc.</locus>Initial-words in black and gold ink.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house. Spine: 'Sefer Hak-Kane. Hebrew. Brit. Mus. Oriental 2672.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1562"/><origPlace>Byzantine Empire</origPlace></origin><provenance>Acquisition: Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 10 October 1883: inscribed, folio [263v] (fse001v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 34; Uniform layout.Catchwords on every verso.Initial words given in larger, partly square and partly semi-cursive characters. Headings partly ornamented in pen and ink, in black or gold.Additions and corrections given in the margin.Lacunae in the text indicated by blank spaces.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental (Byzantine) semi-cursive of the 16th century. Ele῾azar ben ῾Ovadiah ha-Leṿi ha-Rofe: inscribed in the colophon, folio 261v. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <locus>31r</locus>
+								Pen and ink ornamented headings.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>169v</locus>
+								Pen and ink ornamented headings.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>212v</locus>
+								Pen and ink ornamented headings.</decoNote>
+                     <decoNote type="illustration">
+                        <locus>etc.</locus>
+								Pen and ink ornamented headings.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>66v</locus>
+								Diagrams, in black ink.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>67r</locus>
+								Diagrams, in black ink.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>68r</locus>
+								Diagrams, in black ink.</decoNote>
+                     <decoNote type="diagram">
+                        <locus>90v</locus>
+								Diagrams, in black ink.</decoNote>
+                     <decoNote type="initial">
+                        <locus>213v</locus>Initial-words in black and gold ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>214r</locus>Initial-words in black and gold ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>214v</locus>Initial-words in black and gold ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>218r</locus>Initial-words in black and gold ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>239v</locus>Initial-words in black and gold ink.
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>etc.</locus>Initial-words in black and gold ink.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine: 'Sefer Hak-Kane. Hebrew. Brit. Mus. Oriental 2672.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1562"/>
+                     <origPlace>Byzantine Empire</origPlace>
+                  </origin>
+                  <provenance>Acquisition: Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 10 October 1883: inscribed, folio [263v] (fse001v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

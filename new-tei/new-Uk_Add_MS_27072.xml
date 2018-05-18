@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sidur(סדור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sidur(סדור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27072: Sidur are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Usage stains.  Mould at ends. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Usage stains.  Mould at ends. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,92 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27072</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27072</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A prayer book for the entire year, according to the Italian rite. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="309v">1r-309v</locus><title>Sidur סדור</title></msItem><msItem n="1v"><locus from="1v" to="40r">1v-40r</locus><title>Services for week-days</title></msItem><msItem n="40r"><locus from="40r" to="75v">40r-75v</locus><title>Services for Shabat</title></msItem><msItem n="75v"><locus from="75v" to="91r">75v-91r</locus><title>Berakhot ḥidush ha-levanah</title></msItem><msItem n="91r"><locus from="91r" to="119r">91r-119r</locus><title>Services for Pesaḥ </title></msItem><msItem n="119r"><locus from="119r" to="139r">119r-139r</locus><title>Masekhet avot</title></msItem><msItem n="139r"><locus from="139r" to="158r">139r-158r</locus><title>Services for Shavu῾ot </title></msItem><msItem n="158r"><locus from="158r" to="194v">158r-194v</locus><title>Additional portions for fasts and seliḥot</title></msItem><msItem n="194v"><locus from="194v" to="199v">194v-199v</locus><title>Piyuṭim </title></msItem><msItem n="200r"><locus from="200r" to="225v">200r-225v</locus><title>Seder ha-ma῾amadot </title></msItem><msItem n="225v"><locus from="225v" to="242r">225v-242r</locus><title>Services for Rosh ha-shanah </title></msItem><msItem n="242r"><locus from="242r" to="270r">242r-270r</locus><title>Services for Yom Kipur </title></msItem><msItem n="270r"><locus from="270r" to="291v">270r-291v</locus><title>Services for Sukot </title></msItem><msItem n="317r"><locus from="317r" to="324v">317r-324v</locus><title>Piyuṭim </title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>309 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27072</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27072</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A prayer book for the entire year, according to the Italian rite. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="309v">1r-309v</locus>
+                     <title>Sidur סדור</title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="40r">1v-40r</locus>
+                     <title>Services for week-days</title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="75v">40r-75v</locus>
+                     <title>Services for Shabat</title>
+                  </msItem>
+                  <msItem n="75v">
+                     <locus from="75v" to="91r">75v-91r</locus>
+                     <title>Berakhot ḥidush ha-levanah</title>
+                  </msItem>
+                  <msItem n="91r">
+                     <locus from="91r" to="119r">91r-119r</locus>
+                     <title>Services for Pesaḥ </title>
+                  </msItem>
+                  <msItem n="119r">
+                     <locus from="119r" to="139r">119r-139r</locus>
+                     <title>Masekhet avot</title>
+                  </msItem>
+                  <msItem n="139r">
+                     <locus from="139r" to="158r">139r-158r</locus>
+                     <title>Services for Shavu῾ot </title>
+                  </msItem>
+                  <msItem n="158r">
+                     <locus from="158r" to="194v">158r-194v</locus>
+                     <title>Additional portions for fasts and seliḥot</title>
+                  </msItem>
+                  <msItem n="194v">
+                     <locus from="194v" to="199v">194v-199v</locus>
+                     <title>Piyuṭim </title>
+                  </msItem>
+                  <msItem n="200r">
+                     <locus from="200r" to="225v">200r-225v</locus>
+                     <title>Seder ha-ma῾amadot </title>
+                  </msItem>
+                  <msItem n="225v">
+                     <locus from="225v" to="242r">225v-242r</locus>
+                     <title>Services for Rosh ha-shanah </title>
+                  </msItem>
+                  <msItem n="242r">
+                     <locus from="242r" to="270r">242r-270r</locus>
+                     <title>Services for Yom Kipur </title>
+                  </msItem>
+                  <msItem n="270r">
+                     <locus from="270r" to="291v">270r-291v</locus>
+                     <title>Services for Sukot </title>
+                  </msItem>
+                  <msItem n="317r">
+                     <locus from="317r" to="324v">317r-324v</locus>
+                     <title>Piyuṭim </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>309 folios 
                            
                            
                            
@@ -33,7 +146,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +156,48 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 20;
-                                                  written lines: 20; Uniform layout.Initial words in larger characters.Hair side and flesh side are distinguishable. Ruling with ink (horizontal) and by plummet (vertical) visible. Traces of pricking. Graphic fillers at the end of line. Last line written outside ruling. Gilt edges. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square and semi-cursive script, partially punctuated.	Abraham Farissol of Avignon: inscribed with his name in the colophon,5242 [1482] (folio 309v). </scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Vellum over boards.  Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 27,072.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1482"/></origin><provenance>Esther</provenance><provenance>Dominico Irosolomitano</provenance><provenance>Giovanni Domenico Carretto</provenance><provenance>Acquisition: 
+                                                  written lines: 20; Uniform layout.Initial words in larger characters.Hair side and flesh side are distinguishable. Ruling with ink (horizontal) and by plummet (vertical) visible. Traces of pricking. Graphic fillers at the end of line. Last line written outside ruling. Gilt edges. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square and semi-cursive script, partially punctuated.	Abraham Farissol of Avignon: inscribed with his name in the colophon,5242 [1482] (folio 309v). </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Vellum over boards.  Spine: 'Siddur. Roman Use. Hebrew. Brit. Mus. Additional 27,072.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1482"/>
+                  </origin>
+                  <provenance>Esther</provenance>
+                  <provenance>Dominico Irosolomitano</provenance>
+                  <provenance>Giovanni Domenico Carretto</provenance>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 177: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [310v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 177: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [310v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Torah ῾im perush Rash"i(תורה עם פרוש רש"י)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Torah ῾im perush Rash"i(תורה עם פרוש רש"י)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5655: Torah ῾im perush Rash"i are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,113 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Shelomoh ben Mosheh and Shemu᾿el Tsarfati: inscribed in a note of sale, folio 272v.
 								Yitsḥaḳ (?) ben Yeḳuti᾿el Finzi (?): inscribed, folio 273r.
 								Giovanni Domenico Carretto: Italian censor (active in the first quarter of the 17th century): inscribed with his name, 1618 (folio 271v); see 100-101. 
-								Domenico Irosolimitano, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name (folio 271v); see 61. </note><note type="relatedResource">
+								Domenico Irosolimitano, Italian censor (active in the last quarter of the 16th and first quarter of the 17th century): inscribed with his name (folio 271v); see 61. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5655</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5655</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Pentateuch with Rashi's commentary.</summary><textLang mainLang="he"/><msItem n="2r"><locus from="2r" to="272r">2r-272r</locus><title>Torah ῾im perush Rash"i תורה עם פרוש רש"י</title></msItem><msItem n="2r"><locus from="2r" to="74r">2r-74r</locus><title>Genesis </title></msItem><msItem n="74v"><locus from="74v" to="143v">74v-143v</locus><title>Exodus</title></msItem><msItem n="143v"><locus from="143v" to="185r">143v-185r</locus><title>Leviticus</title></msItem><msItem n="185v"><locus from="185v" to="229v">185v-229v</locus><title>Numbers</title></msItem><msItem n="229v"><locus from="229v" to="272r">229v-272r</locus><title>Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>272 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5655</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5655</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pentateuch with Rashi's commentary.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="2r">
+                     <locus from="2r" to="272r">2r-272r</locus>
+                     <title>Torah ῾im perush Rash"i תורה עם פרוש רש"י</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="74r">2r-74r</locus>
+                     <title>Genesis </title>
+                  </msItem>
+                  <msItem n="74v">
+                     <locus from="74v" to="143v">74v-143v</locus>
+                     <title>Exodus</title>
+                  </msItem>
+                  <msItem n="143v">
+                     <locus from="143v" to="185r">143v-185r</locus>
+                     <title>Leviticus</title>
+                  </msItem>
+                  <msItem n="185v">
+                     <locus from="185v" to="229v">185v-229v</locus>
+                     <title>Numbers</title>
+                  </msItem>
+                  <msItem n="229v">
+                     <locus from="229v" to="272r">229v-272r</locus>
+                     <title>Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>272 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									28 quires of mostly 10 leaves each.
 									Most of the quires marked with catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 24;
-                                                  written lines: 24; Pricking and hard-point ruling are visible. The books of the Torah, which are commented upon, are separated with two blank lines.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian semi-cursive script, not punctuated, of the 14th to 15th century. Yitsḥaḳ Merly: inscribed with his name as an author of corrections in the text, folio 2r, in a following subscription: מתוקן על ידי יצחק מארלי. See similar subscription in Harley 5708, 171.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Black leather with the Harley coat of arms in the centre. Spine: 'Rashi on the Pentateuch. Hebrew. Brit. Mus. Harl. Or. 5655.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1300" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts: inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 () .Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 24; Pricking and hard-point ruling are visible. The books of the Torah, which are commented upon, are separated with two blank lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian semi-cursive script, not punctuated, of the 14th to 15th century. Yitsḥaḳ Merly: inscribed with his name as an author of corrections in the text, folio 2r, in a following subscription: מתוקן על ידי יצחק מארלי. See similar subscription in Harley 5708, 171.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Black leather with the Harley coat of arms in the centre. Spine: 'Rashi on the Pentateuch. Hebrew. Brit. Mus. Harl. Or. 5655.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1300" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts: inscription by Harley's librarian, Humfrey Wanley, 18 January 1723/4 () .Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

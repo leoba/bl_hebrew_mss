@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 26922: Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,107 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained. Slightly water-damaged.</note><note>A scribal note, folio 157v: ואני דוד חסון הכותב אומ':
-								Shelomoh ben Mosheh Alḳabets: inscribed, folio 286r. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained. Slightly water-damaged.</note>
+            <note>A scribal note, folio 157v: ואני דוד חסון הכותב אומ':
+								Shelomoh ben Mosheh Alḳabets: inscribed, folio 286r. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 26922</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26922</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="99r">1r-99r</locus><title>Sefer ha-ḥesheḳ   ספר החשק</title></msItem><msItem n="99r"><locus from="99r" to="190r">99r-190r</locus><title>פרוש פרקי אבות A commentary on Pirḳe avot</title></msItem><msItem n="190r"><locus from="190r" to="201r">190r-201r</locus><title>פרק משנה Pereḳ mishnah</title></msItem><msItem n="201r"><locus from="201r" to="217r">201r-217r</locus><title>פירוש Perush</title></msItem><msItem n="217r"><locus from="217r" to="286r">217r-286r</locus><title>פירוש מסכת אבות Perush Masekhet avot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>286 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 26922</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26922</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Sefer ha-ḥesheḳ by Joseph of Hamadan, a commentary on Pirḳe avot by Yosef ibn Shushan, Pereḳ mishnah by Shem Ṭov ibn Shem Ṭov, Nefesh he-ḥakhamah by Moses de Leon, and Perush masekhet Avot by Baḥya ben Asher.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Jewish Babylonian Aramaic (ca. 200-1200 CE)</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="99r">1r-99r</locus>
+                     <title>Sefer ha-ḥesheḳ   ספר החשק</title>
+                  </msItem>
+                  <msItem n="99r">
+                     <locus from="99r" to="190r">99r-190r</locus>
+                     <title>פרוש פרקי אבות A commentary on Pirḳe avot</title>
+                  </msItem>
+                  <msItem n="190r">
+                     <locus from="190r" to="201r">190r-201r</locus>
+                     <title>פרק משנה Pereḳ mishnah</title>
+                  </msItem>
+                  <msItem n="201r">
+                     <locus from="201r" to="217r">201r-217r</locus>
+                     <title>פירוש Perush</title>
+                  </msItem>
+                  <msItem n="217r">
+                     <locus from="217r" to="286r">217r-286r</locus>
+                     <title>פירוש מסכת אבות Perush Masekhet avot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>286 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of 6 to 8 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 31;
-                                                  written lines: 31; Written text arranged in one and occasionally two columns.Some letterforms distinguished from the written text, see 50v-60v. Catchwords on every verso. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Oriental semi-cursive script of the 16th century. David Hasun: inscribed in a note (folio 157v). </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: ''Anonymous Cabalistic Treatises. Commentaries on Pirke Abhoth by Joseph Ibn Shoshan and Bahya ben Asher. Hebrew. Brit. Mus. Additional 26,922.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1534"/><origPlace>Salonica</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 30b; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed (folio [288v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 31; Written text arranged in one and occasionally two columns.Some letterforms distinguished from the written text, see 50v-60v. Catchwords on every verso. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Oriental semi-cursive script of the 16th century. David Hasun: inscribed in a note (folio 157v). </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: ''Anonymous Cabalistic Treatises. Commentaries on Pirke Abhoth by Joseph Ibn Shoshan and Bahya ben Asher. Hebrew. Brit. Mus. Additional 26,922.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1534"/>
+                     <origPlace>Salonica</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 30b; his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153: inscribed (folio [288v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 10151: Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,20 +39,107 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Usage stains, smudged ink. Water damage.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Usage stains, smudged ink. Water damage.</note>
+            <note/>
+            <note type="relatedResource">
                 Catalogue of Hebrew Manuscripts in the Gaster Collection, the British
                   Library, London (London: Hebrew Section. Oriental and India Office Collection,
                   1996).
-              </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 10151</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_10151</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="59v">1r-59v</locus><title>קינות לתשעה באב Ḳinot le-Tishʻah be-Av</title></msItem><msItem n="60r"><locus from="60r" to="61r">60r-61r</locus><title>מספורי החורבן בערבית Me-sipure ha-Ḥurban be-ʿaravit</title></msItem><msItem n="62r"><locus from="62r" to="74v">62r-74v</locus><title>הפטרה לט"ב בתרגום ערבי Hafṭarah la-Ṭ[isha] b[e-Av] be-targum ʿaravi</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>74 folios (i+74+i)</extent><collation><p>13 quires: i(4), ii(8), iii(8-3), iv-xi(8), xii(6),
+              </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 10151</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_10151</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Collection of texts for the Ninth of Av in Hebrew and Judeo-Arabic</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="59v">1r-59v</locus>
+                     <title>קינות לתשעה באב Ḳinot le-Tishʻah be-Av</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="61r">60r-61r</locus>
+                     <title>מספורי החורבן בערבית Me-sipure ha-Ḥurban be-ʿaravit</title>
+                  </msItem>
+                  <msItem n="62r">
+                     <locus from="62r" to="74v">62r-74v</locus>
+                     <title>הפטרה לט"ב בתרגום ערבי Hafṭarah la-Ṭ[isha] b[e-Av] be-targum ʿaravi</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>74 folios (i+74+i)</extent>
+                        <collation>
+                           <p>13 quires: i(4), ii(8), iii(8-3), iv-xi(8), xii(6),
                       xiii(4). Quire ix, x, and xi also includes unfoliated blank
                     leaves. Lacunae after fols. 4, 64, 70.There is no lacuna between
                     fol. 17 and 18, thus the 3 leaves which were cut off at the end of quire iii,
-                    must have been removed during production.</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                    must have been removed during production.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: ;
                                                   written lines: ; Not uniform layout.Initial words at the beginning of
                     sections are in bigger, square script, often decorated.Ruling is
-                    visible.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sephardi semi-cursive and square scripts.</scriptNote></scriptDesc><decoDesc><decoNote type="initial">Decorated initial words (e.g. 56v).</decoNote><decoNote>Pen drawing of a human figure and a plant? on fol. 61bv.</decoNote></decoDesc><bindingDesc><binding><p> Post-1600, green cloth binding.  Spine with M. Gaster's label: 'קינות Maroco &amp; HebrArab Haftara XVII.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1700" notAfter="1799"/></origin><provenance>Acquisition: Moses Gaster (b. 1856,
+                    visible.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sephardi semi-cursive and square scripts.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">Decorated initial words (e.g. 56v).</decoNote>
+                     <decoNote>Pen drawing of a human figure and a plant? on fol. 61bv.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600, green cloth binding.  Spine with M. Gaster's label: 'קינות Maroco &amp; HebrArab Haftara XVII.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1700" notAfter="1799"/>
+                  </origin>
+                  <provenance>Acquisition: Moses Gaster (b. 1856,
                 d. 1939), scholar and rabbi: his manuscript, Cod. G. 1493: inscribed with his name
                 on fol. 1r; purchased by the British Museum from him on 12 April, 1924; date of
-                accession 23 March 1932: inscribed on back flyleaf (i)r.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                accession 23 March 1932: inscribed on back flyleaf (i)r.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

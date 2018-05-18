@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Bereshit u-shemot (בראשית ושמות)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Bereshit u-shemot (בראשית ושמות)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1468: Bereshit u-shemot  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,18 +39,111 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Most of the folios are mutilated or damaged, restored later on paper.</note><note>Previous owner's note, folio 1r: אשתרא לנפסה מן עין מאלה ולדי יוסף הב"ה יזכהו להגות בו הו וזרעו וזרע זרעו עד סוף כל הדורות ילדי (ואלדי) יסתעירהו ומא ירדה ישכנו נחש ועם יי בשלום. הצעיר שכר ן' שכר סרי. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Most of the folios are mutilated or damaged, restored later on paper.</note>
+            <note>Previous owner's note, folio 1r: אשתרא לנפסה מן עין מאלה ולדי יוסף הב"ה יזכהו להגות בו הו וזרעו וזרע זרעו עד סוף כל הדורות ילדי (ואלדי) יסתעירהו ומא ירדה ישכנו נחש ועם יי בשלום. הצעיר שכר ן' שכר סרי. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1468</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1468</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Genesis and Exodus, with punctuation and accents, accompanied with masorah magna and parva.</summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="161v">1v-161v</locus><title>Bereshit u-shemot  בראשית ושמות  </title></msItem><msItem n="1v"><locus from="1v" to="87r">1v-87r</locus><title>Genesis</title></msItem><msItem n="87r"><locus from="87r" to="158r">87r-158r</locus><title>Exodus</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>161 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1468</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1468</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Genesis and Exodus, with punctuation and accents, accompanied with masorah magna and parva.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="161v">1v-161v</locus>
+                     <title>Bereshit u-shemot  בראשית ושמות  </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="87r">1v-87r</locus>
+                     <title>Genesis</title>
+                  </msItem>
+                  <msItem n="87r">
+                     <locus from="87r" to="158r">87r-158r</locus>
+                     <title>Exodus</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>161 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									16 quires of 10 leaves each, marked by catchwords or signed with Hebrew letters at the end. 
 									The quires are also numbered with Arabic numerals on the left upper corner and Arabic figures and Hebrew letters at the right-hand upper corner at the beginning of the quire. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 17;
-                                                  written lines: 17; Visible pricking; ruling executed with mastara. Writing in one column, with masoretic punctuation and masorah magna and parva. Masorah magna occupies one line of the upper and of the lower margin. Catchwords are only partially preserved, due to some mutilation of pages. There is a lacuna after folio 107. Each pericope is divided into seven liturgical sections marked by coloured Hebrew letters in the  margin. Each pericope is marked by a coloured ornamental design in the margin. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Square Yemenite character, of about 15th or 16th century.</scriptNote></scriptDesc><decoDesc><decoNote type="marginal"><locus>17r</locus>Numerous pen and ink decorated pericope signs. 
-							</decoNote><decoNote type="marginal"><locus>44v</locus>Numerous pen and ink decorated pericope signs. 
-							</decoNote><decoNote type="marginal"><locus>52v</locus>Numerous pen and ink decorated pericope signs. 
-							</decoNote><decoNote type="marginal"><locus>67r</locus>Numerous pen and ink decorated pericope signs. 
-							</decoNote></decoDesc><bindingDesc><binding><p> BM/BL in-house binding.</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1599"/><origPlace>Yemen</origPlace></origin></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 17; Visible pricking; ruling executed with mastara. Writing in one column, with masoretic punctuation and masorah magna and parva. Masorah magna occupies one line of the upper and of the lower margin. Catchwords are only partially preserved, due to some mutilation of pages. There is a lacuna after folio 107. Each pericope is divided into seven liturgical sections marked by coloured Hebrew letters in the  margin. Each pericope is marked by a coloured ornamental design in the margin. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Square Yemenite character, of about 15th or 16th century.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="marginal">
+                        <locus>17r</locus>Numerous pen and ink decorated pericope signs. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>44v</locus>Numerous pen and ink decorated pericope signs. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>52v</locus>Numerous pen and ink decorated pericope signs. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>67r</locus>Numerous pen and ink decorated pericope signs. 
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house binding.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1599"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

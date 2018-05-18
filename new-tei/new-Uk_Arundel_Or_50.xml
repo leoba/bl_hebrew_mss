@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A collection of fragments from diverse sources. </title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A collection of fragments from diverse sources. </title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Arundel Or 50: A collection of fragments from diverse sources.  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Damp and mould damages, repaired and infilled before rebinding.  Tears at edges.  Usage stains. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Damp and mould damages, repaired and infilled before rebinding.  Tears at edges.  Usage stains. </note>
+            <note/>
+            <note type="relatedResource">
 
 
 
@@ -26,8 +55,56 @@
 
 
 
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Arundel Or 50</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_Or_50</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A collection of fragments from diverse sources. </summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="6v">1r-6v</locus><title>Seliḥot סליחות</title></msItem><msItem n="17v"><locus from="17v" to="28r">17v-28r</locus><title>Diḳduḳ ῾ivri דקדוק עברי</title></msItem><msItem n="39v"><locus from="39v" to="45v">39v-45v</locus><title>῾Inyane diḳduḳ עניני דקדוק</title></msItem><msItem n="46r"><locus from="46r" to="49v">46r-49v</locus><title>Ḳeta῾im bi-refu᾿ah קטעים ברפואה</title></msItem><msItem n="75r"><locus from="75r" to="84r">75r-84r</locus><title>Sidur סדור</title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>85 folios. 7 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Arundel Or 50</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_Or_50</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of fragments from diverse sources. </summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="6v">1r-6v</locus>
+                     <title>Seliḥot סליחות</title>
+                  </msItem>
+                  <msItem n="17v">
+                     <locus from="17v" to="28r">17v-28r</locus>
+                     <title>Diḳduḳ ῾ivri דקדוק עברי</title>
+                  </msItem>
+                  <msItem n="39v">
+                     <locus from="39v" to="45v">39v-45v</locus>
+                     <title>῾Inyane diḳduḳ עניני דקדוק</title>
+                  </msItem>
+                  <msItem n="46r">
+                     <locus from="46r" to="49v">46r-49v</locus>
+                     <title>Ḳeta῾im bi-refu᾿ah קטעים ברפואה</title>
+                  </msItem>
+                  <msItem n="75r">
+                     <locus from="75r" to="84r">75r-84r</locus>
+                     <title>Sidur סדור</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>85 folios. 7 folios
                               
                            12 folios
                               
@@ -37,12 +114,53 @@
                               
                            10 folios
                               
-                           </extent><collation><p/></collation></supportDesc><layoutDesc><layout><p>Columns: 1 1 1 1 1 2;
+                           </extent>
+                        <collation>
+                           <p/>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 1 1 1 1 2;
                                                   ruled lines: 22 18 19 20 22 24 10;
-                                                  written lines: 22 18 19 20 22 24 10; Hard-point ruling visible. Ink ruling. Square larger initial words. Partly written in red ink. Ink ruling. Pricking and hard-point ruling visible. Uniform layout. Hard-point ruling visible. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi square script, punctuated, of the 15th century.  Square and semi-cursive script (a Christian hand) of the 18th
+                                                  written lines: 22 18 19 20 22 24 10; Hard-point ruling visible. Ink ruling. Square larger initial words. Partly written in red ink. Ink ruling. Pricking and hard-point ruling visible. Uniform layout. Hard-point ruling visible. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi square script, punctuated, of the 15th century.  Square and semi-cursive script (a Christian hand) of the 18th
                            century.  Hebrew and Latin script of the 18th century.  Italian semi-cursive script of the 16th century.  Ashkenazi square script, punctuated, of the 17th century. Yosef ben Gershon: inscribed, folio
-                           82v. </scriptNote></scriptDesc><decoDesc><decoNote type="illustration"><locus>82v</locus>
-                           Animal pen and ink drawings. </decoNote></decoDesc><bindingDesc><binding><p> Post-1600. Brown leather, gold-tooled 'Biblioteca Arundeliana' on the
+                           82v. </scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="illustration">
+                        <locus>82v</locus>
+                           Animal pen and ink drawings. </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Brown leather, gold-tooled 'Biblioteca Arundeliana' on the
                            front upper cover.  Spine: 'Orientalia. Varia. Mus. Brit. Bibl. Arundel. Cod. Orient. 50.
-                           Plut. CXVII. E.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1799"/></origin><provenance>Acquisition: Purchased by the British Museum from the Royal Society of
-                           London together with 549 other Arundel manuscripts in 1831.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                           Plut. CXVII. E.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1799"/>
+                  </origin>
+                  <provenance>Acquisition: Purchased by the British Museum from the Royal Society of
+                           London together with 549 other Arundel manuscripts in 1831.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

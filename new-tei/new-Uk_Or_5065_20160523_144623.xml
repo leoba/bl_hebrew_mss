@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Perush ha-Torah(פרוש התורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Perush ha-Torah(פרוש התורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5065: Perush ha-Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,8 +39,14 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the beginning.  Signs of
-                                        worming. A long lacuna after folio 1. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the beginning.  Signs of
+                                        worming. A long lacuna after folio 1. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -27,9 +56,57 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5065</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5065</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Fragments of the commentary on the Pentateuch based on the works of
-                            Eleazar of Worms.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="21v">1r-21v</locus><title>Perush ha-Torah פרוש התורה </title></msItem><msItem n="1r"><locus from="1r" to="5v">1r-5v</locus><title>Fragment on Genesis and Exodus</title></msItem><msItem n="5v"><locus from="5v" to="11v">5v-11v</locus><title>Fragment on Leviticus</title></msItem><msItem n="11v"><locus from="11v" to="16v">11v-16v</locus><title>Fragment on Numbers</title></msItem><msItem n="16v"><locus from="16v" to="21v">16v-21v</locus><title>Fragment on Deuteronomy</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>21 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5065</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5065</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragments of the commentary on the Pentateuch based on the works of
+                            Eleazar of Worms.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="21v">1r-21v</locus>
+                     <title>Perush ha-Torah פרוש התורה </title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="5v">1r-5v</locus>
+                     <title>Fragment on Genesis and Exodus</title>
+                  </msItem>
+                  <msItem n="5v">
+                     <locus from="5v" to="11v">5v-11v</locus>
+                     <title>Fragment on Leviticus</title>
+                  </msItem>
+                  <msItem n="11v">
+                     <locus from="11v" to="16v">11v-16v</locus>
+                     <title>Fragment on Numbers</title>
+                  </msItem>
+                  <msItem n="16v">
+                     <locus from="16v" to="21v">16v-21v</locus>
+                     <title>Fragment on Deuteronomy</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>21 folios 
                            
                            
                            
@@ -37,8 +114,11 @@
                         
                         
                         
-                        </extent><foliation>Hebrew original
-                                    foliation.</foliation><collation><p>
+                        </extent>
+                        <foliation>Hebrew original
+                                    foliation.</foliation>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -46,15 +126,50 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 31;
                                                   written lines: 31; Uniform layout. Catchwords on every
                                         verso, partly cut away. Larger square initials.
-                                        Marginal additions and notes. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Small Italian semi-cursive script, unpunctuated, of the 16th
-                                century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine: 'Ele'azar of Worms. Commentary on the Pentateuch. Hebrew.
-                                    Brit. Mus. Or. 5065.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1542"/></origin><provenance>Acquisition: 
+                                        Marginal additions and notes. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Small Italian semi-cursive script, unpunctuated, of the 16th
+                                century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine: 'Ele'azar of Worms. Commentary on the Pentateuch. Hebrew.
+                                    Brit. Mus. Or. 5065.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1542"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
                         Fischel Hirsch: purchased by the British Museum from him
-                                on 16 July 1896 (back flyleaf [xxxvi]v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                on 16 July 1896 (back flyleaf [xxxvi]v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

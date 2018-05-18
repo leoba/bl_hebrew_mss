@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Mishneh Torah(משנה תורה)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Mishneh Torah(משנה תורה)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Harley MS 5698: Mishneh Torah are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,31 +39,156 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
 								Fra Giro[lamo] de Durazzano de Predi[?]: censor's signature and note 1640 (folio 1r). Erasures (e.g. folios 58v-59r, 96r-v, 272v). (Narkiss reads the name Durallano), on him see 89.
 Two illegible Hebrew notes (folio 1r).
 
-								Bernard Mould (b. c. 1683; d. 1744), chaplain at Smyrna: inscribed with his name, Smyrna, 1724 (folio 301r); sold to Edward Harley on 28 July 1725 (see ).</note><note type="relatedResource">
+								Bernard Mould (b. c. 1683; d. 1744), chaplain at Smyrna: inscribed with his name, Smyrna, 1724 (folio 301r); sold to Edward Harley on 28 July 1725 (see ).</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Harley MS 5698</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5698</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Lisbon Mishneh Torah, volume 1.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="301v">1r-301v</locus><title>Mishneh Torah משנה תורה</title></msItem><msItem n="2r"><locus from="2r" to="10v">2r-10v</locus><title>613 precepts</title></msItem><msItem n="12r"><locus from="12r" to="31v">12r-31v</locus><title>Introduction</title></msItem><msItem n="31v"><locus from="31v" to="63v">31v-63v</locus><title>Sefer ha-mada῾ </title></msItem><msItem n="63v"><locus from="63v" to="106v">63v-106v</locus><title>Sefer ahavah</title></msItem><msItem n="106v"><locus from="106v" to="197v">106v-197v</locus><title>Sefer zemanim</title></msItem><msItem n="197v"><locus from="197v" to="252v">197v-252v</locus><title>Sefer nashim</title></msItem><msItem n="252v"><locus from="252v" to="301v">252v-301v</locus><title>Sefer ḳedushah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>301 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Harley MS 5698</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5698</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Lisbon Mishneh Torah, volume 1.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="301v">1r-301v</locus>
+                     <title>Mishneh Torah משנה תורה</title>
+                  </msItem>
+                  <msItem n="2r">
+                     <locus from="2r" to="10v">2r-10v</locus>
+                     <title>613 precepts</title>
+                  </msItem>
+                  <msItem n="12r">
+                     <locus from="12r" to="31v">12r-31v</locus>
+                     <title>Introduction</title>
+                  </msItem>
+                  <msItem n="31v">
+                     <locus from="31v" to="63v">31v-63v</locus>
+                     <title>Sefer ha-mada῾ </title>
+                  </msItem>
+                  <msItem n="63v">
+                     <locus from="63v" to="106v">63v-106v</locus>
+                     <title>Sefer ahavah</title>
+                  </msItem>
+                  <msItem n="106v">
+                     <locus from="106v" to="197v">106v-197v</locus>
+                     <title>Sefer zemanim</title>
+                  </msItem>
+                  <msItem n="197v">
+                     <locus from="197v" to="252v">197v-252v</locus>
+                     <title>Sefer nashim</title>
+                  </msItem>
+                  <msItem n="252v">
+                     <locus from="252v" to="301v">252v-301v</locus>
+                     <title>Sefer ḳedushah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>301 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									37 quires: i10 (folios 1-10), ii8 (folios 11-18), iii8 (folios 19-26), iv8 (folios 27-34), v8 (folios 35-42), vi8 (folios 43-50), vii8 (folios 51-58), viii8 (folios 59-66), ix8 (folios 67-74), x8 (folios 75-82), xi8 (folios 83-90), xii8 (folios 91-98), xiii8 (folios 99-107), xiv8 (folios 108-114), xv8 (folios 115-122), xvi8 (folios 123-130), xvii8 (folios 131-138), xviii8 (folios 139-146), xix8 (folios 147-154), xx8 (folios 155-162), xxi8 (folios 163-170), xxii8 (folios 171-178), xxiii8 (folios 179-186), xiv10 (folios 187-196), xxv8 (folios 197-204), xxvi8 (folios 205-212), xxvii8 (folios 213-220), xxviii8 (folios 221-228), xxix8 (folios 229-236), xxx8 (folios 237-244), xxxi8 (folios 245-251), xxxii8 (folios 252-259), xxxiii8 (folios 260-267), xxxiv8 (folios 268-275), xxxv8 (folios 276-283), xxxvi8 (folios 284-291), xxxvii10 (folios 292-301).
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 36;
                                                   written lines: 36; Uniform layout. Visible ruling with a sharp object (complete). Hair-side and flesh-side are distinguishable.
 Scant marginal notes. Fore edge, lower and upper edges are colored with red strips.
 From folio 32 parallel Hebrew foliation starting with no. 22. The older paper flyleaves of the binding have watermarks similar to 2745.
-Erasures by a censor (e.g. on folios 38r, 54v, 55r, 264v, 266r, 272v).</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, unpunctuated (except a passage on folio 139r), of the 15th century. Shelomoh ibn Alzuḳ : inscribed in the colophon, volume II, folio 434v.</scriptNote></scriptDesc><decoDesc><decoNote type="border"><locus>2r</locus>1 title page surrounded by penwork decoration and a floriated full border in colours and gold. 
-							</decoNote><decoNote type="initial"><locus>11v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>12r</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>13v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>31v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>63v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>106v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>197v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="initial"><locus>252v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
-							</decoNote><decoNote type="marginal"><locus>156r</locus>A drawing of a fish in the margin.
-							</decoNote></decoDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'Moses ben Maimon. Mishneh Torah. Hebrew. Vol. I. Brit. Mus. Harley 5698.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1472"/><origPlace>Portugal Lisbon</origPlace></origin><provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
-Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+Erasures by a censor (e.g. on folios 38r, 54v, 55r, 264v, 266r, 272v).</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, unpunctuated (except a passage on folio 139r), of the 15th century. Shelomoh ibn Alzuḳ : inscribed in the colophon, volume II, folio 434v.</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="border">
+                        <locus>2r</locus>1 title page surrounded by penwork decoration and a floriated full border in colours and gold. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>11v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>12r</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>13v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>31v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>63v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>106v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>197v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="initial">
+                        <locus>252v</locus>8 embellished frontispieces at the beginning of the books with initial-word panels with gold letters and penwork decoration and surrounded by full-borders with foliate motifs, inhabited by birds and animals. 
+							</decoNote>
+                     <decoNote type="marginal">
+                        <locus>156r</locus>A drawing of a fish in the margin.
+							</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'Moses ben Maimon. Mishneh Torah. Hebrew. Vol. I. Brit. Mus. Harley 5698.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1472"/>
+                     <origPlace>Portugal Lisbon</origPlace>
+                  </origin>
+                  <provenance>Acquisition: The Harley Collection, formed by Robert Harley (b. 1661, d. 1724), 1st earl of Oxford and Mortimer, politician, and Edward Harley (b. 1689, d. 1741), 2nd earl of Oxford and Mortimer, book collector and patron of the arts.
+Edward Harley bequeathed the library to his widow, Henrietta Cavendish, née Holles (b. 1694, d. 1755) during her lifetime and thereafter to their daughter, Margaret Cavendish Bentinck (b. 1715, d.1785), duchess of Portland; the manuscripts were sold by the Countess and the Duchess in 1753 to the nation for £10,000 (a fraction of their contemporary value) under the Act of Parliament that also established the British Museum; the Harley manuscripts form one of the foundation collections of the British Library.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

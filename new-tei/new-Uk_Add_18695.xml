@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 18695: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,159 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Leaves missing after folio 59, 79, 169. Defective at the beginning. Folio 103 partly mutilated.</note><note>
-								Ḥanlein: inscribed in the colophon, 1504: folio 173v.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Leaves missing after folio 59, 79, 169. Defective at the beginning. Folio 103 partly mutilated.</note>
+            <note>
+								Ḥanlein: inscribed in the colophon, 1504: folio 173v.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 18695</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18695</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Festival services according to the Ashkenazi rite, translated in Yiddish.</summary><textLang mainLang="yi-Hebr" otherLangs="he"/><msItem n="1r"><locus from="1r" to="173v">1r-173v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="8v">1r-8v</locus><title>[Yotser le-parashat ha-ḥodesh]</title></msItem><msItem n="8v"><locus from="8v" to="17r">8v-17r</locus><title>Yotser Shabat ha-gadol</title></msItem><msItem n="17r"><locus from="17r" to="32r">17r-32r</locus><title>Services for the first day of Pesaḥ</title></msItem><msItem n="32r"><locus from="32r" to="49r">32r-49r</locus><title>Services for the second day of Pesaḥ</title></msItem><msItem n="49r"><locus from="49r" to="54r">49r-54r</locus><title>Yotser Shabat ḥulo shel mo῾ed Pesaḥ</title></msItem><msItem n="54r"><locus from="54r" to="60r">54r-60r</locus><title>Services for the seventh day of Pesaḥ</title></msItem><msItem n="60r"><locus from="60r" to="64r">60r-64r</locus><title>Services for the last day of Pesaḥ</title></msItem><msItem n="64r"><locus from="64r" to="80v">64r-80v</locus><title>Services for the first day of Shavu῾ot</title></msItem><msItem n="80v"><locus from="80v" to="98r">80v-98r</locus><title>Services for the second day of Shavu῾ot</title></msItem><msItem n="98r"><locus from="98r" to="110r">98r-110r</locus><title>Services for the ninth of Av</title></msItem><msItem n="110r"><locus from="110r" to="115v">110r-115v</locus><title>Services for the first day of Sukot</title></msItem><msItem n="115v"><locus from="115v" to="124v">115v-124v</locus><title>Services for the second day of Sukot</title></msItem><msItem n="124v"><locus from="124v" to="134v">124v-134v</locus><title>Services for Shemini ῾atseret</title></msItem><msItem n="134v"><locus from="134v" to="143v">134v-143v</locus><title>Services for Simḥat Torah</title></msItem><msItem n="143v"><locus from="143v" to="149v">143v-149v</locus><title>Yotser le-ḥol ha-mo῾ed shel Sukot</title></msItem><msItem n="149v"><locus from="149v" to="160r">149v-160r</locus><title>Hosh῾anot</title></msItem><msItem n="160r"><locus from="160r" to="173v">160r-173v</locus><title>Seliḥot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>173 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 18695</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18695</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Festival services according to the Ashkenazi rite, translated in Yiddish.</summary>
+                  <textLang mainLang="yi-Hebr" otherLangs="he">Yiddish, Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="173v">1r-173v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="8v">1r-8v</locus>
+                     <title>[Yotser le-parashat ha-ḥodesh]</title>
+                  </msItem>
+                  <msItem n="8v">
+                     <locus from="8v" to="17r">8v-17r</locus>
+                     <title>Yotser Shabat ha-gadol</title>
+                  </msItem>
+                  <msItem n="17r">
+                     <locus from="17r" to="32r">17r-32r</locus>
+                     <title>Services for the first day of Pesaḥ</title>
+                  </msItem>
+                  <msItem n="32r">
+                     <locus from="32r" to="49r">32r-49r</locus>
+                     <title>Services for the second day of Pesaḥ</title>
+                  </msItem>
+                  <msItem n="49r">
+                     <locus from="49r" to="54r">49r-54r</locus>
+                     <title>Yotser Shabat ḥulo shel mo῾ed Pesaḥ</title>
+                  </msItem>
+                  <msItem n="54r">
+                     <locus from="54r" to="60r">54r-60r</locus>
+                     <title>Services for the seventh day of Pesaḥ</title>
+                  </msItem>
+                  <msItem n="60r">
+                     <locus from="60r" to="64r">60r-64r</locus>
+                     <title>Services for the last day of Pesaḥ</title>
+                  </msItem>
+                  <msItem n="64r">
+                     <locus from="64r" to="80v">64r-80v</locus>
+                     <title>Services for the first day of Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="80v">
+                     <locus from="80v" to="98r">80v-98r</locus>
+                     <title>Services for the second day of Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="98r">
+                     <locus from="98r" to="110r">98r-110r</locus>
+                     <title>Services for the ninth of Av</title>
+                  </msItem>
+                  <msItem n="110r">
+                     <locus from="110r" to="115v">110r-115v</locus>
+                     <title>Services for the first day of Sukot</title>
+                  </msItem>
+                  <msItem n="115v">
+                     <locus from="115v" to="124v">115v-124v</locus>
+                     <title>Services for the second day of Sukot</title>
+                  </msItem>
+                  <msItem n="124v">
+                     <locus from="124v" to="134v">124v-134v</locus>
+                     <title>Services for Shemini ῾atseret</title>
+                  </msItem>
+                  <msItem n="134v">
+                     <locus from="134v" to="143v">134v-143v</locus>
+                     <title>Services for Simḥat Torah</title>
+                  </msItem>
+                  <msItem n="143v">
+                     <locus from="143v" to="149v">143v-149v</locus>
+                     <title>Yotser le-ḥol ha-mo῾ed shel Sukot</title>
+                  </msItem>
+                  <msItem n="149v">
+                     <locus from="149v" to="160r">149v-160r</locus>
+                     <title>Hosh῾anot</title>
+                  </msItem>
+                  <msItem n="160r">
+                     <locus from="160r" to="173v">160r-173v</locus>
+                     <title>Seliḥot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>173 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 10 leaves each.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 30 45;
-                                                  written lines: 30 45; Non-uniform layout.Visible vertical pencil ruling.Initial words written in larger characters. Several leaves left blank without a break in the text (e.g. after folio 54v, 63v).Catchwords on every verso, only partly preserved.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi cursive scripts, partially punctuated, of the 15th to 16th century. Menaḥem Alendorf of the latter portion: inscribed with his name, [5]264 (1504): folio 173v.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600. Dark brown leather. Spine: 'Services for Festivals. German. Brit. Mus. Additional 18,695.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1599"/><origPlace>Germany</origPlace></origin><provenance>Acquisition: 
-								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153: purchased from him on 24 May 1851: inscribed, folio [174v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 30 45; Non-uniform layout.Visible vertical pencil ruling.Initial words written in larger characters. Several leaves left blank without a break in the text (e.g. after folio 54v, 63v).Catchwords on every verso, only partly preserved.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi cursive scripts, partially punctuated, of the 15th to 16th century. Menaḥem Alendorf of the latter portion: inscribed with his name, [5]264 (1504): folio 173v.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600. Dark brown leather. Spine: 'Services for Festivals. German. Brit. Mus. Additional 18,695.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1599"/>
+                     <origPlace>Germany</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153: purchased from him on 24 May 1851: inscribed, folio [174v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

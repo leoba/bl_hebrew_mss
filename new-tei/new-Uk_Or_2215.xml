@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash ha-gadol (מדרש הגדול)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash ha-gadol (מדרש הגדול)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 2215: Midrash ha-gadol  are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,15 +39,131 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>One leaf missing after folio 130 and 168 respectively.  Folio 3 is a recent restoration.  Folios 1-2 and 186-187 are vellum. Several pages water-damaged.  First few leaves damaged, preserved on paper. </note><note>Folios 1r-2v, 186r-187vand contain Deuteronomy, chapters 13:7-18, 15:13-16:15, 30:20-31:10: Hebrew text with the sublinear punctuation, Targum with the simple superlinear puntuation, and Sa'adia Gaon's Arabic version in Hebrew characters. Has masorah magna and parva.
-								Daṿid ben Sa῾id: stamped, folio 109v. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>One leaf missing after folio 130 and 168 respectively.  Folio 3 is a recent restoration.  Folios 1-2 and 186-187 are vellum. Several pages water-damaged.  First few leaves damaged, preserved on paper. </note>
+            <note>Folios 1r-2v, 186r-187vand contain Deuteronomy, chapters 13:7-18, 15:13-16:15, 30:20-31:10: Hebrew text with the sublinear punctuation, Targum with the simple superlinear puntuation, and Sa'adia Gaon's Arabic version in Hebrew characters. Has masorah magna and parva.
+								Daṿid ben Sa῾id: stamped, folio 109v. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 2215</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2215</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Midrash ha-gadol on Leviticus, attributed to David Adani.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="187v">1r-187v</locus><title>Midrash ha-gadol  מדרש הגדול </title></msItem><msItem n="3r"><locus from="3r" to="31r">3r-31r</locus><title>Midrash on Ṿa-yiḳra</title></msItem><msItem n="31r"><locus from="31r" to="48v">31r-48v</locus><title>Midrash on Tsaṿ</title></msItem><msItem n="48v"><locus from="48v" to="69v">48v-69v</locus><title>Midrash on Shemini</title></msItem><msItem n="69v"><locus from="69v" to="87r">69v-87r</locus><title>Midrash on Tazri῾a</title></msItem><msItem n="87r"><locus from="87r" to="108v">87r-108v</locus><title>Midrash on Metsora῾</title></msItem><msItem n="108v"><locus from="108v" to="127r">108v-127r</locus><title>Midrash on Aḥare mot</title></msItem><msItem n="127r"><locus from="127r" to="138v">127r-138v</locus><title>Midrash on Ḳedoshim</title></msItem><msItem n="138v"><locus from="138v" to="162v">138v-162v</locus><title>Midrash on Emor</title></msItem><msItem n="162v"><locus from="162v" to="173r">162v-173r</locus><title>Midrash on Be-har</title></msItem><msItem n="173r"><locus from="173r" to="185v">173r-185v</locus><title>Midrash on Be-ḥuḳotai</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>187 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 2215</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_2215</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Midrash ha-gadol on Leviticus, attributed to David Adani.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="187v">1r-187v</locus>
+                     <title>Midrash ha-gadol  מדרש הגדול </title>
+                  </msItem>
+                  <msItem n="3r">
+                     <locus from="3r" to="31r">3r-31r</locus>
+                     <title>Midrash on Ṿa-yiḳra</title>
+                  </msItem>
+                  <msItem n="31r">
+                     <locus from="31r" to="48v">31r-48v</locus>
+                     <title>Midrash on Tsaṿ</title>
+                  </msItem>
+                  <msItem n="48v">
+                     <locus from="48v" to="69v">48v-69v</locus>
+                     <title>Midrash on Shemini</title>
+                  </msItem>
+                  <msItem n="69v">
+                     <locus from="69v" to="87r">69v-87r</locus>
+                     <title>Midrash on Tazri῾a</title>
+                  </msItem>
+                  <msItem n="87r">
+                     <locus from="87r" to="108v">87r-108v</locus>
+                     <title>Midrash on Metsora῾</title>
+                  </msItem>
+                  <msItem n="108v">
+                     <locus from="108v" to="127r">108v-127r</locus>
+                     <title>Midrash on Aḥare mot</title>
+                  </msItem>
+                  <msItem n="127r">
+                     <locus from="127r" to="138v">127r-138v</locus>
+                     <title>Midrash on Ḳedoshim</title>
+                  </msItem>
+                  <msItem n="138v">
+                     <locus from="138v" to="162v">138v-162v</locus>
+                     <title>Midrash on Emor</title>
+                  </msItem>
+                  <msItem n="162v">
+                     <locus from="162v" to="173r">162v-173r</locus>
+                     <title>Midrash on Be-har</title>
+                  </msItem>
+                  <msItem n="173r">
+                     <locus from="173r" to="185v">173r-185v</locus>
+                     <title>Midrash on Be-ḥuḳotai</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>187 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of mostly 8 leaves each. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 2;
                                                   ruled lines: 34;
-                                                  written lines: 34; Some marginal notes and additions. Hard-point ruling visible. Catchwords on every verso, partly preserved. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite semi-cursive script of early 17th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house. Spine title: 'Midrash Haggadol. Leviticus. Hebrew. Brit. Mus. Oriental 2215.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1601"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio [188v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 34; Some marginal notes and additions. Hard-point ruling visible. Catchwords on every verso, partly preserved. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite semi-cursive script of early 17th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house. Spine title: 'Midrash Haggadol. Leviticus. Hebrew. Brit. Mus. Oriental 2215.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1601"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Moses Wilhelm Shapira (b. 1830, d. 1884), a antiquities dealer of Jerusalem: purchased by the British Library from him on 13 December 1879, inscribed, folio [188v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

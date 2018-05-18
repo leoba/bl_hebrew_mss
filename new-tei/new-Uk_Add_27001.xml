@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Poetical texts.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Poetical texts.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27001: Poetical texts. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,103 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name, 1598 (folio 129v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), p. 61, and appendix § 62-74. Folios 1-2 are a later additions, giving the contents of five manuscripts of Moses Rieti's Miḳdash me῾at.
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Censored by Dominico Irosolomitano (active 1575-1624): inscribed with his name, 1598 (folio 129v); see William Popper, The Censorship of Hebrew Books (New York: KTAV Publishing House, 1969), p. 61, and appendix § 62-74. Folios 1-2 are a later additions, giving the contents of five manuscripts of Moses Rieti's Miḳdash me῾at.
 								Shelomoh Pogetto: inscribed, folio 3r.
-								Me᾿ir ben Shelomoh Luzzatto: inscribed with his name in a record of purchase of the manuscript from Shelomoh Pogetto, folio 3r.</note><note type="relatedResource">
+								Me᾿ir ben Shelomoh Luzzatto: inscribed with his name in a record of purchase of the manuscript from Shelomoh Pogetto, folio 3r.</note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27001</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27001</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Poetical texts.</summary><textLang mainLang="he" otherLangs="ita"/><msItem n="4r"><locus from="4r" to="7v">4r-7v</locus><title>Igeret ya῾ar ha-Levanon אגרת יער הלבנון</title></msItem><msItem n="8V"><locus from="8V" to="96v">8V-96v</locus><title>Miḳdash me῾at (olam ṿe-hekhal)  מקדש מעט (אולם והיכל)</title></msItem><msItem n="97r"><locus from="97r" to="104r">97r-104r</locus><title>Mi-segulot evare ba῾ale ḥayim מסגלות אברי בעלי חיים</title></msItem><msItem n="105r"><locus from="105r" to="139v">105r-139v</locus><title>Sefer ha-maskil ספר המשכיל</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>139 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27001</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27001</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Poetical texts.</summary>
+                  <textLang mainLang="he" otherLangs="ita">Hebrew, Italian</textLang>
+                  <msItem n="4r">
+                     <locus from="4r" to="7v">4r-7v</locus>
+                     <title>Igeret ya῾ar ha-Levanon אגרת יער הלבנון</title>
+                  </msItem>
+                  <msItem n="8V">
+                     <locus from="8V" to="96v">8V-96v</locus>
+                     <title>Miḳdash me῾at (olam ṿe-hekhal)  מקדש מעט (אולם והיכל)</title>
+                  </msItem>
+                  <msItem n="97r">
+                     <locus from="97r" to="104r">97r-104r</locus>
+                     <title>Mi-segulot evare ba῾ale ḥayim מסגלות אברי בעלי חיים</title>
+                  </msItem>
+                  <msItem n="105r">
+                     <locus from="105r" to="139v">105r-139v</locus>
+                     <title>Sefer ha-maskil ספר המשכיל</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>139 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Leaves individually guarded.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 2;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 2;
                                                   ruled lines: 32 37;
-                                                  written lines: 32 37; Non-uniform layout.Vertical hard-point ruling.First twenty-two pages are a later addition.Initials in larger script. Many marginal notes.Catchwords on most of the pages.A drawing of the sefirotic tree, folio 66v.Censor's erasures, folios 96v-97r, 102v-104r.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian cursive scripts of the 16th century. Shelomoh ben Shemuel of Rossina: inscribed in the colophon, folio 139v; Joseph Almanzi: inscribed on several folios, e.g., 4r.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine: 'Moses Rieti. Iggereth Ya'ar Hal-Lebhanon. Etc. Hebrew. Brit. Mus. Additional 27,001.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1584"/><origPlace>Italy, N. Asti Padua</origPlace></origin><provenance>Acquisition: 
-								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 112: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [140v] (fse001v).</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 32 37; Non-uniform layout.Vertical hard-point ruling.First twenty-two pages are a later addition.Initials in larger script. Many marginal notes.Catchwords on most of the pages.A drawing of the sefirotic tree, folio 66v.Censor's erasures, folios 96v-97r, 102v-104r.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian cursive scripts of the 16th century. Shelomoh ben Shemuel of Rossina: inscribed in the colophon, folio 139v; Joseph Almanzi: inscribed on several folios, e.g., 4r.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine: 'Moses Rieti. Iggereth Ya'ar Hal-Lebhanon. Etc. Hebrew. Brit. Mus. Additional 27,001.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1584"/>
+                     <origPlace>Italy, N. Asti Padua</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Giuseppe Almanzi (b. 1801, d. 1860), bibliophile; his manuscript no. 112: his library including 322 medieval Hebrew manuscripts were purchased en bloc by the British Museum in October 1865 for £1,000 through Asher &amp; Co., Berlin bookseller and dealer to the British Museum: inscribed, folio [140v] (fse001v).</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

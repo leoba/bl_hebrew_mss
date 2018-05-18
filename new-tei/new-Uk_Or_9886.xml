@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva, in two volumes.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva, in two volumes.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 9886: The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva, in two volumes. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Paper fixed in numerous places with silk gauze.</note><note>Missing, damaged parts are supplied by a later hand. His colophon is on folio 151v: נשלם תקון זה התאג’ .. שנת ב’ אלפים ומאה וארבעין שנין לשטרי במאתא כיואן .. והמתקן חתכי [=סאלם בא"ת ב"ש] בן כבוד אבא מנחם בן סעדיה.</note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Paper fixed in numerous places with silk gauze.</note>
+            <note>Missing, damaged parts are supplied by a later hand. His colophon is on folio 151v: נשלם תקון זה התאג’ .. שנת ב’ אלפים ומאה וארבעין שנין לשטרי במאתא כיואן .. והמתקן חתכי [=סאלם בא"ת ב"ש] בן כבוד אבא מנחם בן סעדיה.</note>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,40 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 9886</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_9886</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva, in two volumes.</summary><textLang mainLang="he"/><msItem n="1v"><locus from="1v" to="151">1v-151</locus><title>תורה Torah</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>151 folios
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 9886</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_9886</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Pentateuch, with vowel-points and accents, accompanied by masorah magna and parva, in two volumes.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1v">
+                     <locus from="1v" to="151">1v-151</locus>
+                     <title>תורה Torah</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>151 folios
                            
                            
                            
@@ -33,7 +94,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +104,49 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 20;
-                                                  written lines: 20; Uniform layout.Main text mostly in one column, surrounded with the masorah in the margin.Several leaves have been patched.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square script of the 15th century., punctuated Probably written by the same scribe as Oxford, Bodleian MS. Oppenheim Add. 4° 97a. The latter was written by Yosef ben Benayah in 1478 (colophon on folio 315v).</scriptNote></scriptDesc><decoDesc><decoNote>Masorah in a micrographical form.</decoNote></decoDesc><bindingDesc><binding><p> In-house, half-bound.  Spine: 'Pentateuch. Hebrew. II. Brit. Mus. Oriental 9886.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>חמדי, יוסף בן זכריה</provenance><provenance>Acquisition: 
+                                                  written lines: 20; Uniform layout.Main text mostly in one column, surrounded with the masorah in the margin.Several leaves have been patched.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square script of the 15th century., punctuated Probably written by the same scribe as Oxford, Bodleian MS. Oppenheim Add. 4° 97a. The latter was written by Yosef ben Benayah in 1478 (colophon on folio 315v).</scriptNote>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote>Masorah in a micrographical form.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> In-house, half-bound.  Spine: 'Pentateuch. Hebrew. II. Brit. Mus. Oriental 9886.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>חמדי, יוסף בן זכריה</provenance>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 325: inscribed with his name (folios 1r, 151v); purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [ii]v).              </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Moses Gaster  (b. 1856, d. 1939), scholar and rabbi: his manuscript, Cod. G. 325: inscribed with his name (folios 1r, 151v); purchased by the British Museum from him on 12 April, 1924: inscribed (back flyleaf [ii]v).              </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

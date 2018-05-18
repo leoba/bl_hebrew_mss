@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Sidur minhag Sefarad(סדור מנהג ספרד)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Sidur minhag Sefarad(סדור מנהג ספרד)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 5866: Sidur minhag Sefarad are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Usage stains.  Folios 197-199 have slight rodent damage. </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Usage stains.  Folios 197-199 have slight rodent damage. </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,88 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 5866</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5866</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A prayer book with services according to the Spanish rite.</summary><textLang mainLang="he" otherLangs="tmr-Hebr"/><msItem n="1r"><locus from="1r" to="350v">1r-350v</locus><title>Sidur minhag Sefarad סדור מנהג ספרד</title></msItem><msItem n="3v"><locus from="3v" to="22v">3v-22v</locus><title>Poetical pieces</title></msItem><msItem n="23r"><locus from="23r" to="71v">23r-71v</locus><title>Services for the week-days</title></msItem><msItem n="72r"><locus from="72r" to="89v">72r-89v</locus><title>Services for sabbath</title></msItem><msItem n="89v"><locus from="89v" to="128v">89v-128v</locus><title>Additional pieces for various occasions</title></msItem><msItem n="128v"><locus from="128v" to="181r">128v-181r</locus><title>Services for Pesaḥ</title></msItem><msItem n="181r"><locus from="181r" to="200r">181r-200r</locus><title>Services for Shavu῾ot</title></msItem><msItem n="200r"><locus from="200r" to="251r">200r-251r</locus><title>Services for fast-days</title></msItem><msItem n="251r"><locus from="251r" to="259v">251r-259v</locus><title>Tiḳun seliḥot le-lele ashmurot</title></msItem><msItem n="259v"><locus from="259v" to="275r">259v-275r</locus><title>Services for Rosh ha-shanah</title></msItem><msItem n="275r"><locus from="275r" to="310v">275r-310v</locus><title>Services for Yom kipur </title></msItem><msItem n="310v"><locus from="310v" to="343v">310v-343v</locus><title>Services for Sukot</title></msItem><msItem n="343v"><locus from="343v" to="350v">343v-350v</locus><title>Tiḳun berakhot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>350 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 5866</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5866</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A prayer book with services according to the Spanish rite.</summary>
+                  <textLang mainLang="he" otherLangs="tmr-Hebr">Hebrew, Jewish Babylonian Aramaic (ca. 200-1200 CE)</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="350v">1r-350v</locus>
+                     <title>Sidur minhag Sefarad סדור מנהג ספרד</title>
+                  </msItem>
+                  <msItem n="3v">
+                     <locus from="3v" to="22v">3v-22v</locus>
+                     <title>Poetical pieces</title>
+                  </msItem>
+                  <msItem n="23r">
+                     <locus from="23r" to="71v">23r-71v</locus>
+                     <title>Services for the week-days</title>
+                  </msItem>
+                  <msItem n="72r">
+                     <locus from="72r" to="89v">72r-89v</locus>
+                     <title>Services for sabbath</title>
+                  </msItem>
+                  <msItem n="89v">
+                     <locus from="89v" to="128v">89v-128v</locus>
+                     <title>Additional pieces for various occasions</title>
+                  </msItem>
+                  <msItem n="128v">
+                     <locus from="128v" to="181r">128v-181r</locus>
+                     <title>Services for Pesaḥ</title>
+                  </msItem>
+                  <msItem n="181r">
+                     <locus from="181r" to="200r">181r-200r</locus>
+                     <title>Services for Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="200r">
+                     <locus from="200r" to="251r">200r-251r</locus>
+                     <title>Services for fast-days</title>
+                  </msItem>
+                  <msItem n="251r">
+                     <locus from="251r" to="259v">251r-259v</locus>
+                     <title>Tiḳun seliḥot le-lele ashmurot</title>
+                  </msItem>
+                  <msItem n="259v">
+                     <locus from="259v" to="275r">259v-275r</locus>
+                     <title>Services for Rosh ha-shanah</title>
+                  </msItem>
+                  <msItem n="275r">
+                     <locus from="275r" to="310v">275r-310v</locus>
+                     <title>Services for Yom kipur </title>
+                  </msItem>
+                  <msItem n="310v">
+                     <locus from="310v" to="343v">310v-343v</locus>
+                     <title>Services for Sukot</title>
+                  </msItem>
+                  <msItem n="343v">
+                     <locus from="343v" to="350v">343v-350v</locus>
+                     <title>Tiḳun berakhot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>350 folios 
                            
                            
                            
@@ -33,7 +142,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -41,10 +152,46 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 18;
-                                                  written lines: 18; Uniform layout. Visible complete ruling by hard point.Initial words written in larger square characters. Hair side and flesh side of the folios distinguishable. Sections marked in the margins. Additional marginal notes. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Sefardi square script, punctuated, of the 15th century.</scriptNote></scriptDesc><bindingDesc><binding><p> Post-1600, morocco binding, blind-tooled. Spine: 'Prayer Book. Spanish Rite. Hebr. Brit. Mus. Or. 5866.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/></origin><provenance>Shelomoh Bekhor</provenance><provenance>Acquisition: 
+                                                  written lines: 18; Uniform layout. Visible complete ruling by hard point.Initial words written in larger square characters. Hair side and flesh side of the folios distinguishable. Sections marked in the margins. Additional marginal notes. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Sefardi square script, punctuated, of the 15th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post-1600, morocco binding, blind-tooled. Spine: 'Prayer Book. Spanish Rite. Hebr. Brit. Mus. Or. 5866.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                  </origin>
+                  <provenance>Shelomoh Bekhor</provenance>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        J.J. Naaman: purchased from him on 13 November 1900: inscribed, folio [354v]. </provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        J.J. Naaman: purchased from him on 13 November 1900: inscribed, folio [354v]. </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Midrash  (מדרש)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Midrash  (מדרש)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Or 1422: Midrash   are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,16 +39,108 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Imperfect at the end.  Slightly water-damaged. </note><note>
-								Se'adyah ben Shelomoh: probably a compiler of this manuscript: inscribed, folio 61r. The Judeo-Arabic sentence at the end of Deuteronomy, folio 189v, implies that the author had employed a copyist. </note><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Imperfect at the end.  Slightly water-damaged. </note>
+            <note>
+								Se'adyah ben Shelomoh: probably a compiler of this manuscript: inscribed, folio 61r. The Judeo-Arabic sentence at the end of Deuteronomy, folio 189v, implies that the author had employed a copyist. </note>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Or 1422</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1422</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>Midrashim in Hebrew and Arabic on Leviticus, Numbers and Deuteronomy, followed by a short midrashic commentary on the Hafṭarot. </summary><textLang mainLang="he" otherLangs="ara"/><msItem n="1r"><locus from="1r" to="206v">1r-206v</locus><title>Midrash   מדרש  </title></msItem><msItem n="1v"><locus from="1v" to="61r">1v-61r</locus><title>Midrash on Ṿa-yiḳra</title></msItem><msItem n="61v"><locus from="61v" to="104v">61v-104v</locus><title>Midrash on Be-midbar</title></msItem><msItem n="104v"><locus from="104v" to="190v">104v-190v</locus><title>Midrash on Devarim</title></msItem><msItem n="190v"><locus from="190v" to="206v">190v-206v</locus><title>Midrash on Hafṭarot</title></msItem></msContents><physDesc><objectDesc><supportDesc material="paper"><support><p>Paper</p></support><extent>206 folios
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Or 1422</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_1422</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Midrashim in Hebrew and Arabic on Leviticus, Numbers and Deuteronomy, followed by a short midrashic commentary on the Hafṭarot. </summary>
+                  <textLang mainLang="he" otherLangs="ara">Hebrew, Arabic</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="206v">1r-206v</locus>
+                     <title>Midrash   מדרש  </title>
+                  </msItem>
+                  <msItem n="1v">
+                     <locus from="1v" to="61r">1v-61r</locus>
+                     <title>Midrash on Ṿa-yiḳra</title>
+                  </msItem>
+                  <msItem n="61v">
+                     <locus from="61v" to="104v">61v-104v</locus>
+                     <title>Midrash on Be-midbar</title>
+                  </msItem>
+                  <msItem n="104v">
+                     <locus from="104v" to="190v">104v-190v</locus>
+                     <title>Midrash on Devarim</title>
+                  </msItem>
+                  <msItem n="190v">
+                     <locus from="190v" to="206v">190v-206v</locus>
+                     <title>Midrash on Hafṭarot</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper</p>
+                        </support>
+                        <extent>206 folios
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									19 quires of 10 leaves each, 1 quire (no. 20) of 8 leaves, and 1 quire (no. 21) of 7 leaves - defective, plus a detached leaf at the end. 
 									Signed with Hebrew letters at the beginning and at the end of quires. 
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 34;
-                                                  written lines: 34; Catchwords on every verso. Titles written in larger characters. </p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Yemenite square script of 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM/BL in-house.  Spine title: 'Midrash. Hebrew. Brit. Mus. Oriental 1422.' </p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1600" notAfter="1699"/><origPlace>Yemen</origPlace></origin><provenance>Acquisition: 
-								Fischl Hirsch: purchased by the British Library from him on 12 January 1877: inscribed, folio [208v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 34; Catchwords on every verso. Titles written in larger characters. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Yemenite square script of 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM/BL in-house.  Spine title: 'Midrash. Hebrew. Brit. Mus. Oriental 1422.' </p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1600" notAfter="1699"/>
+                     <origPlace>Yemen</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Fischl Hirsch: purchased by the British Library from him on 12 January 1877: inscribed, folio [208v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

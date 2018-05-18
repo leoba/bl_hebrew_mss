@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A miscellany.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A miscellany.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 27213: A miscellany. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,7 +39,13 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Stained. Stained. Slightly worm-eaten. Stained. Folio previously folded in 2. Previously folded.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Stained. Stained. Slightly worm-eaten. Stained. Folio previously folded in 2. Previously folded.</note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -24,8 +53,72 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 27213</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27213</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A miscellany.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="42v">1r-42v</locus><title>Miscellany קובץ</title></msItem><msItem n="1r"><locus from="1r" to="4v">1r-4v</locus><title>Ḥidah  חידה </title></msItem><msItem n="5r"><locus from="5r" to="6v">5r-6v</locus><title>Maḥzor minhag Roma le-Rosh ha-Shanah  מחזור מנהג רומא לראש השנה</title></msItem><msItem n="7r"><locus from="7r" to="36v">7r-36v</locus><title>Zohar ḥadash  זהר חדש </title></msItem><msItem n="37r"><locus from="37r" to="37v">37r-37v</locus><title>Ḥibur bi-refu᾿ah (fragment)  חבור ברפואה</title></msItem><msItem n="38r"><locus from="38r" to="39v">38r-39v</locus><title>Maḥzor ha-moladot  מחזור המולדות </title></msItem><msItem n="40r"><locus from="40r" to="40v">40r-40v</locus><title>Shirim  שירים </title></msItem><msItem n="41r"><locus from="41r" to="42v">41r-42v</locus><title>Shir  שיר </title></msItem><msItem n="42r"><locus from="42r" to="42v">42r-42v</locus><title>Teshuvah be-῾inyan birkat kohanim  תשובה בענין ברכת כהנים </title></msItem></msContents><physDesc><objectDesc><supportDesc material="mixed"><support><p>Mixed</p></support><extent>42 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 27213</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_27213</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A miscellany.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="42v">1r-42v</locus>
+                     <title>Miscellany קובץ</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="4v">1r-4v</locus>
+                     <title>Ḥidah  חידה </title>
+                  </msItem>
+                  <msItem n="5r">
+                     <locus from="5r" to="6v">5r-6v</locus>
+                     <title>Maḥzor minhag Roma le-Rosh ha-Shanah  מחזור מנהג רומא לראש השנה</title>
+                  </msItem>
+                  <msItem n="7r">
+                     <locus from="7r" to="36v">7r-36v</locus>
+                     <title>Zohar ḥadash  זהר חדש </title>
+                  </msItem>
+                  <msItem n="37r">
+                     <locus from="37r" to="37v">37r-37v</locus>
+                     <title>Ḥibur bi-refu᾿ah (fragment)  חבור ברפואה</title>
+                  </msItem>
+                  <msItem n="38r">
+                     <locus from="38r" to="39v">38r-39v</locus>
+                     <title>Maḥzor ha-moladot  מחזור המולדות </title>
+                  </msItem>
+                  <msItem n="40r">
+                     <locus from="40r" to="40v">40r-40v</locus>
+                     <title>Shirim  שירים </title>
+                  </msItem>
+                  <msItem n="41r">
+                     <locus from="41r" to="42v">41r-42v</locus>
+                     <title>Shir  שיר </title>
+                  </msItem>
+                  <msItem n="42r">
+                     <locus from="42r" to="42v">42r-42v</locus>
+                     <title>Teshuvah be-῾inyan birkat kohanim  תשובה בענין ברכת כהנים </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="mixed">
+                        <support>
+                           <p>Mixed</p>
+                        </support>
+                        <extent>42 folios 
                            
                            
                            
@@ -97,7 +190,10 @@
                            
                            
                            
-                           </extent><foliation>Bound with Add MS 27212.</foliation><collation><p>
+                           </extent>
+                        <foliation>Bound with Add MS 27212.</foliation>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -105,10 +201,45 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 4 1 2 1 1 2 1 1;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 4 1 2 1 1 2 1 1;
                                                   ruled lines: 13 46 29 27 28 19 22 29 32 13 32;
-                                                  written lines: 13 46 29 27 28 19 22 29 32 13 32; Irregular number of columns and lines to a page.Several erasures.Side and lower margin partly folded.Visible hard-point ruling.Catchwords on every verso.Initials in larger characters.Watermark of a cross with a crown enclosed in a circle, with initial BV underneath.Regular layout, with a catchword on verso.Initial words in larger square characters.Catchwords on versos.Text divided into two columns, and each column into 4 verse stophes.One catchword preserved on folio 40r.Irregular layout.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian and Hebrew cursive of the 17th or 18th century. Italian semi-cursive script, partly punctuated, of the 15th century. Italian cursive script of the 16th century. Sefardi semi-cursive and square script of the 16th century. Sefardi (Oriental?) semi-cursive script of the 16th century. Italian cursive of the 18th century. Sefardi (Oriental?) semi-cursive script of the 17th century. Sefardi (Oriental?) semi-cursive script of the 16th to 17th century.</scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house. Spine title: 'Hebrew Fragments. Brit. Mus. Additional 27,212. 27,213.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1799"/></origin><provenance>Acquisition: 
+                                                  written lines: 13 46 29 27 28 19 22 29 32 13 32; Irregular number of columns and lines to a page.Several erasures.Side and lower margin partly folded.Visible hard-point ruling.Catchwords on every verso.Initials in larger characters.Watermark of a cross with a crown enclosed in a circle, with initial BV underneath.Regular layout, with a catchword on verso.Initial words in larger square characters.Catchwords on versos.Text divided into two columns, and each column into 4 verse stophes.One catchword preserved on folio 40r.Irregular layout.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian and Hebrew cursive of the 17th or 18th century. Italian semi-cursive script, partly punctuated, of the 15th century. Italian cursive script of the 16th century. Sefardi semi-cursive and square script of the 16th century. Sefardi (Oriental?) semi-cursive script of the 16th century. Italian cursive of the 18th century. Sefardi (Oriental?) semi-cursive script of the 17th century. Sefardi (Oriental?) semi-cursive script of the 16th to 17th century.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house. Spine title: 'Hebrew Fragments. Brit. Mus. Additional 27,212. 27,213.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1799"/>
+                  </origin>
+                  <provenance>Acquisition: 
                         
                         
                         
-                        Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: 322 Hebrew manuscripts were acquired from his library in October 1865 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [43v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                        Giuseppe Almanzi (b. 1801, d. 1860), Italian bibliophile: 322 Hebrew manuscripts were acquired from his library in October 1865 through Asher &amp; Co., Berlin dealer to the British Museum (see 131-153): inscribed, [43v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

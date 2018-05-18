@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of Maḥzor(מחזור)</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of Maḥzor(מחזור)</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Add MS 18229: Maḥzor are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,14 +39,154 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>First three leaves much stained.</note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>First three leaves much stained.</note>
+            <note/>
+            <note type="relatedResource">
 								Manuscript description based on Margoliouth, G.: Catalogue of the Hebrew and Samaritan Manuscripts in the British Museum, London 1965.
-							</note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Add MS 18229</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18229</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A festival prayer book.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="315v">1r-315v</locus><title>Maḥzor מחזור</title></msItem><msItem n="1r"><locus from="1r" to="14r">1r-14r</locus><title>Services for the week-days</title></msItem><msItem n="14r"><locus from="14r" to="26v">14r-26v</locus><title>'Inyan Shabat</title></msItem><msItem n="26v"><locus from="26v" to="30v">26v-30v</locus><title>'Inyan Rosh ḥodesh</title></msItem><msItem n="30v"><locus from="30v" to="35v">30v-35v</locus><title>'Inyan Ḥanukah</title></msItem><msItem n="35v"><locus from="35v" to="46v">35v-46v</locus><title>῾Asarah be-ṭevet</title></msItem><msItem n="46v"><locus from="46v" to="52r">46v-52r</locus><title>Arba῾ah parashiyot</title></msItem><msItem n="52r"><locus from="52r" to="59v">52r-59v</locus><title>Tsom Ester ṿe-Purim</title></msItem><msItem n="59v"><locus from="59v" to="104v">59v-104v</locus><title>Services for Shabat ha-gadol and Pesaḥ</title></msItem><msItem n="104v"><locus from="104v" to="131v">104v-131v</locus><title>'Inyan Shavu῾ot</title></msItem><msItem n="131v"><locus from="131v" to="138v">131v-138v</locus><title>Shiv῾ah ῾asar be-tamuz</title></msItem><msItem n="138v"><locus from="138v" to="164r">138v-164r</locus><title>Tish῾ah be-av</title></msItem><msItem n="164r"><locus from="164r" to="176r">164r-176r</locus><title>῾Aseret yeme teshuvah</title></msItem><msItem n="176r"><locus from="176r" to="194r">176r-194r</locus><title>'Inyan  Rosh ha-Shanah</title></msItem><msItem n="194r"><locus from="194r" to="287v">194r-287v</locus><title>Seder Yom Kipur</title></msItem><msItem n="287v"><locus from="287v" to="314r">287v-314r</locus><title>'Inyan Sukot</title></msItem><msItem n="314v"><locus from="314v" to="315v">314v-315v</locus><title>Table of contents</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>315 folios 
+							</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Add MS 18229</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_18229</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A festival prayer book.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="315v">1r-315v</locus>
+                     <title>Maḥzor מחזור</title>
+                  </msItem>
+                  <msItem n="1r">
+                     <locus from="1r" to="14r">1r-14r</locus>
+                     <title>Services for the week-days</title>
+                  </msItem>
+                  <msItem n="14r">
+                     <locus from="14r" to="26v">14r-26v</locus>
+                     <title>'Inyan Shabat</title>
+                  </msItem>
+                  <msItem n="26v">
+                     <locus from="26v" to="30v">26v-30v</locus>
+                     <title>'Inyan Rosh ḥodesh</title>
+                  </msItem>
+                  <msItem n="30v">
+                     <locus from="30v" to="35v">30v-35v</locus>
+                     <title>'Inyan Ḥanukah</title>
+                  </msItem>
+                  <msItem n="35v">
+                     <locus from="35v" to="46v">35v-46v</locus>
+                     <title>῾Asarah be-ṭevet</title>
+                  </msItem>
+                  <msItem n="46v">
+                     <locus from="46v" to="52r">46v-52r</locus>
+                     <title>Arba῾ah parashiyot</title>
+                  </msItem>
+                  <msItem n="52r">
+                     <locus from="52r" to="59v">52r-59v</locus>
+                     <title>Tsom Ester ṿe-Purim</title>
+                  </msItem>
+                  <msItem n="59v">
+                     <locus from="59v" to="104v">59v-104v</locus>
+                     <title>Services for Shabat ha-gadol and Pesaḥ</title>
+                  </msItem>
+                  <msItem n="104v">
+                     <locus from="104v" to="131v">104v-131v</locus>
+                     <title>'Inyan Shavu῾ot</title>
+                  </msItem>
+                  <msItem n="131v">
+                     <locus from="131v" to="138v">131v-138v</locus>
+                     <title>Shiv῾ah ῾asar be-tamuz</title>
+                  </msItem>
+                  <msItem n="138v">
+                     <locus from="138v" to="164r">138v-164r</locus>
+                     <title>Tish῾ah be-av</title>
+                  </msItem>
+                  <msItem n="164r">
+                     <locus from="164r" to="176r">164r-176r</locus>
+                     <title>῾Aseret yeme teshuvah</title>
+                  </msItem>
+                  <msItem n="176r">
+                     <locus from="176r" to="194r">176r-194r</locus>
+                     <title>'Inyan  Rosh ha-Shanah</title>
+                  </msItem>
+                  <msItem n="194r">
+                     <locus from="194r" to="287v">194r-287v</locus>
+                     <title>Seder Yom Kipur</title>
+                  </msItem>
+                  <msItem n="287v">
+                     <locus from="287v" to="314r">287v-314r</locus>
+                     <title>'Inyan Sukot</title>
+                  </msItem>
+                  <msItem n="314v">
+                     <locus from="314v" to="315v">314v-315v</locus>
+                     <title>Table of contents</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>315 folios 
 									
-								</extent><collation><p>
+								</extent>
+                        <collation>
+                           <p>
 									Quires of originally 8 and 10 leaves each, marked with catchwords at the end.
-								</p></collation></supportDesc><layoutDesc><layout><p>Columns: 1;
+								</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1;
                                                   ruled lines: 29;
-                                                  written lines: 29; Uniform layout.Visible hard-point and ink ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Italian square and semi-cursive script of the 15th century. Punctuated.</scriptNote></scriptDesc><bindingDesc><binding><p> Post 1600. Black leather. Spine: 'Mahzor. Roman Rite. Hebrew. Brit. Mus. Additional MS. 18,229.'</p></binding></bindingDesc></physDesc><history><origin><origDate notBefore="1400" notAfter="1499"/><origPlace>Italy</origPlace></origin><provenance>Acquisition: 
-								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153): inscribed, [316v].</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                                  written lines: 29; Uniform layout.Visible hard-point and ink ruling.Initial words written in larger characters.Hair side and flesh side are distinguishable.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Italian square and semi-cursive script of the 15th century. Punctuated.</scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> Post 1600. Black leather. Spine: 'Mahzor. Roman Rite. Hebrew. Brit. Mus. Additional MS. 18,229.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1400" notAfter="1499"/>
+                     <origPlace>Italy</origPlace>
+                  </origin>
+                  <provenance>Acquisition: 
+								Adolphus Asher (b. 1800, d. 1853), Berlin bookseller and dealer to the British Museum (see 131-153): inscribed, [316v].</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>

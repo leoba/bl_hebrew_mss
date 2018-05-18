@@ -1,8 +1,31 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Description of A dictionary, with additional commentaries.</title><respStmt><resp>cataloger</resp><persName>Ilana Tahan</persName></respStmt><respStmt><resp>submitter</resp><persName>Agata Paluch</persName></respStmt><respStmt><resp>converted to OPenn TEI format</resp><orgName>Schoenberg Institute for Manuscript Studies</orgName></respStmt><funder>The Polonsky Foundation</funder></titleStmt><publicationStmt><publisher>The British Library</publisher><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Description of A dictionary, with additional commentaries.</title>
+            <respStmt>
+               <resp>cataloger</resp>
+               <persName>Ilana Tahan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>submitter</resp>
+               <persName>Agata Paluch</persName>
+            </respStmt>
+            <respStmt>
+               <resp>converted to OPenn TEI format</resp>
+               <orgName>Schoenberg Institute for Manuscript Studies</orgName>
+            </respStmt>
+            <funder>The Polonsky Foundation</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The British Library</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This metadata, accompanying images, and the content of
                                         London, British Library, Oriental Manuscripts Arundel Or 51: A dictionary, with additional commentaries. are free of known
                                         copyright restrictions and in the public domain. See the
                                         Creative Commons Zero 1.0 Universal page for usage details,
-                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence><licence target="https://www.bl.uk/help/ethical-terms-of-use">
+                                        https://creativecommons.org/publicdomain/zero/1.0/.</licence>
+               <licence target="https://www.bl.uk/help/ethical-terms-of-use">
                                         The [British] Library respects the intellectual property
                                         rights, including moral rights, of rights holders and makes
                                         all reasonable effort to contact and consult rights owners,
@@ -16,8 +39,14 @@
                                         collections should not be altered or used in ways that might
                                         be derogatory to the originating individuals or communities.
                                         (Please follow the link for the complete text of the BL
-                                        Ethical Terms of Use)</licence></availability></publicationStmt><notesStmt><note>Defective at the end. Lacuna after folio 160.
-                                    </note><note/><note type="relatedResource">
+                                        Ethical Terms of Use)</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Defective at the end. Lacuna after folio 160.
+                                    </note>
+            <note/>
+            <note type="relatedResource">
                         
                         
                         
@@ -27,9 +56,53 @@
                      
                      
                      
-                     </note></notesStmt><sourceDesc><msDesc><msIdentifier><country>United Kingdom</country><settlement>London</settlement><institution>British Library</institution><repository>Oriental Manuscripts</repository><collection>Hebrew Manuscripts Digitisation
-                                            Project</collection><idno type="call-number">Arundel Or 51</idno><altIdentifier type="resource"><idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_Or_51</idno></altIdentifier><altIdentifier type="bl_website"><idno>https://www.bl.uk/hebrew-manuscripts</idno></altIdentifier></msIdentifier><msContents><summary>A dictionary, with additional commentaries.</summary><textLang mainLang="he"/><msItem n="1r"><locus from="1r" to="160v">1r-160v</locus><title>Maḥberet Menaḥem מחברת מנחם</title></msItem><msItem n="161r"><locus from="161r" to="163v">161r-163v</locus><title>Igeret Sherira Ga᾿on אגרת שרירא גאון</title></msItem><msItem n="163v"><locus from="163v" to="166v">163v-166v</locus><title>Seder tana᾿im ṿe-amora᾿im סדר תנאים ואמוראים (קטעים)</title></msItem><msItem n="167v"><locus from="167v" to="207v">167v-207v</locus><title>Teshuvot Dunash ben Labraṭ ῾al Maḥberet
-                                Menaḥem תשובות דונש על מחברת מנחם</title></msItem></msContents><physDesc><objectDesc><supportDesc material="parchment"><support><p>Parchment</p></support><extent>207 folios 
+                     </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <repository>Oriental Manuscripts</repository>
+                  <collection>Hebrew Manuscripts Digitisation
+                                            Project</collection>
+                  <idno type="call-number">Arundel Or 51</idno>
+                  <altIdentifier type="resource">
+                     <idno>http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_Or_51</idno>
+                  </altIdentifier>
+                  <altIdentifier type="bl_website">
+                     <idno>https://www.bl.uk/hebrew-manuscripts</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A dictionary, with additional commentaries.</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  <msItem n="1r">
+                     <locus from="1r" to="160v">1r-160v</locus>
+                     <title>Maḥberet Menaḥem מחברת מנחם</title>
+                  </msItem>
+                  <msItem n="161r">
+                     <locus from="161r" to="163v">161r-163v</locus>
+                     <title>Igeret Sherira Ga᾿on אגרת שרירא גאון</title>
+                  </msItem>
+                  <msItem n="163v">
+                     <locus from="163v" to="166v">163v-166v</locus>
+                     <title>Seder tana᾿im ṿe-amora᾿im סדר תנאים ואמוראים (קטעים)</title>
+                  </msItem>
+                  <msItem n="167v">
+                     <locus from="167v" to="207v">167v-207v</locus>
+                     <title>Teshuvot Dunash ben Labraṭ ῾al Maḥberet
+                                Menaḥem תשובות דונש על מחברת מנחם</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="parchment">
+                        <support>
+                           <p>Parchment</p>
+                        </support>
+                        <extent>207 folios 
                            
                            
                            
@@ -37,7 +110,9 @@
                         
                         
                         
-                        </extent><collation><p>
+                        </extent>
+                        <collation>
+                           <p>
                            
                            
                            
@@ -46,7 +121,12 @@
                         
                         
                         
-                        </p></collation></supportDesc><layoutDesc><layout><p>Columns: 1 ;
+                        </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>Columns: 1 ;
                                                   ruled lines: 24;
                                                   written lines: 24; Uniform
                                         layout. Hair side and flesh side of folios
@@ -58,7 +138,39 @@
                                         infra-linear vocalization. Last written line within
                                         ruling. Initial words, headings and parts of text in
                                         larger square characters. Marginal
-                                    notes.</p></layout></layoutDesc></objectDesc><scriptDesc><scriptNote>Ashkenazi (French) square script of the 12th century. </scriptNote></scriptDesc><bindingDesc><binding><p> BM in-house.  Spine title: 'Menachem ben Saruk. Machbereth. Hebrew. Arund. Or.
-                                    51.'</p></binding></bindingDesc></physDesc><history><origin><origDate when="1189"/></origin><provenance>Yedidyah bar Mosheh</provenance><provenance>Thomas Howard</provenance><provenance>Acquisition: Purchased by the British Museum from the
+                                    notes.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <scriptNote>Ashkenazi (French) square script of the 12th century. </scriptNote>
+                  </scriptDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p> BM in-house.  Spine title: 'Menachem ben Saruk. Machbereth. Hebrew. Arund. Or.
+                                    51.'</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1189"/>
+                  </origin>
+                  <provenance>Yedidyah bar Mosheh</provenance>
+                  <provenance>Thomas Howard</provenance>
+                  <provenance>Acquisition: Purchased by the British Museum from the
                                 Royal Society together with 549 other Arundel manuscripts in
-                                1831.</provenance></history></msDesc></sourceDesc></fileDesc></teiHeader><facsimile><surface n="78v" xml:id="surface-lewis-e-206-164"><graphic height="4412px" url="master/5506_0163.tif" width="3590px"/><graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/><graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/></surface></facsimile></TEI>
+                                1831.</provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface n="78v" xml:id="surface-lewis-e-206-164">
+         <graphic height="4412px" url="master/5506_0163.tif" width="3590px"/>
+         <graphic height="190px" url="thumb/5506_0163_thumb.jpg" width="154px"/>
+         <graphic height="1800px" url="web/5506_0163_web.jpg" width="1464px"/>
+      </surface>
+   </facsimile>
+</TEI>
