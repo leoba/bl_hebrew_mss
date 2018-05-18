@@ -6,7 +6,11 @@
     xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:html="http://www.w3.org/TR/REC-html40"
     version="2.0">
-    <xsl:output omit-xml-declaration="yes"/>
+    <!-- DE - 2018-05-18 - indent lines to aid inspection of textLang element -->
+    <xsl:output omit-xml-declaration="yes" indent="yes"/>
+
+    <!--  DE - 2018-05-18 - import the templates for working with language codes -->
+    <xsl:include href="named_templates.xsl"/>
 
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -18,8 +22,34 @@
                 Uk_Or_1024_20160523_144621.xml don't map so to make the output valid you need to add
                 them (it is a paper ms)</xd:p>
         </xd:desc>
+        <xd:desc>
+            <xd:p><xd:b>Update on:</xd:b>May 18, 2018</xd:p>
+            <xd:p><xd:b>Author:</xd:b> Doug Emery</xd:p>
+            <xd:p>Use language names in textLang element; prefer text provided if present in BL TEI;
+              otherwise, pull the value based on the code. First, check the IANA Language Subtag
+              Registry:
+              https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+              If the language code is not found there, look at the ISO 639-2 three-letter codes:
+              https://www.loc.gov/standards/iso639-2/php/code_list.php
+            </xd:p>
+            <xd:p>
+              Where script modifiers have been used, like 'tmr-Hebr' for Aramaic in Hebrew script,
+              only the language code has been used.
+            </xd:p>
+            <xd:p>
+              I'm not sure what method the BL used for language codes, but it looks inconsistent.
+              The TEI guidelines recommend using the IANA registry
+              (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/CH.html#CHSH), and for the most
+              part the language codes follow this pattern:
+                  &lt;textLang mainLang="he" otherLangs="yi-Hebr de"&gt;
+              Here the IANA codes are used. These are are predominately twoletters: 'he', 'yi', and
+              'de' for Hebrew, Yiddish, and German, with 'Hebr' used to indicate the script. However,
+              sometimes a three-letter code is used: 'ger' and 'per' for German and Persian, instead
+              of the IANA 'de' and 'fa'. In these cases, rather than convert to IANA, I pull
+              the code from the ISO 639-2 list.
+            </xd:p>
+        </xd:desc>
     </xd:doc>
-
     <xsl:template match="/">
         <!-- process this file against the empty.xml and it will grab all the BL TEI in the "metadata" directory -->
         <xsl:for-each select="collection(iri-to-uri('metadata/?select=*.xml;recurse=yes'))">
@@ -198,6 +228,12 @@
                                             <xsl:otherwise>empty</xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:variable>
+                                    <!-- DE - 2018-05-18 - parse the textLang element to get the language names -->
+                                    <xsl:variable name="langNames">
+                                      <xsl:call-template name="getLangNames">
+                                        <xsl:with-param name="langElement" select="//tei:msDesc/tei:msContents/tei:textLang"/>
+                                      </xsl:call-template>
+                                    </xsl:variable>
 
 
 
@@ -210,6 +246,7 @@
                                                 <xsl:attribute name="otherLangs" select="$otherLang"
                                                 />
                                             </xsl:if>
+                                            <xsl:value-of select="$langNames"/>
                                         </textLang>
                                         <!-- Building msItems -->
                                         <!-- We pull in msItems from across the manuscript, ignoring msPart -->
